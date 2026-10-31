@@ -1,0 +1,212 @@
+[
+ {
+  "value": "$1.4 trillion",
+  "claim": "Annual unplanned downtime losses at the world's 500 biggest companies",
+  "source": "The True Cost of Downtime 2024 — Siemens",
+  "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:1b43afb5-2d07-47f7-9eb7-893fe7d0bc59/TCOD-2024_original.pdf"
+ },
+ {
+  "value": "11%",
+  "claim": "Downtime losses equal 11% of revenues of the world's 500 biggest companies",
+  "source": "The True Cost of Downtime 2024 — Siemens",
+  "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:1b43afb5-2d07-47f7-9eb7-893fe7d0bc59/TCOD-2024_original.pdf"
+ },
+ {
+  "value": "6%",
+  "claim": "Fortune Global 500 downtime losses fell 6% since 2022",
+  "source": "The True Cost of Downtime 2024 — Siemens",
+  "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:1b43afb5-2d07-47f7-9eb7-893fe7d0bc59/TCOD-2024_original.pdf"
+ },
+ {
+  "value": "$2.3 million",
+  "claim": "Cost of one hour of downtime in automotive",
+  "source": "The True Cost of Downtime 2024 — Siemens",
+  "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:1b43afb5-2d07-47f7-9eb7-893fe7d0bc59/TCOD-2024_original.pdf"
+ },
+ {
+  "value": "$36,000",
+  "claim": "Low-end cost per hour of downtime in FMCG",
+  "source": "The True Cost of Downtime 2024 — Siemens",
+  "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:1b43afb5-2d07-47f7-9eb7-893fe7d0bc59/TCOD-2024_original.pdf"
+ },
+ {
+  "value": "41%",
+  "claim": "Downtime incidents per facility per month fell 41% (42 to 25) vs 2019",
+  "source": "The True Cost of Downtime 2024 — Siemens",
+  "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:1b43afb5-2d07-47f7-9eb7-893fe7d0bc59/TCOD-2024_original.pdf"
+ },
+ {
+  "value": "88%",
+  "claim": "Indian businesses experiencing unplanned outages at least once a month",
+  "source": "ABB survey: unplanned downtime costs INR 7 million per hour — EPC World, 2023",
+  "url": "https://www.epcworld.in/abb-survey-reveals-unplanned-downtime-costs-inr-7-million-per-hour/"
+ },
+ {
+  "value": "69%",
+  "claim": "Global share experiencing monthly unplanned outages",
+  "source": "ABB survey: unplanned downtime costs INR 7 million per hour — EPC World, 2023",
+  "url": "https://www.epcworld.in/abb-survey-reveals-unplanned-downtime-costs-inr-7-million-per-hour/"
+ },
+ {
+  "value": "19%",
+  "claim": "Indian businesses still relying on run-to-fail maintenance",
+  "source": "ABB survey: unplanned downtime costs INR 7 million per hour — EPC World, 2023",
+  "url": "https://www.epcworld.in/abb-survey-reveals-unplanned-downtime-costs-inr-7-million-per-hour/"
+ },
+ {
+  "value": "10.3 million",
+  "claim": "Global hourly cost of unplanned downtime, INR 10.3 million",
+  "source": "ABB survey: unplanned downtime costs INR 7 million per hour — EPC World, 2023",
+  "url": "https://www.epcworld.in/abb-survey-reveals-unplanned-downtime-costs-inr-7-million-per-hour/"
+ },
+ {
+  "value": "₹70 lakh",
+  "claim": "Cost of an unplanned outage to a typical Indian business per hour (nearly Rs 70 lakh)",
+  "source": "AI-based predictive maintenance and India's manufacturing GDP — ANI via Asianet Newsable, 2026",
+  "url": "https://newsable.asianetnews.com/business/ai-based-predictive-maintenance-can-unlock-1-gdp-growth-for-india-articleshow-to8uhq0"
+ },
+ {
+  "value": "85 billion",
+  "claim": "Lower end of NITI Aayog estimate of AI's added value to Indian manufacturing by 2035 (USD 85-100 billion)",
+  "source": "AI-based predictive maintenance and India's manufacturing GDP — ANI via Asianet Newsable, 2026",
+  "url": "https://newsable.asianetnews.com/business/ai-based-predictive-maintenance-can-unlock-1-gdp-growth-for-india-articleshow-to8uhq0"
+ },
+ {
+  "value": "100 billion",
+  "claim": "Upper end of NITI Aayog estimate of AI's added value to Indian manufacturing by 2035",
+  "source": "AI-based predictive maintenance and India's manufacturing GDP — ANI via Asianet Newsable, 2026",
+  "url": "https://newsable.asianetnews.com/business/ai-based-predictive-maintenance-can-unlock-1-gdp-growth-for-india-articleshow-to8uhq0"
+ },
+ {
+  "value": "25%",
+  "claim": "Deloitte: PdM increases productivity by 25% and lowers maintenance costs by 25% on average",
+  "source": "Predictive Maintenance Position Paper — Deloitte Analytics Institute, 2017",
+  "url": "https://www.deloitte.com/content/dam/assets-zone2/de/de/docs/about/2024/Deloitte_Predictive-Maintenance_PositionPaper.pdf"
+ },
+ {
+  "value": "70%",
+  "claim": "Deloitte: PdM reduces breakdowns by 70% on average",
+  "source": "Predictive Maintenance Position Paper — Deloitte Analytics Institute, 2017",
+  "url": "https://www.deloitte.com/content/dam/assets-zone2/de/de/docs/about/2024/Deloitte_Predictive-Maintenance_PositionPaper.pdf"
+ },
+ {
+  "value": "10%",
+  "claim": "Deloitte: uptime +10 to 20%; maintenance costs -5 to 10%",
+  "source": "Predictive Maintenance Position Paper — Deloitte Analytics Institute, 2017",
+  "url": "https://www.deloitte.com/content/dam/assets-zone2/de/de/docs/about/2024/Deloitte_Predictive-Maintenance_PositionPaper.pdf"
+ },
+ {
+  "value": "20%",
+  "claim": "Deloitte: uptime up 10 to 20%; planning time down 20 to 50%",
+  "source": "Predictive Maintenance Position Paper — Deloitte Analytics Institute, 2017",
+  "url": "https://www.deloitte.com/content/dam/assets-zone2/de/de/docs/about/2024/Deloitte_Predictive-Maintenance_PositionPaper.pdf"
+ },
+ {
+  "value": "50%",
+  "claim": "Deloitte: maintenance planning time down 20 to 50%",
+  "source": "Predictive Maintenance Position Paper — Deloitte Analytics Institute, 2017",
+  "url": "https://www.deloitte.com/content/dam/assets-zone2/de/de/docs/about/2024/Deloitte_Predictive-Maintenance_PositionPaper.pdf"
+ },
+ {
+  "value": "5%",
+  "claim": "Deloitte: maintenance costs down 5 to 10%",
+  "source": "Predictive Maintenance Position Paper — Deloitte Analytics Institute, 2017",
+  "url": "https://www.deloitte.com/content/dam/assets-zone2/de/de/docs/about/2024/Deloitte_Predictive-Maintenance_PositionPaper.pdf"
+ },
+ {
+  "value": "30%",
+  "claim": "McKinsey: PdM typically reduces machine downtime by 30 to 50 percent",
+  "source": "Manufacturing: Analytics unleashes productivity and profitability — McKinsey, 2017",
+  "url": "https://www.mckinsey.com/capabilities/operations/our-insights/manufacturing-analytics-unleashes-productivity-and-profitability"
+ },
+ {
+  "value": "50%",
+  "claim": "McKinsey: PdM typically reduces machine downtime by 30 to 50 percent",
+  "source": "Manufacturing: Analytics unleashes productivity and profitability — McKinsey, 2017",
+  "url": "https://www.mckinsey.com/capabilities/operations/our-insights/manufacturing-analytics-unleashes-productivity-and-profitability"
+ },
+ {
+  "value": "20%",
+  "claim": "McKinsey: PdM increases machine life by 20 to 40 percent",
+  "source": "Manufacturing: Analytics unleashes productivity and profitability — McKinsey, 2017",
+  "url": "https://www.mckinsey.com/capabilities/operations/our-insights/manufacturing-analytics-unleashes-productivity-and-profitability"
+ },
+ {
+  "value": "40%",
+  "claim": "McKinsey: PdM increases machine life by 20 to 40 percent",
+  "source": "Manufacturing: Analytics unleashes productivity and profitability — McKinsey, 2017",
+  "url": "https://www.mckinsey.com/capabilities/operations/our-insights/manufacturing-analytics-unleashes-productivity-and-profitability"
+ },
+ {
+  "value": "10%",
+  "claim": "McKinsey: a false-positive rate of about 10 percent wiped out the overall savings",
+  "source": "Establishing the right analytics-based maintenance strategy — McKinsey, 2021",
+  "url": "https://www.mckinsey.com/capabilities/operations/our-insights/establishing-the-right-analytics-based-maintenance-strategy"
+ },
+ {
+  "value": "85%",
+  "claim": "McKinsey: one company predicted about one-quarter of breakdowns with 85 percent accuracy",
+  "source": "Establishing the right analytics-based maintenance strategy — McKinsey, 2021",
+  "url": "https://www.mckinsey.com/capabilities/operations/our-insights/establishing-the-right-analytics-based-maintenance-strategy"
+ },
+ {
+  "value": "9%",
+  "claim": "PwC: average uptime improvement of 9% among PdM 4.0 implementers/pilots",
+  "source": "Predictive Maintenance 4.0: Beyond the hype — PwC & Mainnovation, 2018",
+  "url": "https://www.pwc.be/en/documents/20180926-pdm40-beyond-the-hype-report.pdf"
+ },
+ {
+  "value": "12%",
+  "claim": "PwC: average cost reduction of 12%",
+  "source": "Predictive Maintenance 4.0: Beyond the hype — PwC & Mainnovation, 2018",
+  "url": "https://www.pwc.be/en/documents/20180926-pdm40-beyond-the-hype-report.pdf"
+ },
+ {
+  "value": "14%",
+  "claim": "PwC: average reduction of SHEQ risks of 14%",
+  "source": "Predictive Maintenance 4.0: Beyond the hype — PwC & Mainnovation, 2018",
+  "url": "https://www.pwc.be/en/documents/20180926-pdm40-beyond-the-hype-report.pdf"
+ },
+ {
+  "value": "20%",
+  "claim": "PwC: average lifetime extension of ageing assets of 20%",
+  "source": "Predictive Maintenance 4.0: Beyond the hype — PwC & Mainnovation, 2018",
+  "url": "https://www.pwc.be/en/documents/20180926-pdm40-beyond-the-hype-report.pdf"
+ },
+ {
+  "value": "11%",
+  "claim": "PwC: share of companies at maturity level 4 (PdM 4.0) stable at 11%",
+  "source": "Predictive Maintenance 4.0: Beyond the hype — PwC & Mainnovation, 2018",
+  "url": "https://www.pwc.be/en/documents/20180926-pdm40-beyond-the-hype-report.pdf"
+ },
+ {
+  "value": "60%",
+  "claim": "PwC: 60% of companies have concrete plans to deploy PdM 4.0",
+  "source": "Predictive Maintenance 4.0: Beyond the hype — PwC & Mainnovation, 2018",
+  "url": "https://www.pwc.be/en/documents/20180926-pdm40-beyond-the-hype-report.pdf"
+ },
+ {
+  "value": "95%",
+  "claim": "PwC: 95% say PdM 4.0 improves one or more key maintenance value drivers",
+  "source": "Predictive Maintenance 4.0: Beyond the hype — PwC & Mainnovation, 2018",
+  "url": "https://www.pwc.be/en/documents/20180926-pdm40-beyond-the-hype-report.pdf"
+ },
+ {
+  "value": "558.1 million",
+  "claim": "India predictive maintenance market size in 2025, USD 558.1 million",
+  "source": "India Predictive Maintenance Market Report — IMARC Group",
+  "url": "https://www.imarcgroup.com/india-predictive-maintenance-market"
+ },
+ {
+  "value": "2,922.0 million",
+  "claim": "India predictive maintenance market forecast for 2034, USD 2,922.0 million",
+  "source": "India Predictive Maintenance Market Report — IMARC Group",
+  "url": "https://www.imarcgroup.com/india-predictive-maintenance-market"
+ },
+ {
+  "value": "19.59%",
+  "claim": "India predictive maintenance market CAGR 2026-2034",
+  "source": "India Predictive Maintenance Market Report — IMARC Group",
+  "url": "https://www.imarcgroup.com/india-predictive-maintenance-market"
+ }
+]

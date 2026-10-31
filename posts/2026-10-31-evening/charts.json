@@ -1,0 +1,5 @@
+[
+ {"type":"bar","title":"Indian plants stop more often","subtitle":"Share reporting an unplanned outage at least once a month","unit":"%","data":[["India",88],["Global",69]],"highlight":"India","source":"Source: ABB survey of 3,215 maintenance decision-makers (Sapio Research, 2023)"},
+ {"type":"bar","title":"Measured gains: modest, real","subtitle":"Average improvement reported by PdM 4.0 adopters and pilots (n=67)","unit":"%","data":[["Uptime improvement",9],["Maintenance cost reduction",12],["SHEQ risk reduction",14],["Ageing asset life extension",20]],"highlight":"Uptime improvement","source":"Source: PwC & Mainnovation, Predictive Maintenance 4.0, 2018"},
+ {"type":"column","title":"Fewer stoppages, slower recovery","subtitle":"Per facility, 2019 vs 2024 report","unit":"","series":["2019","2024 report"],"data":[["Incidents / month",42,25],["Hours lost / month",39,27],["Recovery time (min)",49,81]],"source":"Source: Siemens, The True Cost of Downtime 2024"}
+]
