@@ -1,13 +1,15 @@
 # Fine Solves daily blog — runbook
 
-Each daily run researches one topic, writes one AEO/SEO-optimised post, renders two branded creatives, hosts the creatives in the Fine Solves Google Drive, and publishes the post to the Fine Solves Blogger blog by email (Blogger "Posting using email", sent through Zapier Gmail).
+Each daily run researches one topic, writes one AEO/SEO-optimised post, renders two branded creatives, hosts the creatives in the public GitHub repo Admin-FineSolves/finesolves-blog-assets, and publishes the post to the Fine Solves Blogger blog by email (Blogger "Posting using email", sent through Zapier Gmail).
 
-The scheduled task prompt supplies `BLOGGER_POST_EMAIL` (secret — never write it into any file), `BLOG_URL` and `DRIVE_FOLDER_ID`.
-The creative script (creatives.py) is included in full in the task prompt; write it to ~/fsblog/creatives.py at the start of each run.
+The scheduled task prompt supplies `BLOGGER_POST_EMAIL` (secret — never write it into any file, commit or post) and `BLOG_URL`.
+creatives.py, this runbook and every past post live in the repo.
 
 ## 0. Setup (every run — fresh container)
 ```bash
-mkdir -p ~/fsblog && cd ~/fsblog   # write creatives.py here from the task prompt
+# attach the repo first: add_repo(owner="Admin-FineSolves", repo="finesolves-blog-assets", access="push")
+git clone --depth 1 https://github.com/Admin-FineSolves/finesolves-blog-assets ~/finesolves-blog-assets
+cd ~/finesolves-blog-assets
 npm i --silent @fontsource/space-grotesk @fontsource/inter @fontsource/dm-mono
 DATE=$(TZ=Asia/Kolkata date +%F); mkdir -p posts/$DATE
 ```
@@ -66,12 +68,15 @@ rm posts/$DATE/*.png
 ```
 Open both JPEGs with Read and check: no text overflow or overlap, headline fits, numbers match the post. Fix spec and re-render if not.
 
-## 4. Host images (Fine Solves Google Drive)
-Upload each JPEG with the Google Drive connector `create_file`: `title` = `$DATE-hero.jpg` / `$DATE-infographic.jpg`, `parentId` = `DRIVE_FOLDER_ID` (from the task prompt), `contentMimeType` = `image/jpeg`, `disableConversionToGoogleType` = true, `base64Content` = the file base64 (`base64 -w0 file.jpg`). Keep each JPEG under ~80 KB (re-save at quality 75 if larger).
-The folder is shared "Anyone with the link – Viewer", so files inherit public access. Image URLs:
-`https://lh3.googleusercontent.com/d/<FILE_ID>=w1600`
-Confirm the hero URL loads as an image (WebFetch) before sending. Replace `{{HERO_URL}}` and `{{INFO_URL}}` in post.html.
-Also upload the final post.html to the same folder (`$DATE-post.html`, textContent, mimeType text/html, no conversion) as the archive copy.
+## 4. Host images (GitHub: Admin-FineSolves/finesolves-blog-assets, public)
+```bash
+cd ~/finesolves-blog-assets
+git add posts/$DATE && git -c user.name="Fine Solves Blog Bot" -c user.email="admin@finesolves.com" commit -qm "Post $DATE: <title>" && git push origin main
+SHA=$(git rev-parse HEAD)
+```
+Image URLs (pinned to the commit so they never change):
+`https://raw.githubusercontent.com/Admin-FineSolves/finesolves-blog-assets/$SHA/posts/$DATE/hero.jpg` (same for infographic.jpg).
+Check with `curl -s -o /dev/null -w "%{http_code} %{content_type}" <url>` → must be `200 image/jpeg`. Replace `{{HERO_URL}}` / `{{INFO_URL}}` in post.html, commit and push again.
 
 ## 5. Publish
 Zapier Gmail action `message` (selected_api `GoogleMailV2CLIAPI`): `to` = BLOGGER_POST_EMAIL, `subject` = title, `body_type` = html, `body` = full post.html contents. No signature, no attachments.
@@ -83,4 +88,4 @@ Final reply: one line — title, live URL, pillar.
 ## Failure handling
 - Research thin or no fresh hook → use an evergreen pillar 3 or 5 topic instead; never publish unsourced numbers.
 - Zapier/Gmail auth error → stop, don't publish, report "Reconnect Gmail in Zapier".
-- Drive upload fails or image URL doesn't load → stop before publishing (post would have broken images) and report.
+- Git push fails or image URL doesn't return 200 image/jpeg → stop before publishing (post would have broken images) and report.
