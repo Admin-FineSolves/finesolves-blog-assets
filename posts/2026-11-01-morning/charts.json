@@ -1,0 +1,72 @@
+[
+ {
+  "type": "bar",
+  "title": "AI revenue is growing fast everywhere",
+  "subtitle": "AI revenue growth, quarter on quarter, Q2 FY27 (TCS: more than 19%)",
+  "unit": "%",
+  "data": [
+   [
+    "Infosys",
+    29
+   ],
+   [
+    "HCLTech (advanced AI)",
+    28.4
+   ],
+   [
+    "TCS",
+    19
+   ]
+  ],
+  "highlight": "Infosys",
+  "source": "Source: Elets CIO (27 Oct 2026); HCLTech Q2 FY27 press release; Nikkei Asia via Elets CIO"
+ },
+ {
+  "type": "column",
+  "title": "AI nearly doubled its Infosys share",
+  "subtitle": "AI as a share of Infosys revenue, 2026",
+  "unit": "%",
+  "data": [
+   [
+    "Feb 2026",
+    5.5
+   ],
+   [
+    "Q1 FY27",
+    8.2
+   ],
+   [
+    "Q2 FY27",
+    10.5
+   ]
+  ],
+  "highlight": "Q2 FY27",
+  "source": "Source: Analytics India Magazine (27 Oct 2026); InfotechLead (23 Oct 2026)"
+ },
+ {
+  "type": "bar",
+  "title": "India's AI-adjacent IT lines grow fastest",
+  "subtitle": "Forecast growth in India IT spending by segment, 2026",
+  "unit": "%",
+  "data": [
+   [
+    "Data centre systems",
+    20.5
+   ],
+   [
+    "Software",
+    17.6
+   ],
+   [
+    "IT services",
+    11.1
+   ],
+   [
+    "Total IT spending",
+    10.6
+   ]
+  ],
+  "highlight": "Data centre systems",
+  "source": "Source: Gartner, India IT spending forecast (Nov 2025)"
+ }
+]
