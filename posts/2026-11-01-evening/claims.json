@@ -1,0 +1,296 @@
+[
+ {
+  "value": "40%",
+  "claim": "Share of agentic AI projects Gartner forecasts will be cancelled by end of 2027 (more than 40%)",
+  "source": "Gartner agentic AI forecast, via IT Brief (June 2025)",
+  "url": "https://itbrief.news/story/over-40-of-agentic-ai-projects-set-for-cancellation-by-2027"
+ },
+ {
+  "value": "19%",
+  "claim": "Gartner Jan 2025 poll: organisations that made significant agentic AI investments",
+  "source": "Gartner agentic AI forecast, via IT Brief (June 2025)",
+  "url": "https://itbrief.news/story/over-40-of-agentic-ai-projects-set-for-cancellation-by-2027"
+ },
+ {
+  "value": "42%",
+  "claim": "Gartner poll: organisations that made conservative agentic AI investments",
+  "source": "Gartner agentic AI forecast, via IT Brief (June 2025)",
+  "url": "https://itbrief.news/story/over-40-of-agentic-ai-projects-set-for-cancellation-by-2027"
+ },
+ {
+  "value": "8%",
+  "claim": "Gartner poll: organisations with no agentic AI investment",
+  "source": "Gartner agentic AI forecast, via IT Brief (June 2025)",
+  "url": "https://itbrief.news/story/over-40-of-agentic-ai-projects-set-for-cancellation-by-2027"
+ },
+ {
+  "value": "31%",
+  "claim": "Gartner poll: organisations waiting or unsure",
+  "source": "Gartner agentic AI forecast, via IT Brief (June 2025)",
+  "url": "https://itbrief.news/story/over-40-of-agentic-ai-projects-set-for-cancellation-by-2027"
+ },
+ {
+  "value": "15%",
+  "claim": "Gartner: at least 15% of day-to-day work decisions made autonomously by agentic AI by 2028",
+  "source": "Gartner agentic AI forecast, via IT Brief (June 2025)",
+  "url": "https://itbrief.news/story/over-40-of-agentic-ai-projects-set-for-cancellation-by-2027"
+ },
+ {
+  "value": "33%",
+  "claim": "Gartner: share of enterprise software apps with agentic AI by 2028",
+  "source": "Gartner agentic AI forecast, via IT Brief (June 2025)",
+  "url": "https://itbrief.news/story/over-40-of-agentic-ai-projects-set-for-cancellation-by-2027"
+ },
+ {
+  "value": "1%",
+  "claim": "Gartner: current share of enterprise apps with agentic AI is less than 1%",
+  "source": "Gartner agentic AI forecast, via IT Brief (June 2025)",
+  "url": "https://itbrief.news/story/over-40-of-agentic-ai-projects-set-for-cancellation-by-2027"
+ },
+ {
+  "value": "88%",
+  "claim": "McKinsey: organisations regularly using AI in at least one function",
+  "source": "The state of AI in 2025 — McKinsey",
+  "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-2025"
+ },
+ {
+  "value": "62%",
+  "claim": "McKinsey: at least experimenting with AI agents",
+  "source": "The state of AI in 2025 — McKinsey",
+  "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-2025"
+ },
+ {
+  "value": "23%",
+  "claim": "McKinsey: organisations scaling an agentic AI system somewhere in the enterprise",
+  "source": "The state of AI in 2025 — McKinsey",
+  "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-2025"
+ },
+ {
+  "value": "10%",
+  "claim": "McKinsey: no more than 10% scaling agents in any single function",
+  "source": "The state of AI in 2025 — McKinsey",
+  "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-2025"
+ },
+ {
+  "value": "39%",
+  "claim": "McKinsey: respondents attributing any EBIT impact to AI",
+  "source": "The state of AI in 2025 — McKinsey",
+  "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-2025"
+ },
+ {
+  "value": "5%",
+  "claim": "McKinsey: most report less than 5% of EBIT attributable to AI",
+  "source": "The state of AI in 2025 — McKinsey",
+  "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-2025"
+ },
+ {
+  "value": "6%",
+  "claim": "McKinsey: share of AI high performers",
+  "source": "The state of AI in 2025 — McKinsey",
+  "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-2025"
+ },
+ {
+  "value": "20%",
+  "claim": "McKinsey: over one-third of high performers commit over 20% of digital budgets to AI",
+  "source": "The state of AI in 2025 — McKinsey",
+  "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-2025"
+ },
+ {
+  "value": "47%",
+  "claim": "EY: Indian organisations with multiple GenAI use cases live in production",
+  "source": "EY India C-suite GenAI survey (AIdea of India) — EY, 2025",
+  "url": "https://www.ey.com/en_in/insights/ai/agentic-ai-india/aidea-survey-findings"
+ },
+ {
+  "value": "91%",
+  "claim": "EY: respondents ranking speed of deployment as top buy-vs-build factor",
+  "source": "EY India C-suite GenAI survey (AIdea of India) — EY, 2025",
+  "url": "https://www.ey.com/en_in/insights/ai/agentic-ai-india/aidea-survey-findings"
+ },
+ {
+  "value": "64%",
+  "claim": "ET CIO&Leader 2026: Indian tech leaders whose organisations are piloting or have deployed agentic AI",
+  "source": "State of AI in Indian Enterprises 2026 — ET Edge CIO&Leader, via CXOToday",
+  "url": "https://cxotoday.com/ai/indian-firms-spent-big-on-ai-at-scale-only-12-see-proven-roi/"
+ },
+ {
+  "value": "60%",
+  "claim": "ET CIO&Leader 2026: Indian organisations still at pilot or exploration stage",
+  "source": "State of AI in Indian Enterprises 2026 — ET Edge CIO&Leader, via CXOToday",
+  "url": "https://cxotoday.com/ai/indian-firms-spent-big-on-ai-at-scale-only-12-see-proven-roi/"
+ },
+ {
+  "value": "12%",
+  "claim": "ET CIO&Leader 2026: organisations with significant, measurable AI ROI",
+  "source": "State of AI in Indian Enterprises 2026 — ET Edge CIO&Leader, via CXOToday",
+  "url": "https://cxotoday.com/ai/indian-firms-spent-big-on-ai-at-scale-only-12-see-proven-roi/"
+ },
+ {
+  "value": "57%",
+  "claim": "ET CIO&Leader 2026: no measurable ROI or cannot determine returns",
+  "source": "State of AI in Indian Enterprises 2026 — ET Edge CIO&Leader, via CXOToday",
+  "url": "https://cxotoday.com/ai/indian-firms-spent-big-on-ai-at-scale-only-12-see-proven-roi/"
+ },
+ {
+  "value": "55%",
+  "claim": "ET CIO&Leader 2026: AI cost overruns last year or don't track AI spend separately",
+  "source": "State of AI in Indian Enterprises 2026 — ET Edge CIO&Leader, via CXOToday",
+  "url": "https://cxotoday.com/ai/indian-firms-spent-big-on-ai-at-scale-only-12-see-proven-roi/"
+ },
+ {
+  "value": "58%",
+  "claim": "ET CIO&Leader 2026: allocate less than 10% of IT budget to AI",
+  "source": "State of AI in Indian Enterprises 2026 — ET Edge CIO&Leader, via CXOToday",
+  "url": "https://cxotoday.com/ai/indian-firms-spent-big-on-ai-at-scale-only-12-see-proven-roi/"
+ },
+ {
+  "value": "19%",
+  "claim": "ET CIO&Leader 2026: highly prepared for DPDP Act obligations",
+  "source": "State of AI in Indian Enterprises 2026 — ET Edge CIO&Leader, via CXOToday",
+  "url": "https://cxotoday.com/ai/indian-firms-spent-big-on-ai-at-scale-only-12-see-proven-roi/"
+ },
+ {
+  "value": "81%",
+  "claim": "ET CIO&Leader 2026: name data privacy and compliance as leading AI concern",
+  "source": "State of AI in Indian Enterprises 2026 — ET Edge CIO&Leader, via CXOToday",
+  "url": "https://cxotoday.com/ai/indian-firms-spent-big-on-ai-at-scale-only-12-see-proven-roi/"
+ },
+ {
+  "value": "67%",
+  "claim": "SAP 2026: Indian businesses piloting agentic use cases",
+  "source": "SAP Value of AI Report 2026 (with Oxford Economics) — SAP India",
+  "url": "https://news.sap.com/india/?p=6361"
+ },
+ {
+  "value": "63%",
+  "claim": "SAP 2026: Indian organisations data-ready for AI",
+  "source": "SAP Value of AI Report 2026 (with Oxford Economics) — SAP India",
+  "url": "https://news.sap.com/india/?p=6361"
+ },
+ {
+  "value": "42%",
+  "claim": "SAP 2026: data-ready share a year earlier",
+  "source": "SAP Value of AI Report 2026 (with Oxford Economics) — SAP India",
+  "url": "https://news.sap.com/india/?p=6361"
+ },
+ {
+  "value": "76%",
+  "claim": "SAP 2026: Indian businesses facing incomplete data challenges",
+  "source": "SAP Value of AI Report 2026 (with Oxford Economics) — SAP India",
+  "url": "https://news.sap.com/india/?p=6361"
+ },
+ {
+  "value": "22%",
+  "claim": "SAP 2026: AI ROI today (projected to rise)",
+  "source": "SAP Value of AI Report 2026 (with Oxford Economics) — SAP India",
+  "url": "https://news.sap.com/india/?p=6361"
+ },
+ {
+  "value": "39%",
+  "claim": "SAP 2026: AI ROI projected within two years",
+  "source": "SAP Value of AI Report 2026 (with Oxford Economics) — SAP India",
+  "url": "https://news.sap.com/india/?p=6361"
+ },
+ {
+  "value": "33%",
+  "claim": "SAP 2026: share of business tasks AI supports in India today",
+  "source": "SAP Value of AI Report 2026 (with Oxford Economics) — SAP India",
+  "url": "https://news.sap.com/india/?p=6361"
+ },
+ {
+  "value": "51%",
+  "claim": "SAP 2026: share of business tasks AI expected to support in two years",
+  "source": "SAP Value of AI Report 2026 (with Oxford Economics) — SAP India",
+  "url": "https://news.sap.com/india/?p=6361"
+ },
+ {
+  "value": "74%",
+  "claim": "SAP 2026: Indian businesses satisfied with current AI ROI",
+  "source": "SAP Value of AI Report 2026 (with Oxford Economics) — SAP India",
+  "url": "https://news.sap.com/india/?p=6361"
+ },
+ {
+  "value": "US$25.9 million",
+  "claim": "SAP 2026: planned AI investment by Indian organisations",
+  "source": "SAP Value of AI Report 2026 (with Oxford Economics) — SAP India",
+  "url": "https://news.sap.com/india/?p=6361"
+ },
+ {
+  "value": "95%",
+  "claim": "MIT NANDA: pilots that stall and never reach scaled adoption",
+  "source": "MIT NANDA, The GenAI Divide 2025 — via Computing",
+  "url": "https://computing.co.uk/news/2025/ai/mit-report-95pc-corporate-generative-ai-pilots-fail"
+ },
+ {
+  "value": "5%",
+  "claim": "MIT NANDA: projects achieving rapid revenue growth",
+  "source": "MIT NANDA, The GenAI Divide 2025 — via Computing",
+  "url": "https://computing.co.uk/news/2025/ai/mit-report-95pc-corporate-generative-ai-pilots-fail"
+ },
+ {
+  "value": "$20",
+  "claim": "Stanford AI Index: price per million tokens for high-end LLMs, late 2022",
+  "source": "Stanford HAI AI Index 2025 — via Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-costs-drop-280-fold-but-harmful-incidents-rise-56-percent-in-last-year-stanford-2025-ai-report-highlights-china-us-competition"
+ },
+ {
+  "value": "$0.07",
+  "claim": "Stanford AI Index: price per million tokens about 18 months later",
+  "source": "Stanford HAI AI Index 2025 — via Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-costs-drop-280-fold-but-harmful-incidents-rise-56-percent-in-last-year-stanford-2025-ai-report-highlights-china-us-competition"
+ },
+ {
+  "value": "30%",
+  "claim": "Stanford AI Index: enterprise AI hardware costs fell 30% in a year",
+  "source": "Stanford HAI AI Index 2025 — via Tom's Hardware",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-costs-drop-280-fold-but-harmful-incidents-rise-56-percent-in-last-year-stanford-2025-ai-report-highlights-china-us-competition"
+ },
+ {
+  "value": "74%",
+  "claim": "Deloitte: companies planning to deploy agentic AI within two years",
+  "source": "Deloitte State of AI in the Enterprise 2026 — via Accounting Today",
+  "url": "https://www.accountingtoday.com/news/many-expect-to-use-ai-agents-but-few-have-governance"
+ },
+ {
+  "value": "23%",
+  "claim": "Deloitte: companies using agentic AI at least moderately now",
+  "source": "Deloitte State of AI in the Enterprise 2026 — via Accounting Today",
+  "url": "https://www.accountingtoday.com/news/many-expect-to-use-ai-agents-but-few-have-governance"
+ },
+ {
+  "value": "21%",
+  "claim": "Deloitte: companies with a mature governance model for autonomous agents",
+  "source": "Deloitte State of AI in the Enterprise 2026 — via Accounting Today",
+  "url": "https://www.accountingtoday.com/news/many-expect-to-use-ai-agents-but-few-have-governance"
+ },
+ {
+  "value": "85%",
+  "claim": "Deloitte: companies expecting to customise agents to their needs",
+  "source": "Deloitte State of AI in the Enterprise 2026 — via Accounting Today",
+  "url": "https://www.accountingtoday.com/news/many-expect-to-use-ai-agents-but-few-have-governance"
+ },
+ {
+  "value": "50%",
+  "claim": "OutSystems: Indian respondents reporting ROI from IT development and productivity",
+  "source": "OutSystems 2026 State of AI Development — via TechWire Asia",
+  "url": "https://techwireasia.com/2026/04/india-is-leading-asias-agentic-ai-adoption-race-the-rest-of-the-region-is-still-catching-up/"
+ },
+ {
+  "value": "49%",
+  "claim": "OutSystems: enterprises that moved more than half of agentic projects to production",
+  "source": "OutSystems 2026 State of AI Development — via TechWire Asia",
+  "url": "https://techwireasia.com/2026/04/india-is-leading-asias-agentic-ai-adoption-race-the-rest-of-the-region-is-still-catching-up/"
+ },
+ {
+  "value": "38%",
+  "claim": "OutSystems: say legacy systems are the main reason agentic projects stalled",
+  "source": "OutSystems 2026 State of AI Development — via TechWire Asia",
+  "url": "https://techwireasia.com/2026/04/india-is-leading-asias-agentic-ai-adoption-race-the-rest-of-the-region-is-still-catching-up/"
+ },
+ {
+  "value": "36%",
+  "claim": "OutSystems: organisations with centralised agentic AI governance",
+  "source": "OutSystems 2026 State of AI Development — via TechWire Asia",
+  "url": "https://techwireasia.com/2026/04/india-is-leading-asias-agentic-ai-adoption-race-the-rest-of-the-region-is-still-catching-up/"
+ }
+]
