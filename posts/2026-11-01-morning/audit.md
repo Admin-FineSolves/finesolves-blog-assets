@@ -8,7 +8,7 @@
 | SEO | Primary keyword in title * | ✅ | indian it ai revenue |
 | SEO | Primary keyword in first 100 words * | ✅ |  |
 | SEO | Primary keyword (or its words) in an H2 | ✅ |  |
-| SEO | Word count 1,400–2,400 * | ✅ | 1887 words |
+| SEO | Word count 1,400–2,400 * | ✅ | 1893 words |
 | SEO | At least 6 H2 sections * | ✅ | 10 H2 |
 | SEO | Every image has descriptive alt (≥20 chars) * | ✅ | 5 images |
 | SEO | Internal link to finesolves.com * | ✅ |  |
@@ -22,7 +22,7 @@
 | GEO | ≥4 H2s phrased as questions * | ✅ | 7 |
 | GEO | Each question H2 answered in its first sentence (≤35 words) * | ✅ |  |
 | GEO | FAQ: 4–6 questions, answers 30–90 words * | ✅ | 5 Qs, 0 off-length |
-| GEO | ≥6 attribution phrases near facts * | ✅ | 27 |
+| GEO | ≥6 attribution phrases near facts * | ✅ | 28 |
 | GEO | Entity definition: 'Fine Solves' named ≥2× and defined once * | ✅ |  |
 | GEO | Freshness: 'Last updated' date line * | ✅ |  |
 | GEO | Sources section present * | ✅ |  |
