@@ -1,0 +1,11 @@
+[
+ {"type":"bar","title":"Indian firms' AI data foundations lag","subtitle":"Share of Indian organisations, ServiceNow Enterprise AI Maturity Index 2026","unit":"%",
+  "data":[["Flag data quality and access",74],["Cite legacy integration",56],["Deploying AI agents",54],["Have AI testing and audit",22],["Run integrated platform",18],["Run autonomous workflows",11]],
+  "highlight":"Have AI testing and audit","source":"Source: ServiceNow Enterprise AI Maturity Index 2026, India findings (Sep 2026)"},
+ {"type":"bar","title":"DEPA targets India's biggest data sectors","subtitle":"Sector size cited in the draft DEPA for AI Training report, US$ billion","unit":" bn",
+  "data":[["Healthcare",600],["Financial services",550],["EdTech",29]],
+  "highlight":"Healthcare","source":"Source: Draft DEPA for AI Training report via Business Standard (30 Oct 2026); healthcare is $600 bn-plus"},
+ {"type":"column","title":"AI's share of IT budgets keeps rising","subtitle":"AI as a share of the average Indian IT budget","unit":"%",
+  "data":[["2026",16.6],["2027 (projected)",21.3]],
+  "source":"Source: ServiceNow Enterprise AI Maturity Index 2026, India findings (Sep 2026)"}
+]
