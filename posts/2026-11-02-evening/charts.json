@@ -1,0 +1,95 @@
+[
+ {
+  "type": "bar",
+  "title": "Indian SaaS rollouts overrun time and cost",
+  "subtitle": "Indian enterprises, Zoho\u2013IDC survey, 2025",
+  "unit": "%",
+  "data": [
+   [
+    "Faced implementation delays",
+    75
+   ],
+   [
+    "Average time overrun",
+    57
+   ],
+   [
+    "Delays hindered growth",
+    53
+   ],
+   [
+    "Customer dissatisfaction",
+    48
+   ],
+   [
+    "Average cost overrun",
+    43
+   ]
+  ],
+  "highlight": "Average time overrun",
+  "source": "Source: Zoho with IDC, via Business Standard, March 2025"
+ },
+ {
+  "type": "bar",
+  "title": "Business units, not IT, control SaaS spend",
+  "subtitle": "Zylo 2026 SaaS Management Index ($75B spend under management)",
+  "unit": "%",
+  "data": [
+   [
+    "Spend controlled by business units",
+    81
+   ],
+   [
+    "IT leaders hit by unexpected charges",
+    78
+   ],
+   [
+    "IT leaders forced to cut projects",
+    61
+   ],
+   [
+    "Licenses left unused",
+    36
+   ],
+   [
+    "Spend directly managed by IT",
+    15
+   ]
+  ],
+  "highlight": "Licenses left unused",
+  "source": "Source: Zylo, 2026 SaaS Management Index, January 2026"
+ },
+ {
+  "type": "column",
+  "title": "Software growth speeds up most in 2026",
+  "subtitle": "India IT spending growth by segment, 2025 vs 2026 forecast",
+  "unit": "%",
+  "series": [
+   "2025",
+   "2026"
+  ],
+  "data": [
+   [
+    "Data center",
+    29.2,
+    20.5
+   ],
+   [
+    "Software",
+    12.1,
+    17.6
+   ],
+   [
+    "IT services",
+    7.0,
+    11.1
+   ],
+   [
+    "Devices",
+    9.4,
+    9.9
+   ]
+  ],
+  "source": "Source: Gartner India IT spending forecast, November 2025"
+ }
+]

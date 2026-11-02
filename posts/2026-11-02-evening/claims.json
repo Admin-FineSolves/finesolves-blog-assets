@@ -1,0 +1,266 @@
+[
+ {
+  "value": "$176.3 billion",
+  "claim": "India IT spending in 2026",
+  "source": "Gartner India IT spending forecast, Nov 2025",
+  "url": "https://www.gartner.com/en/newsroom/press-releases/2025-11-18-gartner-forecasts-india-it-spending-to-exceed-176-billion-us-dollars-in-2026"
+ },
+ {
+  "value": "10.6%",
+  "claim": "growth in India IT spending 2026",
+  "source": "Gartner India IT spending forecast, Nov 2025",
+  "url": "https://www.gartner.com/en/newsroom/press-releases/2025-11-18-gartner-forecasts-india-it-spending-to-exceed-176-billion-us-dollars-in-2026"
+ },
+ {
+  "value": "$24.7 billion",
+  "claim": "India software spending 2026",
+  "source": "Gartner India IT spending forecast, Nov 2025",
+  "url": "https://www.gartner.com/en/newsroom/press-releases/2025-11-18-gartner-forecasts-india-it-spending-to-exceed-176-billion-us-dollars-in-2026"
+ },
+ {
+  "value": "17.6%",
+  "claim": "India software spending growth 2026",
+  "source": "Gartner India IT spending forecast, Nov 2025",
+  "url": "https://www.gartner.com/en/newsroom/press-releases/2025-11-18-gartner-forecasts-india-it-spending-to-exceed-176-billion-us-dollars-in-2026"
+ },
+ {
+  "value": "11.1%",
+  "claim": "India IT services spending growth 2026",
+  "source": "Gartner India IT spending forecast, Nov 2025",
+  "url": "https://www.gartner.com/en/newsroom/press-releases/2025-11-18-gartner-forecasts-india-it-spending-to-exceed-176-billion-us-dollars-in-2026"
+ },
+ {
+  "value": "20.5%",
+  "claim": "India data center systems growth 2026",
+  "source": "Gartner India IT spending forecast, Nov 2025",
+  "url": "https://www.gartner.com/en/newsroom/press-releases/2025-11-18-gartner-forecasts-india-it-spending-to-exceed-176-billion-us-dollars-in-2026"
+ },
+ {
+  "value": "9.9%",
+  "claim": "India devices spending growth 2026",
+  "source": "Gartner India IT spending forecast, Nov 2025",
+  "url": "https://www.gartner.com/en/newsroom/press-releases/2025-11-18-gartner-forecasts-india-it-spending-to-exceed-176-billion-us-dollars-in-2026"
+ },
+ {
+  "value": "45%",
+  "claim": "average large IT project over budget",
+  "source": "McKinsey & Oxford, Delivering large-scale IT projects",
+  "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value"
+ },
+ {
+  "value": "7%",
+  "claim": "average large IT project over time",
+  "source": "McKinsey & Oxford, Delivering large-scale IT projects",
+  "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value"
+ },
+ {
+  "value": "56%",
+  "claim": "less value than predicted",
+  "source": "McKinsey & Oxford, Delivering large-scale IT projects",
+  "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value"
+ },
+ {
+  "value": "17%",
+  "claim": "share of IT projects that go so badly they threaten the company",
+  "source": "McKinsey & Oxford, Delivering large-scale IT projects",
+  "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value"
+ },
+ {
+  "value": "200%",
+  "claim": "black-swan budget overruns above",
+  "source": "McKinsey & Oxford, Delivering large-scale IT projects",
+  "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value"
+ },
+ {
+  "value": "$15 million",
+  "claim": "threshold for large IT projects",
+  "source": "McKinsey & Oxford, Delivering large-scale IT projects",
+  "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value"
+ },
+ {
+  "value": "15%",
+  "claim": "each extra year of schedule raises cost overruns by",
+  "source": "McKinsey & Oxford, Delivering large-scale IT projects",
+  "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value"
+ },
+ {
+  "value": "75%",
+  "claim": "Indian enterprises facing SaaS implementation delays",
+  "source": "Zoho–IDC SaaS implementation report (via Business Standard), 2025",
+  "url": "https://business-standard.com/industry/news/saas-implementation-delays-result-in-business-losses-zoho-idc-report-125030500666_1.html"
+ },
+ {
+  "value": "57%",
+  "claim": "average time overrun",
+  "source": "Zoho–IDC SaaS implementation report (via Business Standard), 2025",
+  "url": "https://business-standard.com/industry/news/saas-implementation-delays-result-in-business-losses-zoho-idc-report-125030500666_1.html"
+ },
+ {
+  "value": "43%",
+  "claim": "average cost overrun",
+  "source": "Zoho–IDC SaaS implementation report (via Business Standard), 2025",
+  "url": "https://business-standard.com/industry/news/saas-implementation-delays-result-in-business-losses-zoho-idc-report-125030500666_1.html"
+ },
+ {
+  "value": "₹6 crore",
+  "claim": "approximate losses from delays",
+  "source": "Zoho–IDC SaaS implementation report (via Business Standard), 2025",
+  "url": "https://business-standard.com/industry/news/saas-implementation-delays-result-in-business-losses-zoho-idc-report-125030500666_1.html"
+ },
+ {
+  "value": "53%",
+  "claim": "said delays hindered digital transformation and growth",
+  "source": "Zoho–IDC SaaS implementation report (via Business Standard), 2025",
+  "url": "https://business-standard.com/industry/news/saas-implementation-delays-result-in-business-losses-zoho-idc-report-125030500666_1.html"
+ },
+ {
+  "value": "48%",
+  "claim": "reported customer dissatisfaction",
+  "source": "Zoho–IDC SaaS implementation report (via Business Standard), 2025",
+  "url": "https://business-standard.com/industry/news/saas-implementation-delays-result-in-business-losses-zoho-idc-report-125030500666_1.html"
+ },
+ {
+  "value": "47%",
+  "claim": "cited project management inefficiencies",
+  "source": "Zoho–IDC SaaS implementation report (via Business Standard), 2025",
+  "url": "https://business-standard.com/industry/news/saas-implementation-delays-result-in-business-losses-zoho-idc-report-125030500666_1.html"
+ },
+ {
+  "value": "38%",
+  "claim": "cited integration and security challenges",
+  "source": "Zoho–IDC SaaS implementation report (via Business Standard), 2025",
+  "url": "https://business-standard.com/industry/news/saas-implementation-delays-result-in-business-losses-zoho-idc-report-125030500666_1.html"
+ },
+ {
+  "value": "27%",
+  "claim": "share of AI budget lost to complexity, India",
+  "source": "Freshworks Global Cost of Complexity Report (via YourStory), 2026",
+  "url": "https://yourstory.com/2026/05/indias-mid-market-firms-lead-ai-adoption-face-rising-complexity-costs-freshworks-report"
+ },
+ {
+  "value": "25%",
+  "claim": "share of AI budget lost to complexity, global",
+  "source": "Freshworks Global Cost of Complexity Report (via YourStory), 2026",
+  "url": "https://yourstory.com/2026/05/indias-mid-market-firms-lead-ai-adoption-face-rising-complexity-costs-freshworks-report"
+ },
+ {
+  "value": "₹33,000 crore",
+  "claim": "annual wasted AI spend by Indian mid-market firms",
+  "source": "Freshworks Global Cost of Complexity Report (via YourStory), 2026",
+  "url": "https://yourstory.com/2026/05/indias-mid-market-firms-lead-ai-adoption-face-rising-complexity-costs-freshworks-report"
+ },
+ {
+  "value": "93%",
+  "claim": "Indian respondents preferring AI products with built-in workflows",
+  "source": "Freshworks Global Cost of Complexity Report (via YourStory), 2026",
+  "url": "https://yourstory.com/2026/05/indias-mid-market-firms-lead-ai-adoption-face-rising-complexity-costs-freshworks-report"
+ },
+ {
+  "value": "88%",
+  "claim": "Indian IT leaders say AI complexity increased workloads",
+  "source": "Freshworks Global Cost of Complexity Report (via YourStory), 2026",
+  "url": "https://yourstory.com/2026/05/indias-mid-market-firms-lead-ai-adoption-face-rising-complexity-costs-freshworks-report"
+ },
+ {
+  "value": "20%",
+  "claim": "share of software spending wasted",
+  "source": "Freshworks Cost of Complexity survey press release, Nov 2025",
+  "url": "https://www.freshworks.com/pressrelease/software-budgets-wasted-on-unnecessary-business-complexity-freshworks-survey-finds/"
+ },
+ {
+  "value": "7%",
+  "claim": "annual revenue drained by complexity",
+  "source": "Freshworks Cost of Complexity survey press release, Nov 2025",
+  "url": "https://www.freshworks.com/pressrelease/software-budgets-wasted-on-unnecessary-business-complexity-freshworks-survey-finds/"
+ },
+ {
+  "value": "53%",
+  "claim": "companies not receiving planned ROI from software",
+  "source": "Freshworks Cost of Complexity survey press release, Nov 2025",
+  "url": "https://www.freshworks.com/pressrelease/software-budgets-wasted-on-unnecessary-business-complexity-freshworks-survey-finds/"
+ },
+ {
+  "value": "43%",
+  "claim": "say implementations went over budget in last 12 months",
+  "source": "Freshworks Cost of Complexity survey press release, Nov 2025",
+  "url": "https://www.freshworks.com/pressrelease/software-budgets-wasted-on-unnecessary-business-complexity-freshworks-survey-finds/"
+ },
+ {
+  "value": "36%",
+  "claim": "SaaS licenses left unused on average",
+  "source": "Zylo 2026 SaaS Management Index",
+  "url": "https://zylo.com/news/2026-saas-management-index"
+ },
+ {
+  "value": "81%",
+  "claim": "SaaS spend controlled by business units",
+  "source": "Zylo 2026 SaaS Management Index",
+  "url": "https://zylo.com/news/2026-saas-management-index"
+ },
+ {
+  "value": "15%",
+  "claim": "SaaS spend directly managed by IT",
+  "source": "Zylo 2026 SaaS Management Index",
+  "url": "https://zylo.com/news/2026-saas-management-index"
+ },
+ {
+  "value": "$9,455",
+  "claim": "median SaaS spend per employee",
+  "source": "Zylo 2026 SaaS Management Index",
+  "url": "https://zylo.com/news/2026-saas-management-index"
+ },
+ {
+  "value": "78%",
+  "claim": "IT leaders reporting unexpected charges",
+  "source": "Zylo 2026 SaaS Management Index",
+  "url": "https://zylo.com/news/2026-saas-management-index"
+ },
+ {
+  "value": "61%",
+  "claim": "IT leaders forced to cut projects",
+  "source": "Zylo 2026 SaaS Management Index",
+  "url": "https://zylo.com/news/2026-saas-management-index"
+ },
+ {
+  "value": "108%",
+  "claim": "AI-native app spend growth overall",
+  "source": "Zylo 2026 SaaS Management Index",
+  "url": "https://zylo.com/news/2026-saas-management-index"
+ },
+ {
+  "value": "29.2%",
+  "claim": "data center systems growth 2025",
+  "source": "Gartner India IT spending forecast, Nov 2025",
+  "url": "https://www.gartner.com/en/newsroom/press-releases/2025-11-18-gartner-forecasts-india-it-spending-to-exceed-176-billion-us-dollars-in-2026"
+ },
+ {
+  "value": "12.1%",
+  "claim": "software growth 2025",
+  "source": "Gartner India IT spending forecast, Nov 2025",
+  "url": "https://www.gartner.com/en/newsroom/press-releases/2025-11-18-gartner-forecasts-india-it-spending-to-exceed-176-billion-us-dollars-in-2026"
+ },
+ {
+  "value": "7.0%",
+  "claim": "IT services growth 2025",
+  "source": "Gartner India IT spending forecast, Nov 2025",
+  "url": "https://www.gartner.com/en/newsroom/press-releases/2025-11-18-gartner-forecasts-india-it-spending-to-exceed-176-billion-us-dollars-in-2026"
+ },
+ {
+  "value": "9.4%",
+  "claim": "devices growth 2025",
+  "source": "Gartner India IT spending forecast, Nov 2025",
+  "url": "https://www.gartner.com/en/newsroom/press-releases/2025-11-18-gartner-forecasts-india-it-spending-to-exceed-176-billion-us-dollars-in-2026"
+ },
+ {
+  "value": "$75 billion",
+  "claim": "SaaS spend under management in Zylo dataset",
+  "source": "Zylo 2026 SaaS Management Index",
+  "url": "https://zylo.com/news/2026-saas-management-index"
+ },
+ {
+  "value": "$176 billion",
+  "claim": "Gartner headline: India IT spending to exceed $176 billion in 2026",
+  "source": "Gartner India IT spending forecast, Nov 2025",
+  "url": "https://www.gartner.com/en/newsroom/press-releases/2025-11-18-gartner-forecasts-india-it-spending-to-exceed-176-billion-us-dollars-in-2026"
+ }
+]
