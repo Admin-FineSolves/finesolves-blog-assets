@@ -1,0 +1,9 @@
+{"brand":"finehealth",
+ "problem":{"pill":"OPEN BILLING COUNTER","label":"WAITING SINCE","clock":["10:42","13:58"],
+   "captions":["Most hospitals pick:","more staff at the counter,","or patients who wait?"]},
+ "pivot":"Neither.",
+ "beats":[
+  {"headline":"Register once.","prop":"merge","items":["OPD SLIP","LAB REPORT","PRESCRIPTION"],"result":"ONE PATIENT RECORD","caption":"One record from the first visit."},
+  {"headline":"Bill as care happens.","prop":"build","days":["DAY 1","DAY 2","DAY 3"],"rows":["Room · Day 1","Lab · CBC","Room · Day 2","Pharmacy"],"result":"BILL READY","caption":"Every charge added the day it happens."},
+  {"headline":"Discharge on time.","prop":"flip","context":"BED 12 · IPD","button":"Discharge","states":["BILL PENDING","BILL READY"],"caption":"So the bill is ready when the doctor is."}],
+ "end":{"line":"FineHealth by Fine Solves","tag":"HOSPITAL MANAGEMENT SYSTEM"}}
