@@ -1,0 +1,11 @@
+[
+ {"type":"bar","title":"Customer support leads bank AI use","subtitle":"Share of AI use cases, Indian regulated entities, RBI FREE-AI committee survey","unit":"%",
+  "data":[["Customer support",15.6],["Credit underwriting",13.7],["Sales and marketing",11.8],["Cybersecurity",10.6]],
+  "highlight":"Customer support","source":"Source: RBI FREE-AI Committee Report (Aug 2025), via Dvara Research"},
+ {"type":"bar","title":"Few AI users run basic safeguards","subtitle":"Share of 127 AI-using Indian financial entities with each control in place","unit":"%",
+  "data":[["Bias and fairness validation",35],["Data or model drift monitoring",21],["Audit logs",18],["Interpretation tools",15],["Real-time performance monitoring",14],["Bias mitigation protocols",10]],
+  "highlight":"Bias mitigation protocols","source":"Source: RBI FREE-AI Committee Report (Aug 2025), via Dvara Research"},
+ {"type":"bar","title":"AI cyber threats top banks' risk list","subtitle":"Share of 33 banks and 10 upper-layer NBFCs naming each as a top-3 risk, next 12 months","unit":"%",
+  "data":[["AI-enabled cyber threats",95],["Third-party and supply chain",70],["Ransomware and malware",28],["API and application flaws",23]],
+  "highlight":"AI-enabled cyber threats","source":"Source: RBI Financial Stability Report, June 2026 (via Multibagg)"}
+]
