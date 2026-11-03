@@ -1,0 +1,91 @@
+[
+ {
+  "type": "column",
+  "title": "Fewer health claims rejected in FY25",
+  "subtitle": "Share of registered health claims, all insurers, FY24 vs FY25",
+  "unit": "%",
+  "series": [
+   "FY24",
+   "FY25"
+  ],
+  "data": [
+   [
+    "Settled",
+    83,
+    87
+   ],
+   [
+    "Repudiated",
+    11,
+    8
+   ],
+   [
+    "Pending",
+    6,
+    5
+   ]
+  ],
+  "source": "Source: IRDAI annual report 2024-25, via IndiaMedToday, Jan 2026"
+ },
+ {
+  "type": "bar",
+  "title": "Many patients wait hours after approval",
+  "subtitle": "Discharge time after claim approval, 30,366 claimants, 2024",
+  "unit": "%",
+  "data": [
+   [
+    "24–48 hours",
+    21
+   ],
+   [
+    "12–24 hours",
+    12
+   ],
+   [
+    "9–12 hours",
+    14
+   ],
+   [
+    "6–9 hours",
+    12
+   ],
+   [
+    "3–6 hours",
+    21
+   ],
+   [
+    "1–3 hours",
+    12
+   ],
+   [
+    "Instantly",
+    8
+   ]
+  ],
+  "highlight": "24–48 hours",
+  "source": "Source: LocalCircles survey, via Moneylife, Jan 2025"
+ },
+ {
+  "type": "column",
+  "title": "Health cover jumped since 2017-18",
+  "subtitle": "Share of people with health insurance, NSS surveys",
+  "unit": "%",
+  "series": [
+   "2017-18",
+   "2025"
+  ],
+  "data": [
+   [
+    "Rural",
+    14,
+    47
+   ],
+   [
+    "Urban",
+    19,
+    44
+   ]
+  ],
+  "source": "Source: MoSPI NSS health survey 2025, via Business Today, Apr 2026"
+ }
+]
