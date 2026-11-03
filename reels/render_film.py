@@ -238,15 +238,17 @@ def build(spec):
     # ---------------- END
     E = spec.get("end", {})
     es = t
-    logo = HERE / "assets" / "logo-colour.png"
-    logo_html = f'<img src="{b64img(logo)}" style="max-width:430px">' if logo.exists() else '<span class="wm">Fine <b>Solves</b></span>'
-    f.el("endlogo", logo_html, 0, 760, "center")
-    f.show("endlogo", es + 0.1, None, "blur")
-    f.el("endline", headline_html(E.get("line", ""), dot=False), 0, 900, "endline center")
-    f.show("endline", es + 0.35, None, "blur")
-    if E.get("tag"):
-        f.el("endtag", esc(E["tag"]), 0, 1010, "mono endtag center"); f.show("endtag", es + 0.6, None, "rise")
-    f.el("endsite", "finesolves.com", 0, 1080, "mono endsite center"); f.show("endsite", es + 0.8, None, "rise")
+    # End card: product reels close on the product lockup alone ("FineHealth by Fine Solves").
+    # Only agency reels (no product line) show the Fine Solves logo.
+    line = E.get("line", "")
+    if "by Fine Solves" in line or not line:
+        f.el("endline", headline_html(line or "Fine Solves", dot=False), 0, 900, "endline center big2")
+        f.show("endline", es + 0.15, None, "blur")
+    else:
+        logo = HERE / "assets" / "logo-colour.png"
+        logo_html = f'<img src="{b64img(logo)}" style="max-width:430px">' if logo.exists() else '<span class="wm">Fine <b>Solves</b></span>'
+        f.el("endlogo", logo_html, 0, 800, "center"); f.show("endlogo", es + 0.1, None, "blur")
+        f.el("endline", headline_html(line, dot=False), 0, 940, "endline center"); f.show("endline", es + 0.35, None, "blur")
     f.snd("pluck", es + 0.1, note=0); f.snd("pluck", es + 0.35, note=4); f.snd("pluck", es + 0.6, note=7)
     total = es + 3.0
     # ---------------- cursor
@@ -337,6 +339,7 @@ body{font-family:IN,sans-serif;color:#092040;position:relative}
 .wm{font-family:SG;font-weight:700;font-size:96px;letter-spacing:-.045em;color:#092040}
 .wm b{font-weight:700;color:#08545C}
 .endline{font-family:SG;font-weight:600;font-size:64px;letter-spacing:-.04em}
+.endline.big2{font-size:84px}
 .endtag{font-size:28px;color:#08545C}
 .endsite{font-size:30px;color:#56645F}
 /* cursor */
