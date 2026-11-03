@@ -1,0 +1,6 @@
+{"id":"test-09","brand":"finesolves","scenes":[
+ {"type":"headline","dur":2.6,"text":"“We'll manage\nin Excel.”"},
+ {"type":"counter","dur":5.4,"rows":["2 HRS / DAY","× 6 PEOPLE","= 12 HRS / DAY"],"result":"≈ 3,000 HRS / YEAR","note":"ILLUSTRATIVE · 250 WORKING DAYS"},
+ {"type":"headline","dur":3.0,"text":"That's a full-time hire.\nSpent retyping.","highlight":"retyping."},
+ {"type":"headline","dur":3.0,"text":"One focused system.\nLive in weeks."},
+ {"type":"end","dur":3.0,"line":"Custom products for how you actually work."}]}
