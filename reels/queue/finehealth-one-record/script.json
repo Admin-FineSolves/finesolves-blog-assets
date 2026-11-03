@@ -1,0 +1,7 @@
+{"id":"demo-fh","brand":"finehealth","music":"pulse","scenes":[
+ {"type":"kinetic","dur":2.8,"eyebrow":"REGISTRATION · 9:15 AM","text":"Ramesh Patel.\nRamesh Patil."},
+ {"type":"kinetic","dur":2.6,"text":"Same patient.\nTwo files.","highlight":"Two files.","hl_style":"block"},
+ {"type":"chaos","dur":5.4,"title":"His history is\neverywhere.","chips":["OPD SLIP","LAB REPORT","PRESCRIPTION","IPD FILE","BILL"],"label":"ONE PATIENT RECORD"},
+ {"type":"ui","dur":5.8,"title":"One record.\nEvery visit.","window":"PATIENT · UHID 10482","rows":[{"label":"OPD visit","value":"ADDED"},{"label":"Lab report","value":"ADDED"},{"label":"Prescription","value":"ADDED"},{"label":"Bill","value":"GST-READY"}],"status":["UPDATING","UP TO DATE"]},
+ {"type":"steps","dur":3.4,"items":["Register.","Treat.","Bill."],"transition":"bands"},
+ {"type":"end","dur":3.2,"line":"FineHealth by Fine Solves","tag":"HOSPITAL MANAGEMENT SYSTEM"}]}

@@ -40,17 +40,23 @@ Write `$R/meta.json`:
 `primary_keyword` is what a buyer would type into Google, and it must open the first caption line. Caption prose can't say "software", so pick keywords without that word: hospital management system, hospital billing, clinic management, HMS India, HR and payroll, leave management, attendance management, custom product development, AI product development, business process automation, Tally integration. The searchable "…Software" forms go in the hashtags.
 
 ## 3. Write `$R/script.json`
-Format: see the header of `reels/render_reel.py`. Scene types: `headline`, `cards`, `steps`, `counter`, `end`.
+**Queue first:** if `reels/queue/` has a folder whose `meta.json` brand matches today's brand, use it. Copy its script.json, meta.json and captions.json into `$R`, then `git rm -r` that queue folder in the same commit as the reel. Skip to step 5.
 
-Shape (16–22 s, 5–7 scenes), the same three-act turn as batches 1–2:
-1. **Hook (2.6–3 s):** the problem as the viewer would say it. Optional mono eyebrow for place/time ("OPD · 10:42 AM", "MONTH END · 9:40 PM").
-2. **Twist (2.6–3 s):** where it actually hurts; one `highlight` phrase gets the teal bar.
-3. **Evidence (4–5 s):** `cards` (2–3 concrete steps of the messy process) or a `counter` with ILLUSTRATIVE maths.
-4. **Consequence (2.6 s):** one dry line ("Same patient. Entered three times.").
-5. **Resolution (3–3.5 s):** `steps` in threes ("Register. Treat. Bill.") or one headline.
-6. **End card (3 s):** `line` = "FineHealth by Fine Solves" / "FineHR by Fine Solves" / a one-line Fine Solves promise; `tag` = mono label: "HOSPITAL MANAGEMENT SYSTEM" or "GST-READY HOSPITAL BILLING" for FineHealth, "ONE SYSTEM FOR HR" for FineHR, "CUSTOM PRODUCTS · AI" or none for Fine Solves.
+Otherwise write a new one. Format: see the header of `reels/render_reel.py`. The aim is a reel that feels good to watch: constant gentle motion, one satisfying "click into place" moment, and a rhythm of short beats.
 
-Copy rules: headline ≤10 words, each authored line ≤26 characters (use `\n` to break), sentence case, short declaratives. Card text ≤40 characters. Voice: direct, practical, a little dry, senior engineers who respect the reader's time.
+**Scene vocabulary**
+- `kinetic`: big words revealed word by word through a mask. Use for the hook, twists and punchlines. `highlight` + `hl_style` "bar" (underline) or "block" (teal fill) on the one phrase that matters. Optional mono `eyebrow` (typed on) for place/time.
+- `chaos`: 3–6 mono chips drift around, then snap into one tidy card with ticks. The signature "mess → order" moment: scattered tools, files or steps becoming one system.
+- `ui`: a product window builds itself: rows rise in, values type on, a teal progress line runs, and the status chip flips to teal at the end. Use for FineHealth / Fine Solves "how it works". Show only allowed claims. For FineHR use `chaos` or `kinetic` instead, since a UI implies features.
+- `compare`: today's steps appear and get struck through one by one, then a navy card rises with the new way.
+- `bignum`: one giant number ticks up, with a mono unit on a teal block. Only ILLUSTRATIVE maths or a sourced stat.
+- `steps`: three short lines with dots lighting up along a line ("Register. Treat. Bill.").
+- `end`: logo, end line, tag, finesolves.com, brand bands sliding into the corner.
+- `"transition": "bands"` on a scene = a navy/teal diagonal slab wipes across the cut into it. Use once per reel, before the resolution.
+
+**Shape** (16–24 s, 5–6 scenes): hook `kinetic` (2.6–3 s) → twist `kinetic` (2.5–2.8 s) → one set-piece: `chaos` / `ui` / `compare` / `bignum` (4.2–5.8 s) → optional second set-piece or punchline → resolution `steps` or `kinetic` with `"transition":"bands"` (2.8–3.4 s) → `end` (3.2 s). Every reel needs at least one set-piece. Don't use the same set-piece two reels in a row (check the previous script in `reels/out/`).
+
+**Copy rules:** headline ≤10 words, every authored line ≤26 characters (break with `\n`), chips ≤18 characters, card and row text ≤40, sentence case, short declaratives, dry and specific. Hooks work best as something the viewer has said or heard ("How many leaves do I have left?") or a time and place ("OPD · 10:42 AM"). End lines: "FineHealth by Fine Solves" (tag HOSPITAL MANAGEMENT SYSTEM or GST-READY HOSPITAL BILLING), "FineHR by Fine Solves" (tag ONE SYSTEM FOR HR), or a short Fine Solves promise like "Custom products,\nlive in weeks." (tag CUSTOM PRODUCTS · AI).
 
 ## 4. Write `$R/captions.json`
 ```json
@@ -65,9 +71,9 @@ Copy rules: headline ≤10 words, each authored line ≤26 characters (use `\n` 
 ## 5. Pre-render audit, render, look
 ```bash
 python3 reels/audit_reel.py $R --prerender        # fix until PASS
-python3 reels/render_reel.py $R/script.json $R    # ~30 s; writes reel.mp4, cover.jpg, still-NN.png
+python3 reels/render_reel.py $R/script.json $R    # ~40 s; writes reel.mp4 (sound designed, loudness-normalised), cover.jpg, still-NN.png
 ```
-Open **every** `still-NN.png` with Read (and `cover.jpg`). Check: nothing clipped or overlapping, nothing below y≈1460 except the small wordmark, the teal used once per scene at most, every word spelled right, and the cover works as a thumbnail (it's the settled first scene). Fix the script and re-render if not.
+Open **every** `still-NN.png` with Read (and `cover.jpg`). Check: nothing clipped or overlapping, nothing below y≈1460 except the small wordmark and end-card bands, every word spelled right, and the cover works as a thumbnail (it's the settled first scene). Then pull 4–5 mid-motion frames from reel.mp4 (`ffmpeg -ss <t> -i $R/reel.mp4 -frames:v 1 f.png`), especially inside chaos, compare and ui scenes, and check that moving elements never cover the headline. Fix the script and re-render if not.
 
 ## 6. Final audit (must PASS)
 ```bash

@@ -32,12 +32,15 @@ def check(ok, msg, critical=True):
 def onscreen_texts(script):
     out = []
     for s in script["scenes"]:
-        for k in ("eyebrow", "text", "sub", "title", "result", "note", "line", "tag"):
+        for k in ("eyebrow", "text", "sub", "title", "result", "note", "line", "tag", "label", "window",
+                  "before_label", "after_label", "after", "value", "unit"):
             if s.get(k):
                 out.append(s[k])
         for c in s.get("cards", []):
             out += [c["label"], c["text"]]
-        out += s.get("items", []) + s.get("rows", [])
+        for r in s.get("rows", []):
+            out += [r["label"], r.get("value", "")] if isinstance(r, dict) else [r]
+        out += s.get("items", []) + s.get("chips", []) + s.get("before", []) + list(s.get("status", []))
     return out
 
 
@@ -56,10 +59,19 @@ def main():
     check(sc[-1]["type"] == "end", "last scene is the end card")
     check(14 <= total <= 30, f"total length 14–30s ({total:.1f}s)")
     check(4 <= len(sc) <= 8, f"4–8 scenes ({len(sc)})")
+    motion = {"chaos", "ui", "compare", "bignum"} & {x["type"] for x in sc}
+    check(bool(motion), "uses at least one motion set-piece (chaos, ui, compare or bignum)")
+    check(any(x.get("transition") == "bands" for x in sc), "has one band-wipe transition", critical=False)
     for i, s in enumerate(sc):
-        n_items = len(s.get("cards", [])) + len(s.get("items", [])) + len(s.get("rows", []))
-        need = 2.3 + 0.32 * max(n_items - 1, 0) + (0.8 if s["type"] == "counter" else 0)
+        n_items = sum(len(s.get(k, [])) for k in ("cards", "items", "rows", "chips", "before"))
+        extra = {"counter": 0.8, "chaos": 1.6, "ui": 1.4, "compare": 1.6, "bignum": 1.6}.get(s["type"], 0)
+        need = 2.3 + 0.32 * max(n_items - 1, 0) + extra
         check(float(s["dur"]) >= need, f"scene {i+1} holds long enough to read ({s['dur']}s ≥ {need:.1f}s)")
+        for k in ("title", "after"):
+            for ln in (s.get(k) or "").split("\n"):
+                check(len(ln) <= 26, f"scene {i+1} {k} line ≤26 chars: “{ln}” ({len(ln)})")
+        for c in s.get("chips", []):
+            check(len(c) <= 18, f"scene {i+1} chip ≤18 chars: “{c}”")
         if s.get("text"):
             words = len(re.findall(r"\w[\w'’-]*", s["text"]))
             check(words <= 10, f"scene {i+1} headline ≤10 words ({words})")
@@ -97,8 +109,9 @@ def main():
 
     # ---- numbers must be illustrative-labelled or sourced
     claim_vals = {c["value"] for c in claims}
+    ui_labels = {x.get("window") for x in sc if x.get("window")}   # mock UI ids (e.g. "BED 12") aren't statistics
     for chunk in onscreen_texts(script) + re.split(r"(?<=[.!?\n])", captions_text):
-        if OK_NUMBER_CONTEXT.match(chunk.strip()):
+        if chunk in ui_labels or OK_NUMBER_CONTEXT.match(chunk.strip()):
             continue
         nums = re.findall(r"\d[\d,]*(?:\.\d+)?\s?%?", re.sub(r"#\w+|finesolves\.com|\b(0?\d|1\d|2[0-4]):\d\d\b|\b0[1-9]\b", "", chunk))
         for n in nums:

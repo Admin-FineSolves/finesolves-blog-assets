@@ -1,0 +1,6 @@
+{"id":"demo-hr","brand":"finehr","music":"pulse","scenes":[
+ {"type":"kinetic","dur":2.9,"eyebrow":"HR DESK · 11:40 AM","text":"“How many leaves\ndo I have left?”"},
+ {"type":"kinetic","dur":2.5,"text":"Asked again.\nAnd again.","highlight":"And again.","hl_style":"bar"},
+ {"type":"chaos","dur":5.2,"title":"The answer\nlives in…","chips":["REGISTER","EXCEL","EMAIL","WHATSAPP","SOMEONE'S MEMORY"],"label":"ONE PLACE"},
+ {"type":"kinetic","dur":2.8,"text":"One place to look.\nOne answer.","highlight":"One answer.","hl_style":"block","transition":"bands"},
+ {"type":"end","dur":3.2,"line":"FineHR by Fine Solves","tag":"ONE SYSTEM FOR HR"}]}
