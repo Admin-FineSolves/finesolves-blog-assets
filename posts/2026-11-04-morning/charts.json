@@ -1,0 +1,11 @@
+[
+ {"type":"bar","title":"Import GST grew fastest in October","subtitle":"Year-on-year growth in GST revenue, October 2026 vs October 2025","unit":"%",
+  "data":[["Import GST",42.2],["Net GST (after refunds)",25.6],["Gross GST",22.9],["Domestic GST (gross)",15.8],["Gross GST, April–October",13.2]],
+  "highlight":"Import GST","source":"Source: Ministry of Finance provisional data, via The Tribune / ANI, 1 Nov 2026"},
+ {"type":"bar","title":"Consumer staples lag factory growth","subtitle":"IIP growth by use-based category, September 2026, year on year","unit":"%",
+  "data":[["Intermediate goods",12.2],["Capital goods",10.4],["Infrastructure goods",7.2],["Consumer durables",6.0],["Primary goods",4.0],["Consumer non-durables",1.4]],
+  "highlight":"Consumer non-durables","source":"Source: PIB, Quick Estimates of IIP for September 2026 (28 Oct 2026)"},
+ {"type":"bar","title":"AI planning gains, upper bounds","subtitle":"Maximum reductions McKinsey found from AI forecasting and planning","unit":"%",
+  "data":[["Lost sales",65],["Forecast errors",50],["Administration costs",40],["Inventory",20],["Supply chain costs",10]],
+  "highlight":"Inventory","source":"Source: McKinsey operations forecasting and planning studies, 2022"}
+]
