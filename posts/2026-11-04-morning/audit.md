@@ -8,7 +8,7 @@
 | SEO | Primary keyword in title * | ✅ | india manufacturing pmi |
 | SEO | Primary keyword in first 100 words * | ✅ |  |
 | SEO | Primary keyword (or its words) in an H2 | ✅ |  |
-| SEO | Word count 1,400–2,400 * | ✅ | 1832 words |
+| SEO | Word count 1,400–2,400 * | ✅ | 1833 words |
 | SEO | At least 6 H2 sections * | ✅ | 10 H2 |
 | SEO | Every image has descriptive alt (≥20 chars) * | ✅ | 5 images |
 | SEO | Internal link to finesolves.com * | ✅ |  |
