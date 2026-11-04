@@ -1,4 +1,4 @@
-{"id":"demo-fs","brand":"finesolves","music":"pulse","scenes":[
+{"id":"2026-11-04","brand":"finesolves","music":"pulse","scenes":[
  {"type":"kinetic","dur":2.9,"eyebrow":"MONDAY · 9:02 AM","text":"Someone is building\nthe weekly report.","highlight":"weekly report.","hl_style":"bar"},
  {"type":"compare","dur":5.6,"before_label":"EVERY MONDAY","before":["Export from 4 tools","Paste into Excel","Fix the formulas","Email the PDF"],"after_label":"WITH ONE SYSTEM","after":"It's ready\nbefore you are."},
  {"type":"bignum","dur":4.2,"label":"TIME IT TAKES","value":"200","unit":"HRS / YEAR","sub":"4 hours every Monday","note":"ILLUSTRATIVE · 50 WORKING WEEKS"},
