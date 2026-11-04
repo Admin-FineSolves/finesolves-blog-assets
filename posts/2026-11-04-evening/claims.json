@@ -1,0 +1,230 @@
+[
+ {
+  "value": "4%",
+  "claim": "Indian organisations saying enterprise data is fully ready to support AI at scale",
+  "source": "Dun & Bradstreet AI Momentum Survey, India, via CXOtoday, Aug 2026",
+  "url": "https://cxotoday.com/research/indian-firms-rush-into-ai-but-96-lack-data-readiness/"
+ },
+ {
+  "value": "58%",
+  "claim": "Indian organisations describing enterprise data as partially ready for AI",
+  "source": "Dun & Bradstreet AI Momentum Survey, India, via CXOtoday, Aug 2026",
+  "url": "https://cxotoday.com/research/indian-firms-rush-into-ai-but-96-lack-data-readiness/"
+ },
+ {
+  "value": "30%",
+  "claim": "Indian organisations describing data as mostly ready; also share scaling AI into production",
+  "source": "Dun & Bradstreet AI Momentum Survey, India, via CXOtoday, Aug 2026",
+  "url": "https://cxotoday.com/research/indian-firms-rush-into-ai-but-96-lack-data-readiness/"
+ },
+ {
+  "value": "44%",
+  "claim": "Indian organisations in AI planning or piloting stage",
+  "source": "Dun & Bradstreet AI Momentum Survey, India, via CXOtoday, Aug 2026",
+  "url": "https://cxotoday.com/research/indian-firms-rush-into-ai-but-96-lack-data-readiness/"
+ },
+ {
+  "value": "19%",
+  "claim": "Indian organisations that have operationalised AI across multiple core processes",
+  "source": "Dun & Bradstreet AI Momentum Survey, India, via CXOtoday, Aug 2026",
+  "url": "https://cxotoday.com/research/indian-firms-rush-into-ai-but-96-lack-data-readiness/"
+ },
+ {
+  "value": "7%",
+  "claim": "Indian organisations deploying agentic AI workflows",
+  "source": "Dun & Bradstreet AI Momentum Survey, India, via CXOtoday, Aug 2026",
+  "url": "https://cxotoday.com/research/indian-firms-rush-into-ai-but-96-lack-data-readiness/"
+ },
+ {
+  "value": "73%",
+  "claim": "Indian organisations reporting some measurable return from AI",
+  "source": "Dun & Bradstreet AI Momentum Survey, India, via CXOtoday, Aug 2026",
+  "url": "https://cxotoday.com/research/indian-firms-rush-into-ai-but-96-lack-data-readiness/"
+ },
+ {
+  "value": "23%",
+  "claim": "Indian organisations reporting broad or strong ROI across multiple projects",
+  "source": "Dun & Bradstreet AI Momentum Survey, India, via CXOtoday, Aug 2026",
+  "url": "https://cxotoday.com/research/indian-firms-rush-into-ai-but-96-lack-data-readiness/"
+ },
+ {
+  "value": "69%",
+  "claim": "Indian organisations planning to increase AI investment (D&B); global share with AI widely adopted (Hitachi Vantara)",
+  "source": "Dun & Bradstreet AI Momentum Survey, India, via CXOtoday, Aug 2026",
+  "url": "https://cxotoday.com/research/indian-firms-rush-into-ai-but-96-lack-data-readiness/"
+ },
+ {
+  "value": "63%",
+  "claim": "organisations that lack or are unsure they have the right data management practices for AI",
+  "source": "Gartner, Lack of AI-Ready Data Puts AI Projects at Risk, Feb 2025",
+  "url": "https://www.gartner.com/en/newsroom/press-releases/2025-02-26-lack-of-ai-ready-data-puts-ai-projects-at-risk"
+ },
+ {
+  "value": "60%",
+  "claim": "AI projects unsupported by AI-ready data that Gartner predicts will be abandoned through 2026",
+  "source": "Gartner, Lack of AI-Ready Data Puts AI Projects at Risk, Feb 2025",
+  "url": "https://www.gartner.com/en/newsroom/press-releases/2025-02-26-lack-of-ai-ready-data-puts-ai-projects-at-risk"
+ },
+ {
+  "value": "89%",
+  "claim": "Indian organisations that have widely adopted AI or made it central to operations (Hitachi Vantara); data and analytics leaders saying they must modernise data strategies for AI (Salesforce)",
+  "source": "Hitachi Vantara data infrastructure survey, via CIOL, Jan 2026",
+  "url": "https://www.ciol.com/news/indian-companies-lead-ai-adoption-infrastructure-gap-11042078"
+ },
+ {
+  "value": "55%",
+  "claim": "Indian organisations at mature data-readiness stages",
+  "source": "Hitachi Vantara data infrastructure survey, via CIOL, Jan 2026",
+  "url": "https://www.ciol.com/news/indian-companies-lead-ai-adoption-infrastructure-gap-11042078"
+ },
+ {
+  "value": "45%",
+  "claim": "Indian organisations relying on weaker data systems",
+  "source": "Hitachi Vantara data infrastructure survey, via CIOL, Jan 2026",
+  "url": "https://www.ciol.com/news/indian-companies-lead-ai-adoption-infrastructure-gap-11042078"
+ },
+ {
+  "value": "87%",
+  "claim": "Indian organisations saying data infrastructure is becoming more complex",
+  "source": "Hitachi Vantara data infrastructure survey, via CIOL, Jan 2026",
+  "url": "https://www.ciol.com/news/indian-companies-lead-ai-adoption-infrastructure-gap-11042078"
+ },
+ {
+  "value": "80%",
+  "claim": "global organisations saying data infrastructure is becoming more complex",
+  "source": "Hitachi Vantara data infrastructure survey, via CIOL, Jan 2026",
+  "url": "https://www.ciol.com/news/indian-companies-lead-ai-adoption-infrastructure-gap-11042078"
+ },
+ {
+  "value": "76%",
+  "claim": "Indian organisations using outside partners or vendors for parts of AI work",
+  "source": "Hitachi Vantara data infrastructure survey, via CIOL, Jan 2026",
+  "url": "https://www.ciol.com/news/indian-companies-lead-ai-adoption-infrastructure-gap-11042078"
+ },
+ {
+  "value": "54%",
+  "claim": "Indian organisations struggling with data quality, highest in APAC",
+  "source": "IDC InfoBrief for Qlik, via Voice&Data, Apr 2025",
+  "url": "https://www.voicendata.com/research/poor-data-quality-and-governance-challenge-indias-ai-ambitions-8968956"
+ },
+ {
+  "value": "50.4%",
+  "claim": "APAC organisations with data quality concerns",
+  "source": "IDC InfoBrief for Qlik, via Voice&Data, Apr 2025",
+  "url": "https://www.voicendata.com/research/poor-data-quality-and-governance-challenge-indias-ai-ambitions-8968956"
+ },
+ {
+  "value": "22%",
+  "claim": "Indian organisations reporting measurable outcomes from AI/ML deployments",
+  "source": "IDC InfoBrief for Qlik, via Voice&Data, Apr 2025",
+  "url": "https://www.voicendata.com/research/poor-data-quality-and-governance-challenge-indias-ai-ambitions-8968956"
+ },
+ {
+  "value": "62%",
+  "claim": "Indian organisations identifying shortcomings in data governance and privacy frameworks",
+  "source": "IDC InfoBrief for Qlik, via Voice&Data, Apr 2025",
+  "url": "https://www.voicendata.com/research/poor-data-quality-and-governance-challenge-indias-ai-ambitions-8968956"
+ },
+ {
+  "value": "28%",
+  "claim": "Indian organisations concerned about AI data bias",
+  "source": "IDC InfoBrief for Qlik, via Voice&Data, Apr 2025",
+  "url": "https://www.voicendata.com/research/poor-data-quality-and-governance-challenge-indias-ai-ambitions-8968956"
+ },
+ {
+  "value": "$9.2 billion",
+  "claim": "projected India AI spending by 2028",
+  "source": "IDC InfoBrief for Qlik, via Voice&Data, Apr 2025",
+  "url": "https://www.voicendata.com/research/poor-data-quality-and-governance-challenge-indias-ai-ambitions-8968956"
+ },
+ {
+  "value": "35%",
+  "claim": "CAGR of India AI spending",
+  "source": "IDC InfoBrief for Qlik, via Voice&Data, Apr 2025",
+  "url": "https://www.voicendata.com/research/poor-data-quality-and-governance-challenge-indias-ai-ambitions-8968956"
+ },
+ {
+  "value": "43%",
+  "claim": "data leaders citing lack of data quality and readiness as the biggest obstacle to production",
+  "source": "Informatica survey of 600 data leaders, via ITPro, Jan 2025",
+  "url": "https://www.itpro.com/technology/artificial-intelligence/only-a-handful-of-generative-ai-projects-make-it-into-production-heres-why"
+ },
+ {
+  "value": "38%",
+  "claim": "AI projects that have transitioned into production",
+  "source": "Informatica survey of 600 data leaders, via ITPro, Jan 2025",
+  "url": "https://www.itpro.com/technology/artificial-intelligence/only-a-handful-of-generative-ai-projects-make-it-into-production-heres-why"
+ },
+ {
+  "value": "67%",
+  "claim": "firms that have seen less than half of GenAI pilots reach production",
+  "source": "Informatica survey of 600 data leaders, via ITPro, Jan 2025",
+  "url": "https://www.itpro.com/technology/artificial-intelligence/only-a-handful-of-generative-ai-projects-make-it-into-production-heres-why"
+ },
+ {
+  "value": "41%",
+  "claim": "firms that slowed, paused or halted GenAI initiatives in the past year",
+  "source": "Informatica survey of 600 data leaders, via ITPro, Jan 2025",
+  "url": "https://www.itpro.com/technology/artificial-intelligence/only-a-handful-of-generative-ai-projects-make-it-into-production-heres-why"
+ },
+ {
+  "value": "26%",
+  "claim": "CDOs confident data capabilities can support new AI-enabled revenue streams (IBM); share of organisational data siloed and inaccessible (Salesforce)",
+  "source": "IBM Institute for Business Value, 2025 CDO Study, Nov 2025",
+  "url": "https://www.ibm.com/think/news/what-1700-chief-data-officers-are-saying-about-data-ai"
+ },
+ {
+  "value": "83%",
+  "claim": "CDOs saying data silos hinder innovation and real-time analytics",
+  "source": "IBM Institute for Business Value, 2025 CDO Study, Nov 2025",
+  "url": "https://www.ibm.com/think/news/what-1700-chief-data-officers-are-saying-about-data-ai"
+ },
+ {
+  "value": "78%",
+  "claim": "CDOs saying proprietary data would help their organisation stand out",
+  "source": "IBM Institute for Business Value, 2025 CDO Study, Nov 2025",
+  "url": "https://www.ibm.com/think/news/what-1700-chief-data-officers-are-saying-about-data-ai"
+ },
+ {
+  "value": "12%",
+  "claim": "organisations saying their data is of sufficient quality and accessibility for AI",
+  "source": "Precisely and Drexel LeBow, 2025 Outlook: Data Integrity Trends, Sep 2024",
+  "url": "https://www.precisely.com/press-release/new-global-research-points-to-lack-of-data-quality-and-governance-as-major-obstacles-to-ai-readiness"
+ },
+ {
+  "value": "77%",
+  "claim": "organisations rating their data quality as average or worse",
+  "source": "Precisely and Drexel LeBow, 2025 Outlook: Data Integrity Trends, Sep 2024",
+  "url": "https://www.precisely.com/press-release/new-global-research-points-to-lack-of-data-quality-and-governance-as-major-obstacles-to-ai-readiness"
+ },
+ {
+  "value": "94%",
+  "claim": "leaders with AI in production reporting inaccurate or misleading outputs",
+  "source": "Salesforce data and AI report, via Telangana Today (IANS), Dec 2025",
+  "url": "https://telanganatoday.com/89-of-indian-firms-need-data-overhaul-to-unlock-ai-value-report"
+ },
+ {
+  "value": "50%",
+  "claim": "leaders saying they wasted significant resources training AI on bad data",
+  "source": "Salesforce data and AI report, via Telangana Today (IANS), Dec 2025",
+  "url": "https://telanganatoday.com/89-of-indian-firms-need-data-overhaul-to-unlock-ai-value-report"
+ },
+ {
+  "value": "26%",
+  "claim": "share of organisational data siloed and inaccessible",
+  "source": "Salesforce data and AI report, via Telangana Today (IANS), Dec 2025",
+  "url": "https://telanganatoday.com/89-of-indian-firms-need-data-overhaul-to-unlock-ai-value-report"
+ },
+ {
+  "value": "89%",
+  "claim": "data and analytics leaders saying they must modernise data strategies for AI",
+  "source": "Salesforce data and AI report, via Telangana Today (IANS), Dec 2025",
+  "url": "https://telanganatoday.com/89-of-indian-firms-need-data-overhaul-to-unlock-ai-value-report"
+ },
+ {
+  "value": "69%",
+  "claim": "global organisations that have widely adopted AI or made it central",
+  "source": "Hitachi Vantara data infrastructure survey, via CIOL, Jan 2026",
+  "url": "https://www.ciol.com/news/indian-companies-lead-ai-adoption-infrastructure-gap-11042078"
+ }
+]

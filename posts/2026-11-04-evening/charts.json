@@ -1,0 +1,11 @@
+[
+ {"type":"bar","title":"Only 4% of Indian firms are data-ready","subtitle":"How Indian firms rate enterprise data readiness for AI at scale, 2026","unit":"%",
+  "data":[["Partially ready",58],["Mostly ready",30],["Fully ready",4]],"highlight":"Fully ready",
+  "source":"Source: Dun & Bradstreet AI Momentum Survey, India, via CXOtoday, Aug 2026"},
+ {"type":"bar","title":"Most Indian firms are still piloting AI","subtitle":"Share of Indian organisations by AI maturity stage, 2026","unit":"%",
+  "data":[["Planning or piloting",44],["Scaling into production",30],["Across multiple core processes",19],["Agentic AI workflows",7]],"highlight":"Planning or piloting",
+  "source":"Source: Dun & Bradstreet AI Momentum Survey, India, via CXOtoday, Aug 2026"},
+ {"type":"column","title":"India leads on AI and data complexity","subtitle":"Share of organisations, India vs global, Hitachi Vantara survey","unit":"%","series":["India","Global"],
+  "data":[["AI widely adopted or central",89,69],["Data infrastructure getting more complex",87,80]],
+  "source":"Source: Hitachi Vantara survey of 1,244 leaders, via CIOL, Jan 2026"}
+]
