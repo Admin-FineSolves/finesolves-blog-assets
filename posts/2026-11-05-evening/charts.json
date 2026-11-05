@@ -1,0 +1,11 @@
+[
+ {"type":"bar","title":"India's logistics cost now matches rich economies","subtitle":"Logistics cost as share of GDP; India FY2023-24 (DPIIT-NCAER)","unit":"%",
+  "data":[["Old estimate (13-14%)",14],["United States",8.8],["Australia",8.6],["Germany",8],["India (official)",7.97]],"highlight":"India (official)",
+  "source":"Source: DPIIT-NCAER via The Policy Edge 2025; Business Standard 2025; Maritime Gateway 2025"},
+ {"type":"bar","title":"Road costs nearly double rail per tonne-km","subtitle":"Average freight cost in India, ₹ per tonne-km, by mode (air at ₹72 not shown)","unit":"",
+  "data":[["Road",3.78],["Inland water",3.3],["Waterways (avg)",2.3],["Rail",1.96],["Coastal shipping",1.8]],"highlight":"Road",
+  "source":"Source: DPIIT-NCAER logistics cost study via ITLN and Logistics Insider, 2025"},
+ {"type":"bar","title":"Rail must grow from 27% to 45%","subtitle":"India freight modal share today vs National Logistics Policy rail projection","unit":"%",
+  "data":[["Road share today",71],["Rail share today",27],["Rail share projected",45]],"highlight":"Rail share projected",
+  "source":"Source: Business Standard, Nov 2025"}
+]
