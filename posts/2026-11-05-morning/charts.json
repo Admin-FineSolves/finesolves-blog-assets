@@ -1,0 +1,86 @@
+[
+ {
+  "type": "bar",
+  "title": "Public sector banks carry most fraud value",
+  "subtitle": "Amount involved in reported frauds by bank group, FY26 (₹ crore)",
+  "unit": "₹ cr",
+  "data": [
+   [
+    "Public sector banks",
+    35709
+   ],
+   [
+    "Private sector banks",
+    11399
+   ],
+   [
+    "Foreign banks",
+    290
+   ]
+  ],
+  "highlight": "Public sector banks",
+  "source": "Source: RBI Annual Report 2025-26 data, via Outlook Business (PTI), 29 May 2026"
+ },
+ {
+  "type": "column",
+  "title": "Loan fraud up, digital fraud down",
+  "subtitle": "Amount involved in reported bank frauds, FY24 to FY26 (₹ crore); card, internet and digital payments in teal",
+  "unit": "₹ cr",
+  "series": [
+   "Advances (loans)",
+   "Card and digital"
+  ],
+  "data": [
+   [
+    "FY24",
+    8917,
+    1452
+   ],
+   [
+    "FY25",
+    30367,
+    517
+   ],
+   [
+    "FY26",
+    40774,
+    29
+   ]
+  ],
+  "source": "Source: RBI Annual Report 2025-26 data, via Outlook Business (PTI), 29 May 2026"
+ },
+ {
+  "type": "bar",
+  "title": "Investment scams drove 77% of losses",
+  "subtitle": "Share of 2025 financial fraud losses reported to NCRP, by type",
+  "unit": "%",
+  "data": [
+   [
+    "Investment schemes",
+    77
+   ],
+   [
+    "Digital arrest scams",
+    8
+   ],
+   [
+    "Credit card fraud",
+    7
+   ],
+   [
+    "Sextortion",
+    4
+   ],
+   [
+    "E-commerce fraud",
+    3
+   ],
+   [
+    "App or malware scams",
+    1
+   ]
+  ],
+  "highlight": "Investment schemes",
+  "source": "Source: I4C / NCRP data via BrokersView, 4 Jan 2026"
+ }
+]
