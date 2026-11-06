@@ -1,0 +1,11 @@
+[
+ {"type":"column","title":"Indian firms give AI more autonomy","subtitle":"Share of business leaders, India vs all surveyed markets, Aug–Sep 2026 (%)","unit":"%","series":["India","All surveyed markets"],
+  "data":[["GenAI runs end-to-end",28,19],["Approval required",24,29],["Efficiency gains",44,36],["Productivity gains",42,36]],
+  "source":"Source: Avanade research by Vanson Bourne (3,600 decision-makers), via The Tribune / ANI, 3 Nov 2026"},
+ {"type":"bar","title":"High confidence, little proof of returns","subtitle":"Indian business leaders surveyed by Avanade, 2026 (% of respondents)","unit":"%",
+  "data":[["High or complete confidence in AI",82],["Returns don't yet justify spend",75],["No formal ROI calculation",74],["Integration a major challenge",48],["Teams reshaped around AI",23]],
+  "highlight":"Returns don't yet justify spend","source":"Source: Avanade research by Vanson Bourne, via The Tribune / ANI, 3 Nov 2026"},
+ {"type":"bar","title":"Product development leads at-scale AI use","subtitle":"Indian firms with at-scale AI deployment, by function, 2026 (%)","unit":"%",
+  "data":[["Product development",62],["Strategy and operations",56],["Marketing and sales",55],["Supply chain",48]],
+  "highlight":"Product development","source":"Source: Deloitte India, State of AI in the Enterprise 2026, 24 Mar 2026"}
+]
