@@ -8,7 +8,7 @@
 | SEO | Primary keyword in title * | ✅ | technical debt cost |
 | SEO | Primary keyword in first 100 words * | ✅ |  |
 | SEO | Primary keyword (or its words) in an H2 | ✅ |  |
-| SEO | Word count 1,400–2,400 * | ✅ | 2191 words |
+| SEO | Word count 1,400–2,400 * | ✅ | 2194 words |
 | SEO | At least 6 H2 sections * | ✅ | 11 H2 |
 | SEO | Every image has descriptive alt (≥20 chars) * | ✅ | 5 images |
 | SEO | Internal link to finesolves.com * | ✅ |  |
