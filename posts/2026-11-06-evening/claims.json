@@ -1,0 +1,200 @@
+[
+ {
+  "value": "20%",
+  "claim": "CIOs: 10–20% of new-product technology budget diverted to tech debt issues",
+  "source": "Tech debt: IT's role in reclaiming your organization's tech equity — McKinsey Digital",
+  "url": "https://medium.com/digital-mckinsey/tech-debt-its-role-in-reclaiming-your-organization-s-tech-equity-4479ee346f1b"
+ },
+ {
+  "value": "40%",
+  "claim": "CIOs estimate tech debt at 20–40% of value of entire technology estate",
+  "source": "Tech debt: IT's role in reclaiming your organization's tech equity — McKinsey Digital",
+  "url": "https://medium.com/digital-mckinsey/tech-debt-its-role-in-reclaiming-your-organization-s-tech-equity-4479ee346f1b"
+ },
+ {
+  "value": "60%",
+  "claim": "60% of CIOs say their tech debt rose perceptibly over the past three years",
+  "source": "Tech debt: IT's role in reclaiming your organization's tech equity — McKinsey Digital",
+  "url": "https://medium.com/digital-mckinsey/tech-debt-its-role-in-reclaiming-your-organization-s-tech-equity-4479ee346f1b"
+ },
+ {
+  "value": "75%",
+  "claim": "Cloud provider CIO: engineer time on tech debt 'tax' fell from 75% ...",
+  "source": "Tech debt: IT's role in reclaiming your organization's tech equity — McKinsey Digital",
+  "url": "https://medium.com/digital-mckinsey/tech-debt-its-role-in-reclaiming-your-organization-s-tech-equity-4479ee346f1b"
+ },
+ {
+  "value": "25%",
+  "claim": "... to 25% after reinventing debt management",
+  "source": "Tech debt: IT's role in reclaiming your organization's tech equity — McKinsey Digital",
+  "url": "https://medium.com/digital-mckinsey/tech-debt-its-role-in-reclaiming-your-organization-s-tech-equity-4479ee346f1b"
+ },
+ {
+  "value": "50%",
+  "claim": "Debt above 50% of tech asset value is normally a net detriment",
+  "source": "Tech debt: IT's role in reclaiming your organization's tech equity — McKinsey Digital",
+  "url": "https://medium.com/digital-mckinsey/tech-debt-its-role-in-reclaiming-your-organization-s-tech-equity-4479ee346f1b"
+ },
+ {
+  "value": "$2.41 trillion",
+  "claim": "Cost of poor software quality in the US, 2022",
+  "source": "Cost of Poor Software Quality in the US: A 2022 Report — CISQ, 2022",
+  "url": "https://www.it-cisq.org/press-releases/12-06-22"
+ },
+ {
+  "value": "$1.52 trillion",
+  "claim": "Accumulated software technical debt in the US, 2022",
+  "source": "Cost of Poor Software Quality in the US: A 2022 Report — CISQ, 2022",
+  "url": "https://www.it-cisq.org/press-releases/12-06-22"
+ },
+ {
+  "value": "$85 billion",
+  "claim": "Annual global cost of developer time spent fixing bad code (Stripe)",
+  "source": "Developers Waste Time On Fixing Bad Code, Stripe Finds — PYMNTS, 2018",
+  "url": "https://www.pymnts.com/news/b2b-payments/2018/stripe-developer-workforce/"
+ },
+ {
+  "value": "$3 trillion",
+  "claim": "Potential global GDP gain over a decade from using developers effectively (Stripe)",
+  "source": "Developers Waste Time On Fixing Bad Code, Stripe Finds — PYMNTS, 2018",
+  "url": "https://www.pymnts.com/news/b2b-payments/2018/stripe-developer-workforce/"
+ },
+ {
+  "value": "75%",
+  "claim": "Tech decision-makers expecting tech debt to reach moderate or high levels by 2026 (Forrester)",
+  "source": "CIOs to triple AIOps adoption to fight rising technical debt (Forrester Predictions 2025) — FutureCIO, 2024",
+  "url": "https://futurecio.tech/cios-to-triple-aiops-adoption-to-fight-rising-technical-debt/"
+ },
+ {
+  "value": "6%",
+  "claim": "Indian IT spending likely to rise ~6%–8% in 2026",
+  "source": "India Enterprise Technology Report 2026 — Bain & Company, 2026",
+  "url": "https://www.bain.com/insights/india-enterprise-technology-report-2026/"
+ },
+ {
+  "value": "8%",
+  "claim": "Indian IT spending likely to rise ~6%–8% in 2026",
+  "source": "India Enterprise Technology Report 2026 — Bain & Company, 2026",
+  "url": "https://www.bain.com/insights/india-enterprise-technology-report-2026/"
+ },
+ {
+  "value": "50%",
+  "claim": "Capex is 50%–60% of IT budgets in India",
+  "source": "India Enterprise Technology Report 2026 — Bain & Company, 2026",
+  "url": "https://www.bain.com/insights/india-enterprise-technology-report-2026/"
+ },
+ {
+  "value": "60%",
+  "claim": "Capex is 50%–60% of IT budgets in India",
+  "source": "India Enterprise Technology Report 2026 — Bain & Company, 2026",
+  "url": "https://www.bain.com/insights/india-enterprise-technology-report-2026/"
+ },
+ {
+  "value": "20%",
+  "claim": "Capex is 20%–30% of IT budgets for global peers",
+  "source": "India Enterprise Technology Report 2026 — Bain & Company, 2026",
+  "url": "https://www.bain.com/insights/india-enterprise-technology-report-2026/"
+ },
+ {
+  "value": "30%",
+  "claim": "Capex is 20%–30% of IT budgets for global peers; data modernization & AI = 30% of capex",
+  "source": "India Enterprise Technology Report 2026 — Bain & Company, 2026",
+  "url": "https://www.bain.com/insights/india-enterprise-technology-report-2026/"
+ },
+ {
+  "value": "25%",
+  "claim": "Core application modernization = 25% of capex; cloud & infra = 25%",
+  "source": "India Enterprise Technology Report 2026 — Bain & Company, 2026",
+  "url": "https://www.bain.com/insights/india-enterprise-technology-report-2026/"
+ },
+ {
+  "value": "20%",
+  "claim": "Cybersecurity = 20% of capex",
+  "source": "India Enterprise Technology Report 2026 — Bain & Company, 2026",
+  "url": "https://www.bain.com/insights/india-enterprise-technology-report-2026/"
+ },
+ {
+  "value": "15%",
+  "claim": "Only 15% of business leaders see IT as truly strategic",
+  "source": "India Enterprise Technology Report 2026 — Bain & Company, 2026",
+  "url": "https://www.bain.com/insights/india-enterprise-technology-report-2026/"
+ },
+ {
+  "value": "70%",
+  "claim": "~70% say technical debt of legacy systems will take significant time to overcome",
+  "source": "India Enterprise Technology Report 2026 — Bain & Company, 2026",
+  "url": "https://www.bain.com/insights/india-enterprise-technology-report-2026/"
+ },
+ {
+  "value": "90%",
+  "claim": "~90% say current data foundations are weak and not fit to scale",
+  "source": "India Enterprise Technology Report 2026 — Bain & Company, 2026",
+  "url": "https://www.bain.com/insights/india-enterprise-technology-report-2026/"
+ },
+ {
+  "value": "29%",
+  "claim": "Accounting for technical debt can boost AI returns by 29%",
+  "source": "The tech debt reckoning — IBM Institute for Business Value, 2025",
+  "url": "https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/technical-debt-ai-roi"
+ },
+ {
+  "value": "70%",
+  "claim": "Almost 70% of executives expect tech debt to make some AI initiatives financially untenable (IBM)",
+  "source": "IBM says cloud costs and tech debt erode AI returns — TechInformed, 2026",
+  "url": "https://techinformed.com/ibm-says-cloud-costs-and-tech-debt-erode-ai-returns/"
+ },
+ {
+  "value": "60%",
+  "claim": "Nearly 60% of executives under pressure to cut non-AI tech spend to fund AI (IBM)",
+  "source": "IBM says cloud costs and tech debt erode AI returns — TechInformed, 2026",
+  "url": "https://techinformed.com/ibm-says-cloud-costs-and-tech-debt-erode-ai-returns/"
+ },
+ {
+  "value": "17%",
+  "claim": "Large enterprises report average AI ROI of just 17% (IBM survey of 1,250 IT executives)",
+  "source": "IBM says cloud costs and tech debt erode AI returns — TechInformed, 2026",
+  "url": "https://techinformed.com/ibm-says-cloud-costs-and-tech-debt-erode-ai-returns/"
+ },
+ {
+  "value": "85%",
+  "claim": "85% of technology leaders lack real-time visibility into AI spending (IBM 2026 Tech Leader Study)",
+  "source": "IBM says cloud costs and tech debt erode AI returns — TechInformed, 2026",
+  "url": "https://techinformed.com/ibm-says-cloud-costs-and-tech-debt-erode-ai-returns/"
+ },
+ {
+  "value": "50%",
+  "claim": "Cloud costs running nearly 50% above initial projections",
+  "source": "IBM says cloud costs and tech debt erode AI returns — TechInformed, 2026",
+  "url": "https://techinformed.com/ibm-says-cloud-costs-and-tech-debt-erode-ai-returns/"
+ },
+ {
+  "value": "15%",
+  "claim": "About 15% of IT budgets should go to remediating technical debt (Accenture)",
+  "source": "Digital core investments deliver up to 60% higher revenue growth — Accenture, 2024",
+  "url": "https://newsroom.accenture.com/news/2024/new-research-from-accenture-finds-that-digital-core-investments-accelerate-reinvention-and-innovation-delivering-up-to-60-higher-revenue-growth-rates-and-40-boost-in-profit"
+ },
+ {
+  "value": "60%",
+  "claim": "Advanced digital core + balanced tech debt: 60% higher revenue growth rate",
+  "source": "Digital core investments deliver up to 60% higher revenue growth — Accenture, 2024",
+  "url": "https://newsroom.accenture.com/news/2024/new-research-from-accenture-finds-that-digital-core-investments-accelerate-reinvention-and-innovation-delivering-up-to-60-higher-revenue-growth-rates-and-40-boost-in-profit"
+ },
+ {
+  "value": "40%",
+  "claim": "... and 40% higher profits",
+  "source": "Digital core investments deliver up to 60% higher revenue growth — Accenture, 2024",
+  "url": "https://newsroom.accenture.com/news/2024/new-research-from-accenture-finds-that-digital-core-investments-accelerate-reinvention-and-innovation-delivering-up-to-60-higher-revenue-growth-rates-and-40-boost-in-profit"
+ },
+ {
+  "value": "15%",
+  "claim": "A handful of enterprises could achieve 15%–20% absolute EBITDA improvement",
+  "source": "India Enterprise Technology Report 2026 — Bain & Company, 2026",
+  "url": "https://www.bain.com/insights/india-enterprise-technology-report-2026/"
+ },
+ {
+  "value": "20%",
+  "claim": "A handful of enterprises could achieve 15%–20% absolute EBITDA improvement",
+  "source": "India Enterprise Technology Report 2026 — Bain & Company, 2026",
+  "url": "https://www.bain.com/insights/india-enterprise-technology-report-2026/"
+ }
+]

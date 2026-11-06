@@ -1,0 +1,81 @@
+[
+ {
+  "type": "column",
+  "title": "India's IT capex share is double",
+  "subtitle": "Capex as % of IT budget, low/high end of range, 2026",
+  "unit": "%",
+  "series": [
+   "Low end",
+   "High end"
+  ],
+  "data": [
+   [
+    "India",
+    50,
+    60
+   ],
+   [
+    "Global peers",
+    20,
+    30
+   ]
+  ],
+  "source": "Source: Bain & Company, India Enterprise Technology Report 2026"
+ },
+ {
+  "type": "bar",
+  "title": "A quarter of capex modernizes core apps",
+  "subtitle": "Share of Indian enterprise IT capex by priority area, 2026",
+  "unit": "%",
+  "data": [
+   [
+    "Data modernization & AI",
+    30
+   ],
+   [
+    "Core app modernization",
+    25
+   ],
+   [
+    "Cloud & IT infrastructure",
+    25
+   ],
+   [
+    "Cybersecurity",
+    20
+   ]
+  ],
+  "highlight": "Core app modernization",
+  "source": "Source: Bain & Company, India Enterprise Technology Report 2026"
+ },
+ {
+  "type": "bar",
+  "title": "Most leaders see debt blocking progress",
+  "subtitle": "Share of executives agreeing, by survey",
+  "unit": "%",
+  "data": [
+   [
+    "India: data foundations weak (Bain)",
+    90
+   ],
+   [
+    "Debt to rise by 2026 (Forrester)",
+    75
+   ],
+   [
+    "India: legacy debt slow to fix (Bain)",
+    70
+   ],
+   [
+    "Debt makes some AI untenable (IBM)",
+    70
+   ],
+   [
+    "CIOs: debt rose in 3 years (McKinsey)",
+    60
+   ]
+  ],
+  "highlight": "India: legacy debt slow to fix (Bain)",
+  "source": "Source: Bain 2026; Forrester via FutureCIO 2024; IBM via TechInformed 2026; McKinsey Digital"
+ }
+]
