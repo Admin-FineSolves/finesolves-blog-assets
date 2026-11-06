@@ -1,0 +1,6 @@
+{"id":"2026-11-06","brand":"finesolves","music":"pulse","scenes":[
+ {"type":"kinetic","dur":2.9,"eyebrow":"PURCHASE · 4:47 PM","text":"“Did anyone approve\nthe PO?”","highlight":"the PO?”","hl_style":"bar"},
+ {"type":"kinetic","dur":2.6,"text":"It's in an email.\nSomewhere.","highlight":"Somewhere.","hl_style":"block"},
+ {"type":"compare","dur":5.6,"before_label":"TODAY","before":["Forward the email","Reply-all for a yes","Chase on WhatsApp","Search it next month"],"after_label":"WITH ONE SYSTEM","after":"One request.\nOne clear status."},
+ {"type":"kinetic","dur":3.0,"text":"Ask once.\nSee who said yes.","highlight":"who said yes.","hl_style":"bar","transition":"bands"},
+ {"type":"end","dur":3.2,"line":"Custom products,\nlive in weeks.","tag":"CUSTOM PRODUCTS · AI"}]}
