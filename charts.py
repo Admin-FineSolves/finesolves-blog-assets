@@ -28,7 +28,7 @@ PL, PR, PT, PB = 72, 72, 190, 120          # plot margins
 e = html.escape
 
 def fmt(v, unit):
-    s = f"{v:,.0f}" if float(v).is_integer() else f"{v:,.1f}"
+    s = f"{v:,.0f}" if float(v).is_integer() else f"{v:,.2f}".rstrip("0").rstrip(".")
     return f"₹{s} cr" if unit == "₹ cr" else f"{s}{unit}"
 
 def nice_max(m):

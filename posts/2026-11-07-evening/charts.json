@@ -1,0 +1,95 @@
+[
+ {
+  "type": "line",
+  "title": "ABHA accounts grew six-fold since 2021",
+  "subtitle": "Cumulative ABHA accounts, crore, India, 2021–July 2026",
+  "unit": " cr",
+  "data": [
+   [
+    "2021",
+    14.7
+   ],
+   [
+    "2022",
+    30.4
+   ],
+   [
+    "2023",
+    50.6
+   ],
+   [
+    "2024",
+    72.2
+   ],
+   [
+    "2025",
+    84.5
+   ],
+   [
+    "Jul 2026",
+    93.95
+   ]
+  ],
+  "source": "Source: IndiaMedToday (official data), June 2026; GKToday, July 2026"
+ },
+ {
+  "type": "column",
+  "title": "Scan and Share tokens surged since 2024",
+  "subtitle": "Cumulative ABHA Scan and Share OPD tokens, crore",
+  "unit": " cr",
+  "data": [
+   [
+    "Feb 2024",
+    2
+   ],
+   [
+    "Aug 2024",
+    4
+   ],
+   [
+    "Sep 2024",
+    5
+   ],
+   [
+    "Jun 2026",
+    23.21
+   ]
+  ],
+  "highlight": "Jun 2026",
+  "source": "Source: Medical Dialogues 2024; OrissaPOST/IANS 2024; PIB Research 2026"
+ },
+ {
+  "type": "bar",
+  "title": "IT staffing tops the barrier list",
+  "subtitle": "Share of 105 doctors citing each barrier to EMR, Ujjain district hospital, 2023 survey",
+  "unit": "%",
+  "data": [
+   [
+    "No dedicated IT staff",
+    58
+   ],
+   [
+    "Staffing shortage",
+    56
+   ],
+   [
+    "Staff competency",
+    51
+   ],
+   [
+    "Lack of infrastructure",
+    47
+   ],
+   [
+    "Insufficient funds",
+    44
+   ],
+   [
+    "Reliable internet",
+    42
+   ]
+  ],
+  "highlight": "No dedicated IT staff",
+  "source": "Source: BMC Health Services Research, 2025"
+ }
+]
