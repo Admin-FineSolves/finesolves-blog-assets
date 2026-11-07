@@ -1,0 +1,87 @@
+[
+ {
+  "type": "line",
+  "title": "E-way bills jumped to a record in October",
+  "subtitle": "Monthly e-way bills generated in India, June–October 2026 (million)",
+  "unit": " mn",
+  "data": [
+   [
+    "Jun",
+    136.77
+   ],
+   [
+    "Jul",
+    139.79
+   ],
+   [
+    "Aug",
+    139.08
+   ],
+   [
+    "Sep",
+    141.53
+   ],
+   [
+    "Oct",
+    156.21
+   ]
+  ],
+  "source": "Source: GSTN data via Business Standard (6 Nov 2026), Whalesbook (9 Oct 2026), A2Z Taxcorp (Aug–Sep 2026)"
+ },
+ {
+  "type": "bar",
+  "title": "Year-on-year growth tripled in October",
+  "subtitle": "YoY growth in monthly e-way bill generation, 2026 (%)",
+  "unit": "%",
+  "data": [
+   [
+    "October",
+    23.14
+   ],
+   [
+    "August",
+    7.7
+   ],
+   [
+    "September",
+    7.21
+   ],
+   [
+    "July",
+    5.98
+   ]
+  ],
+  "highlight": "October",
+  "source": "Source: Business Standard (6 Nov 2026), Whalesbook (9 Oct 2026), A2Z Taxcorp (Aug–Sep 2026)"
+ },
+ {
+  "type": "bar",
+  "title": "Imports drove October's GST jump",
+  "subtitle": "YoY growth by GST component, October 2026 vs October 2025 (%)",
+  "unit": "%",
+  "data": [
+   [
+    "Import GST",
+    42.2
+   ],
+   [
+    "Net GST",
+    25.6
+   ],
+   [
+    "Gross GST",
+    22.9
+   ],
+   [
+    "Domestic GST",
+    15.8
+   ],
+   [
+    "Refunds",
+    6.5
+   ]
+  ],
+  "highlight": "Import GST",
+  "source": "Source: GSTN data via Tata nexarc (3 Nov 2026) and NationPress (1 Nov 2026)"
+ }
+]
