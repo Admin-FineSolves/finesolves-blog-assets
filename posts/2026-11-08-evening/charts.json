@@ -1,0 +1,11 @@
+[
+ {"type":"bar","title":"Only 15% of AI ideas reach production","subtitle":"Share of AI ideas proposed by Indian organisations, by outcome, 2026","unit":"%",
+  "data":[["Fail IT evaluation",35],["Rejected at security review",17],["Reach production",15]],
+  "highlight":"Reach production","source":"Source: Adobe 2026 State of AI Readiness Report (India, 475 executives), via CXOToday"},
+ {"type":"column","title":"AI leaders give AI a budget owner","subtitle":"Companies with an AI owner holding budget authority, India, 2026","unit":"%",
+  "data":[["All companies",18],["AI Leaders",93]],
+  "highlight":"AI Leaders","source":"Source: Adobe 2026 State of AI Readiness Report (India), via CXOToday"},
+ {"type":"bar","title":"Data problems lead the barrier list","subtitle":"Share of data leaders citing each barrier, global survey of 600","unit":"%",
+  "data":[["Data reliability a key barrier",56],["Security & privacy hurt value case",46],["Data quality & readiness (top)",43],["Lack of technical maturity",43],["Doubts on GenAI reliability",43]],
+  "highlight":"Data reliability a key barrier","source":"Source: Informatica survey of 600 data leaders, via ITPro, 2025"}
+]
