@@ -1,0 +1,57 @@
+{
+ "id": "2026-11-08",
+ "brand": "finehealth",
+ "music": "pulse",
+ "scenes": [
+  {
+   "type": "kinetic",
+   "dur": 2.8,
+   "eyebrow": "PHARMACY · 11:20 AM",
+   "text": "Can anyone read\nthis prescription?",
+   "highlight": "read",
+   "hl_style": "bar"
+  },
+  {
+   "type": "kinetic",
+   "dur": 2.6,
+   "text": "The handwriting\nis the bottleneck.",
+   "highlight": "bottleneck.",
+   "hl_style": "block"
+  },
+  {
+   "type": "compare",
+   "dur": 5.4,
+   "before_label": "TODAY",
+   "before": [
+    "Written by hand",
+    "Pharmacy can't read it",
+    "Call the OPD to check"
+   ],
+   "after_label": "WITH FINEHEALTH",
+   "after": "Typed once. In one record."
+  },
+  {
+   "type": "kinetic",
+   "dur": 2.8,
+   "text": "Still readable at\nthe next visit.",
+   "highlight": "next visit.",
+   "hl_style": "bar"
+  },
+  {
+   "type": "steps",
+   "dur": 3.2,
+   "items": [
+    "Register.",
+    "Prescribe.",
+    "Bill."
+   ],
+   "transition": "bands"
+  },
+  {
+   "type": "end",
+   "dur": 3.2,
+   "line": "FineHealth by Fine Solves",
+   "tag": "HOSPITAL MANAGEMENT SYSTEM"
+  }
+ ]
+}
