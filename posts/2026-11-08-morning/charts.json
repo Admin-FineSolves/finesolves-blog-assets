@@ -1,0 +1,12 @@
+[
+ {"type":"bar","title":"Quick commerce led festive order growth","subtitle":"Festive order volume growth by channel, 6 Oct–4 Nov 2026 vs 2025 (%)","unit":"%",
+  "data":[["Quick commerce",75],["D2C brand websites",30],["All e-commerce",21],["Marketplaces",8]],"highlight":"Quick commerce",
+  "source":"Source: Unicommerce festive analysis via Social Samosa, 6 Nov 2026"},
+ {"type":"column","title":"Tier-3 cities took the biggest share","subtitle":"Share of festive orders and YoY order growth by city tier, festive 2026 (%)","unit":"%",
+  "series":["Share of orders","Order growth"],
+  "data":[["Tier-3",41,26],["Tier-1 and metro",34,13],["Tier-2",24,23]],
+  "source":"Source: Unicommerce festive analysis via Social Samosa, 6 Nov 2026"},
+ {"type":"bar","title":"Festive ad returns more than doubled","subtitle":"Return on ad spend, HiveMinds view of e-commerce and quick commerce brands (x)","unit":"x",
+  "data":[["Festive 2026",48],["Festive 2025",22],["Normal month",6]],"highlight":"Festive 2026",
+  "source":"Source: HiveMinds via MediaNews4U, 6 Nov 2026 (approximate values)"}
+]
