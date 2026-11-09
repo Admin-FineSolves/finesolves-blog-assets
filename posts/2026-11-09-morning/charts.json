@@ -1,0 +1,94 @@
+[
+ {
+  "type": "bar",
+  "title": "Chip stocks fell hardest in AI sell-off",
+  "subtitle": "One-day fall, 5 Nov 2026 (US) and 6 Nov 2026 (Asia), %",
+  "unit": "%",
+  "data": [
+   [
+    "Semiconductor index (SOX)",
+    12
+   ],
+   [
+    "Nvidia",
+    9.3
+   ],
+   [
+    "Kospi (intraday)",
+    8.55
+   ],
+   [
+    "Nasdaq 100",
+    6.36
+   ],
+   [
+    "Nikkei",
+    6.2
+   ],
+   [
+    "Nasdaq Composite",
+    5.52
+   ],
+   [
+    "S&P 500",
+    4.36
+   ]
+  ],
+  "highlight": "Semiconductor index (SOX)",
+  "source": "Source: Univest, 6 Nov 2026, compiling AP and market data"
+ },
+ {
+  "type": "bar",
+  "title": "AI stocks cost far more than India",
+  "subtitle": "Forward price-to-earnings multiple, October–November 2026 (x)",
+  "unit": "x",
+  "data": [
+   [
+    "Global AI stocks",
+    23
+   ],
+   [
+    "Nifty 50, 5-year average",
+    21
+   ],
+   [
+    "Nifty 50 now",
+    19
+   ],
+   [
+    "Global non-AI stocks",
+    13
+   ]
+  ],
+  "highlight": "Nifty 50 now",
+  "source": "Source: Jefferies via Outlook Money, 21 Oct 2026; Goldman Sachs Research via Investing.com, 6 Nov 2026"
+ },
+ {
+  "type": "column",
+  "title": "AI earnings growth set to slow",
+  "subtitle": "Expected earnings growth, MSCI ACWI consensus via Jefferies (%)",
+  "unit": "%",
+  "series": [
+   "AI stocks",
+   "Non-AI tech"
+  ],
+  "data": [
+   [
+    "2026",
+    100,
+    16
+   ],
+   [
+    "2027",
+    30,
+    9
+   ],
+   [
+    "2028",
+    22,
+    9
+   ]
+  ],
+  "source": "Source: Jefferies (Christopher Wood) via Outlook Money, 21 Oct 2026"
+ }
+]
