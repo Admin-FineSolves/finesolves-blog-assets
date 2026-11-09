@@ -1,0 +1,20 @@
+{
+ "id": "2026-11-09",
+ "brand": "finesolves",
+ "music": "pulse",
+ "scenes": [
+  {"type": "kinetic", "dur": 2.9, "eyebrow": "GODOWN · 6:15 PM",
+   "text": "Tally says one number.\nThe shelf says another.", "highlight": "another.", "hl_style": "bar"},
+  {"type": "kinetic", "dur": 2.6, "text": "So someone\ncounts again.", "highlight": "again.", "hl_style": "block"},
+  {"type": "chaos", "dur": 5.4, "title": "Stock lives in…",
+   "chips": ["TALLY", "GODOWN REGISTER", "SALES EXCEL", "WHATSAPP PHOTO", "DISPATCH SLIP"],
+   "label": "ONE STOCK VIEW"},
+  {"type": "ui", "dur": 5.2, "title": "Every movement,\nentered once.", "window": "STOCK · GODOWN A",
+   "rows": [{"label": "Goods received", "value": "ENTERED"},
+            {"label": "Dispatched", "value": "ENTERED"},
+            {"label": "Tally", "value": "UPDATED"}],
+   "status": ["COUNTING", "MATCHED"]},
+  {"type": "kinetic", "dur": 3.0, "text": "One number.\nEveryone trusts it.", "highlight": "Everyone trusts it.", "hl_style": "block", "transition": "bands"},
+  {"type": "end", "dur": 3.2, "line": "Custom products,\nlive in weeks.", "tag": "CUSTOM PRODUCTS · AI"}
+ ]
+}

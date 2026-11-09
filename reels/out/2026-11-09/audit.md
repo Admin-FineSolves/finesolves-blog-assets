@@ -1,0 +1,80 @@
+# Reel audit: PASS (100/100)
+
+## Passed
+- ✅ brand is valid (finesolves)
+- ✅ last scene is the end card
+- ✅ total length 14–30s (22.3s)
+- ✅ 4–8 scenes (6)
+- ✅ uses at least one motion set-piece (chaos, ui, compare or bignum)
+- ✅ has one band-wipe transition
+- ✅ scene 1 holds long enough to read (2.9s ≥ 2.3s)
+- ✅ scene 1 title line ≤26 chars: “” (0)
+- ✅ scene 1 after line ≤26 chars: “” (0)
+- ✅ scene 1 headline ≤10 words (8)
+- ✅ scene 1 headline line ≤26 chars: “Tally says one number.” (22)
+- ✅ scene 1 headline line ≤26 chars: “The shelf says another.” (23)
+- ✅ scene 2 holds long enough to read (2.6s ≥ 2.3s)
+- ✅ scene 2 title line ≤26 chars: “” (0)
+- ✅ scene 2 after line ≤26 chars: “” (0)
+- ✅ scene 2 headline ≤10 words (4)
+- ✅ scene 2 headline line ≤26 chars: “So someone” (10)
+- ✅ scene 2 headline line ≤26 chars: “counts again.” (13)
+- ✅ scene 3 holds long enough to read (5.4s ≥ 5.2s)
+- ✅ scene 3 title line ≤26 chars: “Stock lives in…” (15)
+- ✅ scene 3 after line ≤26 chars: “” (0)
+- ✅ scene 3 chip ≤18 chars: “TALLY”
+- ✅ scene 3 chip ≤18 chars: “GODOWN REGISTER”
+- ✅ scene 3 chip ≤18 chars: “SALES EXCEL”
+- ✅ scene 3 chip ≤18 chars: “WHATSAPP PHOTO”
+- ✅ scene 3 chip ≤18 chars: “DISPATCH SLIP”
+- ✅ scene 4 holds long enough to read (5.2s ≥ 4.3s)
+- ✅ scene 4 title line ≤26 chars: “Every movement,” (15)
+- ✅ scene 4 title line ≤26 chars: “entered once.” (13)
+- ✅ scene 4 after line ≤26 chars: “” (0)
+- ✅ scene 5 holds long enough to read (3.0s ≥ 2.3s)
+- ✅ scene 5 title line ≤26 chars: “” (0)
+- ✅ scene 5 after line ≤26 chars: “” (0)
+- ✅ scene 5 headline ≤10 words (5)
+- ✅ scene 5 headline line ≤26 chars: “One number.” (11)
+- ✅ scene 5 headline line ≤26 chars: “Everyone trusts it.” (19)
+- ✅ scene 6 holds long enough to read (3.2s ≥ 2.3s)
+- ✅ scene 6 title line ≤26 chars: “” (0)
+- ✅ scene 6 after line ≤26 chars: “” (0)
+- ✅ no banned words 
+- ✅ says 'products', not 'software' (hashtags excepted)
+- ✅ brand names spelled Fine Solves / FineHealth / FineHR 
+- ✅ no [CONFIRM] items
+- ✅ no pricing
+- ✅ no medical / patient-outcome claims
+- ✅ no invented clients or testimonials
+- ✅ instagram: first line contains the keyword “inventory management”
+- ✅ instagram: asks the reader one question
+- ✅ instagram: has the finesolves.com CTA
+- ✅ instagram: 3–6 hashtags (5)
+- ✅ instagram: no generic hashtags 
+- ✅ linkedin: first line contains the keyword “inventory management”
+- ✅ linkedin: asks the reader one question
+- ✅ linkedin: has the finesolves.com CTA
+- ✅ linkedin: 3–6 hashtags (5)
+- ✅ linkedin: no generic hashtags 
+- ✅ instagram ≤2,200 chars (647)
+- ✅ linkedin ≤2,800 chars (647)
+- ✅ linkedin: no brackets or parentheses
+- ✅ CTA is “Talk to us → finesolves.com”
+- ✅ youtube title ≤100 chars with #Shorts (75)
+- ✅ youtube title carries the keyword
+- ✅ youtube description present with finesolves.com
+- ✅ youtube text has no < or >
+- ✅ alt text is one descriptive sentence
+- ✅ brand differs from the previous reel (finehealth)
+- ✅ primary keyword not used in the last 21 reels
+- ✅ topic not used before
+- ✅ reel.mp4 exists
+- ✅ video is 1080×1920
+- ✅ video is H.264 yuv420p
+- ✅ frame rate 24/30 (30/1)
+- ✅ has an audio track
+- ✅ duration matches script (22.3s)
+- ✅ file under 20 MB (CDN limit)
+- ✅ cover.jpg exists
+- ✅ one review still per scene
