@@ -1,0 +1,11 @@
+[
+ {"type":"bar","title":"Most IT leaders face surprise SaaS costs","subtitle":"Share of IT leaders / organisations, Zylo 2026 SaaS Management Index","unit":"%",
+  "data":[["Price increase at renewal",79],["Unexpected AI / usage charges",78],["Cut projects over SaaS costs",61],["SaaS licenses left unused",36]],
+  "highlight":"SaaS licenses left unused","source":"Source: Zylo 2026 SaaS Management Index (survey of 218 IT leaders; $75B spend dataset)"},
+ {"type":"column","title":"India pays a higher AI complexity tax","subtitle":"Mid-market firms, India vs global, Freshworks 2026","unit":"%","series":["India","Global"],
+  "data":[["AI budget lost to complexity",27,25],["Integration complexity",34,27],["Talent shortages",30,26],["Excess configuration",31,26]],
+  "source":"Source: Freshworks Global Cost of Complexity Report 2026, via CIO Insider India / YourStory"},
+ {"type":"bar","title":"India software spend grows 17.6% in 2026","subtitle":"Forecast growth in India IT spending by segment, 2026","unit":"%",
+  "data":[["Data center systems",20.5],["Software",17.6],["IT services",11.1],["Devices",9.9],["Communications services",5.4]],
+  "highlight":"Software","source":"Source: Gartner, India IT spending forecast (November 2025)"}
+]
