@@ -1,0 +1,13 @@
+{
+ "id": "2026-11-10",
+ "brand": "finehealth",
+ "music": "pulse",
+ "scenes": [
+  {"type": "kinetic", "dur": 2.8, "eyebrow": "OPD · 10:15 AM", "text": "Did you bring\nyour old reports?", "highlight": "old reports?", "hl_style": "bar"},
+  {"type": "kinetic", "dur": 2.6, "text": "They're in a\nfolder at home.", "highlight": "at home.", "hl_style": "block"},
+  {"type": "compare", "dur": 5.4, "before_label": "TODAY", "before": ["Reports printed on paper", "Folder left at home", "History from memory"], "after_label": "WITH FINEHEALTH", "after": "Reports in one\npatient record."},
+  {"type": "kinetic", "dur": 2.8, "text": "Open the record.\nThe reports are there.", "highlight": "there.", "hl_style": "bar"},
+  {"type": "steps", "dur": 3.2, "items": ["Register.", "Treat.", "Report."], "transition": "bands"},
+  {"type": "end", "dur": 3.2, "line": "FineHealth by Fine Solves", "tag": "HOSPITAL MANAGEMENT SYSTEM"}
+ ]
+}
