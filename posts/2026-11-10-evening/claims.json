@@ -1,0 +1,200 @@
+[
+ {
+  "value": "70%",
+  "claim": "70% of large organisations will adopt AI-based forecasting to predict future demand by 2030",
+  "source": "Gartner press release — Gartner, 16 Sep 2025",
+  "url": "https://www.gartner.com/en/newsroom/press-releases/2025-09-16-gartner-predicts-70-percent-of-large-orgs-will-adopt-ai-based-supply-chain-forecasting-to-predict-future-demand-by-2030"
+ },
+ {
+  "value": "818",
+  "claim": "Gartner surveyed 818 supply chain practitioners, Aug–Oct 2023",
+  "source": "Gartner supply chain survey (818 practitioners, Aug–Oct 2023) — Chain Store Age",
+  "url": "https://chainstoreage.com/gartner-high-performing-supply-chains-more-likely-use-ai"
+ },
+ {
+  "value": "40%",
+  "claim": "40% of high-performing supply chains use AI/ML in demand forecasting",
+  "source": "Gartner supply chain survey (818 practitioners, Aug–Oct 2023) — Chain Store Age",
+  "url": "https://chainstoreage.com/gartner-high-performing-supply-chains-more-likely-use-ai"
+ },
+ {
+  "value": "19%",
+  "claim": "19% of low-performing supply chains use AI/ML in demand forecasting",
+  "source": "Gartner supply chain survey (818 practitioners, Aug–Oct 2023) — Chain Store Age",
+  "url": "https://chainstoreage.com/gartner-high-performing-supply-chains-more-likely-use-ai"
+ },
+ {
+  "value": "33%",
+  "claim": "Order management and fulfilment: 33% of high performers use AI/ML",
+  "source": "Gartner supply chain survey (818 practitioners, Aug–Oct 2023) — Chain Store Age",
+  "url": "https://chainstoreage.com/gartner-high-performing-supply-chains-more-likely-use-ai"
+ },
+ {
+  "value": "8%",
+  "claim": "Order management: 8% of low performers; logistics and distribution: 8% of low performers",
+  "source": "Gartner supply chain survey (818 practitioners, Aug–Oct 2023) — Chain Store Age",
+  "url": "https://chainstoreage.com/gartner-high-performing-supply-chains-more-likely-use-ai"
+ },
+ {
+  "value": "31%",
+  "claim": "Supply planning: 31% of high performers use AI/ML",
+  "source": "Gartner supply chain survey (818 practitioners, Aug–Oct 2023) — Chain Store Age",
+  "url": "https://chainstoreage.com/gartner-high-performing-supply-chains-more-likely-use-ai"
+ },
+ {
+  "value": "12%",
+  "claim": "Supply planning: 12% of low performers use AI/ML",
+  "source": "Gartner supply chain survey (818 practitioners, Aug–Oct 2023) — Chain Store Age",
+  "url": "https://chainstoreage.com/gartner-high-performing-supply-chains-more-likely-use-ai"
+ },
+ {
+  "value": "27%",
+  "claim": "Logistics and distribution: 27% of high performers use AI/ML",
+  "source": "Gartner supply chain survey (818 practitioners, Aug–Oct 2023) — Chain Store Age",
+  "url": "https://chainstoreage.com/gartner-high-performing-supply-chains-more-likely-use-ai"
+ },
+ {
+  "value": "24%",
+  "claim": "S&OP/IBP: 24% of high performers use AI/ML",
+  "source": "Gartner supply chain survey (818 practitioners, Aug–Oct 2023) — Chain Store Age",
+  "url": "https://chainstoreage.com/gartner-high-performing-supply-chains-more-likely-use-ai"
+ },
+ {
+  "value": "10%",
+  "claim": "S&OP/IBP: 10% of low performers use AI/ML",
+  "source": "Gartner supply chain survey (818 practitioners, Aug–Oct 2023) — Chain Store Age",
+  "url": "https://chainstoreage.com/gartner-high-performing-supply-chains-more-likely-use-ai"
+ },
+ {
+  "value": "20%",
+  "claim": "AI-powered forecasting can reduce errors by 20% to 50% (McKinsey research cited by Oracle)",
+  "source": "AI in Demand Forecasting (citing McKinsey & Company) — Oracle, 2025",
+  "url": "https://www.oracle.com/in/scm/ai-demand-forecasting/"
+ },
+ {
+  "value": "50%",
+  "claim": "Upper end of forecast error reduction, 20% to 50% (McKinsey, cited by Oracle)",
+  "source": "AI in Demand Forecasting (citing McKinsey & Company) — Oracle, 2025",
+  "url": "https://www.oracle.com/in/scm/ai-demand-forecasting/"
+ },
+ {
+  "value": "65%",
+  "claim": "AI forecasting can reduce product unavailability by up to 65% (McKinsey, cited by Oracle)",
+  "source": "AI in Demand Forecasting (citing McKinsey & Company) — Oracle, 2025",
+  "url": "https://www.oracle.com/in/scm/ai-demand-forecasting/"
+ },
+ {
+  "value": "$1.7 trillion",
+  "claim": "Inventory distortion is a $1.7 trillion annual worldwide problem",
+  "source": "The 2026 Inventory Distortion Study — IHL Group, 2026",
+  "url": "https://www.ihlservices.com/product/inventory-distortion/"
+ },
+ {
+  "value": "6.2%",
+  "claim": "Inventory distortion equals 6.2% of global retail sales in 2026",
+  "source": "The 2026 Inventory Distortion Study — IHL Group, 2026",
+  "url": "https://www.ihlservices.com/product/inventory-distortion/"
+ },
+ {
+  "value": "10.4%",
+  "claim": "Inventory distortion was 10.4% of retail sales in 2021",
+  "source": "The 2026 Inventory Distortion Study — IHL Group, 2026",
+  "url": "https://www.ihlservices.com/product/inventory-distortion/"
+ },
+ {
+  "value": "76%",
+  "claim": "AI/ML implementations show positive results for 76% of retailers using them for demand planning and forecasting",
+  "source": "IHL Group: Inventory issues cause $1.7T in annual losses — Chain Store Age",
+  "url": "https://chainstoreage.com/ihl-group-inventory-issues-cause-17t-annual-losses"
+ },
+ {
+  "value": "2.3 times",
+  "claim": "Retailers with AI/ML have sales growth 2.3 times higher than competitors",
+  "source": "IHL Group: Inventory issues cause $1.7T in annual losses — Chain Store Age",
+  "url": "https://chainstoreage.com/ihl-group-inventory-issues-cause-17t-annual-losses"
+ },
+ {
+  "value": "2.5 times",
+  "claim": "Retailers with AI/ML have profit growth 2.5 times higher than competitors",
+  "source": "IHL Group: Inventory issues cause $1.7T in annual losses — Chain Store Age",
+  "url": "https://chainstoreage.com/ihl-group-inventory-issues-cause-17t-annual-losses"
+ },
+ {
+  "value": "96%",
+  "claim": "96% of large Indian retail enterprises had adopted AI solutions",
+  "source": "Honeywell survey via Dataquest (DQ India), 22 Aug 2025",
+  "url": "https://www.dqindia.com/news/indian-retailers-outpace-global-peers-in-ai-adoption-honeywell-survey-9687742"
+ },
+ {
+  "value": "85%",
+  "claim": "Global average AI adoption among large retailers: 85%",
+  "source": "Honeywell survey via Dataquest (DQ India), 22 Aug 2025",
+  "url": "https://www.dqindia.com/news/indian-retailers-outpace-global-peers-in-ai-adoption-honeywell-survey-9687742"
+ },
+ {
+  "value": "50%",
+  "claim": "Demand planning is the most common AI use area for Indian retailers (50%)",
+  "source": "Honeywell survey via Dataquest (DQ India), 22 Aug 2025",
+  "url": "https://www.dqindia.com/news/indian-retailers-outpace-global-peers-in-ai-adoption-honeywell-survey-9687742"
+ },
+ {
+  "value": "41%",
+  "claim": "Customer experience (41%) and logistics (41%) are other common AI areas",
+  "source": "Honeywell survey via Dataquest (DQ India), 22 Aug 2025",
+  "url": "https://www.dqindia.com/news/indian-retailers-outpace-global-peers-in-ai-adoption-honeywell-survey-9687742"
+ },
+ {
+  "value": "14%",
+  "claim": "Indian retailers attach more value than global peers to AI in demand planning (+14%)",
+  "source": "Honeywell survey via Dataquest (DQ India), 22 Aug 2025",
+  "url": "https://www.dqindia.com/news/indian-retailers-outpace-global-peers-in-ai-adoption-honeywell-survey-9687742"
+ },
+ {
+  "value": "7%",
+  "claim": "…and to AI in supply chain logistics (+7%)",
+  "source": "Honeywell survey via Dataquest (DQ India), 22 Aug 2025",
+  "url": "https://www.dqindia.com/news/indian-retailers-outpace-global-peers-in-ai-adoption-honeywell-survey-9687742"
+ },
+ {
+  "value": "48%",
+  "claim": "48% of Indian respondents cite customer acceptance as the biggest obstacle",
+  "source": "Honeywell survey via Dataquest (DQ India), 22 Aug 2025",
+  "url": "https://www.dqindia.com/news/indian-retailers-outpace-global-peers-in-ai-adoption-honeywell-survey-9687742"
+ },
+ {
+  "value": "43%",
+  "claim": "Regulatory compliance cited as an obstacle by 43%",
+  "source": "Honeywell survey via Dataquest (DQ India), 22 Aug 2025",
+  "url": "https://www.dqindia.com/news/indian-retailers-outpace-global-peers-in-ai-adoption-honeywell-survey-9687742"
+ },
+ {
+  "value": "38%",
+  "claim": "Complexity of AI model configurations cited by 38%",
+  "source": "Honeywell survey via Dataquest (DQ India), 22 Aug 2025",
+  "url": "https://www.dqindia.com/news/indian-retailers-outpace-global-peers-in-ai-adoption-honeywell-survey-9687742"
+ },
+ {
+  "value": "450",
+  "claim": "Wakefield Research surveyed 450 executives in May 2025 for Honeywell",
+  "source": "Honeywell survey via Dataquest (DQ India), 22 Aug 2025",
+  "url": "https://www.dqindia.com/news/indian-retailers-outpace-global-peers-in-ai-adoption-honeywell-survey-9687742"
+ },
+ {
+  "value": "$10 million",
+  "claim": "Indian retailers surveyed had minimum annual sales of $10 million",
+  "source": "Honeywell survey via Dataquest (DQ India), 22 Aug 2025",
+  "url": "https://www.dqindia.com/news/indian-retailers-outpace-global-peers-in-ai-adoption-honeywell-survey-9687742"
+ },
+ {
+  "value": "US$1.9 trillion",
+  "claim": "India's consumer economy is expected to approach US$1.9 trillion by 2030",
+  "source": "Deloitte India–FICCI report via Business Today, 4 Aug 2026",
+  "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/india-tops-global-ai-adoption-race-as-retailers-fmcg-firms-deploy-technology-across-operations-deloitte-ficci-547072-2026-08-04"
+ },
+ {
+  "value": "$1.7",
+  "claim": "Headline of Chain Store Age article: inventory issues cause $1.7T in annual losses",
+  "source": "IHL Group: Inventory issues cause $1.7T in annual losses — Chain Store Age",
+  "url": "https://chainstoreage.com/ihl-group-inventory-issues-cause-17t-annual-losses"
+ }
+]
