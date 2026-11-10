@@ -1,0 +1,11 @@
+[
+ {"type":"bar","title":"Indian patients lead the world on AI use","subtitle":"Consumers using AI tools for health, by market, 2026","unit":"%",
+  "data":[["India",85],["Global (nearly)",60],["United States",50],["United Kingdom",43],["Japan",34]],"highlight":"India",
+  "source":"Source: BCG consumer survey (13,000+ consumers, 15 countries), via The Hitavada, Apr 2026"},
+ {"type":"line","title":"Linked health records doubled","subtitle":"Health records linked to ABHAs, crore, India, Feb 2025 to Aug 2026","unit":" cr",
+  "data":[["Feb 2025",50],["May 2026",100],["Aug 2026",110]],
+  "source":"Source: NHA data via Indian Pharma Post (May 2026) and Digital Health News (Aug 2026)"},
+ {"type":"bar","title":"DPDP penalties top out at ₹250 crore","subtitle":"Maximum penalty by violation type, DPDP Rules 2025, from 13 May 2027","unit":"₹ cr",
+  "data":[["Security safeguards",250],["Breach not notified",200],["Children's data",200],["SDF non-compliance",150],["Other violations",50]],"highlight":"Security safeguards",
+  "source":"Source: Uniqus, Digital Personal Data Protection Act timelines, Nov 2025"}
+]
