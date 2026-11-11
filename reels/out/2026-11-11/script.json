@@ -1,0 +1,20 @@
+{
+ "id": "2026-11-11",
+ "brand": "finesolves",
+ "music": "pulse",
+ "scenes": [
+  {"type": "kinetic", "dur": 2.9, "eyebrow": "DISPATCH · 7:40 AM",
+   "text": "Today's trucks live\non a whiteboard.", "highlight": "whiteboard.", "hl_style": "bar"},
+  {"type": "kinetic", "dur": 2.7, "text": "Someone wipes it.\nThe plan is gone.", "highlight": "gone.", "hl_style": "block"},
+  {"type": "chaos", "dur": 5.4, "title": "The plan lives in…",
+   "chips": ["WHITEBOARD", "ORDER EXCEL", "WHATSAPP CALLS", "DRIVER LIST", "TALLY INVOICE"],
+   "label": "ONE DISPATCH PLAN"},
+  {"type": "ui", "dur": 5.2, "title": "Planned once.\nSeen by everyone.", "window": "DISPATCH · TODAY",
+   "rows": [{"label": "Orders ready", "value": "PLANNED"},
+            {"label": "Truck and driver", "value": "ASSIGNED"},
+            {"label": "Tally invoice", "value": "LINKED"}],
+   "status": ["PLANNING", "DISPATCHED"]},
+  {"type": "kinetic", "dur": 3.0, "text": "No photo of the board.\nJust the plan.", "highlight": "Just the plan.", "hl_style": "block", "transition": "bands"},
+  {"type": "end", "dur": 3.2, "line": "Custom products,\nlive in weeks.", "tag": "CUSTOM PRODUCTS · AI"}
+ ]
+}

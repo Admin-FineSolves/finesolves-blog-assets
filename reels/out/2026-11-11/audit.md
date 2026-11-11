@@ -1,0 +1,80 @@
+# Reel audit: PASS (100/100)
+
+## Passed
+- ✅ brand is valid (finesolves)
+- ✅ last scene is the end card
+- ✅ total length 14–30s (22.4s)
+- ✅ 4–8 scenes (6)
+- ✅ uses at least one motion set-piece (chaos, ui, compare or bignum)
+- ✅ has one band-wipe transition
+- ✅ scene 1 holds long enough to read (2.9s ≥ 2.3s)
+- ✅ scene 1 title line ≤26 chars: “” (0)
+- ✅ scene 1 after line ≤26 chars: “” (0)
+- ✅ scene 1 headline ≤10 words (6)
+- ✅ scene 1 headline line ≤26 chars: “Today's trucks live” (19)
+- ✅ scene 1 headline line ≤26 chars: “on a whiteboard.” (16)
+- ✅ scene 2 holds long enough to read (2.7s ≥ 2.3s)
+- ✅ scene 2 title line ≤26 chars: “” (0)
+- ✅ scene 2 after line ≤26 chars: “” (0)
+- ✅ scene 2 headline ≤10 words (7)
+- ✅ scene 2 headline line ≤26 chars: “Someone wipes it.” (17)
+- ✅ scene 2 headline line ≤26 chars: “The plan is gone.” (17)
+- ✅ scene 3 holds long enough to read (5.4s ≥ 5.2s)
+- ✅ scene 3 title line ≤26 chars: “The plan lives in…” (18)
+- ✅ scene 3 after line ≤26 chars: “” (0)
+- ✅ scene 3 chip ≤18 chars: “WHITEBOARD”
+- ✅ scene 3 chip ≤18 chars: “ORDER EXCEL”
+- ✅ scene 3 chip ≤18 chars: “WHATSAPP CALLS”
+- ✅ scene 3 chip ≤18 chars: “DRIVER LIST”
+- ✅ scene 3 chip ≤18 chars: “TALLY INVOICE”
+- ✅ scene 4 holds long enough to read (5.2s ≥ 4.3s)
+- ✅ scene 4 title line ≤26 chars: “Planned once.” (13)
+- ✅ scene 4 title line ≤26 chars: “Seen by everyone.” (17)
+- ✅ scene 4 after line ≤26 chars: “” (0)
+- ✅ scene 5 holds long enough to read (3.0s ≥ 2.3s)
+- ✅ scene 5 title line ≤26 chars: “” (0)
+- ✅ scene 5 after line ≤26 chars: “” (0)
+- ✅ scene 5 headline ≤10 words (8)
+- ✅ scene 5 headline line ≤26 chars: “No photo of the board.” (22)
+- ✅ scene 5 headline line ≤26 chars: “Just the plan.” (14)
+- ✅ scene 6 holds long enough to read (3.2s ≥ 2.3s)
+- ✅ scene 6 title line ≤26 chars: “” (0)
+- ✅ scene 6 after line ≤26 chars: “” (0)
+- ✅ no banned words 
+- ✅ says 'products', not 'software' (hashtags excepted)
+- ✅ brand names spelled Fine Solves / FineHealth / FineHR 
+- ✅ no [CONFIRM] items
+- ✅ no pricing
+- ✅ no medical / patient-outcome claims
+- ✅ no invented clients or testimonials
+- ✅ instagram: first line contains the keyword “dispatch management”
+- ✅ instagram: asks the reader one question
+- ✅ instagram: has the finesolves.com CTA
+- ✅ instagram: 3–6 hashtags (5)
+- ✅ instagram: no generic hashtags 
+- ✅ linkedin: first line contains the keyword “dispatch management”
+- ✅ linkedin: asks the reader one question
+- ✅ linkedin: has the finesolves.com CTA
+- ✅ linkedin: 3–6 hashtags (5)
+- ✅ linkedin: no generic hashtags 
+- ✅ instagram ≤2,200 chars (653)
+- ✅ linkedin ≤2,800 chars (653)
+- ✅ linkedin: no brackets or parentheses
+- ✅ CTA is “Talk to us → finesolves.com”
+- ✅ youtube title ≤100 chars with #Shorts (64)
+- ✅ youtube title carries the keyword
+- ✅ youtube description present with finesolves.com
+- ✅ youtube text has no < or >
+- ✅ alt text is one descriptive sentence
+- ✅ brand differs from the previous reel (finehealth)
+- ✅ primary keyword not used in the last 21 reels
+- ✅ topic not used before
+- ✅ reel.mp4 exists
+- ✅ video is 1080×1920
+- ✅ video is H.264 yuv420p
+- ✅ frame rate 24/30 (30/1)
+- ✅ has an audio track
+- ✅ duration matches script (22.4s)
+- ✅ file under 20 MB (CDN limit)
+- ✅ cover.jpg exists
+- ✅ one review still per scene
