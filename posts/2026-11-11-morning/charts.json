@@ -1,0 +1,11 @@
+[
+ {"type":"bar","title":"UPI volume hit a record in October","subtitle":"Monthly UPI transactions, billion, selected months 2025–2026","unit":" bn",
+  "data":[["Oct 2025",20.7],["May 2026",23.2],["Jul 2026",23.66],["Aug 2026",24.51],["Sep 2026",24.07],["Oct 2026",25.47]],"highlight":"Oct 2026",
+  "source":"Source: NPCI data via Entrepreneur India, 3 Nov 2026; The Federal and Outlook Money, 2 Nov 2026"},
+ {"type":"bar","title":"Customers' banks get the biggest MDR share","subtitle":"Proposed split of UPI MDR collections, % (NPCI framework, Sept 2026)","unit":"%",
+  "data":[["Customer's bank",40],["Payment gateway",30],["UPI app",20],["App's sponsor bank",10]],"highlight":"Customer's bank",
+  "source":"Source: ThePrint (PTI), 13 Oct 2026"},
+ {"type":"bar","title":"Two apps carry most UPI volume","subtitle":"Share of UPI transaction volume by app, September 2026, %","unit":"%",
+  "data":[["PhonePe",45.6],["Google Pay",32.2],["Paytm",8.1]],"highlight":"PhonePe",
+  "source":"Source: NPCI data via Entrepreneur India, 3 Nov 2026"}
+]
