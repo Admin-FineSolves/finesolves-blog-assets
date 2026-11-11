@@ -1,12 +1,12 @@
 # Fine Solves blog — runbook (2 posts a day)
 
-Two scheduled runs publish to finesolves.blogspot.com every day:
+Two scheduled runs publish to the Fine Solves blog (https://finesolves.com/blog — posts stored in Sanity) every day:
 - **Morning slot (05:39 IST)** — news-led: something that happened in the last 7 days, with data.
 - **Evening slot (18:47 IST)** — deep-dive / evergreen: a data-heavy explainer, benchmark, or playbook.
 
-Each run: research → write a data-rich post → charts, table, hero, infographic → **SEO + GEO + data audit (must PASS)** → host images on GitHub → publish to Blogger by email (Zapier Gmail) → verify live.
+Each run: research → write a data-rich post → charts, table, hero, infographic → **SEO + GEO + data audit (must PASS)** → host images on GitHub → publish to Sanity (`publish_sanity.py`) → verify live.
 
-The task prompt supplies `SLOT` (morning | evening), `BLOGGER_POST_EMAIL` (secret — never write it into any file, commit, post or reply) and `BLOG_URL`.
+The task prompt supplies `SLOT` (morning | evening) and `SANITY_WRITE_TOKEN` (secret — never write it into any file, commit, post or reply). Posts live in Sanity project `hf7ugumv`, dataset `production`; humans edit them at https://finesolves.sanity.studio. (Blogger / finesolves.blogspot.com is retired — don't publish there.)
 
 ## 0. Setup (fresh container every run)
 ```bash
@@ -16,7 +16,12 @@ cd ~/finesolves-blog-assets
 npm i --silent @fontsource/space-grotesk @fontsource/inter @fontsource/dm-mono
 DATE=$(TZ=Asia/Kolkata date +%F); POST=posts/$DATE-$SLOT; mkdir -p $POST
 ```
-Topic history: WebFetch `BLOG_URL/feeds/posts/default?alt=rss&max-results=25` (titles + dates). Also `ls posts/` in the repo.
+Topic history (last 25 posts — titles, dates, keywords):
+```bash
+curl -s --get "https://hf7ugumv.api.sanity.io/v2025-02-19/data/query/production" \
+  --data-urlencode 'query=*[_type=="post"]|order(publishedAt desc)[0...25]{title,publishedAt,tags}'
+```
+Also `ls posts/` in the repo.
 
 ## 1. Pick the topic
 Audience: founders, CXOs, ops and IT heads at Indian SMB / mid-market and enterprise firms (manufacturing, logistics, supply chain, healthcare, retail, BFSI).
@@ -99,8 +104,11 @@ SHA=$(git rev-parse HEAD); BASE=https://raw.githubusercontent.com/Admin-FineSolv
 Replace every `{{HERO_URL}}`, `{{INFO_URL}}`, `{{CHART_n_URL}}` with `$BASE/<file>.jpg`. Check each URL: `curl -s -o /dev/null -w "%{http_code} %{content_type}" URL` → `200 image/jpeg`. Re-run `python3 audit.py $POST` (must PASS), commit and push.
 
 ## 7. Publish
-Zapier Gmail action `message` (Send Email, selected_api `GoogleMailV2CLIAPI`, account admin@finesolves.com): `to` = [BLOGGER_POST_EMAIL], `subject` = title, `body_type` = html, `body` = full post.html. No signature, no attachments. Send exactly once.
-Wait ~90 seconds, then WebFetch `BLOG_URL/feeds/posts/default?alt=rss&max-results=3` and confirm the title, images, table and FAQ are there. If not live after 10 minutes, report — never resend.
+```bash
+SANITY_WRITE_TOKEN='<token from the task prompt>' python3 publish_sanity.py $POST
+```
+It strips the `#end` marker, builds the slug from the title (unique — it adds `-2` if another post has it), writes the post as document `post-$DATE-$SLOT` with `createOrReplace` (re-running updates the same post, never duplicates), reads it back and prints the live URL. Exit 0 = published. Then commit and push `$POST/sanity-mutation.json` (no secrets in it).
+Within a few minutes, WebFetch `https://finesolves.com/blog` and confirm the new title is listed (the page reads Sanity live). The post's prerendered page and the sitemap are rebuilt automatically within ~30 minutes (Railway cron) — don't wait for that.
 
 ## 8. Report
 One line: slot, title, live URL, pillar, audit score.
@@ -108,5 +116,5 @@ One line: slot, title, live URL, pillar, audit score.
 ## Failure handling
 - Not enough hard data for a topic → change topic (never pad with unsourced numbers).
 - Audit still failing after 3 rounds → don't publish; report the failing checks.
-- Zapier/Gmail auth error → don't publish; report "Reconnect Gmail in Zapier (admin@finesolves.com)".
+- `publish_sanity.py` fails with HTTP 401/403 or "SANITY_WRITE_TOKEN is not set" → report "Sanity write token missing or expired — create an Editor token at sanity.io/manage/project/hf7ugumv/api and update SANITY_WRITE_TOKEN in the task prompt". Any other failure → report its output.
 - Git push fails or any image URL isn't 200 image/jpeg → don't publish; report.
