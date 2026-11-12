@@ -1,0 +1,320 @@
+[
+ {
+  "value": "31.72 lakh",
+  "claim": "Total vehicle retail in October 2026 (31,72,466 units)",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "23.8%",
+  "claim": "YoY decline in total retail, October 2026",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "25.05%",
+  "claim": "MoM rise in total retail over September 2026",
+  "source": "DD India (ANI), 6 Nov 2026",
+  "url": "https://ddindia.co.in/2026/11/auto-retail-sales-decline-23-8-in-october-to-31-72-lakh-units-fada/"
+ },
+ {
+  "value": "23.21 lakh",
+  "claim": "Two-wheeler retail units, October 2026",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "28.35%",
+  "claim": "Two-wheeler YoY decline",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "29.67%",
+  "claim": "Two-wheeler MoM rise over September",
+  "source": "DD India (ANI), 6 Nov 2026",
+  "url": "https://ddindia.co.in/2026/11/auto-retail-sales-decline-23-8-in-october-to-31-72-lakh-units-fada/"
+ },
+ {
+  "value": "33.97%",
+  "claim": "Rural two-wheeler YoY decline",
+  "source": "DD India (ANI), 6 Nov 2026",
+  "url": "https://ddindia.co.in/2026/11/auto-retail-sales-decline-23-8-in-october-to-31-72-lakh-units-fada/"
+ },
+ {
+  "value": "20.77%",
+  "claim": "Urban two-wheeler YoY decline",
+  "source": "DD India (ANI), 6 Nov 2026",
+  "url": "https://ddindia.co.in/2026/11/auto-retail-sales-decline-23-8-in-october-to-31-72-lakh-units-fada/"
+ },
+ {
+  "value": "5.08 lakh",
+  "claim": "Passenger vehicle retail units, October 2026",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "14.23%",
+  "claim": "PV retail YoY decline",
+  "source": "Autocar Professional, 6 Nov 2026",
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776"
+ },
+ {
+  "value": "18.86%",
+  "claim": "PV retail MoM rise from September",
+  "source": "Autocar Professional, 6 Nov 2026",
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776"
+ },
+ {
+  "value": "1.15 lakh",
+  "claim": "Commercial vehicle retail units (record October)",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "2.29%",
+  "claim": "CV YoY growth",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "11.19%",
+  "claim": "CV MoM growth",
+  "source": "DD India (ANI), 6 Nov 2026",
+  "url": "https://ddindia.co.in/2026/11/auto-retail-sales-decline-23-8-in-october-to-31-72-lakh-units-fada/"
+ },
+ {
+  "value": "28.95%",
+  "claim": "Heavy CV YoY growth",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "21.16%",
+  "claim": "Medium CV YoY growth",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "9.57%",
+  "claim": "Light CV YoY decline",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "1.41 lakh",
+  "claim": "Three-wheeler retail units",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "3.97%",
+  "claim": "Three-wheeler YoY growth",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "63%",
+  "claim": "3W EV penetration nearly 63%",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "3.10%",
+  "claim": "Tractor retail YoY growth to 79,285 units",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "22.07%",
+  "claim": "Construction equipment YoY growth to 7,434 units",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "3.55 lakh",
+  "claim": "Record EV retail, October 2026 (approx.)",
+  "source": "DD India (ANI), 6 Nov 2026",
+  "url": "https://ddindia.co.in/2026/11/auto-retail-sales-decline-23-8-in-october-to-31-72-lakh-units-fada/"
+ },
+ {
+  "value": "44.88%",
+  "claim": "EV retail YoY growth",
+  "source": "DD India (ANI), 6 Nov 2026",
+  "url": "https://ddindia.co.in/2026/11/auto-retail-sales-decline-23-8-in-october-to-31-72-lakh-units-fada/"
+ },
+ {
+  "value": "11.5%",
+  "claim": "EV penetration of total retail in October 2026",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "6%",
+  "claim": "EV penetration a year earlier",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "41.83%",
+  "claim": "Alternative fuels (CNG/hybrid/EV) share of PV sales",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "41.6%",
+  "claim": "Petrol share of PV sales",
+  "source": "KNN India, 6 Nov 2026",
+  "url": "https://knnindia.co.in/news/newsdetails/sectors/auto-retail-sales-fall-238-in-october-amid-festive-calendar-shift-ev-sales-hit-record-high-fada"
+ },
+ {
+  "value": "48.96%",
+  "claim": "Petrol/ethanol share of PV, October 2025",
+  "source": "Autocar Professional, 6 Nov 2026",
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776"
+ },
+ {
+  "value": "24.59%",
+  "claim": "CNG/LPG share of PV, October 2026",
+  "source": "Autocar Professional, 6 Nov 2026",
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776"
+ },
+ {
+  "value": "23.20%",
+  "claim": "CNG/LPG share of PV, October 2025",
+  "source": "Autocar Professional, 6 Nov 2026",
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776"
+ },
+ {
+  "value": "9.94%",
+  "claim": "Hybrid share of PV, October 2026",
+  "source": "Autocar Professional, 6 Nov 2026",
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776"
+ },
+ {
+  "value": "6.96%",
+  "claim": "Hybrid share of PV, October 2025",
+  "source": "Autocar Professional, 6 Nov 2026",
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776"
+ },
+ {
+  "value": "16.57%",
+  "claim": "Diesel share of PV, October 2026",
+  "source": "Autocar Professional, 6 Nov 2026",
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776"
+ },
+ {
+  "value": "17.34%",
+  "claim": "Diesel share of PV, October 2025",
+  "source": "Autocar Professional, 6 Nov 2026",
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776"
+ },
+ {
+  "value": "7.30%",
+  "claim": "EV share of PV, October 2026",
+  "source": "Autocar Professional, 6 Nov 2026",
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776"
+ },
+ {
+  "value": "3.55%",
+  "claim": "EV share of PV, October 2025",
+  "source": "Autocar Professional, 6 Nov 2026",
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776"
+ },
+ {
+  "value": "41.75%",
+  "claim": "Maruti Suzuki PV retail share, October 2026",
+  "source": "Autocar Professional, 6 Nov 2026",
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776"
+ },
+ {
+  "value": "14.47%",
+  "claim": "Tata Motors PV retail share",
+  "source": "Autocar Professional, 6 Nov 2026",
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776"
+ },
+ {
+  "value": "12.80%",
+  "claim": "Mahindra & Mahindra PV retail share",
+  "source": "Autocar Professional, 6 Nov 2026",
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776"
+ },
+ {
+  "value": "11.44%",
+  "claim": "Hyundai PV retail share",
+  "source": "Autocar Professional, 6 Nov 2026",
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776"
+ },
+ {
+  "value": "51.65%",
+  "claim": "Dealers expecting November retail growth",
+  "source": "DD India (ANI), 6 Nov 2026",
+  "url": "https://ddindia.co.in/2026/11/auto-retail-sales-decline-23-8-in-october-to-31-72-lakh-units-fada/"
+ },
+ {
+  "value": "34.71%",
+  "claim": "Dealers expecting stable November",
+  "source": "DD India (ANI), 6 Nov 2026",
+  "url": "https://ddindia.co.in/2026/11/auto-retail-sales-decline-23-8-in-october-to-31-72-lakh-units-fada/"
+ },
+ {
+  "value": "13.64%",
+  "claim": "Dealers expecting November decline",
+  "source": "DD India (ANI), 6 Nov 2026",
+  "url": "https://ddindia.co.in/2026/11/auto-retail-sales-decline-23-8-in-october-to-31-72-lakh-units-fada/"
+ },
+ {
+  "value": "31%",
+  "claim": "About 31% of dealers see moderate or material EMI impact from repo-rate increase",
+  "source": "Autocar Professional, 6 Nov 2026",
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776"
+ },
+ {
+  "value": "18.20%",
+  "claim": "PV retail during Navratri 2026 window, YoY decline (1,91,426 units)",
+  "source": "Autocar Professional, 6 Nov 2026",
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776"
+ },
+ {
+  "value": "16.41%",
+  "claim": "FY2027 PV retail through October growth (30,68,353 units)",
+  "source": "Autocar Professional, 6 Nov 2026",
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776"
+ },
+ {
+  "value": "7.51%",
+  "claim": "3W retail fall during Navratri 2026 vs 2025",
+  "source": "Truck Junction, 21 Oct 2026",
+  "url": "https://trucks.tractorjunction.com/en/news/fada-navratri-2026-3-wheeler-cv-ev-retail-sales"
+ },
+ {
+  "value": "1.12%",
+  "claim": "CV retail rise during Navratri 2026",
+  "source": "Truck Junction, 21 Oct 2026",
+  "url": "https://trucks.tractorjunction.com/en/news/fada-navratri-2026-3-wheeler-cv-ev-retail-sales"
+ },
+ {
+  "value": "26.78%",
+  "claim": "Overall EV retail growth during Navratri 2026",
+  "source": "Truck Junction, 21 Oct 2026",
+  "url": "https://trucks.tractorjunction.com/en/news/fada-navratri-2026-3-wheeler-cv-ev-retail-sales"
+ },
+ {
+  "value": "96.04%",
+  "claim": "Electric CV retail growth during Navratri 2026",
+  "source": "Truck Junction, 21 Oct 2026",
+  "url": "https://trucks.tractorjunction.com/en/news/fada-navratri-2026-3-wheeler-cv-ev-retail-sales"
+ },
+ {
+  "value": "11.5%",
+  "claim": "EV share around 11.5% of overall vehicle retail",
+  "source": "Open Magazine (ANI), 6 Nov 2026",
+  "url": "https://openthemagazine.com/business/indias-auto-retail-posts-second-best-october-as-sales-rise-25-from-september"
+ },
+ {
+  "value": "25%",
+  "claim": "Headline: sales rise 25% from September (Open Magazine article title)",
+  "source": "Open Magazine (ANI), 6 Nov 2026",
+  "url": "https://openthemagazine.com/business/indias-auto-retail-posts-second-best-october-as-sales-rise-25-from-september"
+ }
+]
