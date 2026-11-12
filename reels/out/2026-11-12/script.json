@@ -1,0 +1,12 @@
+{
+ "id": "2026-11-12",
+ "brand": "finehr",
+ "music": "pulse",
+ "scenes": [
+  {"type": "kinetic", "dur": 2.9, "eyebrow": "HR DESK · 3:15 PM", "text": "“Which sheet has\nher new address?”", "highlight": "Which sheet", "hl_style": "bar"},
+  {"type": "kinetic", "dur": 2.6, "text": "Five sheets.\nFive answers.", "highlight": "Five answers.", "hl_style": "block"},
+  {"type": "compare", "dur": 5.4, "before_label": "TODAY", "before": ["Update the joining sheet", "Update the payroll sheet", "Tell accounts on WhatsApp"], "after_label": "WITH FINEHR", "after": "One system.\nOne place."},
+  {"type": "kinetic", "dur": 2.8, "text": "One place to look.\nNo sixth sheet.", "highlight": "No sixth sheet.", "hl_style": "block", "transition": "bands"},
+  {"type": "end", "dur": 3.2, "line": "FineHR by Fine Solves", "tag": "ONE SYSTEM FOR HR"}
+ ]
+}

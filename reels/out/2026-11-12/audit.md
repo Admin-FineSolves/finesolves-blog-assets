@@ -1,0 +1,74 @@
+# Reel audit: PASS (100/100)
+
+## Passed
+- ✅ brand is valid (finehr)
+- ✅ last scene is the end card
+- ✅ total length 14–30s (16.9s)
+- ✅ 4–8 scenes (5)
+- ✅ uses at least one motion set-piece (chaos, ui, compare or bignum)
+- ✅ has one band-wipe transition
+- ✅ scene 1 holds long enough to read (2.9s ≥ 2.3s)
+- ✅ scene 1 title line ≤26 chars: “” (0)
+- ✅ scene 1 after line ≤26 chars: “” (0)
+- ✅ scene 1 headline ≤10 words (6)
+- ✅ scene 1 headline line ≤26 chars: ““Which sheet has” (16)
+- ✅ scene 1 headline line ≤26 chars: “her new address?”” (17)
+- ✅ scene 2 holds long enough to read (2.6s ≥ 2.3s)
+- ✅ scene 2 title line ≤26 chars: “” (0)
+- ✅ scene 2 after line ≤26 chars: “” (0)
+- ✅ scene 2 headline ≤10 words (4)
+- ✅ scene 2 headline line ≤26 chars: “Five sheets.” (12)
+- ✅ scene 2 headline line ≤26 chars: “Five answers.” (13)
+- ✅ scene 3 holds long enough to read (5.4s ≥ 4.5s)
+- ✅ scene 3 title line ≤26 chars: “” (0)
+- ✅ scene 3 after line ≤26 chars: “One system.” (11)
+- ✅ scene 3 after line ≤26 chars: “One place.” (10)
+- ✅ scene 4 holds long enough to read (2.8s ≥ 2.3s)
+- ✅ scene 4 title line ≤26 chars: “” (0)
+- ✅ scene 4 after line ≤26 chars: “” (0)
+- ✅ scene 4 headline ≤10 words (7)
+- ✅ scene 4 headline line ≤26 chars: “One place to look.” (18)
+- ✅ scene 4 headline line ≤26 chars: “No sixth sheet.” (15)
+- ✅ scene 5 holds long enough to read (3.2s ≥ 2.3s)
+- ✅ scene 5 title line ≤26 chars: “” (0)
+- ✅ scene 5 after line ≤26 chars: “” (0)
+- ✅ FineHR end card reads 'FineHR by Fine Solves'
+- ✅ no banned words 
+- ✅ says 'products', not 'software' (hashtags excepted)
+- ✅ brand names spelled Fine Solves / FineHealth / FineHR 
+- ✅ no [CONFIRM] items
+- ✅ no pricing
+- ✅ no medical / patient-outcome claims
+- ✅ no invented clients or testimonials
+- ✅ FineHR makes no feature claims beyond 'one system' 
+- ✅ instagram: first line contains the keyword “employee data management”
+- ✅ instagram: asks the reader one question
+- ✅ instagram: has the finesolves.com CTA
+- ✅ instagram: 3–6 hashtags (5)
+- ✅ instagram: no generic hashtags 
+- ✅ linkedin: first line contains the keyword “employee data management”
+- ✅ linkedin: asks the reader one question
+- ✅ linkedin: has the finesolves.com CTA
+- ✅ linkedin: 3–6 hashtags (5)
+- ✅ linkedin: no generic hashtags 
+- ✅ instagram ≤2,200 chars (490)
+- ✅ linkedin ≤2,800 chars (490)
+- ✅ linkedin: no brackets or parentheses
+- ✅ CTA is “Talk to us → finesolves.com”
+- ✅ youtube title ≤100 chars with #Shorts (66)
+- ✅ youtube title carries the keyword
+- ✅ youtube description present with finesolves.com
+- ✅ youtube text has no < or >
+- ✅ alt text is one descriptive sentence
+- ✅ brand differs from the previous reel (finesolves)
+- ✅ primary keyword not used in the last 21 reels
+- ✅ topic not used before
+- ✅ reel.mp4 exists
+- ✅ video is 1080×1920
+- ✅ video is H.264 yuv420p
+- ✅ frame rate 24/30 (30/1)
+- ✅ has an audio track
+- ✅ duration matches script (16.9s)
+- ✅ file under 20 MB (CDN limit)
+- ✅ cover.jpg exists
+- ✅ one review still per scene
