@@ -1,0 +1,13 @@
+{
+ "id": "2026-11-13",
+ "brand": "finehealth",
+ "music": "pulse",
+ "scenes": [
+  {"type": "kinetic", "dur": 2.8, "eyebrow": "BILLING · 6:50 PM", "text": "Which GST rate\nis this one?", "highlight": "GST rate", "hl_style": "bar"},
+  {"type": "kinetic", "dur": 2.6, "text": "Ask the\ncalculator.", "highlight": "calculator.", "hl_style": "block"},
+  {"type": "ui", "dur": 5.4, "title": "GST on the bill,\nnot on a calculator.", "window": "OPD BILL · TOKEN 31", "rows": [{"label": "Consultation", "value": "ADDED"}, {"label": "Lab test", "value": "ADDED"}, {"label": "Pharmacy", "value": "ADDED"}, {"label": "GST", "value": "ON THE BILL"}], "status": ["DRAFT", "GST-READY"]},
+  {"type": "kinetic", "dur": 2.8, "text": "Raise the bill.\nIt's GST-ready.", "highlight": "GST-ready.", "hl_style": "bar"},
+  {"type": "steps", "dur": 3.2, "items": ["Register.", "Treat.", "Bill."], "transition": "bands"},
+  {"type": "end", "dur": 3.2, "line": "FineHealth by Fine Solves", "tag": "GST-READY HOSPITAL BILLING"}
+ ]
+}

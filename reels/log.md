@@ -10,3 +10,4 @@ One row per posted reel (newest last). The daily run reads this for brand rotati
 | 2026-11-10 | finehealth | Old lab reports left at home on the follow-up visit | patient record management | ✗ not posted: YouTube, Instagram and LinkedIn not connected in Zapier | ✗ | ✗ | PASS 100/100 |
 | 2026-11-11 | finesolves | Daily dispatch plan kept on a whiteboard | dispatch management | ✗ not posted: YouTube, Instagram and LinkedIn not connected in Zapier | ✗ | ✗ | PASS 100/100 |
 | 2026-11-12 | finehr | The same employee's details kept in five different spreadsheets | employee data management | ✗ not posted: YouTube, Instagram and LinkedIn not connected in Zapier | ✗ | ✗ | PASS 100/100 |
+| 2026-11-13 | finehealth | GST on hospital bills worked out by hand on a calculator at the counter | hospital billing | ✗ not posted: YouTube, Instagram and LinkedIn not connected in Zapier | ✗ | ✗ | PASS 100/100 |
