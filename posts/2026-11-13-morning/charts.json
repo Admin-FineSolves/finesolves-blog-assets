@@ -1,0 +1,80 @@
+[
+ {
+  "type": "column",
+  "title": "Infrastructure took the AI money",
+  "subtitle": "Indian AI startup funding by segment, Jan–Sep, US$ million",
+  "unit": "",
+  "series": [
+   "Jan–Sep 2025",
+   "Jan–Sep 2026"
+  ],
+  "data": [
+   [
+    "All AI startups",
+    677,
+    1600
+   ],
+   [
+    "AI infrastructure",
+    145,
+    1200
+   ],
+   [
+    "AI applications",
+    532,
+    390
+   ]
+  ],
+  "source": "Source: Tracxn data via Elets CIO, 12 Nov 2026"
+ },
+ {
+  "type": "bar",
+  "title": "Model builders took 83% of compute subsidy",
+  "subtitle": "Share of IndiaAI compute subsidy by user group, approvals to 8 Oct 2026, %",
+  "unit": "%",
+  "data": [
+   [
+    "Foundation-model builders",
+    83
+   ],
+   [
+    "Govt departments & PSUs",
+    12.5
+   ],
+   [
+    "Researchers & students",
+    0.8
+   ]
+  ],
+  "highlight": "Foundation-model builders",
+  "source": "Source: ThePrint analysis of IndiaAI Compute Portal, 20 Oct 2026"
+ },
+ {
+  "type": "column",
+  "title": "IndiaAI releases trail budgets",
+  "subtitle": "IndiaAI Mission funds, estimate vs released, ₹ crore (as of April 2026)",
+  "unit": "₹ cr",
+  "series": [
+   "Estimate",
+   "Released"
+  ],
+  "data": [
+   [
+    "2024–25",
+    173,
+    21.79
+   ],
+   [
+    "2025–26",
+    800,
+    379.15
+   ],
+   [
+    "2026–27",
+    1000,
+    0
+   ]
+  ],
+  "source": "Source: MeitY Rajya Sabha reply via MediaNama, 12 Nov 2026"
+ }
+]

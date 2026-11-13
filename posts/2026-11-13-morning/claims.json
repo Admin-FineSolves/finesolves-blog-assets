@@ -1,0 +1,326 @@
+[
+ {
+  "value": "80%",
+  "claim": "Some domestic models reached up to 80% of the capacity of leading frontier models (official quoted)",
+  "source": "MediaNama (citing Business Standard), 12 Nov 2026",
+  "url": "https://www.medianama.com/2026/11/223-government-indigenous-ai-critical-sectors/"
+ },
+ {
+  "value": "20 AI models",
+  "claim": "IndiaAI Mission approved development of 20 AI models (LLMs and sector SLMs)",
+  "source": "MediaNama (citing Business Standard), 12 Nov 2026",
+  "url": "https://www.medianama.com/2026/11/223-government-indigenous-ai-critical-sectors/"
+ },
+ {
+  "value": "12 startups",
+  "claim": "The 20 models are being developed by 12 startups selected under the mission",
+  "source": "MediaNama (citing Business Standard), 12 Nov 2026",
+  "url": "https://www.medianama.com/2026/11/223-government-indigenous-ai-critical-sectors/"
+ },
+ {
+  "value": "12–15 months",
+  "claim": "Gnani, Gan AI, Fractal, Tech Mahindra, Shodh AI to release LLMs/SLMs over the next 12–15 months",
+  "source": "MediaNama (citing Business Standard), 12 Nov 2026",
+  "url": "https://www.medianama.com/2026/11/223-government-indigenous-ai-critical-sectors/"
+ },
+ {
+  "value": "₹10,371.92 crore",
+  "claim": "IndiaAI Mission five-year outlay",
+  "source": "MediaNama (citing Business Standard), 12 Nov 2026",
+  "url": "https://www.medianama.com/2026/11/223-government-indigenous-ai-critical-sectors/"
+ },
+ {
+  "value": "₹21.79 crore",
+  "claim": "Released in 2024–25 (Rajya Sabha reply, MeitY)",
+  "source": "MediaNama (citing Business Standard), 12 Nov 2026",
+  "url": "https://www.medianama.com/2026/11/223-government-indigenous-ai-critical-sectors/"
+ },
+ {
+  "value": "₹173 crore",
+  "claim": "Revised estimate 2024–25",
+  "source": "MediaNama (citing Business Standard), 12 Nov 2026",
+  "url": "https://www.medianama.com/2026/11/223-government-indigenous-ai-critical-sectors/"
+ },
+ {
+  "value": "₹379.15 crore",
+  "claim": "Released in 2025–26",
+  "source": "MediaNama (citing Business Standard), 12 Nov 2026",
+  "url": "https://www.medianama.com/2026/11/223-government-indigenous-ai-critical-sectors/"
+ },
+ {
+  "value": "₹800 crore",
+  "claim": "Revised estimate 2025–26",
+  "source": "MediaNama (citing Business Standard), 12 Nov 2026",
+  "url": "https://www.medianama.com/2026/11/223-government-indigenous-ai-critical-sectors/"
+ },
+ {
+  "value": "₹1,000 crore",
+  "claim": "Budget estimate 2026–27; nothing released as of April 2026",
+  "source": "MediaNama (citing Business Standard), 12 Nov 2026",
+  "url": "https://www.medianama.com/2026/11/223-government-indigenous-ai-critical-sectors/"
+ },
+ {
+  "value": "26.3 billion",
+  "claim": "EKA-1 parameter count",
+  "source": "News On AIR (Prasar Bharati), 4 Nov 2026",
+  "url": "https://newsonair.gov.in/govt-launches-3-new-indigenous-ai-foundation-models-under-indiaai-mission-to-strengthen-homegrown-ai-capabilities/"
+ },
+ {
+  "value": "7.5 trillion",
+  "claim": "EKA-1 trained on approximately 7.5 trillion tokens",
+  "source": "News On AIR (Prasar Bharati), 4 Nov 2026",
+  "url": "https://newsonair.gov.in/govt-launches-3-new-indigenous-ai-foundation-models-under-indiaai-mission-to-strengthen-homegrown-ai-capabilities/"
+ },
+ {
+  "value": "22",
+  "claim": "EKA-1 spans all 22 scheduled Indian languages plus English",
+  "source": "News On AIR (Prasar Bharati), 4 Nov 2026",
+  "url": "https://newsonair.gov.in/govt-launches-3-new-indigenous-ai-foundation-models-under-indiaai-mission-to-strengthen-homegrown-ai-capabilities/"
+ },
+ {
+  "value": "10",
+  "claim": "Dhīr models support English and 10 Indian languages, run on phones offline",
+  "source": "Swarajya, 4 Nov 2026",
+  "url": "https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b"
+ },
+ {
+  "value": "3",
+  "claim": "Three indigenous foundation models unveiled (EKA-1, Dhīr 2B, Dhīr 5B), Apache 2.0 on AIKosh",
+  "source": "Swarajya, 4 Nov 2026",
+  "url": "https://swarajyamag.com/tech/indiaai-mission-unveils-three-indigenous-ai-models-as-soket-launches-eka-1-and-zenteiq-releases-dhr-2b-and-5b"
+ },
+ {
+  "value": "$1.6 billion",
+  "claim": "Indian AI startup funding Jan–Sep 2026, across 81 rounds",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "$677 million",
+  "claim": "Indian AI startup funding Jan–Sep 2025",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "43%",
+  "claim": "Fall in number of funding rounds (from 142 to 81)",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "72%",
+  "claim": "Share of nine-month total taken by four deals",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "$600 million",
+  "claim": "Neysa round led by Blackstone",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "$255 million",
+  "claim": "Sarvam round",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "$150 million",
+  "claim": "Yotta round",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "$130 million",
+  "claim": "Emergent round",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "$1.2 billion",
+  "claim": "AI infrastructure funding across 19 rounds",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "75%",
+  "claim": "AI infrastructure share of all AI funding",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "$145 million",
+  "claim": "AI infrastructure funding a year earlier",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "8.3 times",
+  "claim": "AI infrastructure funding growth vs a year earlier",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "$390 million",
+  "claim": "AI application startup funding across 62 rounds",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "$532 million",
+  "claim": "AI application funding a year earlier (113 rounds)",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "27%",
+  "claim": "Fall in AI application funding",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "87%",
+  "claim": "Fall in vertical AI funding to $41 million",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "$41 million",
+  "claim": "Vertical AI funding Jan–Sep 2026",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "$319 million",
+  "claim": "Vertical AI funding a year earlier",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "$348 million",
+  "claim": "Enterprise AI app funding, up 70%",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "70%",
+  "claim": "Rise in enterprise AI app funding",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "20%",
+  "claim": "GPUs in Indian data centres run at about 20% utilisation (Rhodium Group research cited)",
+  "source": "Elets CIO (Tracxn data), 12 Nov 2026",
+  "url": "https://cio.eletsonline.com/artificial-intelligence/indian-ai-startup-funding-tracxn/76861/"
+ },
+ {
+  "value": "₹1,058 crore",
+  "claim": "Compute subsidy received by nine foundation-model organisations",
+  "source": "ThePrint, 20 Oct 2026",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "₹1,275 crore",
+  "claim": "Total compute subsidy committed so far",
+  "source": "ThePrint, 20 Oct 2026",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "₹10.14 crore",
+  "claim": "Compute subsidy received by researchers, students and fellows",
+  "source": "ThePrint, 20 Oct 2026",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "0.8%",
+  "claim": "Researchers' share of compute subsidy",
+  "source": "ThePrint, 20 Oct 2026",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "83%",
+  "claim": "Foundation-model builders' share of subsidy (16 approvals)",
+  "source": "ThePrint, 20 Oct 2026",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "98.9%",
+  "claim": "Share of foundation-model builders' bills paid",
+  "source": "ThePrint, 20 Oct 2026",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "12.5%",
+  "claim": "Government departments and PSUs' share of subsidy (123 approvals)",
+  "source": "ThePrint, 20 Oct 2026",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "46.8%",
+  "claim": "Share of government/PSU bills paid",
+  "source": "ThePrint, 20 Oct 2026",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "39.7%",
+  "claim": "Share of researchers' bills paid (55 approvals)",
+  "source": "ThePrint, 20 Oct 2026",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "40%",
+  "claim": "Most users get 40% of the compute bill paid",
+  "source": "ThePrint, 20 Oct 2026",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "₹140",
+  "claim": "Tender rate about ₹140 an hour for an H100",
+  "source": "ThePrint, 20 Oct 2026",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "304",
+  "claim": "All 304 approvals on the IndiaAI Compute Portal as of 8 October",
+  "source": "ThePrint, 20 Oct 2026",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "₹100",
+  "claim": "Subsidised GPU rate of ₹100 an hour (PIB, cited)",
+  "source": "Communications Today, 1 Oct 2026",
+  "url": "https://communicationstoday.co.in/indiaai-mission-faces-gap-between-capacity-and-deployed-gpus"
+ },
+ {
+  "value": "$2.5",
+  "claim": "Global market rate of US$2.5 to 3 an hour",
+  "source": "Communications Today, 1 Oct 2026",
+  "url": "https://communicationstoday.co.in/indiaai-mission-faces-gap-between-capacity-and-deployed-gpus"
+ },
+ {
+  "value": "34,381",
+  "claim": "GPUs on the AI Compute Portal per earlier PIB factsheet",
+  "source": "Communications Today, 1 Oct 2026",
+  "url": "https://communicationstoday.co.in/indiaai-mission-faces-gap-between-capacity-and-deployed-gpus"
+ },
+ {
+  "value": "93.18 lakh",
+  "claim": "GPU hours sanctioned across 237 approved projects (Lok Sabha, Aug 2026)",
+  "source": "Communications Today, 1 Oct 2026",
+  "url": "https://communicationstoday.co.in/indiaai-mission-faces-gap-between-capacity-and-deployed-gpus"
+ },
+ {
+  "value": "15",
+  "claim": "Compute service providers empanelled",
+  "source": "Communications Today, 1 Oct 2026",
+  "url": "https://communicationstoday.co.in/indiaai-mission-faces-gap-between-capacity-and-deployed-gpus"
+ },
+ {
+  "value": "92%",
+  "claim": "GPUs can be up to 92% of an AI server's value",
+  "source": "Communications Today, 1 Oct 2026",
+  "url": "https://communicationstoday.co.in/indiaai-mission-faces-gap-between-capacity-and-deployed-gpus"
+ }
+]
