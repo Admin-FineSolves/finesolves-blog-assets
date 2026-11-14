@@ -1,0 +1,14 @@
+{
+ "id": "2026-11-14",
+ "brand": "finesolves",
+ "music": "pulse",
+ "scenes": [
+  {"type": "kinetic", "dur": 2.8, "eyebrow": "PURCHASE · 11:20 AM", "text": "Did sir approve\nthe PO yet?", "highlight": "approve", "hl_style": "bar"},
+  {"type": "kinetic", "dur": 2.6, "text": "It's in his inbox.\nPage four.", "highlight": "Page four.", "hl_style": "block"},
+  {"type": "compare", "dur": 5.4, "before_label": "TODAY",
+   "before": ["PO sent on email", "Reminder on WhatsApp", "Call to follow up"],
+   "after_label": "ONE APPROVAL QUEUE", "after": "Raise. Approve. Order."},
+  {"type": "kinetic", "dur": 3.0, "text": "One approval queue.\nNobody digs through email.", "highlight": "One approval queue.", "hl_style": "block", "transition": "bands"},
+  {"type": "end", "dur": 3.2, "line": "Custom products,\nlive in weeks.", "tag": "CUSTOM PRODUCTS · AI"}
+ ]
+}
