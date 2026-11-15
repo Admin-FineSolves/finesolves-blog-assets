@@ -1,0 +1,13 @@
+{
+ "id": "2026-11-15",
+ "brand": "finehealth",
+ "music": "pulse",
+ "scenes": [
+  {"type": "kinetic", "dur": 2.8, "eyebrow": "LAB COUNTER · 11:20 AM", "text": "Name? Age?\nPhone number?", "highlight": "Phone number?", "hl_style": "bar"},
+  {"type": "kinetic", "dur": 2.6, "text": "Third time\nthis morning.", "highlight": "Third time", "hl_style": "block"},
+  {"type": "chaos", "dur": 5.4, "title": "Five desks.\nOne patient.", "chips": ["REGISTRATION", "OPD ROOM", "LAB", "BILLING", "IPD WARD"], "label": "ONE PATIENT RECORD"},
+  {"type": "kinetic", "dur": 2.8, "text": "Register once.\nEvery desk sees it.", "highlight": "Every desk", "hl_style": "bar"},
+  {"type": "steps", "dur": 3.2, "items": ["Register.", "Treat.", "Bill."], "transition": "bands"},
+  {"type": "end", "dur": 3.2, "line": "FineHealth by Fine Solves", "tag": "HOSPITAL MANAGEMENT SYSTEM"}
+ ]
+}
