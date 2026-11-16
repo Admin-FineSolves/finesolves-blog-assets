@@ -1,0 +1,75 @@
+# Reel audit: PASS (100/100)
+
+## Passed
+- ✅ brand is valid (finesolves)
+- ✅ last scene is the end card
+- ✅ total length 14–30s (20.4s)
+- ✅ 4–8 scenes (6)
+- ✅ uses at least one motion set-piece (chaos, ui, compare or bignum)
+- ✅ has one band-wipe transition
+- ✅ scene 1 holds long enough to read (2.8s ≥ 2.3s)
+- ✅ scene 1 title line ≤26 chars: “” (0)
+- ✅ scene 1 after line ≤26 chars: “” (0)
+- ✅ scene 1 headline ≤10 words (6)
+- ✅ scene 1 headline line ≤26 chars: “Why doesn't the bank” (20)
+- ✅ scene 1 headline line ≤26 chars: “match Tally?” (12)
+- ✅ scene 2 holds long enough to read (2.7s ≥ 2.3s)
+- ✅ scene 2 title line ≤26 chars: “” (0)
+- ✅ scene 2 after line ≤26 chars: “” (0)
+- ✅ scene 2 headline ≤10 words (4)
+- ✅ scene 2 headline line ≤26 chars: “Two printouts.” (14)
+- ✅ scene 2 headline line ≤26 chars: “One highlighter.” (16)
+- ✅ scene 3 holds long enough to read (5.6s ≥ 4.7s)
+- ✅ scene 3 title line ≤26 chars: “Bank and Tally,” (15)
+- ✅ scene 3 title line ≤26 chars: “side by side.” (13)
+- ✅ scene 3 after line ≤26 chars: “” (0)
+- ✅ scene 4 holds long enough to read (2.9s ≥ 2.3s)
+- ✅ scene 4 title line ≤26 chars: “” (0)
+- ✅ scene 4 after line ≤26 chars: “” (0)
+- ✅ scene 4 headline ≤10 words (6)
+- ✅ scene 4 headline line ≤26 chars: “You only check” (14)
+- ✅ scene 4 headline line ≤26 chars: “the odd ones.” (13)
+- ✅ scene 5 holds long enough to read (3.2s ≥ 2.9s)
+- ✅ scene 5 title line ≤26 chars: “” (0)
+- ✅ scene 5 after line ≤26 chars: “” (0)
+- ✅ scene 6 holds long enough to read (3.2s ≥ 2.3s)
+- ✅ scene 6 title line ≤26 chars: “” (0)
+- ✅ scene 6 after line ≤26 chars: “” (0)
+- ✅ no banned words 
+- ✅ says 'products', not 'software' (hashtags excepted)
+- ✅ brand names spelled Fine Solves / FineHealth / FineHR 
+- ✅ no [CONFIRM] items
+- ✅ no pricing
+- ✅ no medical / patient-outcome claims
+- ✅ no invented clients or testimonials
+- ✅ instagram: first line contains the keyword “tally integration”
+- ✅ instagram: asks the reader one question
+- ✅ instagram: has the finesolves.com CTA
+- ✅ instagram: 3–6 hashtags (5)
+- ✅ instagram: no generic hashtags 
+- ✅ linkedin: first line contains the keyword “tally integration”
+- ✅ linkedin: asks the reader one question
+- ✅ linkedin: has the finesolves.com CTA
+- ✅ linkedin: 3–6 hashtags (5)
+- ✅ linkedin: no generic hashtags 
+- ✅ instagram ≤2,200 chars (718)
+- ✅ linkedin ≤2,800 chars (718)
+- ✅ linkedin: no brackets or parentheses
+- ✅ CTA is “Talk to us → finesolves.com”
+- ✅ youtube title ≤100 chars with #Shorts (80)
+- ✅ youtube title carries the keyword
+- ✅ youtube description present with finesolves.com
+- ✅ youtube text has no < or >
+- ✅ alt text is one descriptive sentence
+- ✅ brand differs from the previous reel (finehealth)
+- ✅ primary keyword not used in the last 21 reels
+- ✅ topic not used before
+- ✅ reel.mp4 exists
+- ✅ video is 1080×1920
+- ✅ video is H.264 yuv420p
+- ✅ frame rate 24/30 (30/1)
+- ✅ has an audio track
+- ✅ duration matches script (20.4s)
+- ✅ file under 20 MB (CDN limit)
+- ✅ cover.jpg exists
+- ✅ one review still per scene
