@@ -1,0 +1,144 @@
+# Reel audit: PASS (99/100)
+
+## Warnings
+- ⚠️ has an ElevenLabs voiceover (vo/NN.mp3)
+## Passed
+- ✅ brand is valid: finesolves or finehr; FineHealth is paused (finehr)
+- ✅ last scene is the end card
+- ✅ total length 18–36s (28.0s)
+- ✅ 6–10 scenes (8)
+- ✅ at least 3 prop scenes (phone, calendar, calls, app, modules, sheet)
+- ✅ shows the product (an app or modules scene)
+- ✅ uses navy, cream and teal backgrounds (problem → turn → fix)
+- ✅ has one wipe transition into the turn
+- ✅ scene 1 has a headline
+- ✅ scene 1 headline ≤3 lines
+- ✅ scene 1 headline line ≤18 chars: “Hiring” (6)
+- ✅ scene 1 headline line ≤18 chars: “this month?” (11)
+- ✅ scene 1 VO ≤22 words (4)
+- ✅ scene 1 prop text ≤32 chars: “FOUNDERS · HIRING”
+- ✅ scene 1 prop text ≤32 chars: “Mail”
+- ✅ scene 1 prop text ≤32 chars: “Candidate · Frontend”
+- ✅ scene 1 prop text ≤32 chars: “Can we do a quick call today?”
+- ✅ scene 1 prop text ≤32 chars: “Calendar”
+- ✅ scene 1 prop text ≤32 chars: “Intro call · 11:00”
+- ✅ scene 1 prop text ≤32 chars: “Candidate · Product designer”
+- ✅ scene 1 prop text ≤32 chars: “Messages”
+- ✅ scene 1 prop text ≤32 chars: “Recruiter”
+- ✅ scene 1 prop text ≤32 chars: “New profiles for you”
+- ✅ scene 1 prop text ≤32 chars: “Mail”
+- ✅ scene 1 prop text ≤32 chars: “Candidate · Backend”
+- ✅ scene 1 prop text ≤32 chars: “Is 4 pm okay for a chat?”
+- ✅ scene 1 prop text ≤32 chars: “Calendar”
+- ✅ scene 1 prop text ≤32 chars: “Intro call · 2:30”
+- ✅ scene 1 prop text ≤32 chars: “Candidate · Sales”
+- ✅ scene 2 has a headline
+- ✅ scene 2 headline ≤3 lines
+- ✅ scene 2 headline line ≤18 chars: “There goes” (10)
+- ✅ scene 2 headline line ≤18 chars: “your week.” (10)
+- ✅ scene 2 VO ≤22 words (14)
+- ✅ scene 2 prop text ≤32 chars: “Intro call”
+- ✅ scene 2 prop text ≤32 chars: “FULL”
+- ✅ scene 3 has a headline
+- ✅ scene 3 headline ≤3 lines
+- ✅ scene 3 headline line ≤18 chars: “Same questions.” (15)
+- ✅ scene 3 headline line ≤18 chars: “Every call.” (11)
+- ✅ scene 3 VO ≤22 words (11)
+- ✅ scene 3 prop text ≤32 chars: “So, tell me about yourself?”
+- ✅ scene 3 prop text ≤32 chars: “Aarav S.”
+- ✅ scene 3 prop text ≤32 chars: “Diya M.”
+- ✅ scene 3 prop text ≤32 chars: “Kabir R.”
+- ✅ scene 3 prop text ≤32 chars: “Meera P.”
+- ✅ scene 4 has a headline
+- ✅ scene 4 headline ≤3 lines
+- ✅ scene 4 headline line ≤18 chars: “Let the AI” (10)
+- ✅ scene 4 headline line ≤18 chars: “interviewer” (11)
+- ✅ scene 4 headline line ≤18 chars: “go first.” (9)
+- ✅ scene 4 VO ≤22 words (7)
+- ✅ scene 5 has a headline
+- ✅ scene 5 headline ≤3 lines
+- ✅ scene 5 headline line ≤18 chars: “You review.” (11)
+- ✅ scene 5 headline line ≤18 chars: “It interviews.” (14)
+- ✅ scene 5 VO ≤22 words (18)
+- ✅ scene 5 prop text ≤32 chars: “Frontend developer · Round 1”
+- ✅ scene 5 prop text ≤32 chars: “Review answers”
+- ✅ scene 5 prop text ≤32 chars: “Round 1 complete”
+- ✅ scene 5 prop text ≤32 chars: “FineHR”
+- ✅ scene 5 prop text ≤32 chars: “AI interviewer”
+- ✅ scene 5 prop text ≤32 chars: “Attendance”
+- ✅ scene 5 prop text ≤32 chars: “Leave”
+- ✅ scene 5 prop text ≤32 chars: “Payroll”
+- ✅ scene 5 prop text ≤32 chars: “Aarav S.”
+- ✅ scene 5 prop text ≤32 chars: “Applied Monday”
+- ✅ scene 5 prop text ≤32 chars: “INVITED”
+- ✅ scene 5 prop text ≤32 chars: “INTERVIEWED”
+- ✅ scene 5 prop text ≤32 chars: “Diya M.”
+- ✅ scene 5 prop text ≤32 chars: “Applied Monday”
+- ✅ scene 5 prop text ≤32 chars: “INVITED”
+- ✅ scene 5 prop text ≤32 chars: “INTERVIEWED”
+- ✅ scene 5 prop text ≤32 chars: “Kabir R.”
+- ✅ scene 5 prop text ≤32 chars: “Applied Tuesday”
+- ✅ scene 5 prop text ≤32 chars: “INVITED”
+- ✅ scene 5 prop text ≤32 chars: “INTERVIEWED”
+- ✅ scene 5 prop text ≤32 chars: “Meera P.”
+- ✅ scene 5 prop text ≤32 chars: “Applied Tuesday”
+- ✅ scene 5 prop text ≤32 chars: “INVITED”
+- ✅ scene 5 prop text ≤32 chars: “INTERVIEWED”
+- ✅ scene 6 has a headline
+- ✅ scene 6 headline ≤3 lines
+- ✅ scene 6 headline line ≤18 chars: “Your week,” (10)
+- ✅ scene 6 headline line ≤18 chars: “back.” (5)
+- ✅ scene 6 VO ≤22 words (14)
+- ✅ scene 6 prop text ≤32 chars: “Intro call”
+- ✅ scene 6 prop text ≤32 chars: “YOURS”
+- ✅ scene 6 prop text ≤32 chars: “Final round”
+- ✅ scene 6 prop text ≤32 chars: “Final round”
+- ✅ scene 6 prop text ≤32 chars: “Final round”
+- ✅ scene 7 has a headline
+- ✅ scene 7 headline ≤3 lines
+- ✅ scene 7 headline line ≤18 chars: “Then attendance,” (16)
+- ✅ scene 7 headline line ≤18 chars: “leave, payroll.” (15)
+- ✅ scene 7 VO ≤22 words (13)
+- ✅ scene 7 prop text ≤32 chars: “FineHR”
+- ✅ scene 7 prop text ≤32 chars: “AI interviewer”
+- ✅ scene 7 prop text ≤32 chars: “Attendance”
+- ✅ scene 7 prop text ≤32 chars: “Leave”
+- ✅ scene 7 prop text ≤32 chars: “Payroll”
+- ✅ scene 8 headline ≤3 lines
+- ✅ scene 8 headline line ≤18 chars: “” (0)
+- ✅ scene 8 VO ≤22 words (11)
+- ✅ scene 8 prop text ≤32 chars: “FineHR by Fine Solves”
+- ✅ scene 8 prop text ≤32 chars: “HRMS · AI INTERVIEWER”
+- ✅ scene 8 prop text ≤32 chars: “Book a demo”
+- ✅ end card has a CTA button
+- ✅ FineHR end card reads 'FineHR by Fine Solves'
+- ✅ no banned words 
+- ✅ says 'products', not 'software' (hashtags excepted)
+- ✅ brand names spelled Fine Solves / FineHealth / FineHR 
+- ✅ no [CONFIRM] items
+- ✅ no pricing
+- ✅ no medical / patient-outcome claims
+- ✅ no invented clients or testimonials
+- ✅ FineHR claims only attendance, leave, payroll, AI interviewer 
+- ✅ instagram: first line contains the keyword “ai interviewer”
+- ✅ instagram: asks the reader one question
+- ✅ instagram: has the finesolves.com CTA
+- ✅ instagram: 3–6 hashtags (5)
+- ✅ instagram: no generic hashtags 
+- ✅ linkedin: first line contains the keyword “ai interviewer”
+- ✅ linkedin: asks the reader one question
+- ✅ linkedin: has the finesolves.com CTA
+- ✅ linkedin: 3–6 hashtags (5)
+- ✅ linkedin: no generic hashtags 
+- ✅ instagram ≤2,200 chars (588)
+- ✅ linkedin ≤2,800 chars (588)
+- ✅ linkedin: no brackets or parentheses
+- ✅ CTA is “Book a demo → finesolves.com”
+- ✅ youtube title ≤100 chars with #Shorts (72)
+- ✅ youtube title carries the keyword
+- ✅ youtube description present with finesolves.com
+- ✅ youtube text has no < or >
+- ✅ alt text is one descriptive sentence
+- ✅ brand differs from the previous reel (finesolves)
+- ✅ primary keyword not used in the last 21 reels
+- ✅ topic not used before

@@ -1,0 +1,180 @@
+{
+ "version": 2,
+ "id": "2026-11-17",
+ "brand": "finehr",
+ "music": "pulse",
+ "scenes": [
+  {
+   "type": "phone",
+   "bg": "navy",
+   "mode": "notifs",
+   "clock": "9:41",
+   "eyebrow": "FOUNDERS · HIRING",
+   "headline": "Hiring\nthis month?",
+   "highlight": "Hiring",
+   "vo": "Founders, hiring this month?",
+   "items": [
+    {
+     "app": "Mail",
+     "title": "Candidate · Frontend",
+     "body": "Can we do a quick call today?"
+    },
+    {
+     "app": "Calendar",
+     "title": "Intro call · 11:00",
+     "body": "Candidate · Product designer"
+    },
+    {
+     "app": "Messages",
+     "title": "Recruiter",
+     "body": "New profiles for you"
+    },
+    {
+     "app": "Mail",
+     "title": "Candidate · Backend",
+     "body": "Is 4 pm okay for a chat?"
+    },
+    {
+     "app": "Calendar",
+     "title": "Intro call · 2:30",
+     "body": "Candidate · Sales"
+    }
+   ],
+   "dur": 2.8
+  },
+  {
+   "type": "calendar",
+   "bg": "cream",
+   "mode": "fill",
+   "label": "Intro call",
+   "stamp": "FULL",
+   "headline": "There goes\nyour week.",
+   "highlight": "your week.",
+   "vo": "Every applicant wants a quick call, and your whole week turns into intro calls.",
+   "dur": 3.4
+  },
+  {
+   "type": "calls",
+   "bg": "navy",
+   "question": "So, tell me about yourself?",
+   "headline": "Same questions.\nEvery call.",
+   "highlight": "Every call.",
+   "names": [
+    "Aarav S.",
+    "Diya M.",
+    "Kabir R.",
+    "Meera P."
+   ],
+   "vo": "Same questions, every single call. Meanwhile, the product isn't getting built.",
+   "dur": 3.6
+  },
+  {
+   "type": "statement",
+   "bg": "teal",
+   "trans": "wipe",
+   "headline": "Let the AI\ninterviewer\ngo first.",
+   "highlight": "AI interviewer",
+   "vo": "With FineHR, the AI interviewer goes first.",
+   "dur": 2.6
+  },
+  {
+   "type": "app",
+   "bg": "cream",
+   "product": "FineHR",
+   "trans": "zoom",
+   "headline": "You review.\nIt interviews.",
+   "highlight": "It interviews.",
+   "nav": [
+    "AI interviewer",
+    "Attendance",
+    "Leave",
+    "Payroll"
+   ],
+   "active": 0,
+   "title": "Frontend developer · Round 1",
+   "rows": [
+    {
+     "name": "Aarav S.",
+     "sub": "Applied Monday",
+     "from": "INVITED",
+     "to": "INTERVIEWED"
+    },
+    {
+     "name": "Diya M.",
+     "sub": "Applied Monday",
+     "from": "INVITED",
+     "to": "INTERVIEWED"
+    },
+    {
+     "name": "Kabir R.",
+     "sub": "Applied Tuesday",
+     "from": "INVITED",
+     "to": "INTERVIEWED"
+    },
+    {
+     "name": "Meera P.",
+     "sub": "Applied Tuesday",
+     "from": "INVITED",
+     "to": "INTERVIEWED"
+    }
+   ],
+   "button": "Review answers",
+   "toast": "Round 1 complete",
+   "vo": "It runs the first round with every candidate. You review the answers, then meet the ones worth meeting.",
+   "dur": 4.8
+  },
+  {
+   "type": "calendar",
+   "bg": "cream",
+   "mode": "clear",
+   "label": "Intro call",
+   "stamp": "YOURS",
+   "headline": "Your week,\nback.",
+   "highlight": "back.",
+   "keep": [
+    {
+     "day": 1,
+     "slot": 3,
+     "label": "Final round"
+    },
+    {
+     "day": 3,
+     "slot": 1,
+     "label": "Final round"
+    },
+    {
+     "day": 4,
+     "slot": 2,
+     "label": "Final round"
+    }
+   ],
+   "vo": "Your calendar keeps the final rounds. The rest of the week is yours again.",
+   "dur": 3.4
+  },
+  {
+   "type": "modules",
+   "bg": "navy",
+   "title": "FineHR",
+   "headline": "Then attendance,\nleave, payroll.",
+   "highlight": "payroll.",
+   "modules": [
+    "AI interviewer",
+    "Attendance",
+    "Leave",
+    "Payroll"
+   ],
+   "vo": "And once they join, attendance, leave and payroll run in the same system.",
+   "dur": 3.8
+  },
+  {
+   "type": "end",
+   "bg": "cream",
+   "trans": "zoom",
+   "line": "FineHR by Fine Solves",
+   "tag": "HRMS · AI INTERVIEWER",
+   "cta": "Book a demo",
+   "vo": "FineHR, by Fine Solves. Book a demo at finesolves dot com.",
+   "dur": 3.6
+  }
+ ]
+}

@@ -8,6 +8,7 @@ captions.json = {"instagram":"...","linkedin":"...","youtube_title":"...","youtu
 claims.json   = optional [{"value":"27%","claim":"...","source":"...","url":"https://..."}]
 """
 import json, re, subprocess, sys
+import numpy as np
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -30,7 +31,25 @@ def check(ok, msg, critical=True):
     (passes if ok else (fails if critical else warns)).append(msg)
 
 
+def v2_texts(script):
+    out = []
+    for s in script["scenes"]:
+        for k in ("eyebrow", "headline", "sub", "label", "stamp", "question", "title", "button", "toast", "line", "tag", "cta",
+                  "contact", "note", "product", "vo"):
+            if s.get(k):
+                out.append(s[k])
+        out += s.get("names", []) + s.get("modules", []) + s.get("nav", []) + s.get("cols", [])
+        out += [k.get("label", "") for k in s.get("keep", [])]
+        for it in s.get("items", []):
+            out += [it.get(k, "") for k in ("app", "title", "body", "text")] if isinstance(it, dict) else [it]
+        for r in s.get("rows", []):
+            out += [r.get(k, "") for k in ("name", "sub", "from", "to")] if isinstance(r, dict) else list(r)
+    return [x for x in out if x]
+
+
 def onscreen_texts(script):
+    if script.get("version") == 2:
+        return v2_texts(script)
     out = []
     for s in script["scenes"]:
         for k in ("eyebrow", "text", "sub", "title", "result", "note", "line", "tag", "label", "window",
@@ -45,19 +64,46 @@ def onscreen_texts(script):
     return out
 
 
-def main():
-    d = Path(sys.argv[1]); pre = "--prerender" in sys.argv
-    script = json.loads((d / "script.json").read_text())
-    meta = json.loads((d / "meta.json").read_text())
-    cap = json.loads((d / "captions.json").read_text())
-    claims = json.loads((d / "claims.json").read_text()) if (d / "claims.json").exists() else []
-    brand = meta.get("brand")
-    check(brand in ("finesolves", "finehr"), f"brand is valid: finesolves or finehr; FineHealth is paused ({brand})")
+def v2_checks(d, sc, timing, total, pre):
+    """Quality bar for the v2 story format (render_v2.py)."""
+    check(18 <= total <= 36, f"total length 18–36s ({total:.1f}s)")
+    check(6 <= len(sc) <= 10, f"6–10 scenes ({len(sc)})")
+    props = {"phone", "calendar", "calls", "app", "modules", "sheet"}
+    types = [x["type"] for x in sc]
+    check(sum(t in props for t in types) >= 3, "at least 3 prop scenes (phone, calendar, calls, app, modules, sheet)")
+    check(any(t in ("app", "modules") for t in types), "shows the product (an app or modules scene)")
+    check(len({x.get("bg", "cream") for x in sc}) >= 3, "uses navy, cream and teal backgrounds (problem → turn → fix)")
+    check(any(x.get("trans") == "wipe" for x in sc), "has one wipe transition into the turn", critical=False)
+    for i, s in enumerate(sc):
+        if s["type"] != "end":
+            check(bool(s.get("headline")), f"scene {i+1} has a headline")
+        lines = (s.get("headline") or "").split("\n")
+        check(len(lines) <= 3, f"scene {i+1} headline ≤3 lines")
+        for ln in lines:
+            check(len(ln) <= 18, f"scene {i+1} headline line ≤18 chars: “{ln}” ({len(ln)})")
+        vo = s.get("vo") or ""
+        check(len(vo.split()) <= 22, f"scene {i+1} VO ≤22 words ({len(vo.split())})")
+        for t in v2_texts({"scenes": [dict((k, v) for k, v in s.items() if k not in ("vo", "headline"))]}):
+            check(len(t) <= 32, f"scene {i+1} prop text ≤32 chars: “{t}”")
+    check(bool(sc[-1].get("cta")), "end card has a CTA button")
+    vos = sorted((d / "vo").glob("*.mp3")) if (d / "vo").exists() else []
+    check(bool(vos), "has an ElevenLabs voiceover (vo/NN.mp3)", critical=False)
+    if vos:
+        check(len(vos) == sum(1 for s in sc if s.get("vo")), "one VO clip per scene with a vo line")
+    if not pre:
+        try:
+            from PIL import Image
+            for st in sorted(d.glob("still-*.png"))[:-1]:
+                im = np.asarray(Image.open(st).convert("RGB").resize((108, 192))).astype(int)
+                body = im[25:150]                       # safe zone, rows ~250–1500 px
+                med = np.median(body.reshape(-1, 3), axis=0)
+                empty = (np.abs(body - med).sum(axis=2) < 28).mean()
+                check(empty < 0.80, f"{st.name}: frame isn't mostly empty ({empty:.0%} plain background)")
+        except ImportError:
+            check(False, "PIL available for the empty-frame check", critical=False)
 
-    # ---- structure & timing
-    sc = script["scenes"]
-    total = sum(float(s["dur"]) for s in sc)
-    check(sc[-1]["type"] == "end", "last scene is the end card")
+
+def legacy_checks(sc, total):
     check(14 <= total <= 30, f"total length 14–30s ({total:.1f}s)")
     check(4 <= len(sc) <= 8, f"4–8 scenes ({len(sc)})")
     motion = {"chaos", "ui", "compare", "bignum"} & {x["type"] for x in sc}
@@ -80,6 +126,30 @@ def main():
                 check(len(ln) <= 26, f"scene {i+1} headline line ≤26 chars: “{ln}” ({len(ln)})")
         for c in s.get("cards", []):
             check(len(c["text"]) <= 40, f"scene {i+1} card text ≤40 chars: “{c['text']}”")
+
+
+def main():
+    d = Path(sys.argv[1]); pre = "--prerender" in sys.argv
+    script = json.loads((d / "script.json").read_text())
+    meta = json.loads((d / "meta.json").read_text())
+    cap = json.loads((d / "captions.json").read_text())
+    claims = json.loads((d / "claims.json").read_text()) if (d / "claims.json").exists() else []
+    brand = meta.get("brand")
+    check(brand in ("finesolves", "finehr"), f"brand is valid: finesolves or finehr; FineHealth is paused ({brand})")
+
+    # ---- structure & timing
+    sc = script["scenes"]
+    v2 = script.get("version") == 2
+    timing = json.loads((d / "timing.json").read_text()) if (d / "timing.json").exists() else None
+    total = timing["total"] if timing else sum(float(s.get("dur", 3.0)) for s in sc)
+    check(sc[-1]["type"] == "end", "last scene is the end card")
+    if v2:
+        v2_checks(d, sc, timing, total, pre)
+    else:
+        legacy_checks(sc, total)
+    end = sc[-1]
+
+
     end = sc[-1]
     if brand == "finehealth":
         check("FineHealth by Fine Solves" in end.get("line", ""), "FineHealth end card reads 'FineHealth by Fine Solves'")

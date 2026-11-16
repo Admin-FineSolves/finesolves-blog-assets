@@ -43,24 +43,27 @@ Write `$R/meta.json`:
 `{"brand":"finehr","icp":"HR team","topic":"<one line, unique>","primary_keyword":"payroll management","angle":"<the hook>"}`
 `primary_keyword` is what a buyer would type into Google, and it must open the first caption line. Caption prose can't say "software", so pick keywords without that word: HRMS India, HR and payroll, payroll management, AI interviewer, AI recruitment, MVP development, product development for startups, manufacturing ERP, leave management, attendance management, custom product development, AI product development, business process automation, Tally integration. The searchable "…Software" forms go in the hashtags.
 
-## 3. Write `$R/script.json`
-**Queue first:** if `reels/queue/` has a folder whose `meta.json` brand matches today's brand, use it. Copy its script.json, meta.json and captions.json into `$R`, then `git rm -r` that queue folder in the same commit as the reel. Skip to step 5.
+## 3. Write `$R/script.json` (v2 story format, rendered by `reels/render_v2.py`)
+**Queue first:** if `reels/queue/` has a folder whose `meta.json` brand matches today's brand, use it. Copy its script.json, meta.json and captions.json into `$R`, then `git rm -r` that queue folder in the same commit as the reel. Skip to step 4b (voiceover).
 
-Otherwise write a new one. Format: see the header of `reels/render_reel.py`. The aim is a reel that feels good to watch: constant gentle motion, one satisfying "click into place" moment, and a rhythm of short beats.
+Otherwise write a new one. **All new reels use v2** (`"version": 2`; full format in the header of `reels/render_v2.py`). The old `render_reel.py` text-on-white look is retired: it read as low effort. The bar: every frame is full of something worth looking at, the story is shown with props rather than told in words, and it sounds produced (voiceover + music).
 
-**Scene vocabulary**
-- `kinetic`: big words revealed word by word through a mask. Use for the hook, twists and punchlines. `highlight` + `hl_style` "bar" (underline) or "block" (teal fill) on the one phrase that matters. Optional mono `eyebrow` (typed on) for place/time.
-- `chaos`: 3–6 mono chips drift around, then snap into one tidy card with ticks. The signature "mess → order" moment: scattered tools, files or steps becoming one system.
-- `ui`: a product window builds itself: rows rise in, values type on, a teal progress line runs, and the status chip flips to teal at the end. Use for Fine Solves and FineHR "how it works". Show only allowed claims; a FineHR UI may only show attendance, leave, payroll or the AI interviewer.
-- `compare`: today's steps appear and get struck through one by one, then a navy card rises with the new way.
-- `bignum`: one giant number ticks up, with a mono unit on a teal block. Only ILLUSTRATIVE maths or a sourced stat.
-- `steps`: three short lines with dots lighting up along a line ("Register. Treat. Bill.").
-- `end`: logo, end line, tag, finesolves.com, brand bands sliding into the corner.
-- `"transition": "bands"` on a scene = a navy/teal diagonal slab wipes across the cut into it. Use once per reel, before the resolution.
+**Scene types (props):** `phone` (lock-screen notifications flooding in, or a chat thread with typing dots) · `calendar` (`fill`: a week fills with blocks and gets stamped; `clear`: blocks vanish, a few flip teal) · `calls` (stacked video-call cards asking the same question) · `sheet` (spreadsheet typing in, a cell flagged, sticky note) · `statement` (big line on teal, the turn) · `app` (product window: nav, rows with progress bars, status chips flipping, a cursor clicking a button, a toast) · `modules` (module tiles fly in and lock into one system) · `end` (product name, tag, CTA button the cursor clicks, finesolves.com).
+**Backgrounds:** `navy` = the problem, `teal` = the turn, `cream` = the product and the payoff. Use all three.
+**Transitions:** default `push`; `"trans":"wipe"` into the teal turn (once); `"trans":"zoom"` into the product and the end card.
 
-**Shape** (16–24 s, 5–6 scenes): hook `kinetic` (2.6–3 s) → twist `kinetic` (2.5–2.8 s) → one set-piece: `chaos` / `ui` / `compare` / `bignum` (4.2–5.8 s) → optional second set-piece or punchline → resolution `steps` or `kinetic` with `"transition":"bands"` (2.8–3.4 s) → `end` (3.2 s). Every reel needs at least one set-piece. Don't use the same set-piece two reels in a row (check the previous script in `reels/out/`).
+**Story shape** (7–9 scenes, 24–34 s with VO):
+1. **Hook** (navy, `phone`): name the ICP and the moment in the eyebrow and headline ("FOUNDERS · HIRING" / "Hiring this month?").
+2. **The mess, shown** (`calendar` fill / `sheet` / `calls` / chat): the pain as the ICP sees it on their own screen.
+3. **The cost** (navy prop or second mess beat): what it costs them (the product isn't getting built; salaries go out late; the truck leaves without the invoice). No invented numbers.
+4. **The turn** (teal `statement`, `"trans":"wipe"`): one line, "Let the AI interviewer go first."
+5. **The product doing it** (`app`, `"trans":"zoom"`): only allowed claims.
+6. **The payoff** (`calendar` clear / a clean sheet / `modules`).
+7. **Optional "one system"** (`modules`).
+8. **End** (`end`, `"trans":"zoom"`, `cta`: "Book a demo" for FineHR, "Talk to us" for Fine Solves).
+Rotate the mess prop: don't open two reels in a row with the same prop sequence (check the previous script in `reels/out/`).
 
-**Copy rules:** headline ≤10 words, every authored line ≤26 characters (break with `\n`), chips ≤18 characters, card and row text ≤40, sentence case, short declaratives, dry and specific. Hooks work best as something the ICP has said or heard ("How many leaves do I have left?") or a time and place ("PLANT · NIGHT SHIFT"). Every reel ends on a sales ask: the CTA in the captions, and an end line that names the offer. End lines: "FineHR by Fine Solves" (tag HRMS · ATTENDANCE · PAYROLL, HRMS · AI INTERVIEWER or ONE SYSTEM FOR HR), or a short Fine Solves promise like "Custom products,\nlive in weeks." (tag CUSTOM PRODUCTS · AI).
+**Copy rules:** headline ≤3 lines of ≤18 characters (break with `\n`), every prop string ≤32 characters, sentence case, dry and specific. Each scene's `vo` is one or two spoken sentences (≤22 words), conversational, written for the ear. The VO carries the story; the headline is the 3-word version of it. Mock UI content (names, times, file names) must look real but generic: no real companies, people or brands. End lines: "FineHR by Fine Solves" (tag HRMS · ATTENDANCE · PAYROLL, HRMS · AI INTERVIEWER or ONE SYSTEM FOR HR), or a short Fine Solves promise like "Custom products,\nlive in weeks." (tag CUSTOM PRODUCTS · AI).
 
 ## 4. Write `$R/captions.json`
 ```json
@@ -72,12 +75,16 @@ Otherwise write a new one. Format: see the header of `reels/render_reel.py`. The
 - **youtube_description**: 2–3 sentences + "https://finesolves.com" + the 5 hashtags. No < or >.
 - **alt**: one sentence naming what the reel shows.
 
+## 4b. Voiceover (ElevenLabs via Zapier)
+For each scene with a `vo` line, in order: `execute_zapier_write_action` on ElevenLabs (`App226160CLIAPI`, action `text_to_speech`): `text` = the vo line, `voice_id` = `cjVigY5qzO86Huf0OWal` (Eric, smooth and trustworthy), `model_id` = `eleven_multilingual_v2`, `output_format` = `mp3_44100_128`. Download each result's `audio_url` to `$R/vo/NN.mp3` (NN = scene number, 01…): `curl -sSf -o $R/vo/NN.mp3 "<audio_url>"`. Write "finesolves dot com" for the site in VO text.
+If ElevenLabs isn't connected, a call fails, or a download is refused, delete `$R/vo/` and render without voiceover (the renderer then uses each scene's `dur`, with no captions). Report "VO skipped: <reason>". Never ship a reel with VO on some scenes and not others.
+
 ## 5. Pre-render audit, render, look
 ```bash
 python3 reels/audit_reel.py $R --prerender        # fix until PASS
-python3 reels/render_reel.py $R/script.json $R    # ~40 s; writes reel.mp4 (sound designed, loudness-normalised), cover.jpg, still-NN.png
+python3 reels/render_v2.py $R/script.json $R      # ~2 min; writes reel.mp4 (VO + ducked music + burned-in captions), cover.jpg, still-NN.png, timing.json
 ```
-Open **every** `still-NN.png` with Read (and `cover.jpg`). Check: nothing clipped or overlapping, nothing below y≈1460 except the small wordmark and end-card bands, every word spelled right, and the cover works as a thumbnail (it's the settled first scene). Then pull 4–5 mid-motion frames from reel.mp4 (`ffmpeg -ss <t> -i $R/reel.mp4 -frames:v 1 f.png`), especially inside chaos, compare and ui scenes, and check that moving elements never cover the headline. Fix the script and re-render if not.
+Open **every** `still-NN.png` with Read (and `cover.jpg`). Check: nothing clipped or overlapping, captions (y≈1430–1510) don't cover the key part of a prop, every word spelled right, and the cover works as a thumbnail. Then pull 6–8 mid-motion frames from reel.mp4 (`ffmpeg -ss <t> -i $R/reel.mp4 -frames:v 1 f.png`), especially during transitions and inside calendar, calls and app scenes. Fix the script and re-render if not.
 
 ## 6. Final audit (must PASS)
 ```bash
@@ -88,6 +95,7 @@ Then a manual read-through: would an Indian hospital administrator / ops head / 
 ## 7. Host on GitHub
 ```bash
 rm -f $R/reel.html
+# keep vo/ in the commit so a re-run can reuse it
 git add $R && git -c user.name="Fine Solves Reels Bot" -c user.email="admin@finesolves.com" commit -qm "Reel $DATE: <topic>"
 git pull -q --rebase origin main && git push -q origin main
 SHA=$(git rev-parse HEAD)
