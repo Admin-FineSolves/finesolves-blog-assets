@@ -1,6 +1,8 @@
 """Publish a finished post to the Fine Solves blog (Sanity project hf7ugumv, dataset production).
 
 Usage: SANITY_WRITE_TOKEN=... python3 publish_sanity.py posts/<DATE>-<SLOT>
+       python3 publish_sanity.py posts/<DATE>-<SLOT> --dry-run   (no token/network: writes sanity-mutation.json
+       for the Sanity connector; slug is not de-duplicated, check it with a query first)
 
 Reads <post>/meta.json and <post>/post.html. The document id is fixed per slot (post-<DATE>-<SLOT>) and the
 mutation is createOrReplace, so re-running updates the same post instead of creating a duplicate.
@@ -31,9 +33,9 @@ def slugify(title):
     return slug[:60].rsplit("-", 1)[0] if len(slug) > 60 else slug
 
 
-def main(post):
+def main(post, dry_run=False):
     token = os.environ.get("SANITY_WRITE_TOKEN")
-    if not token:
+    if not token and not dry_run:
         sys.exit("SANITY_WRITE_TOKEN is not set")
     doc_id = "post-" + os.path.basename(post.rstrip("/"))  # post-2026-11-11-morning
     meta = json.load(open(f"{post}/meta.json", encoding="utf-8"))
@@ -42,7 +44,7 @@ def main(post):
 
     slug = slugify(meta["title"])
     base, n = slug, 2
-    while query(f'count(*[_type=="post" && slug.current=={json.dumps(slug)} && _id!={json.dumps(doc_id)}])'):
+    while not dry_run and query(f'count(*[_type=="post" && slug.current=={json.dumps(slug)} && _id!={json.dumps(doc_id)}])'):
         slug, n = f"{base}-{n}", n + 1
 
     doc = {
@@ -56,6 +58,9 @@ def main(post):
     }
     body = json.dumps({"mutations": [{"createOrReplace": doc}]})
     open(f"{post}/sanity-mutation.json", "w", encoding="utf-8").write(body)
+    if dry_run:
+        print(f"Wrote {post}/sanity-mutation.json ({doc_id}, slug {slug})")
+        return
 
     request = urllib.request.Request(
         f"{API}/mutate/production?returnIds=true",
@@ -78,6 +83,7 @@ def main(post):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
+    args = [a for a in sys.argv[1:] if a != "--dry-run"]
+    if len(args) != 1:
         sys.exit(__doc__)
-    main(sys.argv[1])
+    main(args[0], dry_run="--dry-run" in sys.argv)
