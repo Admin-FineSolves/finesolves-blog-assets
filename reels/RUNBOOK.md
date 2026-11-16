@@ -16,28 +16,32 @@ DATE=$(TZ=Asia/Kolkata date +%F); R=reels/out/$DATE; mkdir -p $R
 If `$R/posted.json` already exists, read it, skip the platforms already marked done, and post only the missing ones (re-use the existing script, captions and video). Don't re-render.
 
 ## 1. Pick the brand
-Read `reels/log.md`. Rotate in this order and take the next one after the last logged row: **finesolves → finehealth → finesolves → finehr → finehealth →** (repeat). Fine Solves and FineHealth get two slots in five, FineHR gets one.
+Read `reels/log.md`. Alternate **finesolves → finehr → finesolves → finehr …**: take the other one from the last logged row (if the last row is finehealth, take finesolves). **FineHealth is paused** (from 2026-11-17): no new FineHealth reels.
 
 ## 2. Pick the topic
-One pain point a buyer recognises in two seconds. Not the technology. Check `log.md` and the "Already used" list below, and never repeat a topic.
+The reels are for sales and marketing: every topic is aimed at one ICP (buyer) and is a pain that buyer recognises in two seconds. Not the technology. Name the ICP in `meta.json` (`"icp"`), write the hook in their words, and rotate ICPs so the same one doesn't run twice in a row for a brand. Check `log.md` and the "Already used" list below, and never repeat a topic.
+
+**ICPs**
+- **Fine Solves (custom-built products and AI):** startup founders · operations teams / ops heads · owners of manufacturing companies (plant, godown, dispatch, vendors, job work) · other SMB / mid-market founders and business heads.
+- **FineHR (HRMS):** HR teams and HR managers · startup founders who still do HR themselves · owners of manufacturing companies with shift and contract workforces.
 
 | Brand | Audience | Topic pool (examples, invent more in the same spirit) |
 |---|---|---|
-| **finesolves** (custom products and AI) | founders, ops and IT heads at Indian SMB / mid-market firms | data retyped across WhatsApp/Excel/Tally; "ask the one person who knows"; month-end reconciliation by hand; approvals stuck in email; reports built by copy-paste every Monday; buying a big ERP for one small gap; AI pilots that never reach production; vendor follow-ups in spreadsheets; the cost of a requirements doc nobody reads; build vs buy for one workflow; dispatch planning on a whiteboard; stock counts that never match |
-| **finehealth** (hospital management system) | hospital owners, administrators, doctors running clinics | OPD queue at registration; GST billing by hand; IPD charges added at discharge; lost or duplicate patient files; prescriptions doctors can't read back; reports printed and physically handed over; day-end cash reconciliation at the counter; one patient registered twice under two spellings; deposits and advances tracked in a register; multi-doctor clinic scheduling on paper |
-| **finehr** (HR) | HR managers and owners at SMBs | attendance registers turned into salaries by hand; leave requests lost in email/WhatsApp; month-end payroll crunch; "how many leaves do I have left?" questions; new-joiner paperwork chasing; employee data in five spreadsheets |
+| **finesolves** (custom products and AI) | startup founders, operations teams, manufacturing company owners at Indian SMB / mid-market firms | founder still running ops from WhatsApp groups; MVP stuck with an agency for months; production plan on a whiteboard; job-work challans tracked on paper; machine downtime noted in a register; | data retyped across WhatsApp/Excel/Tally; "ask the one person who knows"; month-end reconciliation by hand; approvals stuck in email; reports built by copy-paste every Monday; buying a big ERP for one small gap; AI pilots that never reach production; vendor follow-ups in spreadsheets; the cost of a requirements doc nobody reads; build vs buy for one workflow; dispatch planning on a whiteboard; stock counts that never match |
+| ~~finehealth~~ (paused) | hospital owners, administrators, doctors running clinics | OPD queue at registration; GST billing by hand; IPD charges added at discharge; lost or duplicate patient files; prescriptions doctors can't read back; reports printed and physically handed over; day-end cash reconciliation at the counter; one patient registered twice under two spellings; deposits and advances tracked in a register; multi-doctor clinic scheduling on paper |
+| **finehr** (HRMS) | HR teams, startup founders doing HR, manufacturing owners with shift workers | attendance registers turned into salaries by hand; shift attendance at the factory gate; leave requests lost in email/WhatsApp; month-end payroll crunch; "how many leaves do I have left?"; founder screening 60 candidates alone; first-round interviews eating the HR team's week; candidates who no-show after three calls |
 
 **Claim limits (hard rules, the audit enforces most of them):**
 - FineHealth may say: registration, OPD, IPD, GST-ready billing, one patient record, prescriptions, reports, cloud-hosted. **Not** WhatsApp delivery (planned, not shipped). No medical or patient-outcome claims. It improves operations.
-- **FineHR: no feature claims at all beyond "one system" / "one place".** Describe the HR pain in detail; the product line is only e.g. "FineHR by Fine Solves. One system for your HR team." Never write "FineHR + a verb" (automates, tracks, handles, calculates, manages…).
+- **FineHR may name only these features: attendance, leave, payroll, and the AI interviewer** (first-round interviews), plus "one system" / "one place" for HR. Nothing else: no statutory compliance (PF/ESI/TDS), integrations, biometric devices, WhatsApp, onboarding, appraisals, expenses or mobile-app claims. No numbers about the AI interviewer (accuracy, hires, time saved) unless sourced.
 - Never invent statistics, clients, hospitals, testimonials, results or prices. Any estimate is marked **ILLUSTRATIVE** on screen and "illustrative" in the captions. Prefer reels with no numbers. If you use a real statistic, it must come from a page you fetched this run, go in `$R/claims.json` with its URL, and be named in the caption ("according to …").
 - Say **"products", never "software"**, on screen, in captions and alt text ("custom products", "a hospital billing product"). Hashtags keep their searchable form (#HospitalBillingSoftware).
 - Names: "Fine Solves" (two words), "FineHealth", "FineHR". First mention "FineHealth by Fine Solves".
 - Banned words: revolutionary, seamless, synergy, game-changing, cutting-edge, unlock, transform, delve, landscape, leverage, empower.
 
 Write `$R/meta.json`:
-`{"brand":"finehealth","topic":"<one line, unique>","primary_keyword":"hospital billing software","angle":"<the hook>"}`
-`primary_keyword` is what a buyer would type into Google, and it must open the first caption line. Caption prose can't say "software", so pick keywords without that word: hospital management system, hospital billing, clinic management, HMS India, HR and payroll, leave management, attendance management, custom product development, AI product development, business process automation, Tally integration. The searchable "…Software" forms go in the hashtags.
+`{"brand":"finehr","icp":"HR team","topic":"<one line, unique>","primary_keyword":"payroll management","angle":"<the hook>"}`
+`primary_keyword` is what a buyer would type into Google, and it must open the first caption line. Caption prose can't say "software", so pick keywords without that word: HRMS India, HR and payroll, payroll management, AI interviewer, AI recruitment, MVP development, product development for startups, manufacturing ERP, leave management, attendance management, custom product development, AI product development, business process automation, Tally integration. The searchable "…Software" forms go in the hashtags.
 
 ## 3. Write `$R/script.json`
 **Queue first:** if `reels/queue/` has a folder whose `meta.json` brand matches today's brand, use it. Copy its script.json, meta.json and captions.json into `$R`, then `git rm -r` that queue folder in the same commit as the reel. Skip to step 5.
@@ -47,7 +51,7 @@ Otherwise write a new one. Format: see the header of `reels/render_reel.py`. The
 **Scene vocabulary**
 - `kinetic`: big words revealed word by word through a mask. Use for the hook, twists and punchlines. `highlight` + `hl_style` "bar" (underline) or "block" (teal fill) on the one phrase that matters. Optional mono `eyebrow` (typed on) for place/time.
 - `chaos`: 3–6 mono chips drift around, then snap into one tidy card with ticks. The signature "mess → order" moment: scattered tools, files or steps becoming one system.
-- `ui`: a product window builds itself: rows rise in, values type on, a teal progress line runs, and the status chip flips to teal at the end. Use for FineHealth / Fine Solves "how it works". Show only allowed claims. For FineHR use `chaos` or `kinetic` instead, since a UI implies features.
+- `ui`: a product window builds itself: rows rise in, values type on, a teal progress line runs, and the status chip flips to teal at the end. Use for Fine Solves and FineHR "how it works". Show only allowed claims; a FineHR UI may only show attendance, leave, payroll or the AI interviewer.
 - `compare`: today's steps appear and get struck through one by one, then a navy card rises with the new way.
 - `bignum`: one giant number ticks up, with a mono unit on a teal block. Only ILLUSTRATIVE maths or a sourced stat.
 - `steps`: three short lines with dots lighting up along a line ("Register. Treat. Bill.").
@@ -56,13 +60,13 @@ Otherwise write a new one. Format: see the header of `reels/render_reel.py`. The
 
 **Shape** (16–24 s, 5–6 scenes): hook `kinetic` (2.6–3 s) → twist `kinetic` (2.5–2.8 s) → one set-piece: `chaos` / `ui` / `compare` / `bignum` (4.2–5.8 s) → optional second set-piece or punchline → resolution `steps` or `kinetic` with `"transition":"bands"` (2.8–3.4 s) → `end` (3.2 s). Every reel needs at least one set-piece. Don't use the same set-piece two reels in a row (check the previous script in `reels/out/`).
 
-**Copy rules:** headline ≤10 words, every authored line ≤26 characters (break with `\n`), chips ≤18 characters, card and row text ≤40, sentence case, short declaratives, dry and specific. Hooks work best as something the viewer has said or heard ("How many leaves do I have left?") or a time and place ("OPD · 10:42 AM"). End lines: "FineHealth by Fine Solves" (tag HOSPITAL MANAGEMENT SYSTEM or GST-READY HOSPITAL BILLING), "FineHR by Fine Solves" (tag ONE SYSTEM FOR HR), or a short Fine Solves promise like "Custom products,\nlive in weeks." (tag CUSTOM PRODUCTS · AI).
+**Copy rules:** headline ≤10 words, every authored line ≤26 characters (break with `\n`), chips ≤18 characters, card and row text ≤40, sentence case, short declaratives, dry and specific. Hooks work best as something the ICP has said or heard ("How many leaves do I have left?") or a time and place ("PLANT · NIGHT SHIFT"). Every reel ends on a sales ask: the CTA in the captions, and an end line that names the offer. End lines: "FineHR by Fine Solves" (tag HRMS · ATTENDANCE · PAYROLL, HRMS · AI INTERVIEWER or ONE SYSTEM FOR HR), or a short Fine Solves promise like "Custom products,\nlive in weeks." (tag CUSTOM PRODUCTS · AI).
 
 ## 4. Write `$R/captions.json`
 ```json
 {"instagram": "...", "linkedin": "...", "youtube_title": "...", "youtube_description": "...", "alt": "..."}
 ```
-- **instagram** (≤2,200 chars): line 1 opens with the primary keyword. Two short paragraphs: the problem, then what Fine Solves / FineHealth / FineHR does about it (within the claim limits). One question to the reader. CTA line: "Book a demo → finesolves.com" (FineHealth) or "Talk to us → finesolves.com" (Fine Solves, FineHR). 5 specific hashtags, nothing generic (#business, #reels, #viral…).
+- **instagram** (≤2,200 chars): line 1 opens with the primary keyword. Two short paragraphs: the problem, then what Fine Solves / FineHR does about it for that ICP (within the claim limits). One question to the reader. CTA line: "Book a demo → finesolves.com" (FineHR) or "Talk to us → finesolves.com" (Fine Solves). 5 specific hashtags, nothing generic (#business, #reels, #viral…).
 - **linkedin**: the same caption, rewritten for LinkedIn if it helps. **No ( ) [ ] { } characters anywhere.** Keep the same CTA and hashtags. The run adds "Watch the reel: <YouTube URL>" before the CTA at posting time. Don't put it in the file.
 - **youtube_title** (≤100 chars): keyword-led, ends with " #Shorts".
 - **youtube_description**: 2–3 sentences + "https://finesolves.com" + the 5 hashtags. No < or >.

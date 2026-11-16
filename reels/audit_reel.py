@@ -18,7 +18,8 @@ GENERIC_TAGS = {"#business", "#marketing", "#love", "#instagood", "#reels", "#vi
                 "#fyp", "#success", "#motivation", "#technology", "#tech", "#ai"}
 BAD_NAMES = [r"\bFinesolves\b", r"\bFine solves\b", r"\bFINE SOLVES\b(?!\s*·)", r"\bFine Health\b", r"\bFinehealth\b",
              r"\bFine HR\b", r"\bFinehr\b", r"\bFineSolves\b"]
-FINEHR_FEATURE = r"\bFineHR\b[^.?!\n]*\b(automat\w*|calculat\w*|track\w*|handl\w*|manag\w*|integrat\w*|send\w*|sync\w*|process\w*|generat\w*|run\w*|keeps?|covers?|includes?|supports?|payroll|attendance|leave|approv\w*|salar\w*|compliance|PF|ESI|TDS)\b"
+FINEHR_FEATURE = r"\b(compliance|statutory|PF|ESI|TDS|EPF|gratuity|integrat\w*|sync\w*|biometric|WhatsApp|onboarding|appraisal\w*|performance review\w*|expense\w*|reimburse\w*|mobile app|geo-?fenc\w*)\b"
+# FineHR may name only attendance, leave, payroll and the AI interviewer (approved 2026-11-16).
 MEDICAL = r"\b(diagnos\w*|cure\w*|clinical outcomes?|patient outcomes?|mortality|saves? lives|better care|treatment success)\b"
 OK_NUMBER_CONTEXT = re.compile(r"^(0?\d|1\d|2[0-4]):\d\d|^(DAY|W|STEP)\s?\d|^\d{2}$")
 
@@ -51,7 +52,7 @@ def main():
     cap = json.loads((d / "captions.json").read_text())
     claims = json.loads((d / "claims.json").read_text()) if (d / "claims.json").exists() else []
     brand = meta.get("brand")
-    check(brand in ("finesolves", "finehealth", "finehr"), f"brand is valid ({brand})")
+    check(brand in ("finesolves", "finehr"), f"brand is valid: finesolves or finehr; FineHealth is paused ({brand})")
 
     # ---- structure & timing
     sc = script["scenes"]
@@ -102,7 +103,7 @@ def main():
     check(not re.search(r"testimonial|our client|clients like|trusted by|case study", low), "no invented clients or testimonials")
     if brand == "finehr" or "FineHR" in everything:
         m = re.search(FINEHR_FEATURE, everything)
-        check(not m, f"FineHR makes no feature claims beyond 'one system' {('→ “'+m.group(0)+'”') if m else ''}")
+        check(not m, f"FineHR claims only attendance, leave, payroll, AI interviewer {('→ “'+m.group(0)+'”') if m else ''}")
     if "FineHealth" in everything:
         check(not re.search(r"FineHealth[^.\n]*WhatsApp|WhatsApp[^.\n]*FineHealth", everything),
               "no WhatsApp delivery claim for FineHealth (not shipped)")
@@ -141,7 +142,7 @@ def main():
     check(len(ig) <= 2200, f"instagram ≤2,200 chars ({len(ig)})")
     check(len(li) <= 2800, f"linkedin ≤2,800 chars ({len(li)})")
     check(not re.search(r"[()\[\]{}]", li), "linkedin: no brackets or parentheses")
-    want_cta = "Book a demo" if brand == "finehealth" else "Talk to us"
+    want_cta = "Book a demo" if brand in ("finehealth", "finehr") else "Talk to us"
     check(want_cta in ig and want_cta in li, f"CTA is “{want_cta} → finesolves.com”")
     yt = cap.get("youtube_title", "")
     check(10 <= len(yt) <= 100 and "#Shorts" in yt, f"youtube title ≤100 chars with #Shorts ({len(yt)})")
