@@ -52,7 +52,7 @@ Otherwise write a new one. **All new reels use v2** (`"version": 2`; full format
 **Backgrounds:** `navy` = the problem, `teal` = the turn, `cream` = the product and the payoff. Use all three.
 **Transitions:** default `push`; `"trans":"wipe"` into the teal turn (once); `"trans":"zoom"` into the product and the end card.
 
-**Story shape** (7–9 scenes, 24–34 s with VO):
+**Story shape** (7–9 scenes, 26–40 s with VO; unhurried: leave a breath between lines):
 1. **Hook** (navy, `phone`): name the ICP and the moment in the eyebrow and headline ("FOUNDERS · HIRING" / "Hiring this month?").
 2. **The mess, shown** (`calendar` fill / `sheet` / `calls` / chat): the pain as the ICP sees it on their own screen.
 3. **The cost** (navy prop or second mess beat): what it costs them (the product isn't getting built; salaries go out late; the truck leaves without the invoice). No invented numbers.
@@ -63,7 +63,7 @@ Otherwise write a new one. **All new reels use v2** (`"version": 2`; full format
 8. **End** (`end`, `"trans":"zoom"`, `cta`: "Book a demo" for FineHR, "Talk to us" for Fine Solves).
 Rotate the mess prop: don't open two reels in a row with the same prop sequence (check the previous script in `reels/out/`).
 
-**Copy rules:** headline ≤3 lines of ≤18 characters (break with `\n`), every prop string ≤32 characters, sentence case, dry and specific. Each scene's `vo` is one or two spoken sentences (≤22 words), conversational, written for the ear. The VO carries the story; the headline is the 3-word version of it. Mock UI content (names, times, file names) must look real but generic: no real companies, people or brands. End lines: "FineHR by Fine Solves" (tag HRMS · ATTENDANCE · PAYROLL, HRMS · AI INTERVIEWER or ONE SYSTEM FOR HR), or a short Fine Solves promise like "Custom products,\nlive in weeks." (tag CUSTOM PRODUCTS · AI).
+**Copy rules:** headline ≤3 lines of ≤18 characters (break with `\n`), every prop string ≤32 characters, sentence case, dry and specific. Each scene's `vo` is one or two spoken sentences (≤22 words), conversational, written for the ear, unhurried: short sentences, about 2 words per second, and a full stop between thoughts so the voice breathes. Don't speed clips up (`vo_speed` stays 1.0). The VO carries the story; the headline is the 3-word version of it. Mock UI content (names, times, file names) must look real but generic: no real companies, people or brands. End lines: "FineHR by Fine Solves" (tag HRMS · ATTENDANCE · PAYROLL, HRMS · AI INTERVIEWER or ONE SYSTEM FOR HR), or a short Fine Solves promise like "Custom products,\nlive in weeks." (tag CUSTOM PRODUCTS · AI).
 
 ## 4. Write `$R/captions.json`
 ```json
@@ -76,7 +76,7 @@ Rotate the mess prop: don't open two reels in a row with the same prop sequence 
 - **alt**: one sentence naming what the reel shows.
 
 ## 4b. Voiceover (ElevenLabs via Zapier)
-For each scene with a `vo` line, in order: `execute_zapier_write_action` on ElevenLabs (`App226160CLIAPI`, action `text_to_speech`): `text` = the vo line, `voice_id` = `cjVigY5qzO86Huf0OWal` (Eric, smooth and trustworthy; the owner prefers Jessa `yj30vwTGJxSHezdAGsv9`, which needs a paid ElevenLabs plan: try Jessa first, and if ElevenLabs answers "paid_plan_required" or the action returns None, use Eric for every scene; never mix voices in one reel), `model_id` = `eleven_multilingual_v2`, `output_format` = `mp3_44100_128`. Download each result's `audio_url` to `$R/vo/NN.mp3` (NN = scene number, 01…): `curl -sSf -o $R/vo/NN.mp3 "<audio_url>"`. Write "finesolves dot com" for the site in VO text.
+For each scene with a `vo` line, in order: `execute_zapier_write_action` on ElevenLabs (`App226160CLIAPI`, action `text_to_speech`): `text` = the vo line, `voice_id` = Jessa `yj30vwTGJxSHezdAGsv9` (the owner's choice; needs a paid ElevenLabs plan). If ElevenLabs answers "paid_plan_required" or the action returns None, use Sarah `EXAVITQu4vr4xnSDxMaL` (warm, reassuring) for every scene. Never use Eric (owner found it unpleasant) and never mix voices in one reel, `model_id` = `eleven_multilingual_v2`, `output_format` = `mp3_44100_128`. Download each result's `audio_url` to `$R/vo/NN.mp3` (NN = scene number, 01…): `curl -sSf -o $R/vo/NN.mp3 "<audio_url>"`. Write "finesolves dot com" for the site in VO text.
 If ElevenLabs isn't connected, a call fails, or a download is refused, delete `$R/vo/` and render without voiceover (the renderer then uses each scene's `dur`, with no captions). Report "VO skipped: <reason>". Never ship a reel with VO on some scenes and not others.
 
 ## 5. Pre-render audit, render, look

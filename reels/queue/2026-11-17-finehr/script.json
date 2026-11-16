@@ -12,7 +12,7 @@
    "eyebrow": "FOUNDERS · HIRING",
    "headline": "Hiring\nthis month?",
    "highlight": "Hiring",
-   "vo": "Founders, hiring this month?",
+   "vo": "Founders... hiring this month?",
    "items": [
     {
      "app": "Mail",
@@ -50,7 +50,7 @@
    "stamp": "FULL",
    "headline": "There goes\nyour week.",
    "highlight": "your week.",
-   "vo": "Every applicant wants a quick call, and your whole week turns into intro calls.",
+   "vo": "Every applicant wants a quick call. And slowly, your whole week fills up with intro calls.",
    "dur": 3.4
   },
   {
@@ -65,7 +65,7 @@
     "Kabir R.",
     "Meera P."
    ],
-   "vo": "Same questions, every single call. Meanwhile, the product isn't getting built.",
+   "vo": "Same questions, every call. And the product waits.",
    "dur": 3.6
   },
   {
@@ -120,7 +120,7 @@
    ],
    "button": "Review answers",
    "toast": "Round 1 complete",
-   "vo": "It runs the first round with every candidate. You review the answers, then meet the ones worth meeting.",
+   "vo": "It runs the first round. You review the answers, then meet the ones worth meeting.",
    "dur": 4.8
   },
   {
@@ -148,7 +148,7 @@
      "label": "Final round"
     }
    ],
-   "vo": "Your calendar keeps the final rounds. The rest of the week is yours again.",
+   "vo": "Only the final rounds stay on your calendar. The rest of your week is yours again.",
    "dur": 3.4
   },
   {
@@ -163,7 +163,7 @@
     "Leave",
     "Payroll"
    ],
-   "vo": "And once they join, attendance, leave and payroll run in the same system.",
+   "vo": "Then attendance, leave and payroll. All in one system.",
    "dur": 3.8
   },
   {
@@ -176,5 +176,7 @@
    "vo": "FineHR, by Fine Solves. Book a demo at finesolves dot com.",
    "dur": 3.6
   }
- ]
+ ],
+ "vo_speed": 1.0,
+ "vo_voice": "Sarah"
 }

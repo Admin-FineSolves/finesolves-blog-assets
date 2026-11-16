@@ -66,7 +66,7 @@ def onscreen_texts(script):
 
 def v2_checks(d, sc, timing, total, pre):
     """Quality bar for the v2 story format (render_v2.py)."""
-    check(18 <= total <= 36, f"total length 18–36s ({total:.1f}s)")
+    check(18 <= total <= 40, f"total length 18–40s ({total:.1f}s)")
     check(6 <= len(sc) <= 10, f"6–10 scenes ({len(sc)})")
     props = {"phone", "calendar", "calls", "app", "modules", "sheet"}
     types = [x["type"] for x in sc]

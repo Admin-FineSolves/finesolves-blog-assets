@@ -621,9 +621,9 @@ def plan(script, outdir):
     rows, t = [], 0.0
     for i, s in enumerate(script["scenes"]):
         vo = vodir / f"{i + 1:02d}.mp3"
-        lead = 0.12 if i > 0 else 0.1
+        lead = 0.3 if i > 0 else 0.15
         if vo.exists():
-            speed = float(script.get("vo_speed", 1.08))
+            speed = float(script.get("vo_speed", 1.0))
             if abs(speed - 1) > 0.001:                      # tighten the read without changing pitch
                 fast = Path(outdir) / "_vo" / f"{i + 1:02d}.wav"; fast.parent.mkdir(exist_ok=True)
                 subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(vo), "-filter:a", f"atempo={speed}", str(fast)], check=True)
@@ -631,7 +631,7 @@ def plan(script, outdir):
             vl = ffdur(vo)
             floor = {"phone": 2.6, "calendar": 3.0, "calls": 3.2, "app": 4.4, "modules": 3.4, "statement": 2.4,
                      "sheet": 3.4, "end": 3.4}.get(s["type"], 2.4)
-            dur = max(float(s.get("min_dur", floor)), lead + vl + (1.1 if s["type"] == "end" else 0.22))
+            dur = max(float(s.get("min_dur", floor)), lead + vl + (1.1 if s["type"] == "end" else float(script.get("vo_gap", 0.55))))
         else:
             dur, vl = float(s.get("dur") or 3.0), 0.0
         rows.append({"st": t, "dur": dur, "vo": str(vo) if vo.exists() else None, "lead": lead, "vl": vl})
