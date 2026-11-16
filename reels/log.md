@@ -13,3 +13,4 @@ One row per posted reel (newest last). The daily run reads this for brand rotati
 | 2026-11-13 | finehealth | GST on hospital bills worked out by hand on a calculator at the counter | hospital billing | ✗ not posted: YouTube, Instagram and LinkedIn not connected in Zapier | ✗ | ✗ | PASS 100/100 |
 | 2026-11-14 | finesolves | Purchase approvals stuck in someone's email inbox | purchase approval workflow | ✗ not posted: YouTube, Instagram and LinkedIn not connected in Zapier | ✗ | ✗ | PASS 100/100 |
 | 2026-11-15 | finehealth | Patients asked for their name, age and phone again at every counter | patient registration | ✗ not posted: YouTube, Instagram and LinkedIn not connected in Zapier | ✗ | ✗ | PASS 100/100 |
+| 2026-11-16 | finesolves | Month-end bank reconciliation against Tally done by hand with a highlighter | tally integration | ✗ not posted: YouTube, Instagram and LinkedIn not connected in Zapier | ✗ | ✗ | PASS 100/100 |
