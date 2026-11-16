@@ -475,7 +475,7 @@ body{font-family:IN,sans-serif;-webkit-font-smoothing:antialiased}
 .rip{position:absolute;left:-30px;top:-30px;width:60px;height:60px;border-radius:50%;border:4px solid #2DE2C5;opacity:0}
 #cap{position:absolute;left:70px;right:70px;top:1430px;display:flex;justify-content:center;z-index:50}
 #cap div{font-family:SG;font-weight:700;font-size:54px;line-height:1.15;color:#fff;background:rgba(9,32,64,.92);padding:16px 28px;border-radius:22px;
-  text-align:center;max-width:920px;box-shadow:0 14px 30px rgba(0,0,0,.25)}
+  text-align:center;max-width:920px;box-shadow:0 14px 30px rgba(0,0,0,.25);border:2px solid rgba(45,226,197,.35)}
 #cap b{color:#2DE2C5;font-weight:700}
 #prog{position:absolute;left:0;top:0;height:8px;background:#09A9A5;z-index:60}
 #wipe{position:absolute;inset:0;z-index:40;visibility:hidden}
@@ -621,10 +621,17 @@ def plan(script, outdir):
     rows, t = [], 0.0
     for i, s in enumerate(script["scenes"]):
         vo = vodir / f"{i + 1:02d}.mp3"
-        lead = 0.25 if i > 0 else 0.15
+        lead = 0.12 if i > 0 else 0.1
         if vo.exists():
+            speed = float(script.get("vo_speed", 1.08))
+            if abs(speed - 1) > 0.001:                      # tighten the read without changing pitch
+                fast = Path(outdir) / "_vo" / f"{i + 1:02d}.wav"; fast.parent.mkdir(exist_ok=True)
+                subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(vo), "-filter:a", f"atempo={speed}", str(fast)], check=True)
+                vo = fast
             vl = ffdur(vo)
-            dur = max(float(s.get("min_dur", 2.0)), lead + vl + (1.4 if s["type"] == "end" else 0.35))
+            floor = {"phone": 2.6, "calendar": 3.0, "calls": 3.2, "app": 4.4, "modules": 3.4, "statement": 2.4,
+                     "sheet": 3.4, "end": 3.4}.get(s["type"], 2.4)
+            dur = max(float(s.get("min_dur", floor)), lead + vl + (1.1 if s["type"] == "end" else 0.22))
         else:
             dur, vl = float(s.get("dur") or 3.0), 0.0
         rows.append({"st": t, "dur": dur, "vo": str(vo) if vo.exists() else None, "lead": lead, "vl": vl})
@@ -727,6 +734,7 @@ def main():
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(silent), "-i", str(wav), "-c:v", "copy", "-af", "loudnorm=I=-14:TP=-1.5:LRA=9",
                     "-c:a", "aac", "-ar", "48000", "-b:a", "192k", "-shortest", "-movflags", "+faststart", str(out / "reel.mp4")], check=True)
     silent.unlink(); wav.unlink()
+    import shutil; shutil.rmtree(out / "_vo", ignore_errors=True)
     print(f"rendered {out / 'reel.mp4'} ({total:.1f}s, {nfr} frames, VO scenes: {sum(1 for r in rows if r['vo'])}/{len(rows)})")
 
 

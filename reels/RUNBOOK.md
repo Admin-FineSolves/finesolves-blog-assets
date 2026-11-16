@@ -44,7 +44,7 @@ Write `$R/meta.json`:
 `primary_keyword` is what a buyer would type into Google, and it must open the first caption line. Caption prose can't say "software", so pick keywords without that word: HRMS India, HR and payroll, payroll management, AI interviewer, AI recruitment, MVP development, product development for startups, manufacturing ERP, leave management, attendance management, custom product development, AI product development, business process automation, Tally integration. The searchable "…Software" forms go in the hashtags.
 
 ## 3. Write `$R/script.json` (v2 story format, rendered by `reels/render_v2.py`)
-**Queue first:** if `reels/queue/` has a folder whose `meta.json` brand matches today's brand, use it. Copy its script.json, meta.json and captions.json into `$R`, then `git rm -r` that queue folder in the same commit as the reel. Skip to step 4b (voiceover).
+**Queue first:** if `reels/queue/` has a folder whose `meta.json` brand matches today's brand, use it. Copy its script.json, meta.json, captions.json and `vo/` (if present) into `$R`, then `git rm -r` that queue folder in the same commit as the reel. If it has `vo/`, skip to step 5; otherwise skip to step 4b (voiceover).
 
 Otherwise write a new one. **All new reels use v2** (`"version": 2`; full format in the header of `reels/render_v2.py`). The old `render_reel.py` text-on-white look is retired: it read as low effort. The bar: every frame is full of something worth looking at, the story is shown with props rather than told in words, and it sounds produced (voiceover + music).
 
@@ -76,7 +76,7 @@ Rotate the mess prop: don't open two reels in a row with the same prop sequence 
 - **alt**: one sentence naming what the reel shows.
 
 ## 4b. Voiceover (ElevenLabs via Zapier)
-For each scene with a `vo` line, in order: `execute_zapier_write_action` on ElevenLabs (`App226160CLIAPI`, action `text_to_speech`): `text` = the vo line, `voice_id` = `cjVigY5qzO86Huf0OWal` (Eric, smooth and trustworthy), `model_id` = `eleven_multilingual_v2`, `output_format` = `mp3_44100_128`. Download each result's `audio_url` to `$R/vo/NN.mp3` (NN = scene number, 01…): `curl -sSf -o $R/vo/NN.mp3 "<audio_url>"`. Write "finesolves dot com" for the site in VO text.
+For each scene with a `vo` line, in order: `execute_zapier_write_action` on ElevenLabs (`App226160CLIAPI`, action `text_to_speech`): `text` = the vo line, `voice_id` = `cjVigY5qzO86Huf0OWal` (Eric, smooth and trustworthy; the owner prefers Jessa `yj30vwTGJxSHezdAGsv9`, which needs a paid ElevenLabs plan: try Jessa first, and if ElevenLabs answers "paid_plan_required" or the action returns None, use Eric for every scene; never mix voices in one reel), `model_id` = `eleven_multilingual_v2`, `output_format` = `mp3_44100_128`. Download each result's `audio_url` to `$R/vo/NN.mp3` (NN = scene number, 01…): `curl -sSf -o $R/vo/NN.mp3 "<audio_url>"`. Write "finesolves dot com" for the site in VO text.
 If ElevenLabs isn't connected, a call fails, or a download is refused, delete `$R/vo/` and render without voiceover (the renderer then uses each scene's `dur`, with no captions). Report "VO skipped: <reason>". Never ship a reel with VO on some scenes and not others.
 
 ## 5. Pre-render audit, render, look
