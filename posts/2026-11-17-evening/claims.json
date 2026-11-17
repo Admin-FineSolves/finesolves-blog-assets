@@ -1,0 +1,248 @@
+[
+ {
+  "value": "70%",
+  "claim": "Share of ERP initiatives failing to fully meet original business use-case goals (Gartner, Nov 2025 Symposium)",
+  "source": "Gartner via The Register, 2025",
+  "url": "https://www.theregister.com/2025/11/13/erp_disaster_gartner/"
+ },
+ {
+  "value": "25%",
+  "claim": "Share of ERP initiatives that fail catastrophically (Gartner)",
+  "source": "Gartner via The Register, 2025",
+  "url": "https://www.theregister.com/2025/11/13/erp_disaster_gartner/"
+ },
+ {
+  "value": "73%",
+  "claim": "Tech leaders (survey of 251, 2023) who said ERP strategy not strongly aligned with business strategy",
+  "source": "The Register, 2025",
+  "url": "https://www.theregister.com/2025/11/13/erp_disaster_gartner/"
+ },
+ {
+  "value": "19 million",
+  "claim": "Birmingham City Council Oracle ERP original cost around £19 million",
+  "source": "The Register, 2025",
+  "url": "https://www.theregister.com/2025/11/13/erp_disaster_gartner/"
+ },
+ {
+  "value": "170 million",
+  "claim": "Birmingham City Council total project cost rose to £170 million",
+  "source": "The Register, 2025",
+  "url": "https://www.theregister.com/2025/11/13/erp_disaster_gartner/"
+ },
+ {
+  "value": "45%",
+  "claim": "Large IT programmes run 45% over budget on average",
+  "source": "McKinsey & University of Oxford via Consultancy-me (Argon & Co), 2026",
+  "url": "https://www.consultancy-me.com/news/14459/inadequate-testing-is-derailing-erp-transformations-finds-argon-co-report"
+ },
+ {
+  "value": "56%",
+  "claim": "Large IT programmes deliver 56% less value than planned",
+  "source": "McKinsey & University of Oxford via Consultancy-me, 2026",
+  "url": "https://www.consultancy-me.com/news/14459/inadequate-testing-is-derailing-erp-transformations-finds-argon-co-report"
+ },
+ {
+  "value": "89%",
+  "claim": "Organisations piloting or using AI-enabled quality engineering tools",
+  "source": "Capgemini World Quality Report 2026 via Consultancy-me",
+  "url": "https://www.consultancy-me.com/news/14459/inadequate-testing-is-derailing-erp-transformations-finds-argon-co-report"
+ },
+ {
+  "value": "$172 million",
+  "claim": "Zimmer Biomet claim against implementation partner after 2024 launch",
+  "source": "Consultancy-me, 2026",
+  "url": "https://www.consultancy-me.com/news/14459/inadequate-testing-is-derailing-erp-transformations-finds-argon-co-report"
+ },
+ {
+  "value": "$92.6 billion",
+  "claim": "Global ERP software market 2025",
+  "source": "Fortune Business Insights via TechTarget, 2026",
+  "url": "https://www.techtarget.com/enterprise-software/feature/Explaining-the-hidden-costs-of-ERP-implementations"
+ },
+ {
+  "value": "$281.6 billion",
+  "claim": "Global ERP market forecast 2034",
+  "source": "Fortune Business Insights via TechTarget, 2026",
+  "url": "https://www.techtarget.com/enterprise-software/feature/Explaining-the-hidden-costs-of-ERP-implementations"
+ },
+ {
+  "value": "13%",
+  "claim": "Global ERP market CAGR to 2034",
+  "source": "Fortune Business Insights via TechTarget, 2026",
+  "url": "https://www.techtarget.com/enterprise-software/feature/Explaining-the-hidden-costs-of-ERP-implementations"
+ },
+ {
+  "value": "30%",
+  "claim": "Panorama 2026 ERP Report: respondents whose ERP projects were over budget",
+  "source": "Panorama Consulting via TechTarget, 2026",
+  "url": "https://www.techtarget.com/enterprise-software/feature/Explaining-the-hidden-costs-of-ERP-implementations"
+ },
+ {
+  "value": "55%",
+  "claim": "Organisations whose projects completed within budget (Panorama, 131 respondents)",
+  "source": "Panorama Consulting via Accounting Today, 2024",
+  "url": "https://www.accountingtoday.com/news/one-third-of-enterprise-software-projects-have-time-cost-overruns-says-report"
+ },
+ {
+  "value": "58%",
+  "claim": "Completed on time (Panorama)",
+  "source": "Panorama Consulting via Accounting Today, 2024",
+  "url": "https://www.accountingtoday.com/news/one-third-of-enterprise-software-projects-have-time-cost-overruns-says-report"
+ },
+ {
+  "value": "32.8%",
+  "claim": "Ended slightly or significantly over budget",
+  "source": "Panorama Consulting via Accounting Today, 2024",
+  "url": "https://www.accountingtoday.com/news/one-third-of-enterprise-software-projects-have-time-cost-overruns-says-report"
+ },
+ {
+  "value": "31.3%",
+  "claim": "Completed later than anticipated",
+  "source": "Panorama Consulting via Accounting Today, 2024",
+  "url": "https://www.accountingtoday.com/news/one-third-of-enterprise-software-projects-have-time-cost-overruns-says-report"
+ },
+ {
+  "value": "72%",
+  "claim": "Preferred SaaS deployment (Panorama 2025, 172 companies)",
+  "source": "Panorama Consulting via iStart, 2025",
+  "url": "https://istart.com.au/?p=42881"
+ },
+ {
+  "value": "82%",
+  "claim": "Reported increased productivity and efficiency",
+  "source": "Panorama Consulting via iStart, 2025",
+  "url": "https://istart.com.au/?p=42881"
+ },
+ {
+  "value": "65%",
+  "claim": "Improved customer experience",
+  "source": "Panorama Consulting via iStart, 2025",
+  "url": "https://istart.com.au/?p=42881"
+ },
+ {
+  "value": "$450,000",
+  "claim": "Median ERP project cost",
+  "source": "Panorama Consulting via iStart, 2025",
+  "url": "https://istart.com.au/?p=42881"
+ },
+ {
+  "value": "8%",
+  "claim": "Significant budget overruns",
+  "source": "Panorama Consulting via iStart, 2025",
+  "url": "https://istart.com.au/?p=42881"
+ },
+ {
+  "value": "24%",
+  "claim": "Slightly over budget",
+  "source": "Panorama Consulting via iStart, 2025",
+  "url": "https://istart.com.au/?p=42881"
+ },
+ {
+  "value": "15.5 months",
+  "claim": "Average deployment time previous year",
+  "source": "Panorama Consulting via iStart, 2025",
+  "url": "https://istart.com.au/?p=42881"
+ },
+ {
+  "value": "nine months",
+  "claim": "Deployment time in 2025 report",
+  "source": "Panorama Consulting via iStart, 2025",
+  "url": "https://istart.com.au/?p=42881"
+ },
+ {
+  "value": "53%",
+  "claim": "AI deployment previous year (significant or moderate)",
+  "source": "Panorama Consulting via iStart, 2025",
+  "url": "https://istart.com.au/?p=42881"
+ },
+ {
+  "value": "$1,929.8 million",
+  "claim": "India ERP market size 2025",
+  "source": "IMARC Group, 2026",
+  "url": "https://www.imarcgroup.com/india-enterprise-resource-planning-market"
+ },
+ {
+  "value": "$3,651.9 million",
+  "claim": "India ERP market forecast 2034",
+  "source": "IMARC Group, 2026",
+  "url": "https://www.imarcgroup.com/india-enterprise-resource-planning-market"
+ },
+ {
+  "value": "7.12%",
+  "claim": "India ERP market CAGR 2026-2034",
+  "source": "IMARC Group, 2026",
+  "url": "https://www.imarcgroup.com/india-enterprise-resource-planning-market"
+ },
+ {
+  "value": "71.48%",
+  "claim": "Cloud share of new ERP licences in India, 2025",
+  "source": "Mordor Intelligence, 2026",
+  "url": "https://www.mordorintelligence.com/industry-reports/india-enterprise-resource-planning-market"
+ },
+ {
+  "value": "31.23%",
+  "claim": "Manufacturing share of India ERP spending, 2025",
+  "source": "Mordor Intelligence, 2026",
+  "url": "https://www.mordorintelligence.com/industry-reports/india-enterprise-resource-planning-market"
+ },
+ {
+  "value": "59%",
+  "claim": "Combined share of top five vendors in India",
+  "source": "Mordor Intelligence, 2026",
+  "url": "https://www.mordorintelligence.com/industry-reports/india-enterprise-resource-planning-market"
+ },
+ {
+  "value": "19.2%",
+  "claim": "SME ERP CAGR in India 2026-2031",
+  "source": "Mordor Intelligence, 2026",
+  "url": "https://www.mordorintelligence.com/industry-reports/india-enterprise-resource-planning-market"
+ },
+ {
+  "value": "78%",
+  "claim": "Tier-II/III manufacturers still using manual ledgers",
+  "source": "Mordor Intelligence, 2026",
+  "url": "https://www.mordorintelligence.com/industry-reports/india-enterprise-resource-planning-market"
+ },
+ {
+  "value": "48%",
+  "claim": "SMEs citing cost (SIDBI survey)",
+  "source": "Mordor Intelligence, 2026",
+  "url": "https://www.mordorintelligence.com/industry-reports/india-enterprise-resource-planning-market"
+ },
+ {
+  "value": "40%",
+  "claim": "Customisation adds 40% to cost",
+  "source": "Mordor Intelligence, 2026",
+  "url": "https://www.mordorintelligence.com/industry-reports/india-enterprise-resource-planning-market"
+ },
+ {
+  "value": "14.6 months",
+  "claim": "Tier-II roll-outs take 14.6 months (Deloitte)",
+  "source": "Mordor Intelligence, 2026",
+  "url": "https://www.mordorintelligence.com/industry-reports/india-enterprise-resource-planning-market"
+ },
+ {
+  "value": "9.2 months",
+  "claim": "Metro roll-outs take 9.2 months (Deloitte)",
+  "source": "Mordor Intelligence, 2026",
+  "url": "https://www.mordorintelligence.com/industry-reports/india-enterprise-resource-planning-market"
+ },
+ {
+  "value": "2027",
+  "claim": "Gartner: by 2027 more than 70% of recently implemented ERP initiatives will not fully meet original business goals",
+  "source": "Gartner, 2026",
+  "url": "https://www.gartner.com/en/information-technology/insights/what-it-leaders-must-do-to-avoid-disappointing-erp-initiatives"
+ },
+ {
+  "value": "70%",
+  "claim": "Panorama 2025: reported reduced operating or labour costs",
+  "source": "Panorama Consulting via iStart, 2025",
+  "url": "https://istart.com.au/?p=42881"
+ },
+ {
+  "value": "73%",
+  "claim": "Panorama 2025: AI deployed significantly or moderately, up from 53%",
+  "source": "Panorama Consulting via iStart, 2025",
+  "url": "https://istart.com.au/?p=42881"
+ }
+]
