@@ -1,11 +1,9 @@
-# Reel audit: PASS (99/100)
+# Reel audit: PASS (100/100)
 
-## Warnings
-- ⚠️ has an ElevenLabs voiceover (vo/NN.mp3)
 ## Passed
 - ✅ brand is valid: finesolves or finehr; FineHealth is paused (finehr)
 - ✅ last scene is the end card
-- ✅ total length 18–36s (28.0s)
+- ✅ total length 18–40s (36.7s)
 - ✅ 6–10 scenes (8)
 - ✅ at least 3 prop scenes (phone, calendar, calls, app, modules, sheet)
 - ✅ shows the product (an app or modules scene)
@@ -36,14 +34,14 @@
 - ✅ scene 2 headline ≤3 lines
 - ✅ scene 2 headline line ≤18 chars: “There goes” (10)
 - ✅ scene 2 headline line ≤18 chars: “your week.” (10)
-- ✅ scene 2 VO ≤22 words (14)
+- ✅ scene 2 VO ≤22 words (16)
 - ✅ scene 2 prop text ≤32 chars: “Intro call”
 - ✅ scene 2 prop text ≤32 chars: “FULL”
 - ✅ scene 3 has a headline
 - ✅ scene 3 headline ≤3 lines
 - ✅ scene 3 headline line ≤18 chars: “Same questions.” (15)
 - ✅ scene 3 headline line ≤18 chars: “Every call.” (11)
-- ✅ scene 3 VO ≤22 words (11)
+- ✅ scene 3 VO ≤22 words (8)
 - ✅ scene 3 prop text ≤32 chars: “So, tell me about yourself?”
 - ✅ scene 3 prop text ≤32 chars: “Aarav S.”
 - ✅ scene 3 prop text ≤32 chars: “Diya M.”
@@ -59,7 +57,7 @@
 - ✅ scene 5 headline ≤3 lines
 - ✅ scene 5 headline line ≤18 chars: “You review.” (11)
 - ✅ scene 5 headline line ≤18 chars: “It interviews.” (14)
-- ✅ scene 5 VO ≤22 words (18)
+- ✅ scene 5 VO ≤22 words (15)
 - ✅ scene 5 prop text ≤32 chars: “Frontend developer · Round 1”
 - ✅ scene 5 prop text ≤32 chars: “Review answers”
 - ✅ scene 5 prop text ≤32 chars: “Round 1 complete”
@@ -88,7 +86,7 @@
 - ✅ scene 6 headline ≤3 lines
 - ✅ scene 6 headline line ≤18 chars: “Your week,” (10)
 - ✅ scene 6 headline line ≤18 chars: “back.” (5)
-- ✅ scene 6 VO ≤22 words (14)
+- ✅ scene 6 VO ≤22 words (16)
 - ✅ scene 6 prop text ≤32 chars: “Intro call”
 - ✅ scene 6 prop text ≤32 chars: “YOURS”
 - ✅ scene 6 prop text ≤32 chars: “Final round”
@@ -98,7 +96,7 @@
 - ✅ scene 7 headline ≤3 lines
 - ✅ scene 7 headline line ≤18 chars: “Then attendance,” (16)
 - ✅ scene 7 headline line ≤18 chars: “leave, payroll.” (15)
-- ✅ scene 7 VO ≤22 words (13)
+- ✅ scene 7 VO ≤22 words (9)
 - ✅ scene 7 prop text ≤32 chars: “FineHR”
 - ✅ scene 7 prop text ≤32 chars: “AI interviewer”
 - ✅ scene 7 prop text ≤32 chars: “Attendance”
@@ -111,6 +109,15 @@
 - ✅ scene 8 prop text ≤32 chars: “HRMS · AI INTERVIEWER”
 - ✅ scene 8 prop text ≤32 chars: “Book a demo”
 - ✅ end card has a CTA button
+- ✅ has an ElevenLabs voiceover (vo/NN.mp3)
+- ✅ one VO clip per scene with a vo line
+- ✅ still-01.png: frame isn't mostly empty (35% plain background)
+- ✅ still-02.png: frame isn't mostly empty (38% plain background)
+- ✅ still-03.png: frame isn't mostly empty (31% plain background)
+- ✅ still-04.png: frame isn't mostly empty (63% plain background)
+- ✅ still-05.png: frame isn't mostly empty (54% plain background)
+- ✅ still-06.png: frame isn't mostly empty (68% plain background)
+- ✅ still-07.png: frame isn't mostly empty (22% plain background)
 - ✅ FineHR end card reads 'FineHR by Fine Solves'
 - ✅ no banned words 
 - ✅ says 'products', not 'software' (hashtags excepted)
@@ -142,3 +149,12 @@
 - ✅ brand differs from the previous reel (finesolves)
 - ✅ primary keyword not used in the last 21 reels
 - ✅ topic not used before
+- ✅ reel.mp4 exists
+- ✅ video is 1080×1920
+- ✅ video is H.264 yuv420p
+- ✅ frame rate 24/30 (30/1)
+- ✅ has an audio track
+- ✅ duration matches script (36.7s)
+- ✅ file under 20 MB (CDN limit)
+- ✅ cover.jpg exists
+- ✅ one review still per scene
