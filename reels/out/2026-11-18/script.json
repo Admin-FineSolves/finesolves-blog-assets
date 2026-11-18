@@ -1,0 +1,211 @@
+{
+ "version": 2,
+ "id": "2026-11-18",
+ "brand": "finesolves",
+ "music": "pulse",
+ "scenes": [
+  {
+   "type": "phone",
+   "bg": "navy",
+   "mode": "chat",
+   "contact": "Supervisor",
+   "eyebrow": "OWNERS · JOB WORK",
+   "headline": "Where's our\nmaterial?",
+   "highlight": "material",
+   "vo": "Factory owners. Where is your job-work material right now?",
+   "items": [
+    {
+     "from": "me",
+     "text": "Is the plating lot back?"
+    },
+    {
+     "from": "them",
+     "text": "Challan book is in the office"
+    },
+    {
+     "from": "them",
+     "text": "Will check and tell you, sir"
+    },
+    {
+     "from": "me",
+     "text": "Customer is asking"
+    }
+   ],
+   "dur": 3.6
+  },
+  {
+   "type": "sheet",
+   "bg": "cream",
+   "title": "jobwork_challans_FINAL.xlsx",
+   "cols": [
+    "Vendor",
+    "Part",
+    "Sent",
+    "Back"
+   ],
+   "rows": [
+    [
+     "Plating",
+     "Brackets",
+     "Monday",
+     "?"
+    ],
+    [
+     "Machining",
+     "Shafts",
+     "Tuesday",
+     "Half"
+    ],
+    [
+     "Painting",
+     "Covers",
+     "Tuesday",
+     "?"
+    ],
+    [
+     "Heat treat",
+     "Gears",
+     "Friday",
+     "?"
+    ]
+   ],
+   "flags": [
+    [
+     0,
+     3
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     3,
+     3
+    ]
+   ],
+   "note": "Who has the rest?",
+   "headline": "Paper challans.\nNo answers.",
+   "highlight": "No answers",
+   "vo": "Challans go out on paper. Some come back. Nobody is sure which vendor still has what.",
+   "dur": 3.8
+  },
+  {
+   "type": "phone",
+   "bg": "navy",
+   "mode": "notifs",
+   "clock": "4:15",
+   "headline": "Meanwhile,\nthe order waits.",
+   "highlight": "waits",
+   "vo": "Meanwhile, the customer wants a ship date. And someone spends the afternoon calling vendors.",
+   "items": [
+    {
+     "app": "Mail",
+     "title": "Customer · Purchase",
+     "body": "Any update on the dispatch date?"
+    },
+    {
+     "app": "Phone",
+     "title": "Missed call",
+     "body": "Plating vendor"
+    },
+    {
+     "app": "Messages",
+     "title": "Sales",
+     "body": "Customer called again"
+    },
+    {
+     "app": "Phone",
+     "title": "Missed call",
+     "body": "Paint shop"
+    },
+    {
+     "app": "Mail",
+     "title": "Customer · Purchase",
+     "body": "Please confirm by today"
+    }
+   ],
+   "dur": 3.4
+  },
+  {
+   "type": "statement",
+   "bg": "teal",
+   "trans": "wipe",
+   "headline": "Every challan.\nOne screen.",
+   "highlight": "One screen",
+   "vo": "So we build you one screen for every job-work challan.",
+   "dur": 2.6
+  },
+  {
+   "type": "app",
+   "bg": "cream",
+   "trans": "zoom",
+   "product": "Job work",
+   "headline": "Out. Back.\nAt a glance.",
+   "highlight": "At a glance",
+   "nav": [
+    "Challans",
+    "Vendors",
+    "Stock",
+    "Dispatch"
+   ],
+   "active": 0,
+   "title": "Open challans · This week",
+   "rows": [
+    {
+     "name": "Plating · Brackets",
+     "sub": "Sent Monday",
+     "from": "AT VENDOR",
+     "to": "RECEIVED"
+    },
+    {
+     "name": "Machining · Shafts",
+     "sub": "Sent Tuesday",
+     "from": "PART BACK",
+     "to": "RECEIVED"
+    },
+    {
+     "name": "Painting · Covers",
+     "sub": "Sent Tuesday",
+     "from": "AT VENDOR",
+     "to": "RECEIVED"
+    },
+    {
+     "name": "Heat treat · Gears",
+     "sub": "Sent Friday",
+     "from": "AT VENDOR",
+     "to": "DUE TODAY"
+    }
+   ],
+   "button": "Mark received",
+   "toast": "Stock updated",
+   "vo": "What went out, what came back, and what's still at the vendor. Updated the moment material returns.",
+   "dur": 4.8
+  },
+  {
+   "type": "modules",
+   "bg": "navy",
+   "title": "Your plant",
+   "headline": "Built around\nyour plant.",
+   "highlight": "your plant",
+   "modules": [
+    "Challans",
+    "Vendors",
+    "Stock",
+    "Dispatch"
+   ],
+   "vo": "Built around how your plant already works. Challans, vendors, stock and dispatch. One system.",
+   "dur": 3.8
+  },
+  {
+   "type": "end",
+   "bg": "cream",
+   "trans": "zoom",
+   "line": "Custom products,\nlive in weeks.",
+   "tag": "CUSTOM PRODUCTS · AI",
+   "cta": "Talk to us",
+   "vo": "Fine Solves. Custom products, live in weeks. Talk to us at finesolves dot com.",
+   "dur": 3.6
+  }
+ ],
+ "vo_speed": 1.0
+}

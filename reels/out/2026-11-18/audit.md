@@ -1,0 +1,167 @@
+# Reel audit: PASS (99/100)
+
+## Warnings
+- ⚠️ has an ElevenLabs voiceover (vo/NN.mp3)
+## Passed
+- ✅ brand is valid: finesolves or finehr; FineHealth is paused (finesolves)
+- ✅ last scene is the end card
+- ✅ total length 18–40s (25.6s)
+- ✅ 6–10 scenes (7)
+- ✅ at least 3 prop scenes (phone, calendar, calls, app, modules, sheet)
+- ✅ shows the product (an app or modules scene)
+- ✅ uses navy, cream and teal backgrounds (problem → turn → fix)
+- ✅ has one wipe transition into the turn
+- ✅ scene 1 has a headline
+- ✅ scene 1 headline ≤3 lines
+- ✅ scene 1 headline line ≤18 chars: “Where's our” (11)
+- ✅ scene 1 headline line ≤18 chars: “material?” (9)
+- ✅ scene 1 VO ≤22 words (9)
+- ✅ scene 1 prop text ≤32 chars: “OWNERS · JOB WORK”
+- ✅ scene 1 prop text ≤32 chars: “Supervisor”
+- ✅ scene 1 prop text ≤32 chars: “Is the plating lot back?”
+- ✅ scene 1 prop text ≤32 chars: “Challan book is in the office”
+- ✅ scene 1 prop text ≤32 chars: “Will check and tell you, sir”
+- ✅ scene 1 prop text ≤32 chars: “Customer is asking”
+- ✅ scene 2 has a headline
+- ✅ scene 2 headline ≤3 lines
+- ✅ scene 2 headline line ≤18 chars: “Paper challans.” (15)
+- ✅ scene 2 headline line ≤18 chars: “No answers.” (11)
+- ✅ scene 2 VO ≤22 words (16)
+- ✅ scene 2 prop text ≤32 chars: “jobwork_challans_FINAL.xlsx”
+- ✅ scene 2 prop text ≤32 chars: “Who has the rest?”
+- ✅ scene 2 prop text ≤32 chars: “Vendor”
+- ✅ scene 2 prop text ≤32 chars: “Part”
+- ✅ scene 2 prop text ≤32 chars: “Sent”
+- ✅ scene 2 prop text ≤32 chars: “Back”
+- ✅ scene 2 prop text ≤32 chars: “Plating”
+- ✅ scene 2 prop text ≤32 chars: “Brackets”
+- ✅ scene 2 prop text ≤32 chars: “Monday”
+- ✅ scene 2 prop text ≤32 chars: “?”
+- ✅ scene 2 prop text ≤32 chars: “Machining”
+- ✅ scene 2 prop text ≤32 chars: “Shafts”
+- ✅ scene 2 prop text ≤32 chars: “Tuesday”
+- ✅ scene 2 prop text ≤32 chars: “Half”
+- ✅ scene 2 prop text ≤32 chars: “Painting”
+- ✅ scene 2 prop text ≤32 chars: “Covers”
+- ✅ scene 2 prop text ≤32 chars: “Tuesday”
+- ✅ scene 2 prop text ≤32 chars: “?”
+- ✅ scene 2 prop text ≤32 chars: “Heat treat”
+- ✅ scene 2 prop text ≤32 chars: “Gears”
+- ✅ scene 2 prop text ≤32 chars: “Friday”
+- ✅ scene 2 prop text ≤32 chars: “?”
+- ✅ scene 3 has a headline
+- ✅ scene 3 headline ≤3 lines
+- ✅ scene 3 headline line ≤18 chars: “Meanwhile,” (10)
+- ✅ scene 3 headline line ≤18 chars: “the order waits.” (16)
+- ✅ scene 3 VO ≤22 words (14)
+- ✅ scene 3 prop text ≤32 chars: “Mail”
+- ✅ scene 3 prop text ≤32 chars: “Customer · Purchase”
+- ✅ scene 3 prop text ≤32 chars: “Any update on the dispatch date?”
+- ✅ scene 3 prop text ≤32 chars: “Phone”
+- ✅ scene 3 prop text ≤32 chars: “Missed call”
+- ✅ scene 3 prop text ≤32 chars: “Plating vendor”
+- ✅ scene 3 prop text ≤32 chars: “Messages”
+- ✅ scene 3 prop text ≤32 chars: “Sales”
+- ✅ scene 3 prop text ≤32 chars: “Customer called again”
+- ✅ scene 3 prop text ≤32 chars: “Phone”
+- ✅ scene 3 prop text ≤32 chars: “Missed call”
+- ✅ scene 3 prop text ≤32 chars: “Paint shop”
+- ✅ scene 3 prop text ≤32 chars: “Mail”
+- ✅ scene 3 prop text ≤32 chars: “Customer · Purchase”
+- ✅ scene 3 prop text ≤32 chars: “Please confirm by today”
+- ✅ scene 4 has a headline
+- ✅ scene 4 headline ≤3 lines
+- ✅ scene 4 headline line ≤18 chars: “Every challan.” (14)
+- ✅ scene 4 headline line ≤18 chars: “One screen.” (11)
+- ✅ scene 4 VO ≤22 words (10)
+- ✅ scene 5 has a headline
+- ✅ scene 5 headline ≤3 lines
+- ✅ scene 5 headline line ≤18 chars: “Out. Back.” (10)
+- ✅ scene 5 headline line ≤18 chars: “At a glance.” (12)
+- ✅ scene 5 VO ≤22 words (17)
+- ✅ scene 5 prop text ≤32 chars: “Open challans · This week”
+- ✅ scene 5 prop text ≤32 chars: “Mark received”
+- ✅ scene 5 prop text ≤32 chars: “Stock updated”
+- ✅ scene 5 prop text ≤32 chars: “Job work”
+- ✅ scene 5 prop text ≤32 chars: “Challans”
+- ✅ scene 5 prop text ≤32 chars: “Vendors”
+- ✅ scene 5 prop text ≤32 chars: “Stock”
+- ✅ scene 5 prop text ≤32 chars: “Dispatch”
+- ✅ scene 5 prop text ≤32 chars: “Plating · Brackets”
+- ✅ scene 5 prop text ≤32 chars: “Sent Monday”
+- ✅ scene 5 prop text ≤32 chars: “AT VENDOR”
+- ✅ scene 5 prop text ≤32 chars: “RECEIVED”
+- ✅ scene 5 prop text ≤32 chars: “Machining · Shafts”
+- ✅ scene 5 prop text ≤32 chars: “Sent Tuesday”
+- ✅ scene 5 prop text ≤32 chars: “PART BACK”
+- ✅ scene 5 prop text ≤32 chars: “RECEIVED”
+- ✅ scene 5 prop text ≤32 chars: “Painting · Covers”
+- ✅ scene 5 prop text ≤32 chars: “Sent Tuesday”
+- ✅ scene 5 prop text ≤32 chars: “AT VENDOR”
+- ✅ scene 5 prop text ≤32 chars: “RECEIVED”
+- ✅ scene 5 prop text ≤32 chars: “Heat treat · Gears”
+- ✅ scene 5 prop text ≤32 chars: “Sent Friday”
+- ✅ scene 5 prop text ≤32 chars: “AT VENDOR”
+- ✅ scene 5 prop text ≤32 chars: “DUE TODAY”
+- ✅ scene 6 has a headline
+- ✅ scene 6 headline ≤3 lines
+- ✅ scene 6 headline line ≤18 chars: “Built around” (12)
+- ✅ scene 6 headline line ≤18 chars: “your plant.” (11)
+- ✅ scene 6 VO ≤22 words (14)
+- ✅ scene 6 prop text ≤32 chars: “Your plant”
+- ✅ scene 6 prop text ≤32 chars: “Challans”
+- ✅ scene 6 prop text ≤32 chars: “Vendors”
+- ✅ scene 6 prop text ≤32 chars: “Stock”
+- ✅ scene 6 prop text ≤32 chars: “Dispatch”
+- ✅ scene 7 headline ≤3 lines
+- ✅ scene 7 headline line ≤18 chars: “” (0)
+- ✅ scene 7 VO ≤22 words (14)
+- ✅ scene 7 prop text ≤32 chars: “Custom products,
+live in weeks.”
+- ✅ scene 7 prop text ≤32 chars: “CUSTOM PRODUCTS · AI”
+- ✅ scene 7 prop text ≤32 chars: “Talk to us”
+- ✅ end card has a CTA button
+- ✅ still-01.png: frame isn't mostly empty (33% plain background)
+- ✅ still-02.png: frame isn't mostly empty (55% plain background)
+- ✅ still-03.png: frame isn't mostly empty (35% plain background)
+- ✅ still-04.png: frame isn't mostly empty (65% plain background)
+- ✅ still-05.png: frame isn't mostly empty (54% plain background)
+- ✅ still-06.png: frame isn't mostly empty (23% plain background)
+- ✅ no banned words 
+- ✅ says 'products', not 'software' (hashtags excepted)
+- ✅ brand names spelled Fine Solves / FineHealth / FineHR 
+- ✅ no [CONFIRM] items
+- ✅ no pricing
+- ✅ no medical / patient-outcome claims
+- ✅ no invented clients or testimonials
+- ✅ instagram: first line contains the keyword “job work management”
+- ✅ instagram: asks the reader one question
+- ✅ instagram: has the finesolves.com CTA
+- ✅ instagram: 3–6 hashtags (5)
+- ✅ instagram: no generic hashtags 
+- ✅ linkedin: first line contains the keyword “job work management”
+- ✅ linkedin: asks the reader one question
+- ✅ linkedin: has the finesolves.com CTA
+- ✅ linkedin: 3–6 hashtags (5)
+- ✅ linkedin: no generic hashtags 
+- ✅ instagram ≤2,200 chars (782)
+- ✅ linkedin ≤2,800 chars (782)
+- ✅ linkedin: no brackets or parentheses
+- ✅ CTA is “Talk to us → finesolves.com”
+- ✅ youtube title ≤100 chars with #Shorts (77)
+- ✅ youtube title carries the keyword
+- ✅ youtube description present with finesolves.com
+- ✅ youtube text has no < or >
+- ✅ alt text is one descriptive sentence
+- ✅ brand differs from the previous reel (finehr)
+- ✅ primary keyword not used in the last 21 reels
+- ✅ topic not used before
+- ✅ reel.mp4 exists
+- ✅ video is 1080×1920
+- ✅ video is H.264 yuv420p
+- ✅ frame rate 24/30 (30/1)
+- ✅ has an audio track
+- ✅ duration matches script (25.6s)
+- ✅ file under 20 MB (CDN limit)
+- ✅ cover.jpg exists
+- ✅ one review still per scene
