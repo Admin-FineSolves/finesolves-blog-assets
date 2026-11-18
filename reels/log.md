@@ -15,4 +15,3 @@ One row per posted reel (newest last). The daily run reads this for brand rotati
 | 2026-11-15 | finehealth | Patients asked for their name, age and phone again at every counter | patient registration | ✗ not posted: YouTube, Instagram and LinkedIn not connected in Zapier | ✗ | ✗ | PASS 100/100 |
 | 2026-11-16 | finesolves | Month-end bank reconciliation against Tally done by hand with a highlighter | tally integration | https://youtube.com/shorts/JxR9sarWV34 | ✓ | ✓ | PASS 100/100 |
 | 2026-11-17 | finehr | Founders losing their whole week to first-round intro calls with candidates | ai interviewer | https://youtube.com/shorts/cx8p3zzGBeQ | ✓ | ✓ | PASS 100/100 |
-| 2026-11-18 | finesolves | Job-work challans tracked on paper, so nobody knows which vendor still has the material | job work management | ✗ not posted: Zapier task limit reached (VO skipped too) | ✗ | ✗ | PASS 99/100 |

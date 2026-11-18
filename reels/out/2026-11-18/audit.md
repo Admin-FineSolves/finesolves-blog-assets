@@ -1,11 +1,9 @@
-# Reel audit: PASS (99/100)
+# Reel audit: PASS (100/100)
 
-## Warnings
-- ⚠️ has an ElevenLabs voiceover (vo/NN.mp3)
 ## Passed
 - ✅ brand is valid: finesolves or finehr; FineHealth is paused (finesolves)
 - ✅ last scene is the end card
-- ✅ total length 18–40s (25.6s)
+- ✅ total length 18–40s (37.8s)
 - ✅ 6–10 scenes (7)
 - ✅ at least 3 prop scenes (phone, calendar, calls, app, modules, sheet)
 - ✅ shows the product (an app or modules scene)
@@ -107,7 +105,7 @@
 - ✅ scene 6 headline ≤3 lines
 - ✅ scene 6 headline line ≤18 chars: “Built around” (12)
 - ✅ scene 6 headline line ≤18 chars: “your plant.” (11)
-- ✅ scene 6 VO ≤22 words (14)
+- ✅ scene 6 VO ≤22 words (11)
 - ✅ scene 6 prop text ≤32 chars: “Your plant”
 - ✅ scene 6 prop text ≤32 chars: “Challans”
 - ✅ scene 6 prop text ≤32 chars: “Vendors”
@@ -121,12 +119,14 @@ live in weeks.”
 - ✅ scene 7 prop text ≤32 chars: “CUSTOM PRODUCTS · AI”
 - ✅ scene 7 prop text ≤32 chars: “Talk to us”
 - ✅ end card has a CTA button
-- ✅ still-01.png: frame isn't mostly empty (33% plain background)
-- ✅ still-02.png: frame isn't mostly empty (55% plain background)
-- ✅ still-03.png: frame isn't mostly empty (35% plain background)
+- ✅ has an ElevenLabs voiceover (vo/NN.mp3)
+- ✅ one VO clip per scene with a vo line
+- ✅ still-01.png: frame isn't mostly empty (34% plain background)
+- ✅ still-02.png: frame isn't mostly empty (51% plain background)
+- ✅ still-03.png: frame isn't mostly empty (36% plain background)
 - ✅ still-04.png: frame isn't mostly empty (65% plain background)
 - ✅ still-05.png: frame isn't mostly empty (54% plain background)
-- ✅ still-06.png: frame isn't mostly empty (23% plain background)
+- ✅ still-06.png: frame isn't mostly empty (21% plain background)
 - ✅ no banned words 
 - ✅ says 'products', not 'software' (hashtags excepted)
 - ✅ brand names spelled Fine Solves / FineHealth / FineHR 
@@ -161,7 +161,7 @@ live in weeks.”
 - ✅ video is H.264 yuv420p
 - ✅ frame rate 24/30 (30/1)
 - ✅ has an audio track
-- ✅ duration matches script (25.6s)
+- ✅ duration matches script (37.8s)
 - ✅ file under 20 MB (CDN limit)
 - ✅ cover.jpg exists
 - ✅ one review still per scene

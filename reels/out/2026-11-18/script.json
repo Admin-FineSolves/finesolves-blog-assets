@@ -193,7 +193,7 @@
     "Stock",
     "Dispatch"
    ],
-   "vo": "Built around how your plant already works. Challans, vendors, stock and dispatch. One system.",
+   "vo": "Built around how your plant already works. All in one system.",
    "dur": 3.8
   },
   {
@@ -207,5 +207,6 @@
    "dur": 3.6
   }
  ],
- "vo_speed": 1.0
+ "vo_speed": 1.0,
+ "vo_voice": "Sarah"
 }
