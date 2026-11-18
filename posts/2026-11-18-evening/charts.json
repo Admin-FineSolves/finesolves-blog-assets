@@ -1,0 +1,95 @@
+[
+ {
+  "type": "column",
+  "title": "Digital leaders beat followers on every metric",
+  "subtitle": "Share meeting or exceeding plan, past 12 months (250+ CPOs, 2025)",
+  "unit": "%",
+  "series": [
+   "Digital Masters",
+   "Followers"
+  ],
+  "data": [
+   [
+    "Cost savings",
+    96,
+    80
+   ],
+   [
+    "Cost avoidance",
+    94,
+    75
+   ],
+   [
+    "Supplier performance",
+    84,
+    59
+   ],
+   [
+    "Innovation enablement",
+    56,
+    24
+   ]
+  ],
+  "source": "Source: Deloitte 2025 Global Chief Procurement Officer Survey"
+ },
+ {
+  "type": "bar",
+  "title": "No readiness dimension scores above 2.5",
+  "subtitle": "AI readiness score out of 5 (121 professionals, March 2026)",
+  "unit": "",
+  "data": [
+   [
+    "Strategic priority",
+    2.4
+   ],
+   [
+    "Operating model",
+    2.3
+   ],
+   [
+    "System integration",
+    2.2
+   ],
+   [
+    "Data foundation",
+    2.1
+   ],
+   [
+    "Operational efficiency",
+    1.9
+   ],
+   [
+    "AI maturity",
+    1.8
+   ]
+  ],
+  "highlight": "AI maturity",
+  "source": "Source: Procurement Tactics & Suplari, AI Readiness in Procurement 2026"
+ },
+ {
+  "type": "bar",
+  "title": "Price volatility tops MSME procurement pain",
+  "subtitle": "Share of Indian MSMEs citing each challenge (27,000+ surveyed, 2026)",
+  "unit": "%",
+  "data": [
+   [
+    "Price volatility",
+    55.7
+   ],
+   [
+    "Managing multiple suppliers",
+    37.6
+   ],
+   [
+    "Payment and credit constraints",
+    35.6
+   ],
+   [
+    "No dependable vendor",
+    33.4
+   ]
+  ],
+  "highlight": "Price volatility",
+  "source": "Source: India SME Forum via Business Standard, August 2026"
+ }
+]
