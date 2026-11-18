@@ -1,0 +1,73 @@
+[
+ {
+  "type": "column",
+  "title": "Exports grew faster than imports in October",
+  "subtitle": "Goods and services trade, US$ billion; services are estimates",
+  "unit": "",
+  "series": [
+   "October 2025",
+   "October 2026"
+  ],
+  "data": [
+   [
+    "Goods exports",
+    34.11,
+    49.47
+   ],
+   [
+    "Goods imports",
+    76.69,
+    89.35
+   ],
+   [
+    "Services exports",
+    35.17,
+    40.51
+   ],
+   [
+    "Services imports",
+    17.73,
+    20.72
+   ]
+  ],
+  "source": "Source: Ministry of Commerce & Industry, India's Foreign Trade: October 2026 (PIB, 13 Nov 2026)"
+ },
+ {
+  "type": "bar",
+  "title": "Petroleum and electronics led export growth",
+  "subtitle": "Export growth by sector, October 2026 vs October 2025",
+  "unit": "%",
+  "data": [
+   [
+    "Petroleum products",
+    140.21
+   ],
+   [
+    "Electronic goods",
+    62.7
+   ],
+   [
+    "Gems & jewellery",
+    40.06
+   ],
+   [
+    "Chemicals",
+    36.2
+   ],
+   [
+    "Engineering goods",
+    36.01
+   ],
+   [
+    "Ready-made garments",
+    20.33
+   ],
+   [
+    "Drugs & pharma",
+    10.55
+   ]
+  ],
+  "highlight": "Electronic goods",
+  "source": "Source: Ministry of Commerce & Industry (PIB) and IANS, 13 Nov 2026"
+ }
+]
