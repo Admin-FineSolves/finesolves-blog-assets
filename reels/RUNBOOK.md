@@ -1,7 +1,7 @@
 # Fine Solves reels: runbook (1 reel a day, posted to Instagram, YouTube Shorts and LinkedIn)
 
 One scheduled run a day does the whole thing with no human in the loop:
-pick the brand and topic → write the script and captions → **pre-render audit** → render the MP4 → check the stills → **final audit (must PASS)** → host the files on GitHub → post to YouTube, then Instagram, then LinkedIn → log it.
+pick the brand and topic → write the script and captions → **pre-render audit** → render the MP4 → check the stills → **final audit (must PASS)** → host the files on GitHub → post to YouTube, then Instagram, then LinkedIn, then Facebook → log it.
 
 Never post a reel that fails the audit. Never post to any platform twice for the same day: `posted.json` is the record.
 
@@ -108,13 +108,17 @@ curl -s -o /dev/null -w "%{http_code} %{content_type}\n" $COVER_URL   # must be 
 (The container can't reach jsDelivr; Zapier can. jsDelivr serves `video/mp4`, which Instagram needs. If it hasn't cached the file yet, Instagram may take a minute.)
 
 ## 8. Post (Zapier), in this order, each exactly once
-After **each** successful post, write the result into `$R/posted.json` (`{"youtube":{"id":"…","url":"…"},"instagram":{"id":"…"},"linkedin":{"id":"…"}}`), commit and push straight away, so a re-run never posts twice.
+After **each** successful post, write the result into `$R/posted.json` (`{"youtube":{"id":"…","url":"…"},"instagram":{"id":"…"},"linkedin":{"id":"…"},"facebook":{"id":"…"}}`), commit and push straight away, so a re-run never posts twice.
 
 Always `inspect_zapier_actions` first to get exact params and dynamic values.
 
 1. **YouTube**: selected_api `YouTubeV4CLIAPI`, action `upload_video`: `title` = youtube_title, `description` = youtube_description, `video` = VIDEO_URL (fall back to RAW_VIDEO once if the file can't be fetched), `privacy_status` = public, `made_for_kids` = false, `category_id` = Science & Technology (resolve the dynamic enum), `tags` = the 5 hashtags without "#", `default_language` = en. Short URL = `https://youtube.com/shorts/<id>`.
 2. **Instagram**: selected_api `InstagramBusinessCLIAPI`, action `publish_video`: `instagramPageId` = the Fine Solves business account (resolve the dynamic enum; if there's more than one candidate, stop and report), `video` = VIDEO_URL, `caption` = instagram. If the action errors because the media isn't ready or can't be fetched, wait 60 s and try once more with RAW_VIDEO. A failed attempt isn't a post.
 3. **LinkedIn company page**: selected_api `LinkedInCLIAPI`, action `create_company_update`: `company_id` = the Fine Solves page (resolve the dynamic enum; stop if ambiguous), `comment` = linkedin caption with "Watch the reel: <Short URL>" inserted on its own line before the CTA, `image` = COVER_URL, `image_type` = post_media. (Zapier can't upload video to a LinkedIn page, so LinkedIn gets the cover frame + link. If YouTube failed, post with the cover and finesolves.com only.)
+
+4. **Facebook Page** (added 2026-11-18): selected_api `FacebookV2CLIAPI`, action `page_video`: `page` = the FineSolves page (resolve the dynamic enum; stop if more than one candidate), `source` = VIDEO_URL (fall back to RAW_VIDEO once), `title` = youtube_title without " #Shorts", `description` = the instagram caption. Native video, so no YouTube link needed.
+
+Some actions return an error even though the post went live (LinkedIn once answered "Could not find entity" after publishing). Before retrying any failed post, check the account's recent posts, so nothing goes out twice.
 
 If one platform fails, still post to the others, then report which one failed and why.
 
