@@ -1,7 +1,5 @@
-# Reel audit: FAIL (99/100)
+# Reel audit: PASS (100/100)
 
-## Critical failures
-- ❌ file under 20 MB (CDN limit)
 ## Passed
 - ✅ brand is valid: finesolves or finehr; FineHealth is paused (finehr)
 - ✅ last scene is the end card
@@ -165,5 +163,6 @@
 - ✅ frame rate 24/30 (30/1)
 - ✅ has an audio track
 - ✅ duration matches script (38.4s)
+- ✅ file under 20 MB (CDN limit)
 - ✅ cover.jpg exists
 - ✅ one review still per scene
