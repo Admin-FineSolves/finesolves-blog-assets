@@ -16,3 +16,4 @@ One row per posted reel (newest last). The daily run reads this for brand rotati
 | 2026-11-16 | finesolves | Month-end bank reconciliation against Tally done by hand with a highlighter | tally integration | https://youtube.com/shorts/JxR9sarWV34 | ✓ | ✓ | PASS 100/100 |
 | 2026-11-17 | finehr | Founders losing their whole week to first-round intro calls with candidates | ai interviewer | https://youtube.com/shorts/cx8p3zzGBeQ | ✓ | ✓ | PASS 100/100 |
 | 2026-11-18 | finesolves | Job-work challans tracked on paper, so nobody knows which vendor still has the material | job work management | https://youtube.com/shorts/Hqvjy5KQZEE | ✓ | ✓ | PASS 100/100 (FB ✓) |
+| 2026-11-19 | finehr | HR managers chasing shift attendance sheets from every supervisor before month-end payroll | attendance management | https://youtube.com/shorts/fo9OQoEYr-s | ✓ | ✓ | PASS 100/100 (FB ✗ not attempted) |
