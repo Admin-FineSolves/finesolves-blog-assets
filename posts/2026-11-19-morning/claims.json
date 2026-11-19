@@ -1,0 +1,218 @@
+[
+ {
+  "value": "92%",
+  "claim": "Indian organisations with an agentic AI security incident in the past year",
+  "source": "ServiceNow, Deployed but Ungoverned: The State of Agentic Security in India (press release, 18 Nov 2026)",
+  "url": "https://newsroom.servicenow.com/press-releases/details/2026/92-of-Indian-organisations-had-an-AI-agent-security-incident-in-the-past-year-only-36-of-them-contained-it-within-24-hours/default.aspx"
+ },
+ {
+  "value": "36%",
+  "claim": "of those that contained the incident within 24 hours",
+  "source": "ServiceNow, Deployed but Ungoverned: The State of Agentic Security in India (press release, 18 Nov 2026)",
+  "url": "https://newsroom.servicenow.com/press-releases/details/2026/92-of-Indian-organisations-had-an-AI-agent-security-incident-in-the-past-year-only-36-of-them-contained-it-within-24-hours/default.aspx"
+ },
+ {
+  "value": "19%",
+  "claim": "have a single named individual accountable for agentic AI security governance",
+  "source": "ServiceNow, Deployed but Ungoverned: The State of Agentic Security in India (press release, 18 Nov 2026)",
+  "url": "https://newsroom.servicenow.com/press-releases/details/2026/92-of-Indian-organisations-had-an-AI-agent-security-incident-in-the-past-year-only-36-of-them-contained-it-within-24-hours/default.aspx"
+ },
+ {
+  "value": "18%",
+  "claim": "ServiceNow: have unified single-interface visibility into their agents; IBM: phishing share of initial attack vectors in India",
+  "source": "ServiceNow, Deployed but Ungoverned: The State of Agentic Security in India (press release, 18 Nov 2026)",
+  "url": "https://newsroom.servicenow.com/press-releases/details/2026/92-of-Indian-organisations-had-an-AI-agent-security-incident-in-the-past-year-only-36-of-them-contained-it-within-24-hours/default.aspx"
+ },
+ {
+  "value": "30%",
+  "claim": "enforce an automated deployment gate blocking agents until security checks pass",
+  "source": "ServiceNow, Deployed but Ungoverned: The State of Agentic Security in India (press release, 18 Nov 2026)",
+  "url": "https://newsroom.servicenow.com/press-releases/details/2026/92-of-Indian-organisations-had-an-AI-agent-security-incident-in-the-past-year-only-36-of-them-contained-it-within-24-hours/default.aspx"
+ },
+ {
+  "value": "47%",
+  "claim": "can produce a complete evidence package on demand",
+  "source": "ServiceNow, Deployed but Ungoverned: The State of Agentic Security in India (press release, 18 Nov 2026)",
+  "url": "https://newsroom.servicenow.com/press-releases/details/2026/92-of-Indian-organisations-had-an-AI-agent-security-incident-in-the-past-year-only-36-of-them-contained-it-within-24-hours/default.aspx"
+ },
+ {
+  "value": "51%",
+  "claim": "have automated real-time detection of anomalous agent behaviour; also unified-platform users capturing evidence continuously",
+  "source": "ServiceNow, Deployed but Ungoverned: The State of Agentic Security in India (press release, 18 Nov 2026)",
+  "url": "https://newsroom.servicenow.com/press-releases/details/2026/92-of-Indian-organisations-had-an-AI-agent-security-incident-in-the-past-year-only-36-of-them-contained-it-within-24-hours/default.aspx"
+ },
+ {
+  "value": "67%",
+  "claim": "cannot automatically act when an agent behaves anomalously",
+  "source": "ServiceNow, Deployed but Ungoverned: The State of Agentic Security in India (press release, 18 Nov 2026)",
+  "url": "https://newsroom.servicenow.com/press-releases/details/2026/92-of-Indian-organisations-had-an-AI-agent-security-incident-in-the-past-year-only-36-of-them-contained-it-within-24-hours/default.aspx"
+ },
+ {
+  "value": "46%",
+  "claim": "bring in security before agent development begins",
+  "source": "ServiceNow, Deployed but Ungoverned: The State of Agentic Security in India (press release, 18 Nov 2026)",
+  "url": "https://newsroom.servicenow.com/press-releases/details/2026/92-of-Indian-organisations-had-an-AI-agent-security-incident-in-the-past-year-only-36-of-them-contained-it-within-24-hours/default.aspx"
+ },
+ {
+  "value": "83%",
+  "claim": "run AI agents in or interacting with OT / physical environments",
+  "source": "ServiceNow, Deployed but Ungoverned: The State of Agentic Security in India (press release, 18 Nov 2026)",
+  "url": "https://newsroom.servicenow.com/press-releases/details/2026/92-of-Indian-organisations-had-an-AI-agent-security-incident-in-the-past-year-only-36-of-them-contained-it-within-24-hours/default.aspx"
+ },
+ {
+  "value": "29%",
+  "claim": "have a separate governance framework designed for AI agents",
+  "source": "ServiceNow, Deployed but Ungoverned: The State of Agentic Security in India (press release, 18 Nov 2026)",
+  "url": "https://newsroom.servicenow.com/press-releases/details/2026/92-of-Indian-organisations-had-an-AI-agent-security-incident-in-the-past-year-only-36-of-them-contained-it-within-24-hours/default.aspx"
+ },
+ {
+  "value": "37%",
+  "claim": "ServiceNow: discovered unregistered AI agents in production in last 12 months; IBM: Indian orgs with AI access controls",
+  "source": "ServiceNow, Deployed but Ungoverned: The State of Agentic Security in India (press release, 18 Nov 2026)",
+  "url": "https://newsroom.servicenow.com/press-releases/details/2026/92-of-Indian-organisations-had-an-AI-agent-security-incident-in-the-past-year-only-36-of-them-contained-it-within-24-hours/default.aspx"
+ },
+ {
+  "value": "43%",
+  "claim": "run agentic security on a unified platform; also share of others with automated real-time alerts / continuous evidence",
+  "source": "ServiceNow, Deployed but Ungoverned: The State of Agentic Security in India (press release, 18 Nov 2026)",
+  "url": "https://newsroom.servicenow.com/press-releases/details/2026/92-of-Indian-organisations-had-an-AI-agent-security-incident-in-the-past-year-only-36-of-them-contained-it-within-24-hours/default.aspx"
+ },
+ {
+  "value": "62%",
+  "claim": "unified-platform users with automated real-time alerts",
+  "source": "ServiceNow, Deployed but Ungoverned: The State of Agentic Security in India (press release, 18 Nov 2026)",
+  "url": "https://newsroom.servicenow.com/press-releases/details/2026/92-of-Indian-organisations-had-an-AI-agent-security-incident-in-the-past-year-only-36-of-them-contained-it-within-24-hours/default.aspx"
+ },
+ {
+  "value": "45%",
+  "claim": "unified-platform users that auto-remediate agent policy violations",
+  "source": "ServiceNow, Deployed but Ungoverned: The State of Agentic Security in India (press release, 18 Nov 2026)",
+  "url": "https://newsroom.servicenow.com/press-releases/details/2026/92-of-Indian-organisations-had-an-AI-agent-security-incident-in-the-past-year-only-36-of-them-contained-it-within-24-hours/default.aspx"
+ },
+ {
+  "value": "24%",
+  "claim": "others that auto-remediate agent policy violations",
+  "source": "ServiceNow, Deployed but Ungoverned: The State of Agentic Security in India (press release, 18 Nov 2026)",
+  "url": "https://newsroom.servicenow.com/press-releases/details/2026/92-of-Indian-organisations-had-an-AI-agent-security-incident-in-the-past-year-only-36-of-them-contained-it-within-24-hours/default.aspx"
+ },
+ {
+  "value": "92 per cent",
+  "claim": "UNI report of the same ServiceNow headline figure",
+  "source": "UNI India (18 Nov 2026)",
+  "url": "https://www.uniindia.com/business-economy/industries-india-ai-security-incidents/249899"
+ },
+ {
+  "value": "₹220 million",
+  "claim": "average cost of a data breach in India, 2025",
+  "source": "IBM Cost of a Data Breach Report 2025 – India (IBM newsroom, 7 Aug 2025)",
+  "url": "https://in.newsroom.ibm.com/2025-08-07-India-Records-Highest-Average-Cost-of-a-Data-Breach-IBM"
+ },
+ {
+  "value": "13%",
+  "claim": "increase in India's average breach cost vs 2024",
+  "source": "IBM Cost of a Data Breach Report 2025 – India (IBM newsroom, 7 Aug 2025)",
+  "url": "https://in.newsroom.ibm.com/2025-08-07-India-Records-Highest-Average-Cost-of-a-Data-Breach-IBM"
+ },
+ {
+  "value": "₹195 million",
+  "claim": "India average breach cost in 2024",
+  "source": "IBM Cost of a Data Breach Report 2025 – India (IBM newsroom, 7 Aug 2025)",
+  "url": "https://in.newsroom.ibm.com/2025-08-07-India-Records-Highest-Average-Cost-of-a-Data-Breach-IBM"
+ },
+ {
+  "value": "60%",
+  "claim": "nearly 60% of Indian orgs have no AI governance policy or are still developing one",
+  "source": "IBM Cost of a Data Breach Report 2025 – India (IBM newsroom, 7 Aug 2025)",
+  "url": "https://in.newsroom.ibm.com/2025-08-07-India-Records-Highest-Average-Cost-of-a-Data-Breach-IBM"
+ },
+ {
+  "value": "34%",
+  "claim": "of orgs with AI governance policies use AI governance technology",
+  "source": "IBM Cost of a Data Breach Report 2025 – India (IBM newsroom, 7 Aug 2025)",
+  "url": "https://in.newsroom.ibm.com/2025-08-07-India-Records-Highest-Average-Cost-of-a-Data-Breach-IBM"
+ },
+ {
+  "value": "₹17.9 million",
+  "claim": "extra breach cost added by shadow AI on average",
+  "source": "IBM Cost of a Data Breach Report 2025 – India (IBM newsroom, 7 Aug 2025)",
+  "url": "https://in.newsroom.ibm.com/2025-08-07-India-Records-Highest-Average-Cost-of-a-Data-Breach-IBM"
+ },
+ {
+  "value": "42%",
+  "claim": "have policies to manage AI or detect shadow AI",
+  "source": "IBM Cost of a Data Breach Report 2025 – India (IBM newsroom, 7 Aug 2025)",
+  "url": "https://in.newsroom.ibm.com/2025-08-07-India-Records-Highest-Average-Cost-of-a-Data-Breach-IBM"
+ },
+ {
+  "value": "17%",
+  "claim": "third-party vendor and supply chain compromise share of initial vectors",
+  "source": "IBM Cost of a Data Breach Report 2025 – India (IBM newsroom, 7 Aug 2025)",
+  "url": "https://in.newsroom.ibm.com/2025-08-07-India-Records-Highest-Average-Cost-of-a-Data-Breach-IBM"
+ },
+ {
+  "value": "₹289 million",
+  "claim": "research sector average breach cost, costliest",
+  "source": "IBM Cost of a Data Breach Report 2025 – India (IBM newsroom, 7 Aug 2025)",
+  "url": "https://in.newsroom.ibm.com/2025-08-07-India-Records-Highest-Average-Cost-of-a-Data-Breach-IBM"
+ },
+ {
+  "value": "₹288 million",
+  "claim": "transportation sector average breach cost",
+  "source": "IBM Cost of a Data Breach Report 2025 – India (IBM newsroom, 7 Aug 2025)",
+  "url": "https://in.newsroom.ibm.com/2025-08-07-India-Records-Highest-Average-Cost-of-a-Data-Breach-IBM"
+ },
+ {
+  "value": "₹264 million",
+  "claim": "industrial sector average breach cost",
+  "source": "IBM Cost of a Data Breach Report 2025 – India (IBM newsroom, 7 Aug 2025)",
+  "url": "https://in.newsroom.ibm.com/2025-08-07-India-Records-Highest-Average-Cost-of-a-Data-Breach-IBM"
+ },
+ {
+  "value": "73%",
+  "claim": "reported limited or no use of AI and security automation",
+  "source": "IBM Cost of a Data Breach Report 2025 – India (IBM newsroom, 7 Aug 2025)",
+  "url": "https://in.newsroom.ibm.com/2025-08-07-India-Records-Highest-Average-Cost-of-a-Data-Breach-IBM"
+ },
+ {
+  "value": "29.44 lakh",
+  "claim": "cyber incidents handled by CERT-In in 2025",
+  "source": "CERT-In 2025 activity data via IANS / Morung Express (23 Jan 2026)",
+  "url": "https://morungexpress.com/cert-in-handled-over-2944-lakh-cyber-incidents-in-2025-gains-global-recognition"
+ },
+ {
+  "value": "40%",
+  "claim": "over 40% of agentic AI projects will be cancelled by end of 2027",
+  "source": "Gartner prediction via Outlook Business (25 Jun 2025)",
+  "url": "https://www.outlookbusiness.com/artificial-intelligence/over-40-of-agentic-ai-projects-will-be-scrapped-by-2027-says-gartner"
+ },
+ {
+  "value": "15%",
+  "claim": "by 2028 at least 15% of day-to-day work decisions made autonomously by agentic AI",
+  "source": "Gartner prediction via Outlook Business (25 Jun 2025)",
+  "url": "https://www.outlookbusiness.com/artificial-intelligence/over-40-of-agentic-ai-projects-will-be-scrapped-by-2027-says-gartner"
+ },
+ {
+  "value": "33%",
+  "claim": "by 2028 33% of enterprise software apps will include agentic AI",
+  "source": "Gartner prediction via Outlook Business (25 Jun 2025)",
+  "url": "https://www.outlookbusiness.com/artificial-intelligence/over-40-of-agentic-ai-projects-will-be-scrapped-by-2027-says-gartner"
+ },
+ {
+  "value": "₹250 crore",
+  "claim": "maximum DPDP penalty for failing to maintain reasonable security safeguards",
+  "source": "Government of India (PIB) on DPDP Rules 2025, via CXO Digital Pulse (17 Nov 2025)",
+  "url": "https://www.cxodigitalpulse.com/dpdp-rules-2025-notified-a-citizen-centric-framework-for-privacy-protection-and-responsible-data-use/"
+ },
+ {
+  "value": "₹200 crore",
+  "claim": "DPDP penalty for failing to notify the Board / individuals of a breach",
+  "source": "Government of India (PIB) on DPDP Rules 2025, via CXO Digital Pulse (17 Nov 2025)",
+  "url": "https://www.cxodigitalpulse.com/dpdp-rules-2025-notified-a-citizen-centric-framework-for-privacy-protection-and-responsible-data-use/"
+ },
+ {
+  "value": "₹50 crore",
+  "claim": "DPDP penalty for other violations",
+  "source": "Government of India (PIB) on DPDP Rules 2025, via CXO Digital Pulse (17 Nov 2025)",
+  "url": "https://www.cxodigitalpulse.com/dpdp-rules-2025-notified-a-citizen-centric-framework-for-privacy-protection-and-responsible-data-use/"
+ }
+]

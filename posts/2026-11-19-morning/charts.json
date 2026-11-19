@@ -1,0 +1,68 @@
+[
+ {
+  "type": "bar",
+  "title": "Most Indian firms lack basic agent controls",
+  "subtitle": "Share of 500 Indian security leaders with each control in place, 2026",
+  "unit": "%",
+  "data": [
+   [
+    "Real-time anomaly detection",
+    51
+   ],
+   [
+    "Evidence package on demand",
+    47
+   ],
+   [
+    "Security before agent build",
+    46
+   ],
+   [
+    "Automated deployment gate",
+    30
+   ],
+   [
+    "Separate agent governance",
+    29
+   ],
+   [
+    "Named accountable owner",
+    19
+   ],
+   [
+    "Unified view of all agents",
+    18
+   ]
+  ],
+  "highlight": "Unified view of all agents",
+  "source": "Source: ServiceNow, Deployed but Ungoverned: The State of Agentic Security in India, Nov 2026"
+ },
+ {
+  "type": "column",
+  "title": "Unified platforms close the response gap",
+  "subtitle": "Indian organisations: unified agentic security platform vs others, 2026",
+  "unit": "%",
+  "series": [
+   "Unified platform",
+   "Others"
+  ],
+  "data": [
+   [
+    "Automated real-time alerts",
+    62,
+    43
+   ],
+   [
+    "Auto-remediate violations",
+    45,
+    24
+   ],
+   [
+    "Continuous evidence capture",
+    51,
+    43
+   ]
+  ],
+  "source": "Source: ServiceNow, Deployed but Ungoverned: The State of Agentic Security in India, Nov 2026"
+ }
+]
