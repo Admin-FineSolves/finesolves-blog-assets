@@ -1,0 +1,344 @@
+[
+ {
+  "value": "84%",
+  "claim": "Respondents using or planning to use AI tools",
+  "source": "Stack Overflow 2025 Developer Survey (AI section)",
+  "url": "https://survey.stackoverflow.co/2025/ai"
+ },
+ {
+  "value": "76%",
+  "claim": "Same figure the previous year",
+  "source": "Stack Overflow 2025 Developer Survey (AI section)",
+  "url": "https://survey.stackoverflow.co/2025/ai"
+ },
+ {
+  "value": "51%",
+  "claim": "Professional developers using AI tools daily",
+  "source": "Stack Overflow 2025 Developer Survey (AI section)",
+  "url": "https://survey.stackoverflow.co/2025/ai"
+ },
+ {
+  "value": "60%",
+  "claim": "Favourable sentiment toward AI tools in 2025",
+  "source": "Stack Overflow 2025 Developer Survey (AI section)",
+  "url": "https://survey.stackoverflow.co/2025/ai"
+ },
+ {
+  "value": "70%",
+  "claim": "Favourable sentiment was 70%+ in 2023 and 2024",
+  "source": "Stack Overflow 2025 Developer Survey (AI section)",
+  "url": "https://survey.stackoverflow.co/2025/ai"
+ },
+ {
+  "value": "46%",
+  "claim": "Developers who actively distrust AI output accuracy",
+  "source": "Stack Overflow 2025 Developer Survey (AI section)",
+  "url": "https://survey.stackoverflow.co/2025/ai"
+ },
+ {
+  "value": "33%",
+  "claim": "Developers who trust AI output accuracy",
+  "source": "Stack Overflow 2025 Developer Survey (AI section)",
+  "url": "https://survey.stackoverflow.co/2025/ai"
+ },
+ {
+  "value": "3%",
+  "claim": "Developers who highly trust AI output",
+  "source": "Stack Overflow 2025 Developer Survey (AI section)",
+  "url": "https://survey.stackoverflow.co/2025/ai"
+ },
+ {
+  "value": "29%",
+  "claim": "Professional developers who think AI struggles with complex tasks (2025)",
+  "source": "Stack Overflow 2025 Developer Survey (AI section)",
+  "url": "https://survey.stackoverflow.co/2025/ai"
+ },
+ {
+  "value": "35%",
+  "claim": "Same figure in 2024",
+  "source": "Stack Overflow 2025 Developer Survey (AI section)",
+  "url": "https://survey.stackoverflow.co/2025/ai"
+ },
+ {
+  "value": "76%",
+  "claim": "Don't plan to use AI for deployment and monitoring",
+  "source": "Stack Overflow 2025 Developer Survey (AI section)",
+  "url": "https://survey.stackoverflow.co/2025/ai"
+ },
+ {
+  "value": "90%",
+  "claim": "AI adoption among software development professionals",
+  "source": "Google DORA 2025 State of AI-assisted Software Development, via TechRepublic",
+  "url": "https://www.techrepublic.com/article/news-dora-ai-report-2025/"
+ },
+ {
+  "value": "65%",
+  "claim": "Professionals who use AI heavily",
+  "source": "Google DORA 2025 State of AI-assisted Software Development, via TechRepublic",
+  "url": "https://www.techrepublic.com/article/news-dora-ai-report-2025/"
+ },
+ {
+  "value": "30%",
+  "claim": "Trust AI a little or not at all",
+  "source": "Google DORA 2025 State of AI-assisted Software Development, via TechRepublic",
+  "url": "https://www.techrepublic.com/article/news-dora-ai-report-2025/"
+ },
+ {
+  "value": "61%",
+  "claim": "Never used an autonomous agent mode",
+  "source": "Google DORA 2025 State of AI-assisted Software Development, via TechRepublic",
+  "url": "https://www.techrepublic.com/article/news-dora-ai-report-2025/"
+ },
+ {
+  "value": "19%",
+  "claim": "Experienced developers took 19% longer with AI tools",
+  "source": "METR study via InfoWorld, 2025",
+  "url": "https://www.infoworld.com/article/4020931/ai-coding-tools-can-slow-down-seasoned-developers-by-19.html"
+ },
+ {
+  "value": "24%",
+  "claim": "Developers predicted AI would cut completion time by 24%",
+  "source": "METR study via InfoWorld, 2025",
+  "url": "https://www.infoworld.com/article/4020931/ai-coding-tools-can-slow-down-seasoned-developers-by-19.html"
+ },
+ {
+  "value": "20%",
+  "claim": "After the study developers estimated AI improved productivity by 20%",
+  "source": "METR study via InfoWorld, 2025",
+  "url": "https://www.infoworld.com/article/4020931/ai-coding-tools-can-slow-down-seasoned-developers-by-19.html"
+ },
+ {
+  "value": "44%",
+  "claim": "Developers accepted less than 44% of AI suggestions",
+  "source": "METR study via InfoWorld, 2025",
+  "url": "https://www.infoworld.com/article/4020931/ai-coding-tools-can-slow-down-seasoned-developers-by-19.html"
+ },
+ {
+  "value": "1.5%",
+  "claim": "DORA 2024: every 25% increase in AI adoption showed a 1.5% dip in delivery speed",
+  "source": "METR study via InfoWorld, 2025",
+  "url": "https://www.infoworld.com/article/4020931/ai-coding-tools-can-slow-down-seasoned-developers-by-19.html"
+ },
+ {
+  "value": "25%",
+  "claim": "DORA 2024: per 25% increase in AI adoption",
+  "source": "METR study via InfoWorld, 2025",
+  "url": "https://www.infoworld.com/article/4020931/ai-coding-tools-can-slow-down-seasoned-developers-by-19.html"
+ },
+ {
+  "value": "7.2%",
+  "claim": "DORA 2024: 7.2% drop in system stability",
+  "source": "METR study via InfoWorld, 2025",
+  "url": "https://www.infoworld.com/article/4020931/ai-coding-tools-can-slow-down-seasoned-developers-by-19.html"
+ },
+ {
+  "value": "26%",
+  "claim": "Copilot users completed 26% more tasks (MIT/Princeton/Penn study, 4,800+ devs)",
+  "source": "METR study via InfoWorld, 2025",
+  "url": "https://www.infoworld.com/article/4020931/ai-coding-tools-can-slow-down-seasoned-developers-by-19.html"
+ },
+ {
+  "value": "21.9 million",
+  "claim": "Developers in India on GitHub",
+  "source": "GitHub Octoverse 2025",
+  "url": "https://github.blog/2025-10-28-octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/"
+ },
+ {
+  "value": "4.5 million",
+  "claim": "Developers in India on GitHub in 2020",
+  "source": "GitHub Octoverse 2025",
+  "url": "https://github.blog/2025-10-28-octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/"
+ },
+ {
+  "value": "5.2 million",
+  "claim": "Developers India added in 2025",
+  "source": "GitHub Octoverse 2025",
+  "url": "https://github.blog/2025-10-28-octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/"
+ },
+ {
+  "value": "180 million",
+  "claim": "Developers on GitHub",
+  "source": "GitHub Octoverse 2025",
+  "url": "https://github.blog/2025-10-28-octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/"
+ },
+ {
+  "value": "80%",
+  "claim": "New developers using Copilot within first week",
+  "source": "GitHub Octoverse 2025",
+  "url": "https://github.blog/2025-10-28-octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/"
+ },
+ {
+  "value": "72.6%",
+  "claim": "Copilot code review users who said it improved effectiveness",
+  "source": "GitHub Octoverse 2025",
+  "url": "https://github.blog/2025-10-28-octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/"
+ },
+ {
+  "value": "57.5 million",
+  "claim": "India developers projected by 2030",
+  "source": "Business Standard, Oct 2025",
+  "url": "https://www.business-standard.com/amp/industry/news/github-india-57-million-developers-2030-ai-growth-125102801381_1.html"
+ },
+ {
+  "value": "31%",
+  "claim": "India's annual developer growth rate",
+  "source": "Business Standard, Oct 2025",
+  "url": "https://www.business-standard.com/amp/industry/news/github-india-57-million-developers-2030-ai-growth-125102801381_1.html"
+ },
+ {
+  "value": "14%",
+  "claim": "India's share of all new developers globally",
+  "source": "Business Standard, Oct 2025",
+  "url": "https://www.business-standard.com/amp/industry/news/github-india-57-million-developers-2030-ai-growth-125102801381_1.html"
+ },
+ {
+  "value": "87%",
+  "claim": "Developers who said AI helps them ship faster",
+  "source": "Atlassian State of Developer Experience Report 2026, via ETV Bharat",
+  "url": "https://www.etvbharat.com/en/technology/ai-coding-tools-speed-up-work-but-fuel-performative-productivity-crisis-report-enn26102306575"
+ },
+ {
+  "value": "68%",
+  "claim": "Share saving 10+ hours a week in 2025",
+  "source": "Atlassian State of Developer Experience Report 2026, via ETV Bharat",
+  "url": "https://www.etvbharat.com/en/technology/ai-coding-tools-speed-up-work-but-fuel-performative-productivity-crisis-report-enn26102306575"
+ },
+ {
+  "value": "25%",
+  "claim": "Share saving 10+ hours a week in 2026",
+  "source": "Atlassian State of Developer Experience Report 2026, via ETV Bharat",
+  "url": "https://www.etvbharat.com/en/technology/ai-coding-tools-speed-up-work-but-fuel-performative-productivity-crisis-report-enn26102306575"
+ },
+ {
+  "value": "49%",
+  "claim": "Spend four or more hours a week reviewing AI output and fixing prompts",
+  "source": "Atlassian State of Developer Experience Report 2026, via ETV Bharat",
+  "url": "https://www.etvbharat.com/en/technology/ai-coding-tools-speed-up-work-but-fuel-performative-productivity-crisis-report-enn26102306575"
+ },
+ {
+  "value": "41%",
+  "claim": "Developers who sometimes use AI more than necessary because they feel expected to",
+  "source": "Atlassian State of Developer Experience Report 2026, via ETV Bharat",
+  "url": "https://www.etvbharat.com/en/technology/ai-coding-tools-speed-up-work-but-fuel-performative-productivity-crisis-report-enn26102306575"
+ },
+ {
+  "value": "17%",
+  "claim": "Developers saying their org has a clearly communicated, implemented AI strategy across SDLC",
+  "source": "Atlassian State of Developer Experience Report 2026, via ETV Bharat",
+  "url": "https://www.etvbharat.com/en/technology/ai-coding-tools-speed-up-work-but-fuel-performative-productivity-crisis-report-enn26102306575"
+ },
+ {
+  "value": "23%",
+  "claim": "Leaders saying the same",
+  "source": "Atlassian State of Developer Experience Report 2026, via ETV Bharat",
+  "url": "https://www.etvbharat.com/en/technology/ai-coding-tools-speed-up-work-but-fuel-performative-productivity-crisis-report-enn26102306575"
+ },
+ {
+  "value": "31%",
+  "claim": "Average share of developer day on unmeasured AI-related invisible work",
+  "source": "Harness survey via Computer Weekly, 2026",
+  "url": "https://www.computerweekly.com/news/366643082/Software-developers-shift-to-AI-code-reviewers"
+ },
+ {
+  "value": "81%",
+  "claim": "Spending more time reviewing AI-generated code",
+  "source": "Harness survey via Computer Weekly, 2026",
+  "url": "https://www.computerweekly.com/news/366643082/Software-developers-shift-to-AI-code-reviewers"
+ },
+ {
+  "value": "96%",
+  "claim": "Worried about AI tools being used to measure their performance",
+  "source": "Harness survey via Computer Weekly, 2026",
+  "url": "https://www.computerweekly.com/news/366643082/Software-developers-shift-to-AI-code-reviewers"
+ },
+ {
+  "value": "89%",
+  "claim": "Believe productivity metrics have improved",
+  "source": "Harness survey via Computer Weekly, 2026",
+  "url": "https://www.computerweekly.com/news/366643082/Software-developers-shift-to-AI-code-reviewers"
+ },
+ {
+  "value": "92%",
+  "claim": "Teams seeing improved productivity and release velocity from AI coding assistants",
+  "source": "Black Duck, The State of AI-Powered Software Development, 2026",
+  "url": "https://www.blackduck.com/resources/analyst-reports/state-of-ai-powered-software-development.html"
+ },
+ {
+  "value": "58%",
+  "claim": "Teams reporting a major improvement (overall)",
+  "source": "Black Duck, The State of AI-Powered Software Development, 2026",
+  "url": "https://www.blackduck.com/resources/analyst-reports/state-of-ai-powered-software-development.html"
+ },
+ {
+  "value": "90%",
+  "claim": "Fully governed teams reporting a major improvement",
+  "source": "Black Duck, The State of AI-Powered Software Development, 2026",
+  "url": "https://www.blackduck.com/resources/analyst-reports/state-of-ai-powered-software-development.html"
+ },
+ {
+  "value": "44%",
+  "claim": "Not-fully-governed teams reporting a major improvement",
+  "source": "Black Duck, The State of AI-Powered Software Development, 2026",
+  "url": "https://www.blackduck.com/resources/analyst-reports/state-of-ai-powered-software-development.html"
+ },
+ {
+  "value": "30%",
+  "claim": "Teams with a fully governed approach",
+  "source": "Black Duck, The State of AI-Powered Software Development, 2026",
+  "url": "https://www.blackduck.com/resources/analyst-reports/state-of-ai-powered-software-development.html"
+ },
+ {
+  "value": "90%",
+  "claim": "Teams encountering issues with AI-generated code",
+  "source": "Black Duck, The State of AI-Powered Software Development, 2026",
+  "url": "https://www.blackduck.com/resources/analyst-reports/state-of-ai-powered-software-development.html"
+ },
+ {
+  "value": "52%",
+  "claim": "Manual review cited as bottleneck",
+  "source": "Black Duck, The State of AI-Powered Software Development, 2026",
+  "url": "https://www.blackduck.com/resources/analyst-reports/state-of-ai-powered-software-development.html"
+ },
+ {
+  "value": "51%",
+  "claim": "Security testing cited as bottleneck",
+  "source": "Black Duck, The State of AI-Powered Software Development, 2026",
+  "url": "https://www.blackduck.com/resources/analyst-reports/state-of-ai-powered-software-development.html"
+ },
+ {
+  "value": "64%",
+  "claim": "Moderate or extreme concern about AI introducing security defects",
+  "source": "Black Duck, The State of AI-Powered Software Development, 2026",
+  "url": "https://www.blackduck.com/resources/analyst-reports/state-of-ai-powered-software-development.html"
+ },
+ {
+  "value": "97%",
+  "claim": "Actively using AI coding assistants",
+  "source": "Black Duck, The State of AI-Powered Software Development, 2026",
+  "url": "https://www.blackduck.com/resources/analyst-reports/state-of-ai-powered-software-development.html"
+ },
+ {
+  "value": "88%",
+  "claim": "Use more than one AI coding assistant",
+  "source": "Black Duck, The State of AI-Powered Software Development, 2026",
+  "url": "https://www.blackduck.com/resources/analyst-reports/state-of-ai-powered-software-development.html"
+ },
+ {
+  "value": "74%",
+  "claim": "C-suite reporting major improvement",
+  "source": "Black Duck, The State of AI-Powered Software Development, 2026",
+  "url": "https://www.blackduck.com/resources/analyst-reports/state-of-ai-powered-software-development.html"
+ },
+ {
+  "value": "38%",
+  "claim": "Technical contributors reporting major improvement",
+  "source": "Black Duck, The State of AI-Powered Software Development, 2026",
+  "url": "https://www.blackduck.com/resources/analyst-reports/state-of-ai-powered-software-development.html"
+ },
+ {
+  "value": "53%",
+  "claim": "Grew code volume by more than 25% in 12 months",
+  "source": "Black Duck, The State of AI-Powered Software Development, 2026",
+  "url": "https://www.blackduck.com/resources/analyst-reports/state-of-ai-powered-software-development.html"
+ }
+]

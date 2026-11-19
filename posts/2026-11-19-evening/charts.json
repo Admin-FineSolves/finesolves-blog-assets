@@ -1,0 +1,5 @@
+[
+ {"type":"column","title":"India's GitHub developer base keeps compounding","subtitle":"Developers in India on GitHub, millions (2030 = GitHub projection)","unit":"M","data":[["2020",4.5],["2025",21.9],["2030 (projected)",57.5]],"source":"Source: GitHub Octoverse 2025; Business Standard, Oct 2025"},
+ {"type":"bar","title":"Review, not typing, is the new bottleneck","subtitle":"Share of developers / teams reporting each, 2025–26 surveys","unit":"%","data":[["More time reviewing AI code",81],["Manual review a bottleneck",52],["Security testing a bottleneck",51],["4+ hrs a week reviewing AI output",49]],"highlight":"More time reviewing AI code","source":"Source: Harness via Computer Weekly; Black Duck 2026; Atlassian DevEx 2026"},
+ {"type":"bar","title":"Governed teams report major gains twice as often","subtitle":"Teams reporting major gains from AI coding assistants, 2026","unit":"%","data":[["Fully governed teams",90],["All teams",58],["Not fully governed teams",44]],"highlight":"Fully governed teams","source":"Source: Black Duck, The State of AI-Powered Software Development, 2026"}
+]
