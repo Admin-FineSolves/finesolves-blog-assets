@@ -1,0 +1,200 @@
+{
+ "version": 2,
+ "id": "2026-11-19",
+ "brand": "finehr",
+ "music": "pulse",
+ "scenes": [
+  {
+   "type": "phone",
+   "bg": "navy",
+   "mode": "notifs",
+   "clock": "6:12",
+   "eyebrow": "HR MANAGERS · MONTH-END",
+   "headline": "Payroll\non Friday?",
+   "highlight": "Payroll",
+   "vo": "HR managers. Payroll is on Friday. Where are the attendance sheets?",
+   "items": [
+    {
+     "app": "Messages",
+     "title": "Supervisor · A shift",
+     "body": "Sheet coming by evening"
+    },
+    {
+     "app": "Mail",
+     "title": "Supervisor · B shift",
+     "body": "Register photo attached"
+    },
+    {
+     "app": "Messages",
+     "title": "Supervisor · Night",
+     "body": "Two pages missing, will check"
+    },
+    {
+     "app": "Mail",
+     "title": "Finance",
+     "body": "Need final attendance today"
+    },
+    {
+     "app": "Messages",
+     "title": "Supervisor · B shift",
+     "body": "Sorry, sending again"
+    }
+   ],
+   "dur": 3.0
+  },
+  {
+   "type": "calendar",
+   "bg": "cream",
+   "mode": "fill",
+   "label": "Payroll prep",
+   "stamp": "MONTH-END",
+   "headline": "There goes\nmonth-end.",
+   "highlight": "month-end",
+   "vo": "So the last week of the month goes into one job. Chasing every shift for its sheet.",
+   "dur": 3.4
+  },
+  {
+   "type": "sheet",
+   "bg": "navy",
+   "title": "attendance_nov_FINAL_v4.xlsx",
+   "headline": "Retyped.\nBy hand.",
+   "highlight": "By hand",
+   "cols": [
+    "Name",
+    "Shift",
+    "Mon",
+    "Tue"
+   ],
+   "rows": [
+    [
+     "Ravi K.",
+     "A",
+     "P",
+     "P"
+    ],
+    [
+     "Sunita M.",
+     "B",
+     "?",
+     "L"
+    ],
+    [
+     "Arjun P.",
+     "Night",
+     "P",
+     "?"
+    ],
+    [
+     "Farhan S.",
+     "B",
+     "P",
+     "P"
+    ],
+    [
+     "Lakshmi R.",
+     "A",
+     "L",
+     "P"
+    ]
+   ],
+   "flags": [
+    [
+     1,
+     2
+    ],
+    [
+     2,
+     3
+    ]
+   ],
+   "note": "Which sheet is right?",
+   "vo": "Then every name gets retyped into one sheet. Miss one entry, and someone's salary is wrong.",
+   "dur": 3.8
+  },
+  {
+   "type": "statement",
+   "bg": "teal",
+   "trans": "wipe",
+   "headline": "Attendance\nto payroll.\nOne system.",
+   "highlight": "One system",
+   "vo": "With FineHR, attendance, leave and payroll live in one system.",
+   "dur": 2.8
+  },
+  {
+   "type": "app",
+   "bg": "cream",
+   "product": "FineHR",
+   "trans": "zoom",
+   "headline": "Every shift.\nOne place.",
+   "highlight": "One place",
+   "nav": [
+    "Attendance",
+    "Leave",
+    "Payroll",
+    "AI interviewer"
+   ],
+   "active": 0,
+   "title": "November · All shifts",
+   "rows": [
+    {
+     "name": "A shift",
+     "sub": "Attendance marked",
+     "from": "OPEN",
+     "to": "READY"
+    },
+    {
+     "name": "B shift",
+     "sub": "Attendance marked",
+     "from": "OPEN",
+     "to": "READY"
+    },
+    {
+     "name": "Night shift",
+     "sub": "Attendance marked",
+     "from": "OPEN",
+     "to": "READY"
+    },
+    {
+     "name": "Leave",
+     "sub": "Approved this month",
+     "from": "OPEN",
+     "to": "READY"
+    }
+   ],
+   "button": "Run payroll",
+   "toast": "Payroll ready to review",
+   "vo": "Every shift's attendance is in one place. Approved leave is already there. Payroll picks it up.",
+   "dur": 4.8
+  },
+  {
+   "type": "calendar",
+   "bg": "cream",
+   "mode": "clear",
+   "label": "Payroll prep",
+   "stamp": "SORTED",
+   "headline": "Month-end,\nsorted.",
+   "highlight": "sorted",
+   "keep": [
+    {
+     "day": 4,
+     "slot": 2,
+     "label": "Run payroll"
+    }
+   ],
+   "vo": "No more chasing sheets. You check the numbers, then run payroll on time.",
+   "dur": 3.4
+  },
+  {
+   "type": "end",
+   "bg": "cream",
+   "trans": "zoom",
+   "line": "FineHR by Fine Solves",
+   "tag": "HRMS · ATTENDANCE · PAYROLL",
+   "cta": "Book a demo",
+   "vo": "FineHR, by Fine Solves. Book a demo at finesolves dot com.",
+   "dur": 3.6
+  }
+ ],
+ "vo_speed": 1.0,
+ "vo_voice": "Sarah"
+}

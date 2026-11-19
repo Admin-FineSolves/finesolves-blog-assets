@@ -1,0 +1,169 @@
+# Reel audit: FAIL (99/100)
+
+## Critical failures
+- ❌ file under 20 MB (CDN limit)
+## Passed
+- ✅ brand is valid: finesolves or finehr; FineHealth is paused (finehr)
+- ✅ last scene is the end card
+- ✅ total length 18–40s (38.4s)
+- ✅ 6–10 scenes (7)
+- ✅ at least 3 prop scenes (phone, calendar, calls, app, modules, sheet)
+- ✅ shows the product (an app or modules scene)
+- ✅ uses navy, cream and teal backgrounds (problem → turn → fix)
+- ✅ has one wipe transition into the turn
+- ✅ scene 1 has a headline
+- ✅ scene 1 headline ≤3 lines
+- ✅ scene 1 headline line ≤18 chars: “Payroll” (7)
+- ✅ scene 1 headline line ≤18 chars: “on Friday?” (10)
+- ✅ scene 1 VO ≤22 words (11)
+- ✅ scene 1 prop text ≤32 chars: “HR MANAGERS · MONTH-END”
+- ✅ scene 1 prop text ≤32 chars: “Messages”
+- ✅ scene 1 prop text ≤32 chars: “Supervisor · A shift”
+- ✅ scene 1 prop text ≤32 chars: “Sheet coming by evening”
+- ✅ scene 1 prop text ≤32 chars: “Mail”
+- ✅ scene 1 prop text ≤32 chars: “Supervisor · B shift”
+- ✅ scene 1 prop text ≤32 chars: “Register photo attached”
+- ✅ scene 1 prop text ≤32 chars: “Messages”
+- ✅ scene 1 prop text ≤32 chars: “Supervisor · Night”
+- ✅ scene 1 prop text ≤32 chars: “Two pages missing, will check”
+- ✅ scene 1 prop text ≤32 chars: “Mail”
+- ✅ scene 1 prop text ≤32 chars: “Finance”
+- ✅ scene 1 prop text ≤32 chars: “Need final attendance today”
+- ✅ scene 1 prop text ≤32 chars: “Messages”
+- ✅ scene 1 prop text ≤32 chars: “Supervisor · B shift”
+- ✅ scene 1 prop text ≤32 chars: “Sorry, sending again”
+- ✅ scene 2 has a headline
+- ✅ scene 2 headline ≤3 lines
+- ✅ scene 2 headline line ≤18 chars: “There goes” (10)
+- ✅ scene 2 headline line ≤18 chars: “month-end.” (10)
+- ✅ scene 2 VO ≤22 words (17)
+- ✅ scene 2 prop text ≤32 chars: “Payroll prep”
+- ✅ scene 2 prop text ≤32 chars: “MONTH-END”
+- ✅ scene 3 has a headline
+- ✅ scene 3 headline ≤3 lines
+- ✅ scene 3 headline line ≤18 chars: “Retyped.” (8)
+- ✅ scene 3 headline line ≤18 chars: “By hand.” (8)
+- ✅ scene 3 VO ≤22 words (16)
+- ✅ scene 3 prop text ≤32 chars: “attendance_nov_FINAL_v4.xlsx”
+- ✅ scene 3 prop text ≤32 chars: “Which sheet is right?”
+- ✅ scene 3 prop text ≤32 chars: “Name”
+- ✅ scene 3 prop text ≤32 chars: “Shift”
+- ✅ scene 3 prop text ≤32 chars: “Mon”
+- ✅ scene 3 prop text ≤32 chars: “Tue”
+- ✅ scene 3 prop text ≤32 chars: “Ravi K.”
+- ✅ scene 3 prop text ≤32 chars: “A”
+- ✅ scene 3 prop text ≤32 chars: “P”
+- ✅ scene 3 prop text ≤32 chars: “P”
+- ✅ scene 3 prop text ≤32 chars: “Sunita M.”
+- ✅ scene 3 prop text ≤32 chars: “B”
+- ✅ scene 3 prop text ≤32 chars: “?”
+- ✅ scene 3 prop text ≤32 chars: “L”
+- ✅ scene 3 prop text ≤32 chars: “Arjun P.”
+- ✅ scene 3 prop text ≤32 chars: “Night”
+- ✅ scene 3 prop text ≤32 chars: “P”
+- ✅ scene 3 prop text ≤32 chars: “?”
+- ✅ scene 3 prop text ≤32 chars: “Farhan S.”
+- ✅ scene 3 prop text ≤32 chars: “B”
+- ✅ scene 3 prop text ≤32 chars: “P”
+- ✅ scene 3 prop text ≤32 chars: “P”
+- ✅ scene 3 prop text ≤32 chars: “Lakshmi R.”
+- ✅ scene 3 prop text ≤32 chars: “A”
+- ✅ scene 3 prop text ≤32 chars: “L”
+- ✅ scene 3 prop text ≤32 chars: “P”
+- ✅ scene 4 has a headline
+- ✅ scene 4 headline ≤3 lines
+- ✅ scene 4 headline line ≤18 chars: “Attendance” (10)
+- ✅ scene 4 headline line ≤18 chars: “to payroll.” (11)
+- ✅ scene 4 headline line ≤18 chars: “One system.” (11)
+- ✅ scene 4 VO ≤22 words (10)
+- ✅ scene 5 has a headline
+- ✅ scene 5 headline ≤3 lines
+- ✅ scene 5 headline line ≤18 chars: “Every shift.” (12)
+- ✅ scene 5 headline line ≤18 chars: “One place.” (10)
+- ✅ scene 5 VO ≤22 words (16)
+- ✅ scene 5 prop text ≤32 chars: “November · All shifts”
+- ✅ scene 5 prop text ≤32 chars: “Run payroll”
+- ✅ scene 5 prop text ≤32 chars: “Payroll ready to review”
+- ✅ scene 5 prop text ≤32 chars: “FineHR”
+- ✅ scene 5 prop text ≤32 chars: “Attendance”
+- ✅ scene 5 prop text ≤32 chars: “Leave”
+- ✅ scene 5 prop text ≤32 chars: “Payroll”
+- ✅ scene 5 prop text ≤32 chars: “AI interviewer”
+- ✅ scene 5 prop text ≤32 chars: “A shift”
+- ✅ scene 5 prop text ≤32 chars: “Attendance marked”
+- ✅ scene 5 prop text ≤32 chars: “OPEN”
+- ✅ scene 5 prop text ≤32 chars: “READY”
+- ✅ scene 5 prop text ≤32 chars: “B shift”
+- ✅ scene 5 prop text ≤32 chars: “Attendance marked”
+- ✅ scene 5 prop text ≤32 chars: “OPEN”
+- ✅ scene 5 prop text ≤32 chars: “READY”
+- ✅ scene 5 prop text ≤32 chars: “Night shift”
+- ✅ scene 5 prop text ≤32 chars: “Attendance marked”
+- ✅ scene 5 prop text ≤32 chars: “OPEN”
+- ✅ scene 5 prop text ≤32 chars: “READY”
+- ✅ scene 5 prop text ≤32 chars: “Leave”
+- ✅ scene 5 prop text ≤32 chars: “Approved this month”
+- ✅ scene 5 prop text ≤32 chars: “OPEN”
+- ✅ scene 5 prop text ≤32 chars: “READY”
+- ✅ scene 6 has a headline
+- ✅ scene 6 headline ≤3 lines
+- ✅ scene 6 headline line ≤18 chars: “Month-end,” (10)
+- ✅ scene 6 headline line ≤18 chars: “sorted.” (7)
+- ✅ scene 6 VO ≤22 words (13)
+- ✅ scene 6 prop text ≤32 chars: “Payroll prep”
+- ✅ scene 6 prop text ≤32 chars: “SORTED”
+- ✅ scene 6 prop text ≤32 chars: “Run payroll”
+- ✅ scene 7 headline ≤3 lines
+- ✅ scene 7 headline line ≤18 chars: “” (0)
+- ✅ scene 7 VO ≤22 words (11)
+- ✅ scene 7 prop text ≤32 chars: “FineHR by Fine Solves”
+- ✅ scene 7 prop text ≤32 chars: “HRMS · ATTENDANCE · PAYROLL”
+- ✅ scene 7 prop text ≤32 chars: “Book a demo”
+- ✅ end card has a CTA button
+- ✅ has an ElevenLabs voiceover (vo/NN.mp3)
+- ✅ one VO clip per scene with a vo line
+- ✅ still-01.png: frame isn't mostly empty (33% plain background)
+- ✅ still-02.png: frame isn't mostly empty (39% plain background)
+- ✅ still-03.png: frame isn't mostly empty (24% plain background)
+- ✅ still-04.png: frame isn't mostly empty (62% plain background)
+- ✅ still-05.png: frame isn't mostly empty (55% plain background)
+- ✅ still-06.png: frame isn't mostly empty (69% plain background)
+- ✅ FineHR end card reads 'FineHR by Fine Solves'
+- ✅ no banned words 
+- ✅ says 'products', not 'software' (hashtags excepted)
+- ✅ brand names spelled Fine Solves / FineHealth / FineHR 
+- ✅ no [CONFIRM] items
+- ✅ no pricing
+- ✅ no medical / patient-outcome claims
+- ✅ no invented clients or testimonials
+- ✅ FineHR claims only attendance, leave, payroll, AI interviewer 
+- ✅ instagram: first line contains the keyword “attendance management”
+- ✅ instagram: asks the reader one question
+- ✅ instagram: has the finesolves.com CTA
+- ✅ instagram: 3–6 hashtags (5)
+- ✅ instagram: no generic hashtags 
+- ✅ linkedin: first line contains the keyword “attendance management”
+- ✅ linkedin: asks the reader one question
+- ✅ linkedin: has the finesolves.com CTA
+- ✅ linkedin: 3–6 hashtags (5)
+- ✅ linkedin: no generic hashtags 
+- ✅ instagram ≤2,200 chars (658)
+- ✅ linkedin ≤2,800 chars (658)
+- ✅ linkedin: no brackets or parentheses
+- ✅ CTA is “Book a demo → finesolves.com”
+- ✅ youtube title ≤100 chars with #Shorts (81)
+- ✅ youtube title carries the keyword
+- ✅ youtube description present with finesolves.com
+- ✅ youtube text has no < or >
+- ✅ alt text is one descriptive sentence
+- ✅ brand differs from the previous reel (finesolves)
+- ✅ primary keyword not used in the last 21 reels
+- ✅ topic not used before
+- ✅ reel.mp4 exists
+- ✅ video is 1080×1920
+- ✅ video is H.264 yuv420p
+- ✅ frame rate 24/30 (30/1)
+- ✅ has an audio track
+- ✅ duration matches script (38.4s)
+- ✅ cover.jpg exists
+- ✅ one review still per scene
