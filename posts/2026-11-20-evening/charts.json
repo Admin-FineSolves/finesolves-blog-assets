@@ -1,0 +1,84 @@
+[
+ {
+  "type": "bar",
+  "title": "A quarter of Indian IT capex rebuilds core apps",
+  "subtitle": "Share of Indian enterprise IT capex by priority, 2026",
+  "unit": "%",
+  "data": [
+   [
+    "Data modernization & AI",
+    30
+   ],
+   [
+    "Core application modernization",
+    25
+   ],
+   [
+    "Cloud & IT infrastructure",
+    25
+   ],
+   [
+    "Cybersecurity",
+    20
+   ]
+  ],
+  "highlight": "Core application modernization",
+  "source": "Source: Bain & Company, India Enterprise Technology Report 2026"
+ },
+ {
+  "type": "bar",
+  "title": "Most modernization programmes overrun or stall",
+  "subtitle": "Share of organizations, Ensono 2026 survey (US and UK)",
+  "unit": "%",
+  "data": [
+   [
+    "Exceeded original budget",
+    71
+   ],
+   [
+    "Stalled in any way (past 24 months)",
+    61
+   ],
+   [
+    "Paused or delayed",
+    38
+   ],
+   [
+    "Scaled back",
+    36
+   ],
+   [
+    "Fully abandoned",
+    16
+   ]
+  ],
+  "highlight": "Exceeded original budget",
+  "source": "Source: Ensono State of IT Modernization Report 2026, via Channel Insider"
+ },
+ {
+  "type": "bar",
+  "title": "Modernizers put the most budget into change",
+  "subtitle": "Share of IT budget spent on change (vs run), by IT archetype, 2026",
+  "unit": "%",
+  "data": [
+   [
+    "Deliberate modernizers",
+    37
+   ],
+   [
+    "Strained transformers",
+    34
+   ],
+   [
+    "Heavy IT sustainers",
+    20
+   ],
+   [
+    "Lean operators",
+    13
+   ]
+  ],
+  "highlight": "Deliberate modernizers",
+  "source": "Source: McKinsey & Company, Balancing tech budgets in the AI era, 2026"
+ }
+]
