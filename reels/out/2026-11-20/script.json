@@ -1,0 +1,167 @@
+{
+ "version": 2,
+ "id": "2026-11-20",
+ "brand": "finesolves",
+ "music": "pulse",
+ "scenes": [
+  {
+   "type": "phone",
+   "bg": "navy",
+   "mode": "chat",
+   "contact": "Agency PM",
+   "eyebrow": "FOUNDERS \u00b7 MVP",
+   "headline": "Still waiting\non your MVP?",
+   "highlight": "MVP?",
+   "vo": "Founders. Your MVP was due last month. The agency says next week. Again.",
+   "items": [
+    {
+     "from": "me",
+     "text": "Can I see the build today?"
+    },
+    {
+     "from": "them",
+     "text": "Demo next week for sure"
+    },
+    {
+     "from": "me",
+     "text": "You said that last week"
+    }
+   ],
+   "dur": 3.6
+  },
+  {
+   "type": "phone",
+   "bg": "navy",
+   "mode": "notifs",
+   "clock": "11:20",
+   "headline": "Next week.\nEvery week.",
+   "highlight": "Every week.",
+   "vo": "Every update is another delay. Still nothing you can click.",
+   "items": [
+    {
+     "app": "Mail",
+     "title": "Agency \u00b7 Status",
+     "body": "Small delay on the build"
+    },
+    {
+     "app": "Mail",
+     "title": "Agency \u00b7 Estimate",
+     "body": "Revised timeline attached"
+    },
+    {
+     "app": "Messages",
+     "title": "Agency PM",
+     "body": "Demo moved to Thursday"
+    },
+    {
+     "app": "Mail",
+     "title": "Agency \u00b7 Scope",
+     "body": "Change request for review"
+    },
+    {
+     "app": "Messages",
+     "title": "Agency PM",
+     "body": "Can we push to Monday?"
+    }
+   ],
+   "dur": 3.6
+  },
+  {
+   "type": "calls",
+   "bg": "navy",
+   "question": "So, when can we try it?",
+   "headline": "Everyone asks.\nNo answer.",
+   "highlight": "No answer.",
+   "names": [
+    "Investor",
+    "Co-founder",
+    "Pilot user",
+    "Sales lead"
+   ],
+   "vo": "Meanwhile your investors, your pilot users and your own team all ask the same question.",
+   "dur": 3.6
+  },
+  {
+   "type": "statement",
+   "bg": "teal",
+   "trans": "wipe",
+   "headline": "Build with a\nteam that\nships.",
+   "highlight": "ships.",
+   "vo": "So build it with a team that ships.",
+   "dur": 2.6
+  },
+  {
+   "type": "app",
+   "bg": "cream",
+   "trans": "zoom",
+   "product": "Your MVP",
+   "headline": "Screens you\ncan click.",
+   "highlight": "can click.",
+   "nav": [
+    "Sign up",
+    "Dashboard",
+    "Payments",
+    "Admin"
+   ],
+   "active": 1,
+   "title": "Build board \u00b7 This week",
+   "rows": [
+    {
+     "name": "Sign up flow",
+     "sub": "Web and mobile",
+     "from": "IN BUILD",
+     "to": "LIVE"
+    },
+    {
+     "name": "Dashboard",
+     "sub": "First screen users see",
+     "from": "IN BUILD",
+     "to": "LIVE"
+    },
+    {
+     "name": "Payments",
+     "sub": "Checkout",
+     "from": "TESTING",
+     "to": "LIVE"
+    },
+    {
+     "name": "Admin panel",
+     "sub": "For your team",
+     "from": "NEXT",
+     "to": "IN BUILD"
+    }
+   ],
+   "button": "Open live build",
+   "toast": "Ready for pilot users",
+   "vo": "Real screens you can click. Sign up, dashboard, payments. In front of your pilot users.",
+   "dur": 4.8
+  },
+  {
+   "type": "modules",
+   "bg": "navy",
+   "title": "Your MVP",
+   "headline": "Your product.\nLive.",
+   "highlight": "Live.",
+   "modules": [
+    "Sign up",
+    "Dashboard",
+    "Payments",
+    "Admin"
+   ],
+   "vo": "Your product. Live, and in your users' hands.",
+   "dur": 3.8
+  },
+  {
+   "type": "end",
+   "bg": "cream",
+   "trans": "zoom",
+   "line": "Custom products,\nlive in weeks.",
+   "tag": "CUSTOM PRODUCTS \u00b7 AI",
+   "cta": "Talk to us",
+   "vo": "Fine Solves. Custom products, live in weeks. Talk to us at finesolves dot com.",
+   "dur": 3.6
+  }
+ ],
+ "vo_speed": 1.0,
+ "vo_voice": "Sarah"
+}

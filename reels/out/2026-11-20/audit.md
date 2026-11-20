@@ -1,0 +1,150 @@
+# Reel audit: PASS (100/100)
+
+## Passed
+- ✅ brand is valid: finesolves or finehr; FineHealth is paused (finesolves)
+- ✅ last scene is the end card
+- ✅ total length 18–40s (35.3s)
+- ✅ 6–10 scenes (7)
+- ✅ at least 3 prop scenes (phone, calendar, calls, app, modules, sheet)
+- ✅ shows the product (an app or modules scene)
+- ✅ uses navy, cream and teal backgrounds (problem → turn → fix)
+- ✅ has one wipe transition into the turn
+- ✅ scene 1 has a headline
+- ✅ scene 1 headline ≤3 lines
+- ✅ scene 1 headline line ≤18 chars: “Still waiting” (13)
+- ✅ scene 1 headline line ≤18 chars: “on your MVP?” (12)
+- ✅ scene 1 VO ≤22 words (13)
+- ✅ scene 1 prop text ≤32 chars: “FOUNDERS · MVP”
+- ✅ scene 1 prop text ≤32 chars: “Agency PM”
+- ✅ scene 1 prop text ≤32 chars: “Can I see the build today?”
+- ✅ scene 1 prop text ≤32 chars: “Demo next week for sure”
+- ✅ scene 1 prop text ≤32 chars: “You said that last week”
+- ✅ scene 2 has a headline
+- ✅ scene 2 headline ≤3 lines
+- ✅ scene 2 headline line ≤18 chars: “Next week.” (10)
+- ✅ scene 2 headline line ≤18 chars: “Every week.” (11)
+- ✅ scene 2 VO ≤22 words (10)
+- ✅ scene 2 prop text ≤32 chars: “Mail”
+- ✅ scene 2 prop text ≤32 chars: “Agency · Status”
+- ✅ scene 2 prop text ≤32 chars: “Small delay on the build”
+- ✅ scene 2 prop text ≤32 chars: “Mail”
+- ✅ scene 2 prop text ≤32 chars: “Agency · Estimate”
+- ✅ scene 2 prop text ≤32 chars: “Revised timeline attached”
+- ✅ scene 2 prop text ≤32 chars: “Messages”
+- ✅ scene 2 prop text ≤32 chars: “Agency PM”
+- ✅ scene 2 prop text ≤32 chars: “Demo moved to Thursday”
+- ✅ scene 2 prop text ≤32 chars: “Mail”
+- ✅ scene 2 prop text ≤32 chars: “Agency · Scope”
+- ✅ scene 2 prop text ≤32 chars: “Change request for review”
+- ✅ scene 2 prop text ≤32 chars: “Messages”
+- ✅ scene 2 prop text ≤32 chars: “Agency PM”
+- ✅ scene 2 prop text ≤32 chars: “Can we push to Monday?”
+- ✅ scene 3 has a headline
+- ✅ scene 3 headline ≤3 lines
+- ✅ scene 3 headline line ≤18 chars: “Everyone asks.” (14)
+- ✅ scene 3 headline line ≤18 chars: “No answer.” (10)
+- ✅ scene 3 VO ≤22 words (15)
+- ✅ scene 3 prop text ≤32 chars: “So, when can we try it?”
+- ✅ scene 3 prop text ≤32 chars: “Investor”
+- ✅ scene 3 prop text ≤32 chars: “Co-founder”
+- ✅ scene 3 prop text ≤32 chars: “Pilot user”
+- ✅ scene 3 prop text ≤32 chars: “Sales lead”
+- ✅ scene 4 has a headline
+- ✅ scene 4 headline ≤3 lines
+- ✅ scene 4 headline line ≤18 chars: “Build with a” (12)
+- ✅ scene 4 headline line ≤18 chars: “team that” (9)
+- ✅ scene 4 headline line ≤18 chars: “ships.” (6)
+- ✅ scene 4 VO ≤22 words (8)
+- ✅ scene 5 has a headline
+- ✅ scene 5 headline ≤3 lines
+- ✅ scene 5 headline line ≤18 chars: “Screens you” (11)
+- ✅ scene 5 headline line ≤18 chars: “can click.” (10)
+- ✅ scene 5 VO ≤22 words (15)
+- ✅ scene 5 prop text ≤32 chars: “Build board · This week”
+- ✅ scene 5 prop text ≤32 chars: “Open live build”
+- ✅ scene 5 prop text ≤32 chars: “Ready for pilot users”
+- ✅ scene 5 prop text ≤32 chars: “Your MVP”
+- ✅ scene 5 prop text ≤32 chars: “Sign up”
+- ✅ scene 5 prop text ≤32 chars: “Dashboard”
+- ✅ scene 5 prop text ≤32 chars: “Payments”
+- ✅ scene 5 prop text ≤32 chars: “Admin”
+- ✅ scene 5 prop text ≤32 chars: “Sign up flow”
+- ✅ scene 5 prop text ≤32 chars: “Web and mobile”
+- ✅ scene 5 prop text ≤32 chars: “IN BUILD”
+- ✅ scene 5 prop text ≤32 chars: “LIVE”
+- ✅ scene 5 prop text ≤32 chars: “Dashboard”
+- ✅ scene 5 prop text ≤32 chars: “First screen users see”
+- ✅ scene 5 prop text ≤32 chars: “IN BUILD”
+- ✅ scene 5 prop text ≤32 chars: “LIVE”
+- ✅ scene 5 prop text ≤32 chars: “Payments”
+- ✅ scene 5 prop text ≤32 chars: “Checkout”
+- ✅ scene 5 prop text ≤32 chars: “TESTING”
+- ✅ scene 5 prop text ≤32 chars: “LIVE”
+- ✅ scene 5 prop text ≤32 chars: “Admin panel”
+- ✅ scene 5 prop text ≤32 chars: “For your team”
+- ✅ scene 5 prop text ≤32 chars: “NEXT”
+- ✅ scene 5 prop text ≤32 chars: “IN BUILD”
+- ✅ scene 6 has a headline
+- ✅ scene 6 headline ≤3 lines
+- ✅ scene 6 headline line ≤18 chars: “Your product.” (13)
+- ✅ scene 6 headline line ≤18 chars: “Live.” (5)
+- ✅ scene 6 VO ≤22 words (8)
+- ✅ scene 6 prop text ≤32 chars: “Your MVP”
+- ✅ scene 6 prop text ≤32 chars: “Sign up”
+- ✅ scene 6 prop text ≤32 chars: “Dashboard”
+- ✅ scene 6 prop text ≤32 chars: “Payments”
+- ✅ scene 6 prop text ≤32 chars: “Admin”
+- ✅ scene 7 headline ≤3 lines
+- ✅ scene 7 headline line ≤18 chars: “” (0)
+- ✅ scene 7 VO ≤22 words (14)
+- ✅ scene 7 prop text ≤32 chars: “Custom products,
+live in weeks.”
+- ✅ scene 7 prop text ≤32 chars: “CUSTOM PRODUCTS · AI”
+- ✅ scene 7 prop text ≤32 chars: “Talk to us”
+- ✅ end card has a CTA button
+- ✅ has an ElevenLabs voiceover (vo/NN.mp3)
+- ✅ one VO clip per scene with a vo line
+- ✅ still-01.png: frame isn't mostly empty (36% plain background)
+- ✅ still-02.png: frame isn't mostly empty (33% plain background)
+- ✅ still-03.png: frame isn't mostly empty (31% plain background)
+- ✅ still-04.png: frame isn't mostly empty (63% plain background)
+- ✅ still-05.png: frame isn't mostly empty (54% plain background)
+- ✅ still-06.png: frame isn't mostly empty (25% plain background)
+- ✅ no banned words 
+- ✅ says 'products', not 'software' (hashtags excepted)
+- ✅ brand names spelled Fine Solves / FineHealth / FineHR 
+- ✅ no [CONFIRM] items
+- ✅ no pricing
+- ✅ no medical / patient-outcome claims
+- ✅ no invented clients or testimonials
+- ✅ instagram: first line contains the keyword “mvp development”
+- ✅ instagram: asks the reader one question
+- ✅ instagram: has the finesolves.com CTA
+- ✅ instagram: 3–6 hashtags (5)
+- ✅ instagram: no generic hashtags 
+- ✅ linkedin: first line contains the keyword “mvp development”
+- ✅ linkedin: asks the reader one question
+- ✅ linkedin: has the finesolves.com CTA
+- ✅ linkedin: 3–6 hashtags (5)
+- ✅ linkedin: no generic hashtags 
+- ✅ instagram ≤2,200 chars (653)
+- ✅ linkedin ≤2,800 chars (653)
+- ✅ linkedin: no brackets or parentheses
+- ✅ CTA is “Talk to us → finesolves.com”
+- ✅ youtube title ≤100 chars with #Shorts (85)
+- ✅ youtube title carries the keyword
+- ✅ youtube description present with finesolves.com
+- ✅ youtube text has no < or >
+- ✅ alt text is one descriptive sentence
+- ✅ brand differs from the previous reel (finehr)
+- ✅ primary keyword not used in the last 21 reels
+- ✅ topic not used before
+- ✅ reel.mp4 exists
+- ✅ video is 1080×1920
+- ✅ video is H.264 yuv420p
+- ✅ frame rate 24/30 (30/1)
+- ✅ has an audio track
+- ✅ duration matches script (35.4s)
+- ✅ file under 20 MB (CDN limit)
+- ✅ cover.jpg exists
+- ✅ one review still per scene
