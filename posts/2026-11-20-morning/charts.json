@@ -1,0 +1,8 @@
+[
+ {"type":"bar","title":"Automation cuts India's average breach cost","subtitle":"Average cost of a data breach in India by security AI and automation use, 2026","unit":"₹ cr",
+  "data":[["No security automation",31.6],["All organisations (average)",25.5],["Limited automation",23.1],["Extensive automation",21.3]],
+  "highlight":"Extensive automation","source":"Source: IBM Cost of a Data Breach 2026, India findings, via IANS (Aug 2026)"},
+ {"type":"bar","title":"Incident response tops India's security plans","subtitle":"Share of Indian organisations planning each security investment, 2026","unit":"%",
+  "data":[["Incident response plans & testing",67],["SIEM / SOAR / EDR",51],["Identity & access management",49],["AI security & governance tools",39],["Employee awareness training",36]],
+  "highlight":"Incident response plans & testing","source":"Source: IBM Cost of a Data Breach 2026, India findings, via IANS (Aug 2026)"}
+]

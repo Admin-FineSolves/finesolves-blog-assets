@@ -1,0 +1,194 @@
+[
+ {
+  "value": "8.7",
+  "claim": "CVSS v4.0 base score of CVE-2026-124643 (High)",
+  "source": "OpenCVE, CVE-2026-124643 record (17 Nov 2026)",
+  "url": "https://app.opencve.io/cve/CVE-2026-124643"
+ },
+ {
+  "value": "8.8",
+  "claim": "score of one login-check flaw in the April 28, 2026 e-Sushrut advisory CIVN-2026-0207",
+  "source": "MediaNama, CERT-In flags four security flaws in C-DAC's e-Sushrut hospital software (19 Nov 2026)",
+  "url": "https://www.medianama.com/2026/11/223-cdac-e-sushrut-vulnerabilities/"
+ },
+ {
+  "value": "700%",
+  "claim": "rise in ransomware attacks on Indian healthcare providers, H1 2026 vs H2 2025",
+  "source": "Comparitech, Healthcare Ransomware Roundup: H1 2026 (Jul 2026)",
+  "url": "https://www.comparitech.com/news/healthcare-ransomware-roundup-h1-2026-stats-on-attacks-ransoms-and-data-breaches/"
+ },
+ {
+  "value": "14%",
+  "claim": "global healthcare ransomware attacks rose nearly 14% (360 to 410), H1 2026 vs H2 2025",
+  "source": "Comparitech, Healthcare Ransomware Roundup: H1 2026 (Jul 2026)",
+  "url": "https://www.comparitech.com/news/healthcare-ransomware-roundup-h1-2026-stats-on-attacks-ransoms-and-data-breaches/"
+ },
+ {
+  "value": "$310,000",
+  "claim": "median ransom demand on healthcare providers, H1 2026",
+  "source": "Comparitech, Healthcare Ransomware Roundup: H1 2026 (Jul 2026)",
+  "url": "https://www.comparitech.com/news/healthcare-ransomware-roundup-h1-2026-stats-on-attacks-ransoms-and-data-breaches/"
+ },
+ {
+  "value": "$300,000",
+  "claim": "median ransom demand on healthcare businesses, H1 2026",
+  "source": "Comparitech, Healthcare Ransomware Roundup: H1 2026 (Jul 2026)",
+  "url": "https://www.comparitech.com/news/healthcare-ransomware-roundup-h1-2026-stats-on-attacks-ransoms-and-data-breaches/"
+ },
+ {
+  "value": "₹25.5 crore",
+  "claim": "average total cost of a data breach for Indian organisations in 2026",
+  "source": "IBM Cost of a Data Breach 2026 India findings, via Free Press Journal/IANS (Aug 2026)",
+  "url": "https://freepressjournal.in/tech/indias-data-breach-costs-hit-record-255-crore-in-2026-as-ai-generated-cyberattacks-surge"
+ },
+ {
+  "value": "15.9%",
+  "claim": "increase in India's average breach cost over last year",
+  "source": "IBM Cost of a Data Breach 2026 India findings, via Free Press Journal/IANS (Aug 2026)",
+  "url": "https://freepressjournal.in/tech/indias-data-breach-costs-hit-record-255-crore-in-2026-as-ai-generated-cyberattacks-surge"
+ },
+ {
+  "value": "26%",
+  "claim": "share of malicious breaches that were AI-generated",
+  "source": "IBM Cost of a Data Breach 2026 India findings, via Free Press Journal/IANS (Aug 2026)",
+  "url": "https://freepressjournal.in/tech/indias-data-breach-costs-hit-record-255-crore-in-2026-as-ai-generated-cyberattacks-surge"
+ },
+ {
+  "value": "₹31.6 crore",
+  "claim": "average breach cost for organisations with no security AI and automation",
+  "source": "IBM Cost of a Data Breach 2026 India findings, via Free Press Journal/IANS (Aug 2026)",
+  "url": "https://freepressjournal.in/tech/indias-data-breach-costs-hit-record-255-crore-in-2026-as-ai-generated-cyberattacks-surge"
+ },
+ {
+  "value": "₹23.1 crore",
+  "claim": "average breach cost with limited security AI and automation",
+  "source": "IBM Cost of a Data Breach 2026 India findings, via Free Press Journal/IANS (Aug 2026)",
+  "url": "https://freepressjournal.in/tech/indias-data-breach-costs-hit-record-255-crore-in-2026-as-ai-generated-cyberattacks-surge"
+ },
+ {
+  "value": "₹21.3 crore",
+  "claim": "average breach cost with extensive security AI and automation",
+  "source": "IBM Cost of a Data Breach 2026 India findings, via Free Press Journal/IANS (Aug 2026)",
+  "url": "https://freepressjournal.in/tech/indias-data-breach-costs-hit-record-255-crore-in-2026-as-ai-generated-cyberattacks-surge"
+ },
+ {
+  "value": "32%",
+  "claim": "organisations reporting extensive use of security AI and automation (also 32% no use)",
+  "source": "IBM Cost of a Data Breach 2026 India findings, via Free Press Journal/IANS (Aug 2026)",
+  "url": "https://freepressjournal.in/tech/indias-data-breach-costs-hit-record-255-crore-in-2026-as-ai-generated-cyberattacks-surge"
+ },
+ {
+  "value": "36%",
+  "claim": "organisations reporting limited use of security AI/automation; also 36% planning employee awareness and training investment",
+  "source": "IBM Cost of a Data Breach 2026 India findings, via Free Press Journal/IANS (Aug 2026)",
+  "url": "https://freepressjournal.in/tech/indias-data-breach-costs-hit-record-255-crore-in-2026-as-ai-generated-cyberattacks-surge"
+ },
+ {
+  "value": "19%",
+  "claim": "phishing (incl. voice and SMS) share of initial attack vectors in India",
+  "source": "IBM Cost of a Data Breach 2026 India findings, via Free Press Journal/IANS (Aug 2026)",
+  "url": "https://freepressjournal.in/tech/indias-data-breach-costs-hit-record-255-crore-in-2026-as-ai-generated-cyberattacks-surge"
+ },
+ {
+  "value": "16%",
+  "claim": "drive-by compromise share of initial attack vectors in India",
+  "source": "IBM Cost of a Data Breach 2026 India findings, via Free Press Journal/IANS (Aug 2026)",
+  "url": "https://freepressjournal.in/tech/indias-data-breach-costs-hit-record-255-crore-in-2026-as-ai-generated-cyberattacks-surge"
+ },
+ {
+  "value": "15%",
+  "claim": "supply chain compromise share of initial attack vectors in India",
+  "source": "IBM Cost of a Data Breach 2026 India findings, via Free Press Journal/IANS (Aug 2026)",
+  "url": "https://freepressjournal.in/tech/indias-data-breach-costs-hit-record-255-crore-in-2026-as-ai-generated-cyberattacks-surge"
+ },
+ {
+  "value": "67%",
+  "claim": "plan to invest in incident response plans and testing",
+  "source": "IBM Cost of a Data Breach 2026 India findings, via Free Press Journal/IANS (Aug 2026)",
+  "url": "https://freepressjournal.in/tech/indias-data-breach-costs-hit-record-255-crore-in-2026-as-ai-generated-cyberattacks-surge"
+ },
+ {
+  "value": "51%",
+  "claim": "plan to invest in SIEM/SOAR/EDR",
+  "source": "IBM Cost of a Data Breach 2026 India findings, via Free Press Journal/IANS (Aug 2026)",
+  "url": "https://freepressjournal.in/tech/indias-data-breach-costs-hit-record-255-crore-in-2026-as-ai-generated-cyberattacks-surge"
+ },
+ {
+  "value": "49%",
+  "claim": "plan to invest in identity and access management",
+  "source": "IBM Cost of a Data Breach 2026 India findings, via Free Press Journal/IANS (Aug 2026)",
+  "url": "https://freepressjournal.in/tech/indias-data-breach-costs-hit-record-255-crore-in-2026-as-ai-generated-cyberattacks-surge"
+ },
+ {
+  "value": "39%",
+  "claim": "plan to invest in AI security and governance tools",
+  "source": "IBM Cost of a Data Breach 2026 India findings, via Free Press Journal/IANS (Aug 2026)",
+  "url": "https://freepressjournal.in/tech/indias-data-breach-costs-hit-record-255-crore-in-2026-as-ai-generated-cyberattacks-surge"
+ },
+ {
+  "value": "73%",
+  "claim": "plan to strengthen security tool and governance investment after a breach (nearly 73%)",
+  "source": "IBM Cost of a Data Breach 2026 India findings, via Free Press Journal/IANS (Aug 2026)",
+  "url": "https://freepressjournal.in/tech/indias-data-breach-costs-hit-record-255-crore-in-2026-as-ai-generated-cyberattacks-surge"
+ },
+ {
+  "value": "3.79 million",
+  "claim": "detections in Healthcare and Pharmaceuticals, Oct 2024-Sep 2025",
+  "source": "Seqrite India Cyber Threat Report 2026 (press release, Quick Heal)",
+  "url": "https://www.quickheal.co.in/media/documents/media/2026/india-cyber-threat-report-2026-finds-healthcare-and-pharma-among-indias-most-targeted-sectors.pdf"
+ },
+ {
+  "value": "14.24%",
+  "claim": "healthcare and pharma share of all detections",
+  "source": "Seqrite India Cyber Threat Report 2026 (press release, Quick Heal)",
+  "url": "https://www.quickheal.co.in/media/documents/media/2026/india-cyber-threat-report-2026-finds-healthcare-and-pharma-among-indias-most-targeted-sectors.pdf"
+ },
+ {
+  "value": "47%",
+  "claim": "education, healthcare and manufacturing combined share of detections (nearly 47%)",
+  "source": "Seqrite India Cyber Threat Report 2026 (press release, Quick Heal)",
+  "url": "https://www.quickheal.co.in/media/documents/media/2026/india-cyber-threat-report-2026-finds-healthcare-and-pharma-among-indias-most-targeted-sectors.pdf"
+ },
+ {
+  "value": "0.81 million",
+  "claim": "ransomware detections exceeded 0.81 million",
+  "source": "Seqrite India Cyber Threat Report 2026 (press release, Quick Heal)",
+  "url": "https://www.quickheal.co.in/media/documents/media/2026/india-cyber-threat-report-2026-finds-healthcare-and-pharma-among-indias-most-targeted-sectors.pdf"
+ },
+ {
+  "value": "8,614",
+  "claim": "weekly attacks per organisation on Indian healthcare (Check Point 2025, past six months)",
+  "source": "Digital Health News, citing Check Point State of Global Cyber Security 2025 (Jul 2025)",
+  "url": "https://www.digitalhealthnews.com/indian-healthcare-sector-most-targeted-by-cyberattacks-report"
+ },
+ {
+  "value": "1,847",
+  "claim": "global average weekly attacks (Check Point 2025)",
+  "source": "Digital Health News, citing Check Point State of Global Cyber Security 2025 (Jul 2025)",
+  "url": "https://www.digitalhealthnews.com/indian-healthcare-sector-most-targeted-by-cyberattacks-report"
+ },
+ {
+  "value": "93 crore",
+  "claim": "ABHA accounts linked to health records (over 93 crore)",
+  "source": "PIB Backgrounder, Ayushman Bharat Digital Mission (6 Jul 2026)",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281466&reg=3&lang=1"
+ },
+ {
+  "value": "104 crore",
+  "claim": "health records linked to ABHA accounts (over 104 crore)",
+  "source": "PIB Backgrounder, Ayushman Bharat Digital Mission (6 Jul 2026)",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281466&reg=3&lang=1"
+ },
+ {
+  "value": "₹107 crore",
+  "claim": "Digital Health Incentive Scheme payouts to hospitals (Rs. 107+ crore, as on 18 Jun 2026)",
+  "source": "PIB Backgrounder, Ayushman Bharat Digital Mission (6 Jul 2026)",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281466&reg=3&lang=1"
+ },
+ {
+  "value": "₹26 crore",
+  "claim": "DHIS payouts to digital solution companies (Rs. 26+ crore)",
+  "source": "PIB Backgrounder, Ayushman Bharat Digital Mission (6 Jul 2026)",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281466&reg=3&lang=1"
+ }
+]

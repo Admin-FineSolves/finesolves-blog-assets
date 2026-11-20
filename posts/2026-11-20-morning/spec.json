@@ -1,0 +1,14 @@
+{
+ "eyebrow": "HOSPITAL CYBERSECURITY · NOV 2026",
+ "title": "CERT-In flags 4 flaws in hospital software",
+ "highlight": "4 flaws",
+ "takeaways_title": "Hospital cybersecurity in 5 numbers",
+ "takeaways": [
+  "4 e-Sushrut HMIS flaws flagged by CERT-In on 17 Nov 2026.",
+  "Worst flaw scores 8.7 on CVSS v4.0, no login needed.",
+  "Ransomware on Indian healthcare providers rose 700% in H1 2026.",
+  "India's average data breach now costs ₹25.5 crore.",
+  "Extensive automation: ₹21.3 crore per breach vs ₹31.6 crore with none."
+ ],
+ "source_note": "Sources: CERT-In; OpenCVE; Comparitech H1 2026; IBM 2026 via IANS"
+}

@@ -1,0 +1,90 @@
+<p><img src="{{HERO_URL}}" alt="Hospital cybersecurity in India: CERT-In flags four high-severity flaws in C-DAC e-Sushrut hospital management software – Fine Solves" width="1200" height="630" style="width:100%;height:auto" /></p>
+<p><strong>Hospital cybersecurity in India took a hit on 17 November 2026, when CERT-In flagged four high-severity flaws in C-DAC's e-Sushrut hospital management software, one of which lets an unauthenticated attacker read dashboard data. The timing is poor: Comparitech counted a 700% rise in ransomware attacks on Indian healthcare providers in H1 2026, and IBM puts India's average breach cost at ₹25.5 crore.</strong></p>
+<p>e-Sushrut is not a niche product. It is the hospital management information system (HMIS) from C-DAC, the government's own computing R&amp;D body, and its sister product eSushrut@Clinic is part of the Ayushman Bharat Digital Mission push, which PIB says has linked over 104 crore health records to over 93 crore ABHA accounts. When the software that registers patients, bills them and stores their records has an authorisation hole, the exposure is not one hospital's problem. This is the second e-Sushrut advisory this year.</p>
+<h2>TL;DR</h2>
+<ul>
+<li>CERT-In note CIVN-2026-0557 (17 Nov 2026) lists 4 flaws in e-Sushrut HMIS; one scores 8.7 on CVSS v4.0.</li>
+<li>An April 2026 advisory already flagged 5 e-Sushrut CVEs, one scoring 8.8, rated critical.</li>
+<li>Ransomware attacks on Indian healthcare providers rose 700% in H1 2026, per Comparitech.</li>
+<li>India's average data breach now costs ₹25.5 crore, up 15.9% in a year, IBM reports.</li>
+<li>Firms with extensive security automation paid ₹21.3 crore per breach versus ₹31.6 crore with none.</li>
+</ul>
+<h2>What did CERT-In find in e-Sushrut?</h2>
+<p>CERT-In found four vulnerabilities in C-DAC's e-Sushrut HMIS: weak dashboard authentication, data leaking from the login page, a hardcoded hashing value, and an API that exposes patient records.</p>
+<p>According to the CERT-In vulnerability note, issued on 17 November 2026 and rated HIGH severity, the affected product is "CDAC e-Sushrut HMIS" from CDAC-Noida, and the audience is end users, administrators and patients. No fixed version number is named. The only advice is to contact C-DAC and upgrade to the latest version. The OpenCVE record for CVE-2026-124643 shows a CVSS v4.0 base score of 8.7: network attack, low complexity, no privileges and no user interaction needed.</p>
+<table style="width:100%;border-collapse:collapse"><thead><tr><th style="text-align:left;border-bottom:2px solid #092040;padding:8px">CVE</th><th style="text-align:left;border-bottom:2px solid #092040;padding:8px">Flaw type</th><th style="text-align:left;border-bottom:2px solid #092040;padding:8px">What an attacker can do</th></tr></thead><tbody>
+<tr><td style="border-bottom:1px solid #E1E4E8;padding:8px">CVE-2026-124643</td><td style="border-bottom:1px solid #E1E4E8;padding:8px">Improper authentication (dashboard)</td><td style="border-bottom:1px solid #E1E4E8;padding:8px">Send crafted HTTP requests without logging in and reach hospital dashboard information</td></tr>
+<tr><td style="border-bottom:1px solid #E1E4E8;padding:8px">CVE-2026-124644</td><td style="border-bottom:1px solid #E1E4E8;padding:8px">Sensitive information disclosure</td><td style="border-bottom:1px solid #E1E4E8;padding:8px">Read internal hospital operational statistics embedded in the login page's HTML</td></tr>
+<tr><td style="border-bottom:1px solid #E1E4E8;padding:8px">CVE-2026-124645</td><td style="border-bottom:1px solid #E1E4E8;padding:8px">Hardcoded cryptographic value</td><td style="border-bottom:1px solid #E1E4E8;padding:8px">Reproduce the static client-side password hashing and weaken login protection</td></tr>
+<tr><td style="border-bottom:1px solid #E1E4E8;padding:8px">CVE-2026-124646</td><td style="border-bottom:1px solid #E1E4E8;padding:8px">Insecure direct object reference (API)</td><td style="border-bottom:1px solid #E1E4E8;padding:8px">Change a parameter in an API request and enumerate patient information</td></tr>
+</tbody></table>
+<p><em>Source: CERT-In CIVN-2026-0557 (17 Nov 2026); CVSS score from OpenCVE.</em></p>
+<p>None of this is exotic. Missing server-side authorisation checks and secrets shipped to the browser are textbook web-application mistakes, the kind a routine code review or penetration test should catch before release.</p>
+<h2>Why does a hospital software flaw matter so much?</h2>
+<p>Because hospital management software holds identity, diagnosis and billing data in one place, and healthcare is already among India's most attacked sectors.</p>
+<p>Seqrite's India Cyber Threat Report 2026 recorded 3.79 million detections in healthcare and pharmaceuticals between October 2024 and September 2025, a 14.24% share of everything it saw. Education, healthcare and manufacturing together made up nearly 47% of detections. Check Point's 2025 data, reported by Digital Health News, showed Indian healthcare organisations facing 8,614 attacks per organisation each week, against a global average of 1,847.</p>
+<p>The fourth e-Sushrut flaw is the one to worry about. An insecure direct object reference means the server trusts whatever record ID the browser asks for. If patient IDs are sequential, a script can walk through them one by one.</p>
+<p><img src="{{INFO_URL}}" alt="Infographic: hospital cybersecurity in India in five numbers, from 4 e-Sushrut flaws to the 700% rise in healthcare ransomware" width="720" style="width:100%;max-width:720px;height:auto" /></p>
+<h2>Is this the first warning about e-Sushrut?</h2>
+<p>No. MediaNama reports that CERT-In's April 28, 2026 note, CIVN-2026-0207, rated earlier e-Sushrut flaws as critical and covered five CVEs.</p>
+<p>One login-check flaw in that April batch received a score of 8.8, according to MediaNama's report. That makes nine published CVEs for one hospital system inside seven months. Repeated advisories on the same product usually point to a process gap, not bad luck: no security review gate before releases, no automated tests for authorisation, and slow patch rollout across sites that each run their own installation.</p>
+<p>The scale of the surrounding system raises the stakes. PIB's ABDM backgrounder says C-DAC's lighter eSushrut@Clinic, launched in June, has already onboarded more than 2,200 healthcare facilities. The Digital Health Incentive Scheme had paid more than ₹107 crore to hospitals and over ₹26 crore to digital solution companies by 18 June 2026. Public money is pushing hospitals onto digital systems fast. Security has to keep up.</p>
+<h2>How big is the ransomware threat to Indian hospitals?</h2>
+<p>It is growing faster in India than almost anywhere: Comparitech logged 17 healthcare ransomware attacks on Indian targets in H1 2026, with attacks on providers up 700%.</p>
+<p>Globally, Comparitech's tracker counted 410 healthcare ransomware attacks in H1 2026, nearly 14% more than the 360 in H2 2025, or about 2.3 a day. The median ransom demand was $310,000 for hospitals and clinics and $300,000 for healthcare businesses such as pharma makers and billing firms. India ranked just behind the US and Germany by attack count. One named Indian case was Rajagiri Hospital, claimed by The Gentlemen group in March 2026.</p>
+<p>Many of these are claims by gangs rather than confirmed incidents, so treat the counts as a floor on activity, not an exact tally. The direction is clear either way.</p>
+<h2>What does a hospital data breach cost in India?</h2>
+<p>IBM's 2026 data puts the average Indian breach at ₹25.5 crore, up 15.9% on the previous year, and the cost falls sharply where security work is automated.</p>
+<p>According to IBM's India findings, reported by IANS, organisations with no security AI or automation paid ₹31.6 crore per breach on average. Those with limited use paid ₹23.1 crore, and those with extensive use paid ₹21.3 crore. Only 32% reported extensive use, 36% limited use and 32% none. IBM also found nearly 26% of malicious breaches were AI-generated, so attackers are already automating their side.</p>
+<p><img src="{{CHART_1_URL}}" alt="Chart: average data breach cost in India by security automation, ₹31.6 crore with none vs ₹21.3 crore with extensive use, 2026" width="1200" height="750" style="width:100%;height:auto" /></p>
+<table style="width:100%;border-collapse:collapse"><thead><tr><th style="text-align:left;border-bottom:2px solid #092040;padding:8px">Security AI and automation use</th><th style="text-align:left;border-bottom:2px solid #092040;padding:8px">Share of organisations</th><th style="text-align:left;border-bottom:2px solid #092040;padding:8px">Average breach cost</th></tr></thead><tbody>
+<tr><td style="border-bottom:1px solid #E1E4E8;padding:8px">None</td><td style="border-bottom:1px solid #E1E4E8;padding:8px">32%</td><td style="border-bottom:1px solid #E1E4E8;padding:8px">₹31.6 crore</td></tr>
+<tr><td style="border-bottom:1px solid #E1E4E8;padding:8px">Limited</td><td style="border-bottom:1px solid #E1E4E8;padding:8px">36%</td><td style="border-bottom:1px solid #E1E4E8;padding:8px">₹23.1 crore</td></tr>
+<tr><td style="border-bottom:1px solid #E1E4E8;padding:8px">Extensive</td><td style="border-bottom:1px solid #E1E4E8;padding:8px">32%</td><td style="border-bottom:1px solid #E1E4E8;padding:8px">₹21.3 crore</td></tr>
+<tr><td style="border-bottom:1px solid #E1E4E8;padding:8px">All organisations (average)</td><td style="border-bottom:1px solid #E1E4E8;padding:8px">—</td><td style="border-bottom:1px solid #E1E4E8;padding:8px">₹25.5 crore</td></tr>
+</tbody></table>
+<p><em>Source: IBM Cost of a Data Breach 2026, India findings, via IANS/Free Press Journal (Aug 2026).</em></p>
+<p>The entry points matter for hospitals. IBM's India data shows phishing at 19% of initial attack vectors, drive-by compromise at 16% and supply chain compromise at 15%. A vendor's hospital management software is the supply chain. A flaw in it reaches every site that runs it.</p>
+<h2>Where are Indian organisations putting security money?</h2>
+<p>Mostly into response readiness: IBM found 67% plan to invest in incident response plans and testing, ahead of detection tools and identity controls.</p>
+<p>The same IBM data shows 51% planning SIEM, SOAR or EDR investment, 49% identity and access management, 39% AI security and governance tools, and 36% employee awareness training. Nearly 73% plan to strengthen security tools and governance after a breach. That last figure is the problem in one line: most budgets move after the incident, not before it.</p>
+<p><img src="{{CHART_2_URL}}" alt="Chart: planned security investments in India, 67% incident response, 51% SIEM/SOAR/EDR, 49% identity and access management, 2026" width="1200" height="750" style="width:100%;height:auto" /></p>
+<h2>How should hospitals respond this week?</h2>
+<p>Patch e-Sushrut through C-DAC, restrict who can reach the application, and check logs for unusual dashboard and API access since installation.</p>
+<ol>
+<li><strong>Find every instance.</strong> List each server, site and integration running e-Sushrut HMIS, including test copies.</li>
+<li><strong>Upgrade through C-DAC.</strong> CERT-In's only stated fix is upgrading to the latest version. Get the version number in writing.</li>
+<li><strong>Shrink exposure.</strong> Keep the dashboard and APIs off the open internet; put them behind the hospital network or a VPN.</li>
+<li><strong>Review access logs.</strong> Look for unauthenticated dashboard hits and API calls that step through patient IDs in sequence.</li>
+<li><strong>Rotate credentials.</strong> The hashing weakness lowers login protection, so reset admin and staff passwords after patching.</li>
+<li><strong>Write the incident plan down.</strong> Who calls CERT-In, who informs patients under DPDP, and who can take systems offline.</li>
+<li><strong>Ask vendors hard questions.</strong> Does every API check object-level authorisation server-side? When was the last independent penetration test?</li>
+</ol>
+<h2>What this means for Indian businesses</h2>
+<p>For hospital owners and IT heads, the lesson is that hospital cybersecurity is now a buying criterion, not an afterthought. Every HMIS, lab system and billing tool should ship with authorisation tests, secrets kept off the browser, and a patch process that reaches every site in days. Ask for these in the contract. Healthcare data breach costs in India have reached the level where one incident can wipe out years of IT savings.</p>
+<p>From the way we build FineHealth by Fine Solves, our hospital management software, we treat server-side permission checks on every record and audit logs on every patient lookup as defaults, not add-ons. Whatever system you run, the same checks apply. If you want a second opinion on your hospital software's security posture or an integration plan with ABDM, <a href="https://finesolves.com">Talk to Fine Solves</a>.</p>
+<h2>Frequently asked questions</h2>
+<h3>What is e-Sushrut?</h3>
+<p>e-Sushrut is a hospital management information system (HMIS) built by C-DAC, the government's Centre for Development of Advanced Computing. It runs hospital workflows such as dashboards, logins and patient records, and a lighter sister product, eSushrut@Clinic, is part of India's ABDM digital health push. CERT-In's November 2026 note covers its HMIS product from CDAC-Noida.</p>
+<h3>How severe are the e-Sushrut vulnerabilities?</h3>
+<p>CERT-In rates the overall severity as HIGH. The improper authentication flaw, CVE-2026-124643, has a CVSS v4.0 base score of 8.7 and can be exploited over the network with no login and no user interaction. The API flaw can expose individual patient records if an attacker changes a request parameter.</p>
+<h3>Has a fix been released for e-Sushrut?</h3>
+<p>CERT-In's advisory tells users to contact C-DAC and upgrade e-Sushrut HMIS to the latest version. It does not name a specific fixed version number. Hospitals should confirm the patched version with C-DAC in writing and apply it to every installation, including test and backup servers.</p>
+<h3>How common are cyberattacks on Indian hospitals?</h3>
+<p>Very common. Seqrite recorded 3.79 million detections in Indian healthcare and pharma over 12 months to September 2025. Comparitech logged 17 healthcare ransomware attacks on Indian targets in H1 2026, with attacks on providers up 700% from the previous half-year. Check Point's 2025 data put weekly attacks per Indian healthcare organisation at 8,614.</p>
+<h3>Does security automation actually reduce breach costs?</h3>
+<p>IBM's 2026 India data says yes. Organisations with extensive security AI and automation paid ₹21.3 crore per breach on average, against ₹31.6 crore for those with none. Only 32% of organisations reported extensive use, so most Indian firms still detect and contain breaches largely by hand.</p>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0557">Multiple Vulnerabilities in C-DAC e-Sushrut HMIS, CIVN-2026-0557</a> — CERT-In, 2026</li>
+<li><a href="https://app.opencve.io/cve/CVE-2026-124643">CVE-2026-124643: Improper Authentication Vulnerability in e-Sushrut HMIS</a> — OpenCVE, 2026</li>
+<li><a href="https://www.medianama.com/2026/11/223-cdac-e-sushrut-vulnerabilities/">CERT-In flags four security flaws in C-DAC's e-Sushrut hospital software</a> — MediaNama, 2026</li>
+<li><a href="https://www.deccanchronicle.com/nation/cert-in-flags-security-vulnerabilities-in-hospital-software-2005752">CERT-In Flags Security Vulnerabilities In Hospital Software</a> — Deccan Chronicle, 2026</li>
+<li><a href="https://www.comparitech.com/news/healthcare-ransomware-roundup-h1-2026-stats-on-attacks-ransoms-and-data-breaches/">Healthcare Ransomware Roundup: H1 2026</a> — Comparitech, 2026</li>
+<li><a href="https://freepressjournal.in/tech/indias-data-breach-costs-hit-record-255-crore-in-2026-as-ai-generated-cyberattacks-surge">India's Data Breach Costs Hit Record ₹25.5 Crore In 2026 (IBM findings)</a> — Free Press Journal / IANS, 2026</li>
+<li><a href="https://www.quickheal.co.in/media/documents/media/2026/india-cyber-threat-report-2026-finds-healthcare-and-pharma-among-indias-most-targeted-sectors.pdf">India Cyber Threat Report 2026</a> — Seqrite (Quick Heal), 2026</li>
+<li><a href="https://www.digitalhealthnews.com/indian-healthcare-sector-most-targeted-by-cyberattacks-report">Indian Healthcare Sector Most Targeted by Cyberattacks (Check Point data)</a> — Digital Health News, 2025</li>
+<li><a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281466&reg=3&lang=1">Ayushman Bharat Digital Mission: India's Digital Health Backbone</a> — Press Information Bureau, 2026</li>
+</ul>
+<p><em>Last updated: 20 November 2026. Published by Fine Solves — an AI software development company in Ahmedabad building custom software and AI systems for Indian businesses. <a href="https://finesolves.com">finesolves.com</a></em></p>
+#end
