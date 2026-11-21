@@ -1,0 +1,9 @@
+[
+ {"type":"column","title":"Fab import share falls slowly","subtitle":"Imported share of costs for an Indian semiconductor fab, today vs projections","unit":"%",
+  "series":["Fab project cost","Wafer fabrication cost"],
+  "data":[["Today",85,50],["2030",68,30],["2035",55,18]],
+  "source":"Source: Fab Economics estimates via Business Today (Jun 2026)"},
+ {"type":"bar","title":"Electronics exports up, chip imports still large","subtitle":"India electronics trade, US$ billion, FY25–FY26","unit":"",
+  "data":[["Electronics exports FY26",47.96],["Electronics exports FY25",38.56],["Smartphone exports FY26",29.4],["Smartphones shipped to US FY26",19.68],["IC imports Apr–Dec 2025",12.62]],
+  "highlight":"IC imports Apr–Dec 2025","source":"Sources: KNN India (Apr 2026); Business Today (Apr 2026); NewsBytes (Mar 2026)"}
+]
