@@ -18,3 +18,4 @@ One row per posted reel (newest last). The daily run reads this for brand rotati
 | 2026-11-18 | finesolves | Job-work challans tracked on paper, so nobody knows which vendor still has the material | job work management | https://youtube.com/shorts/Hqvjy5KQZEE | ✓ | ✓ | PASS 100/100 (FB ✓) |
 | 2026-11-19 | finehr | HR managers chasing shift attendance sheets from every supervisor before month-end payroll | attendance management | https://youtube.com/shorts/fo9OQoEYr-s | ✓ | ✓ | PASS 100/100 (FB ✗ not attempted) |
 | 2026-11-20 | finesolves | Startup founders whose MVP is stuck with an agency, every demo pushed to next week | MVP development | https://youtube.com/shorts/TIW-AAbIC6c | ✓ | ✓ | PASS 100/100 (FB ✗ not attempted) |
+| 2026-11-21 | finehr | Plant owners finding out who is on leave only when the morning shift starts short | leave management system | https://youtube.com/shorts/r3BDZg8kMN8 | ✓ | ✓ | PASS 100/100 (FB ✗ not attempted) |
