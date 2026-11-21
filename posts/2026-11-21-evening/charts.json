@@ -1,0 +1,101 @@
+[
+ {
+  "type": "bar",
+  "title": "Delhi NCR leads H1 2026 warehouse leasing",
+  "subtitle": "Logistics & industrial gross leasing, H1 2026, million sq ft, top eight cities",
+  "unit": " mn",
+  "data": [
+   [
+    "Delhi NCR",
+    8.7
+   ],
+   [
+    "Chennai",
+    6.1
+   ],
+   [
+    "Pune",
+    5.9
+   ],
+   [
+    "Mumbai",
+    4.7
+   ],
+   [
+    "Bengaluru",
+    4.4
+   ],
+   [
+    "Ahmedabad",
+    2.2
+   ],
+   [
+    "Hyderabad",
+    2.1
+   ],
+   [
+    "Kolkata",
+    2.1
+   ]
+  ],
+  "highlight": "Delhi NCR",
+  "source": "Source: Cushman & Wakefield India, H1 2026 (published Aug 2026)"
+ },
+ {
+  "type": "bar",
+  "title": "Supply chain leaders are budgeting for automation",
+  "subtitle": "Share of respondents, MHI & Deloitte Annual Industry Report, 2026",
+  "unit": "%",
+  "data": [
+   [
+    "Say AI is disrupting supply chains",
+    71
+   ],
+   [
+    "Will raise innovation spending",
+    56
+   ],
+   [
+    "Plan to spend over $1 million",
+    52
+   ],
+   [
+    "AI impact significant or more",
+    48
+   ],
+   [
+    "Robotics impact significant or more",
+    39
+   ],
+   [
+    "Plan to spend over $10 million",
+    17
+   ]
+  ],
+  "highlight": "Will raise innovation spending",
+  "source": "Source: MHI & Deloitte Annual Industry Report 2026, via Business Wire"
+ },
+ {
+  "type": "column",
+  "title": "Operators plan more spend as fill rates slip",
+  "subtitle": "Share of warehouse operators, Zebra Warehousing Vision Study",
+  "unit": "%",
+  "series": [
+   "Global",
+   "APAC incl. India"
+  ],
+  "data": [
+   [
+    "Plan more modernisation spend",
+    64,
+    63
+   ],
+   [
+    "Say fill rates are getting harder",
+    51,
+    45
+   ]
+  ],
+  "source": "Source: Zebra Technologies Warehousing Vision Study, via IANS (Mar 2025)"
+ }
+]
