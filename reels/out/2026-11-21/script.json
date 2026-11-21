@@ -1,0 +1,210 @@
+{
+ "version": 2,
+ "id": "2026-11-21",
+ "brand": "finehr",
+ "music": "pulse",
+ "scenes": [
+  {
+   "type": "phone",
+   "bg": "navy",
+   "mode": "chat",
+   "contact": "Supervisor · Line 2",
+   "eyebrow": "PLANT OWNERS · SHIFT START",
+   "headline": "Line short\nagain?",
+   "highlight": "short",
+   "vo": "Plant owners. The morning shift starts, and the line is short. Again.",
+   "items": [
+    {
+     "from": "them",
+     "text": "Four people not in today"
+    },
+    {
+     "from": "me",
+     "text": "Who approved their leave?"
+    },
+    {
+     "from": "them",
+     "text": "They told me last week"
+    }
+   ],
+   "dur": 3.4
+  },
+  {
+   "type": "sheet",
+   "bg": "cream",
+   "title": "leave_register_nov.xlsx",
+   "headline": "Asked for.\nNever noted.",
+   "highlight": "Never noted",
+   "cols": [
+    "Name",
+    "Shift",
+    "Dates",
+    "Approved"
+   ],
+   "rows": [
+    [
+     "Ravi K.",
+     "A",
+     "Mon–Tue",
+     "?"
+    ],
+    [
+     "Sunita M.",
+     "A",
+     "Mon",
+     "?"
+    ],
+    [
+     "Arjun P.",
+     "B",
+     "This week",
+     "Yes"
+    ],
+    [
+     "Farhan S.",
+     "A",
+     "?",
+     "?"
+    ],
+    [
+     "Lakshmi R.",
+     "Night",
+     "Fri",
+     "Yes"
+    ]
+   ],
+   "flags": [
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     2
+    ]
+   ],
+   "note": "Told the supervisor?",
+   "vo": "The leave was asked for. In a text, or out loud at the gate. Nobody wrote it down.",
+   "dur": 3.8
+  },
+  {
+   "type": "phone",
+   "bg": "navy",
+   "mode": "notifs",
+   "clock": "6:40",
+   "headline": "Then the\nscramble.",
+   "highlight": "scramble",
+   "vo": "So the morning goes on moving people around. And payroll never hears about it.",
+   "items": [
+    {
+     "app": "Messages",
+     "title": "Supervisor · Line 2",
+     "body": "Pulling two from packing"
+    },
+    {
+     "app": "Mail",
+     "title": "Dispatch",
+     "body": "Order may slip to tomorrow"
+    },
+    {
+     "app": "Messages",
+     "title": "Contractor",
+     "body": "Can send people by noon"
+    },
+    {
+     "app": "Messages",
+     "title": "Supervisor · Packing",
+     "body": "Now we're short too"
+    },
+    {
+     "app": "Mail",
+     "title": "Accounts",
+     "body": "Leave days for payroll?"
+    }
+   ],
+   "dur": 3.6
+  },
+  {
+   "type": "statement",
+   "bg": "teal",
+   "trans": "wipe",
+   "headline": "Leave.\nOne place.",
+   "highlight": "One place",
+   "vo": "With FineHR, leave and attendance sit in one system.",
+   "dur": 2.6
+  },
+  {
+   "type": "app",
+   "bg": "cream",
+   "product": "FineHR",
+   "trans": "zoom",
+   "headline": "Know before\nthe shift.",
+   "highlight": "before",
+   "nav": [
+    "Leave",
+    "Attendance",
+    "Payroll",
+    "AI interviewer"
+   ],
+   "active": 0,
+   "title": "Leave · Line 2 · This week",
+   "rows": [
+    {
+     "name": "Ravi K.",
+     "sub": "Mon–Tue · A shift",
+     "from": "REQUESTED",
+     "to": "APPROVED"
+    },
+    {
+     "name": "Sunita M.",
+     "sub": "Mon · A shift",
+     "from": "REQUESTED",
+     "to": "APPROVED"
+    },
+    {
+     "name": "Farhan S.",
+     "sub": "Wed · A shift",
+     "from": "REQUESTED",
+     "to": "APPROVED"
+    },
+    {
+     "name": "Lakshmi R.",
+     "sub": "Fri · Night shift",
+     "from": "REQUESTED",
+     "to": "APPROVED"
+    }
+   ],
+   "button": "Approve leave",
+   "toast": "Leave approved",
+   "vo": "Leave is asked for and approved in FineHR. You see who is off before the shift, not after.",
+   "dur": 4.6
+  },
+  {
+   "type": "modules",
+   "bg": "cream",
+   "title": "FineHR",
+   "headline": "Payroll\nknows too.",
+   "highlight": "knows too",
+   "modules": [
+    "Leave",
+    "Attendance",
+    "Payroll",
+    "AI interviewer"
+   ],
+   "vo": "And the same leave days are already there when payroll runs.",
+   "dur": 3.2
+  },
+  {
+   "type": "end",
+   "bg": "cream",
+   "trans": "zoom",
+   "line": "FineHR by Fine Solves",
+   "tag": "ONE SYSTEM FOR HR",
+   "cta": "Book a demo",
+   "vo": "FineHR, by Fine Solves. Book a demo at finesolves dot com.",
+   "dur": 3.6
+  }
+ ],
+ "vo_speed": 1.0,
+ "vo_voice": "Sarah"
+}
