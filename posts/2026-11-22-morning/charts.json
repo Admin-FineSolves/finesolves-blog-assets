@@ -1,0 +1,8 @@
+[
+ {"type":"column","title":"Public hospitals now outnumber private on PM-JAY","subtitle":"Hospitals empanelled under AB-PMJAY, FY 2018-19 vs 28 Feb 2026","unit":"","series":["Public","Private"],
+  "data":[["FY 2018-19",3013,3904],["28 Feb 2026",19483,16746]],
+  "source":"Source: PIB, Update on AB-PMJAY, Lok Sabha reply (23 Mar 2026)"},
+ {"type":"bar","title":"Reserved PM-JAY packages could rise nearly fivefold","subtitle":"Packages reserved for govt hospitals, NHA proposal, Nov 2026","unit":"",
+  "data":[["Reserved since 2019",23],["Additions proposed by NHA",89],["Proposed total from 1 Dec",112]],
+  "highlight":"Proposed total from 1 Dec","source":"Source: NHA office memorandum, reported by ANI and Deccan Chronicle (18 Nov 2026)"}
+]
