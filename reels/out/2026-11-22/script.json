@@ -1,0 +1,194 @@
+{
+ "version": 2,
+ "id": "2026-11-22",
+ "brand": "finesolves",
+ "music": "pulse",
+ "scenes": [
+  {
+   "type": "phone",
+   "bg": "navy",
+   "mode": "notifs",
+   "clock": "9:12",
+   "eyebrow": "OPS HEADS · MONDAY",
+   "headline": "Monday report\ndue this morning?",
+   "highlight": "this morning",
+   "vo": "Ops heads. It's Monday morning. And everyone wants the weekly report before the first meeting.",
+   "items": [
+    {
+     "app": "Messages",
+     "title": "MD",
+     "body": "Report ready before the meeting?"
+    },
+    {
+     "app": "Mail",
+     "title": "Sales · Weekly numbers",
+     "body": "Need the dispatch figures"
+    },
+    {
+     "app": "Messages",
+     "title": "Plant manager",
+     "body": "Sending production sheet"
+    },
+    {
+     "app": "Mail",
+     "title": "Accounts",
+     "body": "Outstanding list attached"
+    },
+    {
+     "app": "Messages",
+     "title": "MD",
+     "body": "Board call moved up"
+    }
+   ],
+   "dur": 3.6
+  },
+  {
+   "type": "sheet",
+   "bg": "navy",
+   "title": "weekly_report_MON_v3.xlsx",
+   "headline": "Copy. Paste.\nRepeat.",
+   "highlight": "Repeat",
+   "cols": [
+    "Sheet",
+    "Status",
+    "Owner"
+   ],
+   "rows": [
+    [
+     "Production",
+     "Pasted",
+     "Plant"
+    ],
+    [
+     "Dispatch",
+     "Pasted",
+     "Stores"
+    ],
+    [
+     "Sales",
+     "?",
+     "Sales team"
+    ],
+    [
+     "Collections",
+     "Pending",
+     "Accounts"
+    ],
+    [
+     "Stock",
+     "?",
+     "Godown"
+    ]
+   ],
+   "flags": [
+    [
+     2,
+     1
+    ],
+    [
+     4,
+     1
+    ]
+   ],
+   "note": "Which version is latest?",
+   "vo": "So you open five sheets. Copy, paste, and check every number by hand.",
+   "dur": 3.8
+  },
+  {
+   "type": "calendar",
+   "bg": "navy",
+   "mode": "fill",
+   "label": "Fix report",
+   "stamp": "LATE AGAIN",
+   "headline": "Old numbers.\nEvery week.",
+   "highlight": "Every week",
+   "vo": "By the time it's ready, the numbers are already old. And next Monday, it starts again.",
+   "dur": 3.6
+  },
+  {
+   "type": "statement",
+   "bg": "teal",
+   "trans": "wipe",
+   "headline": "Let the report\nbuild itself.",
+   "highlight": "build itself",
+   "vo": "So stop building it by hand. Let the report build itself.",
+   "dur": 2.8
+  },
+  {
+   "type": "app",
+   "bg": "cream",
+   "trans": "zoom",
+   "product": "Ops report",
+   "headline": "One report.\nAlways live.",
+   "highlight": "Always live",
+   "nav": [
+    "Production",
+    "Dispatch",
+    "Sales",
+    "Stock"
+   ],
+   "active": 0,
+   "title": "Weekly report · Live",
+   "rows": [
+    {
+     "name": "Production",
+     "sub": "From the plant sheet",
+     "from": "UPDATING",
+     "to": "LIVE"
+    },
+    {
+     "name": "Dispatch",
+     "sub": "From stores",
+     "from": "UPDATING",
+     "to": "LIVE"
+    },
+    {
+     "name": "Collections",
+     "sub": "From accounts",
+     "from": "PENDING",
+     "to": "LIVE"
+    },
+    {
+     "name": "Stock",
+     "sub": "From the godown",
+     "from": "PENDING",
+     "to": "LIVE"
+    }
+   ],
+   "button": "Share with MD",
+   "toast": "Report shared with MD",
+   "vo": "Fine Solves builds a custom report around the data your team already enters. Always up to date.",
+   "dur": 4.8
+  },
+  {
+   "type": "calendar",
+   "bg": "cream",
+   "mode": "clear",
+   "label": "Fix report",
+   "stamp": "MONDAY BACK",
+   "headline": "Your Monday,\nback.",
+   "highlight": "back",
+   "keep": [
+    {
+     "day": 0,
+     "slot": 0,
+     "label": "Review"
+    }
+   ],
+   "vo": "Your Monday goes back to running operations. You just read the numbers and decide.",
+   "dur": 3.6
+  },
+  {
+   "type": "end",
+   "bg": "cream",
+   "trans": "zoom",
+   "line": "Custom products,\nlive in weeks.",
+   "tag": "CUSTOM PRODUCTS · AI",
+   "cta": "Talk to us",
+   "vo": "Fine Solves. Custom products, live in weeks. Talk to us at finesolves dot com.",
+   "dur": 3.6
+  }
+ ],
+ "vo_speed": 1.0,
+ "vo_voice": "Sarah"
+}

@@ -1,0 +1,160 @@
+# Reel audit: PASS (100/100)
+
+## Passed
+- ✅ brand is valid: finesolves or finehr; FineHealth is paused (finesolves)
+- ✅ last scene is the end card
+- ✅ total length 18–40s (39.9s)
+- ✅ 6–10 scenes (7)
+- ✅ at least 3 prop scenes (phone, calendar, calls, app, modules, sheet)
+- ✅ shows the product (an app or modules scene)
+- ✅ uses navy, cream and teal backgrounds (problem → turn → fix)
+- ✅ has one wipe transition into the turn
+- ✅ scene 1 has a headline
+- ✅ scene 1 headline ≤3 lines
+- ✅ scene 1 headline line ≤18 chars: “Monday report” (13)
+- ✅ scene 1 headline line ≤18 chars: “due this morning?” (17)
+- ✅ scene 1 VO ≤22 words (15)
+- ✅ scene 1 prop text ≤32 chars: “OPS HEADS · MONDAY”
+- ✅ scene 1 prop text ≤32 chars: “Messages”
+- ✅ scene 1 prop text ≤32 chars: “MD”
+- ✅ scene 1 prop text ≤32 chars: “Report ready before the meeting?”
+- ✅ scene 1 prop text ≤32 chars: “Mail”
+- ✅ scene 1 prop text ≤32 chars: “Sales · Weekly numbers”
+- ✅ scene 1 prop text ≤32 chars: “Need the dispatch figures”
+- ✅ scene 1 prop text ≤32 chars: “Messages”
+- ✅ scene 1 prop text ≤32 chars: “Plant manager”
+- ✅ scene 1 prop text ≤32 chars: “Sending production sheet”
+- ✅ scene 1 prop text ≤32 chars: “Mail”
+- ✅ scene 1 prop text ≤32 chars: “Accounts”
+- ✅ scene 1 prop text ≤32 chars: “Outstanding list attached”
+- ✅ scene 1 prop text ≤32 chars: “Messages”
+- ✅ scene 1 prop text ≤32 chars: “MD”
+- ✅ scene 1 prop text ≤32 chars: “Board call moved up”
+- ✅ scene 2 has a headline
+- ✅ scene 2 headline ≤3 lines
+- ✅ scene 2 headline line ≤18 chars: “Copy. Paste.” (12)
+- ✅ scene 2 headline line ≤18 chars: “Repeat.” (7)
+- ✅ scene 2 VO ≤22 words (13)
+- ✅ scene 2 prop text ≤32 chars: “weekly_report_MON_v3.xlsx”
+- ✅ scene 2 prop text ≤32 chars: “Which version is latest?”
+- ✅ scene 2 prop text ≤32 chars: “Sheet”
+- ✅ scene 2 prop text ≤32 chars: “Status”
+- ✅ scene 2 prop text ≤32 chars: “Owner”
+- ✅ scene 2 prop text ≤32 chars: “Production”
+- ✅ scene 2 prop text ≤32 chars: “Pasted”
+- ✅ scene 2 prop text ≤32 chars: “Plant”
+- ✅ scene 2 prop text ≤32 chars: “Dispatch”
+- ✅ scene 2 prop text ≤32 chars: “Pasted”
+- ✅ scene 2 prop text ≤32 chars: “Stores”
+- ✅ scene 2 prop text ≤32 chars: “Sales”
+- ✅ scene 2 prop text ≤32 chars: “?”
+- ✅ scene 2 prop text ≤32 chars: “Sales team”
+- ✅ scene 2 prop text ≤32 chars: “Collections”
+- ✅ scene 2 prop text ≤32 chars: “Pending”
+- ✅ scene 2 prop text ≤32 chars: “Accounts”
+- ✅ scene 2 prop text ≤32 chars: “Stock”
+- ✅ scene 2 prop text ≤32 chars: “?”
+- ✅ scene 2 prop text ≤32 chars: “Godown”
+- ✅ scene 3 has a headline
+- ✅ scene 3 headline ≤3 lines
+- ✅ scene 3 headline line ≤18 chars: “Old numbers.” (12)
+- ✅ scene 3 headline line ≤18 chars: “Every week.” (11)
+- ✅ scene 3 VO ≤22 words (16)
+- ✅ scene 3 prop text ≤32 chars: “Fix report”
+- ✅ scene 3 prop text ≤32 chars: “LATE AGAIN”
+- ✅ scene 4 has a headline
+- ✅ scene 4 headline ≤3 lines
+- ✅ scene 4 headline line ≤18 chars: “Let the report” (14)
+- ✅ scene 4 headline line ≤18 chars: “build itself.” (13)
+- ✅ scene 4 VO ≤22 words (11)
+- ✅ scene 5 has a headline
+- ✅ scene 5 headline ≤3 lines
+- ✅ scene 5 headline line ≤18 chars: “One report.” (11)
+- ✅ scene 5 headline line ≤18 chars: “Always live.” (12)
+- ✅ scene 5 VO ≤22 words (17)
+- ✅ scene 5 prop text ≤32 chars: “Weekly report · Live”
+- ✅ scene 5 prop text ≤32 chars: “Share with MD”
+- ✅ scene 5 prop text ≤32 chars: “Report shared with MD”
+- ✅ scene 5 prop text ≤32 chars: “Ops report”
+- ✅ scene 5 prop text ≤32 chars: “Production”
+- ✅ scene 5 prop text ≤32 chars: “Dispatch”
+- ✅ scene 5 prop text ≤32 chars: “Sales”
+- ✅ scene 5 prop text ≤32 chars: “Stock”
+- ✅ scene 5 prop text ≤32 chars: “Production”
+- ✅ scene 5 prop text ≤32 chars: “From the plant sheet”
+- ✅ scene 5 prop text ≤32 chars: “UPDATING”
+- ✅ scene 5 prop text ≤32 chars: “LIVE”
+- ✅ scene 5 prop text ≤32 chars: “Dispatch”
+- ✅ scene 5 prop text ≤32 chars: “From stores”
+- ✅ scene 5 prop text ≤32 chars: “UPDATING”
+- ✅ scene 5 prop text ≤32 chars: “LIVE”
+- ✅ scene 5 prop text ≤32 chars: “Collections”
+- ✅ scene 5 prop text ≤32 chars: “From accounts”
+- ✅ scene 5 prop text ≤32 chars: “PENDING”
+- ✅ scene 5 prop text ≤32 chars: “LIVE”
+- ✅ scene 5 prop text ≤32 chars: “Stock”
+- ✅ scene 5 prop text ≤32 chars: “From the godown”
+- ✅ scene 5 prop text ≤32 chars: “PENDING”
+- ✅ scene 5 prop text ≤32 chars: “LIVE”
+- ✅ scene 6 has a headline
+- ✅ scene 6 headline ≤3 lines
+- ✅ scene 6 headline line ≤18 chars: “Your Monday,” (12)
+- ✅ scene 6 headline line ≤18 chars: “back.” (5)
+- ✅ scene 6 VO ≤22 words (14)
+- ✅ scene 6 prop text ≤32 chars: “Fix report”
+- ✅ scene 6 prop text ≤32 chars: “MONDAY BACK”
+- ✅ scene 6 prop text ≤32 chars: “Review”
+- ✅ scene 7 headline ≤3 lines
+- ✅ scene 7 headline line ≤18 chars: “” (0)
+- ✅ scene 7 VO ≤22 words (14)
+- ✅ scene 7 prop text ≤32 chars: “Custom products,
+live in weeks.”
+- ✅ scene 7 prop text ≤32 chars: “CUSTOM PRODUCTS · AI”
+- ✅ scene 7 prop text ≤32 chars: “Talk to us”
+- ✅ end card has a CTA button
+- ✅ has an ElevenLabs voiceover (vo/NN.mp3)
+- ✅ one VO clip per scene with a vo line
+- ✅ still-01.png: frame isn't mostly empty (34% plain background)
+- ✅ still-02.png: frame isn't mostly empty (21% plain background)
+- ✅ still-03.png: frame isn't mostly empty (1% plain background)
+- ✅ still-04.png: frame isn't mostly empty (65% plain background)
+- ✅ still-05.png: frame isn't mostly empty (54% plain background)
+- ✅ still-06.png: frame isn't mostly empty (67% plain background)
+- ✅ no banned words 
+- ✅ says 'products', not 'software' (hashtags excepted)
+- ✅ brand names spelled Fine Solves / FineHealth / FineHR 
+- ✅ no [CONFIRM] items
+- ✅ no pricing
+- ✅ no medical / patient-outcome claims
+- ✅ no invented clients or testimonials
+- ✅ instagram: first line contains the keyword “business process automation”
+- ✅ instagram: asks the reader one question
+- ✅ instagram: has the finesolves.com CTA
+- ✅ instagram: 3–6 hashtags (5)
+- ✅ instagram: no generic hashtags 
+- ✅ linkedin: first line contains the keyword “business process automation”
+- ✅ linkedin: asks the reader one question
+- ✅ linkedin: has the finesolves.com CTA
+- ✅ linkedin: 3–6 hashtags (5)
+- ✅ linkedin: no generic hashtags 
+- ✅ instagram ≤2,200 chars (736)
+- ✅ linkedin ≤2,800 chars (736)
+- ✅ linkedin: no brackets or parentheses
+- ✅ CTA is “Talk to us → finesolves.com”
+- ✅ youtube title ≤100 chars with #Shorts (98)
+- ✅ youtube title carries the keyword
+- ✅ youtube description present with finesolves.com
+- ✅ youtube text has no < or >
+- ✅ alt text is one descriptive sentence
+- ✅ brand differs from the previous reel (finehr)
+- ✅ primary keyword not used in the last 21 reels
+- ✅ topic not used before
+- ✅ reel.mp4 exists
+- ✅ video is 1080×1920
+- ✅ video is H.264 yuv420p
+- ✅ frame rate 24/30 (30/1)
+- ✅ has an audio track
+- ✅ duration matches script (39.9s)
+- ✅ file under 20 MB (CDN limit)
+- ✅ cover.jpg exists
+- ✅ one review still per scene
