@@ -1,0 +1,14 @@
+{
+ "eyebrow": "AI COST BENCHMARKS",
+ "title": "LLM inference cost: cheaper tokens, bigger bills",
+ "highlight": "bigger bills",
+ "takeaways_title": "5 numbers to know",
+ "takeaways": [
+  "GPT-3.5-level tokens: $20 to $0.07 per million (Stanford)",
+  "Like-for-like inference cost falls about 10x a year (a16z)",
+  "Enterprise AI spend hit $176.8 billion, up 5.4x (Menlo)",
+  "Agents generate 80% of tokens; agent use grew 37x (Menlo)",
+  "IndiaAI compute: about ₹65 per GPU hour (Business Standard)"
+ ],
+ "source_note": "Sources: Stanford HAI 2025; a16z; Menlo Ventures 2026; Business Standard 2026"
+}
