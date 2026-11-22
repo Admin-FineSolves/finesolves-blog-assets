@@ -8,7 +8,7 @@
 | SEO | Primary keyword in title * | ✅ | pm-jay packages |
 | SEO | Primary keyword in first 100 words * | ✅ |  |
 | SEO | Primary keyword (or its words) in an H2 | ✅ |  |
-| SEO | Word count 1,400–2,400 * | ✅ | 1939 words |
+| SEO | Word count 1,400–2,400 * | ✅ | 1933 words |
 | SEO | At least 6 H2 sections * | ✅ | 10 H2 |
 | SEO | Every image has descriptive alt (≥20 chars) * | ✅ | 4 images |
 | SEO | Internal link to finesolves.com * | ✅ |  |
