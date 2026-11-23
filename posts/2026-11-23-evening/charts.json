@@ -1,0 +1,59 @@
+[
+ {
+  "type": "column",
+  "title": "Low-code to build most new apps",
+  "subtitle": "Gartner forecast, share of new apps and of low-code users",
+  "unit": "%",
+  "series": [
+   "2021",
+   "2026 (forecast)"
+  ],
+  "data": [
+   [
+    "Low-code share of new apps",
+    40,
+    75
+   ],
+   [
+    "Citizen developers in user base",
+    60,
+    80
+   ]
+  ],
+  "source": "Source: Gartner forecast, via InfoWorld (Dec 2022)"
+ },
+ {
+  "type": "bar",
+  "title": "Workflow tools are first to be rebuilt",
+  "subtitle": "SaaS categories at risk of replacement by custom builds, Retool survey (n=817), 2026",
+  "unit": "%",
+  "data": [
+   [
+    "Workflow automations",
+    35
+   ],
+   [
+    "Internal admin tools",
+    33
+   ],
+   [
+    "BI tools",
+    29
+   ],
+   [
+    "CRMs and form builders",
+    25
+   ],
+   [
+    "Project management",
+    23
+   ],
+   [
+    "Customer support",
+    21
+   ]
+  ],
+  "highlight": "Workflow automations",
+  "source": "Source: Retool, 2026 Build vs. Buy Report"
+ }
+]
