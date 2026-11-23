@@ -1,0 +1,155 @@
+# Reel audit: PASS (100/100)
+
+## Passed
+- ✅ brand is valid: finesolves or finehr; FineHealth is paused (finehr)
+- ✅ last scene is the end card
+- ✅ total length 18–40s (37.7s)
+- ✅ 6–10 scenes (7)
+- ✅ at least 3 prop scenes (phone, calendar, calls, app, modules, sheet)
+- ✅ shows the product (an app or modules scene)
+- ✅ uses navy, cream and teal backgrounds (problem → turn → fix)
+- ✅ has one wipe transition into the turn
+- ✅ scene 1 has a headline
+- ✅ scene 1 headline ≤3 lines
+- ✅ scene 1 headline line ≤18 chars: “How many leaves” (15)
+- ✅ scene 1 headline line ≤18 chars: “do I have left?” (15)
+- ✅ scene 1 VO ≤22 words (13)
+- ✅ scene 1 prop text ≤32 chars: “HR TEAMS · EVERY DAY”
+- ✅ scene 1 prop text ≤32 chars: “Rohit · Accounts”
+- ✅ scene 1 prop text ≤32 chars: “Hi, quick one”
+- ✅ scene 1 prop text ≤32 chars: “How many leaves do I have left?”
+- ✅ scene 1 prop text ≤32 chars: “Checking, one minute”
+- ✅ scene 2 has a headline
+- ✅ scene 2 headline ≤3 lines
+- ✅ scene 2 headline line ≤18 chars: “Same question.” (14)
+- ✅ scene 2 headline line ≤18 chars: “All day.” (8)
+- ✅ scene 2 VO ≤22 words (12)
+- ✅ scene 2 prop text ≤32 chars: “How many leaves do I have left?”
+- ✅ scene 2 prop text ≤32 chars: “Priya K.”
+- ✅ scene 2 prop text ≤32 chars: “Arjun N.”
+- ✅ scene 2 prop text ≤32 chars: “Sana T.”
+- ✅ scene 2 prop text ≤32 chars: “Vikram D.”
+- ✅ scene 3 has a headline
+- ✅ scene 3 headline ≤3 lines
+- ✅ scene 3 headline line ≤18 chars: “Open the” (8)
+- ✅ scene 3 headline line ≤18 chars: “register again.” (15)
+- ✅ scene 3 VO ≤22 words (13)
+- ✅ scene 3 prop text ≤32 chars: “leave_register_FINAL_v4.xlsx”
+- ✅ scene 3 prop text ≤32 chars: “Was last week's leave added?”
+- ✅ scene 3 prop text ≤32 chars: “Name”
+- ✅ scene 3 prop text ≤32 chars: “Last leave”
+- ✅ scene 3 prop text ≤32 chars: “Balance”
+- ✅ scene 3 prop text ≤32 chars: “Rohit”
+- ✅ scene 3 prop text ≤32 chars: “Friday”
+- ✅ scene 3 prop text ≤32 chars: “?”
+- ✅ scene 3 prop text ≤32 chars: “Priya”
+- ✅ scene 3 prop text ≤32 chars: “Monday”
+- ✅ scene 3 prop text ≤32 chars: “Updated”
+- ✅ scene 3 prop text ≤32 chars: “Arjun”
+- ✅ scene 3 prop text ≤32 chars: “?”
+- ✅ scene 3 prop text ≤32 chars: “?”
+- ✅ scene 3 prop text ≤32 chars: “Sana”
+- ✅ scene 3 prop text ≤32 chars: “Last week”
+- ✅ scene 3 prop text ≤32 chars: “Updated”
+- ✅ scene 3 prop text ≤32 chars: “Vikram”
+- ✅ scene 3 prop text ≤32 chars: “Wednesday”
+- ✅ scene 3 prop text ≤32 chars: “?”
+- ✅ scene 4 has a headline
+- ✅ scene 4 headline ≤3 lines
+- ✅ scene 4 headline line ≤18 chars: “One place” (9)
+- ✅ scene 4 headline line ≤18 chars: “for every” (9)
+- ✅ scene 4 headline line ≤18 chars: “balance.” (8)
+- ✅ scene 4 VO ≤22 words (13)
+- ✅ scene 5 has a headline
+- ✅ scene 5 headline ≤3 lines
+- ✅ scene 5 headline line ≤18 chars: “Ask. Approve.” (13)
+- ✅ scene 5 headline line ≤18 chars: “Done.” (5)
+- ✅ scene 5 VO ≤22 words (15)
+- ✅ scene 5 prop text ≤32 chars: “Leave requests · November”
+- ✅ scene 5 prop text ≤32 chars: “Approve all”
+- ✅ scene 5 prop text ≤32 chars: “Balances updated”
+- ✅ scene 5 prop text ≤32 chars: “FineHR”
+- ✅ scene 5 prop text ≤32 chars: “Leave”
+- ✅ scene 5 prop text ≤32 chars: “Attendance”
+- ✅ scene 5 prop text ≤32 chars: “Payroll”
+- ✅ scene 5 prop text ≤32 chars: “AI interviewer”
+- ✅ scene 5 prop text ≤32 chars: “Rohit M.”
+- ✅ scene 5 prop text ≤32 chars: “Casual leave · Fri”
+- ✅ scene 5 prop text ≤32 chars: “PENDING”
+- ✅ scene 5 prop text ≤32 chars: “APPROVED”
+- ✅ scene 5 prop text ≤32 chars: “Priya K.”
+- ✅ scene 5 prop text ≤32 chars: “Sick leave · Mon”
+- ✅ scene 5 prop text ≤32 chars: “PENDING”
+- ✅ scene 5 prop text ≤32 chars: “APPROVED”
+- ✅ scene 5 prop text ≤32 chars: “Arjun N.”
+- ✅ scene 5 prop text ≤32 chars: “Earned leave · Thu”
+- ✅ scene 5 prop text ≤32 chars: “PENDING”
+- ✅ scene 5 prop text ≤32 chars: “APPROVED”
+- ✅ scene 5 prop text ≤32 chars: “Sana T.”
+- ✅ scene 5 prop text ≤32 chars: “Casual leave · Wed”
+- ✅ scene 5 prop text ≤32 chars: “PENDING”
+- ✅ scene 5 prop text ≤32 chars: “APPROVED”
+- ✅ scene 6 has a headline
+- ✅ scene 6 headline ≤3 lines
+- ✅ scene 6 headline line ≤18 chars: “One look.” (9)
+- ✅ scene 6 headline line ≤18 chars: “One answer.” (11)
+- ✅ scene 6 VO ≤22 words (12)
+- ✅ scene 6 prop text ≤32 chars: “Rohit · Accounts”
+- ✅ scene 6 prop text ≤32 chars: “How many leaves do I have left?”
+- ✅ scene 6 prop text ≤32 chars: “Four casual, two earned”
+- ✅ scene 6 prop text ≤32 chars: “That was quick, thanks”
+- ✅ scene 7 headline ≤3 lines
+- ✅ scene 7 headline line ≤18 chars: “” (0)
+- ✅ scene 7 VO ≤22 words (11)
+- ✅ scene 7 prop text ≤32 chars: “FineHR by Fine Solves”
+- ✅ scene 7 prop text ≤32 chars: “HRMS · LEAVE · PAYROLL”
+- ✅ scene 7 prop text ≤32 chars: “Book a demo”
+- ✅ end card has a CTA button
+- ✅ has an ElevenLabs voiceover (vo/NN.mp3)
+- ✅ one VO clip per scene with a vo line
+- ✅ still-01.png: frame isn't mostly empty (31% plain background)
+- ✅ still-02.png: frame isn't mostly empty (30% plain background)
+- ✅ still-03.png: frame isn't mostly empty (22% plain background)
+- ✅ still-04.png: frame isn't mostly empty (64% plain background)
+- ✅ still-05.png: frame isn't mostly empty (55% plain background)
+- ✅ still-06.png: frame isn't mostly empty (52% plain background)
+- ✅ FineHR end card reads 'FineHR by Fine Solves'
+- ✅ no banned words 
+- ✅ says 'products', not 'software' (hashtags excepted)
+- ✅ brand names spelled Fine Solves / FineHealth / FineHR 
+- ✅ no [CONFIRM] items
+- ✅ no pricing
+- ✅ no medical / patient-outcome claims
+- ✅ no invented clients or testimonials
+- ✅ FineHR claims only attendance, leave, payroll, AI interviewer 
+- ✅ instagram: first line contains the keyword “leave tracking”
+- ✅ instagram: asks the reader one question
+- ✅ instagram: has the finesolves.com CTA
+- ✅ instagram: 3–6 hashtags (5)
+- ✅ instagram: no generic hashtags 
+- ✅ linkedin: first line contains the keyword “leave tracking”
+- ✅ linkedin: asks the reader one question
+- ✅ linkedin: has the finesolves.com CTA
+- ✅ linkedin: 3–6 hashtags (5)
+- ✅ linkedin: no generic hashtags 
+- ✅ instagram ≤2,200 chars (615)
+- ✅ linkedin ≤2,800 chars (615)
+- ✅ linkedin: no brackets or parentheses
+- ✅ CTA is “Book a demo → finesolves.com”
+- ✅ youtube title ≤100 chars with #Shorts (79)
+- ✅ youtube title carries the keyword
+- ✅ youtube description present with finesolves.com
+- ✅ youtube text has no < or >
+- ✅ alt text is one descriptive sentence
+- ✅ brand differs from the previous reel (finesolves)
+- ✅ primary keyword not used in the last 21 reels
+- ✅ topic not used before
+- ✅ reel.mp4 exists
+- ✅ video is 1080×1920
+- ✅ video is H.264 yuv420p
+- ✅ frame rate 24/30 (30/1)
+- ✅ has an audio track
+- ✅ duration matches script (37.7s)
+- ✅ file under 20 MB (CDN limit)
+- ✅ cover.jpg exists
+- ✅ one review still per scene

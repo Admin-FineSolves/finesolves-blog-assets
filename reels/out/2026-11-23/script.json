@@ -1,0 +1,199 @@
+{
+ "version": 2,
+ "id": "2026-11-23",
+ "brand": "finehr",
+ "music": "pulse",
+ "scenes": [
+  {
+   "type": "phone",
+   "bg": "navy",
+   "mode": "chat",
+   "contact": "Rohit · Accounts",
+   "eyebrow": "HR TEAMS · EVERY DAY",
+   "headline": "How many leaves\ndo I have left?",
+   "highlight": "leaves",
+   "vo": "HR teams. You know this message. How many leaves do I have left?",
+   "items": [
+    {
+     "from": "them",
+     "text": "Hi, quick one"
+    },
+    {
+     "from": "them",
+     "text": "How many leaves do I have left?"
+    },
+    {
+     "from": "me",
+     "text": "Checking, one minute"
+    }
+   ],
+   "dur": 3.4
+  },
+  {
+   "type": "calls",
+   "bg": "navy",
+   "question": "How many leaves do I have left?",
+   "headline": "Same question.\nAll day.",
+   "highlight": "day",
+   "names": [
+    "Priya K.",
+    "Arjun N.",
+    "Sana T.",
+    "Vikram D."
+   ],
+   "vo": "Then someone else asks. And someone else. Same question, all day long.",
+   "dur": 3.6
+  },
+  {
+   "type": "sheet",
+   "bg": "navy",
+   "title": "leave_register_FINAL_v4.xlsx",
+   "headline": "Open the\nregister again.",
+   "highlight": "again",
+   "cols": [
+    "Name",
+    "Last leave",
+    "Balance"
+   ],
+   "rows": [
+    [
+     "Rohit",
+     "Friday",
+     "?"
+    ],
+    [
+     "Priya",
+     "Monday",
+     "Updated"
+    ],
+    [
+     "Arjun",
+     "?",
+     "?"
+    ],
+    [
+     "Sana",
+     "Last week",
+     "Updated"
+    ],
+    [
+     "Vikram",
+     "Wednesday",
+     "?"
+    ]
+   ],
+   "flags": [
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     4,
+     2
+    ]
+   ],
+   "note": "Was last week's leave added?",
+   "vo": "So you open the register. Again. And hope last week's leave was added.",
+   "dur": 3.8
+  },
+  {
+   "type": "statement",
+   "bg": "teal",
+   "trans": "wipe",
+   "headline": "One place\nfor every\nbalance.",
+   "highlight": "every",
+   "vo": "With FineHR, leave lives in one place. Every balance, always up to date.",
+   "dur": 2.8
+  },
+  {
+   "type": "app",
+   "bg": "cream",
+   "trans": "zoom",
+   "product": "FineHR",
+   "headline": "Ask. Approve.\nDone.",
+   "highlight": "Done",
+   "nav": [
+    "Leave",
+    "Attendance",
+    "Payroll",
+    "AI interviewer"
+   ],
+   "active": 0,
+   "title": "Leave requests · November",
+   "rows": [
+    {
+     "name": "Rohit M.",
+     "sub": "Casual leave · Fri",
+     "from": "PENDING",
+     "to": "APPROVED"
+    },
+    {
+     "name": "Priya K.",
+     "sub": "Sick leave · Mon",
+     "from": "PENDING",
+     "to": "APPROVED"
+    },
+    {
+     "name": "Arjun N.",
+     "sub": "Earned leave · Thu",
+     "from": "PENDING",
+     "to": "APPROVED"
+    },
+    {
+     "name": "Sana T.",
+     "sub": "Casual leave · Wed",
+     "from": "PENDING",
+     "to": "APPROVED"
+    }
+   ],
+   "button": "Approve all",
+   "toast": "Balances updated",
+   "vo": "Leave is asked for and approved in FineHR. And the balance updates on its own.",
+   "dur": 4.8
+  },
+  {
+   "type": "phone",
+   "bg": "cream",
+   "mode": "chat",
+   "contact": "Rohit · Accounts",
+   "headline": "One look.\nOne answer.",
+   "highlight": "answer",
+   "items": [
+    {
+     "from": "them",
+     "text": "How many leaves do I have left?"
+    },
+    {
+     "from": "me",
+     "text": "Four casual, two earned"
+    },
+    {
+     "from": "them",
+     "text": "That was quick, thanks"
+    }
+   ],
+   "vo": "So the next time someone asks, the answer is one look away.",
+   "dur": 3.4
+  },
+  {
+   "type": "end",
+   "bg": "cream",
+   "trans": "zoom",
+   "line": "FineHR by Fine Solves",
+   "tag": "HRMS · LEAVE · PAYROLL",
+   "cta": "Book a demo",
+   "vo": "FineHR, by Fine Solves. Book a demo at finesolves dot com.",
+   "dur": 3.6
+  }
+ ],
+ "vo_speed": 1.0,
+ "vo_voice": "Sarah"
+}
