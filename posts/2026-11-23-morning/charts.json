@@ -1,0 +1,77 @@
+[
+ {
+  "type": "column",
+  "title": "Non-life insurers use more AI",
+  "subtitle": "Share of Indian insurers surveyed by Gen Re, 2025 (17 life, 5 non-life)",
+  "unit": "%",
+  "series": [
+   "Life insurers",
+   "Non-life insurers"
+  ],
+  "data": [
+   [
+    "AI/ML claims detection",
+    17.6,
+    80
+   ],
+   [
+    "AI at underwriting",
+    29.4,
+    40
+   ],
+   [
+    "Auto-adjudicated claims",
+    23.5,
+    60
+   ],
+   [
+    "Fraud-tech budget rising",
+    70.6,
+    100
+   ]
+  ],
+  "source": "Source: Gen Re, 2025 Fraud Survey – India Life and Non-Life Insurance Markets"
+ },
+ {
+  "type": "line",
+  "title": "Claims paid ratio rose to 87.5%",
+  "subtitle": "Health insurance claims paid by number of claims, India, FY23–FY25",
+  "unit": "%",
+  "series": [
+   "Claims paid ratio"
+  ],
+  "data": [
+   [
+    "2022-23",
+    85.66
+   ],
+   [
+    "2023-24",
+    82.46
+   ],
+   [
+    "2024-25",
+    87.5
+   ]
+  ],
+  "source": "Source: IRDAI data via Devdiscourse (26 Mar 2026)"
+ },
+ {
+  "type": "bar",
+  "title": "Digital servicing costs far less",
+  "subtitle": "ICICI Lombard annual servicing cost estimate, as reported Nov 2026",
+  "unit": "₹ cr",
+  "data": [
+   [
+    "All interactions handled manually",
+    20
+   ],
+   [
+    "Digital servicing (upper bound)",
+    3
+   ]
+  ],
+  "highlight": "Digital servicing (upper bound)",
+  "source": "Source: Elets BFSI interview with ICICI Lombard (22 Nov 2026)"
+ }
+]
