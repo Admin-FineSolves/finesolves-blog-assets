@@ -1,0 +1,64 @@
+[
+ {
+  "type": "bar",
+  "title": "Only 8% get an instant cashless discharge",
+  "subtitle": "Time taken for cashless discharge, LocalCircles survey of 18,119 policyholders, 2026",
+  "unit": "%",
+  "data": [
+   [
+    "Instant",
+    8
+   ],
+   [
+    "1–3 hours",
+    18
+   ],
+   [
+    "3–6 hours",
+    22
+   ],
+   [
+    "9–12 hours",
+    15
+   ],
+   [
+    "12–24 hours",
+    15
+   ],
+   [
+    "24–48 hours",
+    7
+   ]
+  ],
+  "highlight": "Instant",
+  "source": "Source: LocalCircles survey, via NewsMeter (March 2026)"
+ },
+ {
+  "type": "column",
+  "title": "Fewer health claims repudiated in FY25",
+  "subtitle": "Share of registered health insurance claims, India, FY24 vs FY25",
+  "unit": "%",
+  "series": [
+   "FY24",
+   "FY25"
+  ],
+  "data": [
+   [
+    "Settled",
+    83,
+    87
+   ],
+   [
+    "Repudiated",
+    11,
+    8
+   ],
+   [
+    "Pending",
+    6,
+    5
+   ]
+  ],
+  "source": "Source: IRDAI Annual Reports FY24 and FY25"
+ }
+]
