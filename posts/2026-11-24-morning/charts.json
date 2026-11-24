@@ -1,0 +1,91 @@
+[
+ {
+  "type": "bar",
+  "title": "Factory PMI hits nine-month high",
+  "subtitle": "HSBC India Manufacturing PMI, 2026 (Nov = flash)",
+  "unit": "",
+  "data": [
+   [
+    "September 2026",
+    55.1
+   ],
+   [
+    "October 2026",
+    54.7
+   ],
+   [
+    "November 2026 (flash)",
+    56.0
+   ]
+  ],
+  "highlight": "November 2026 (flash)",
+  "source": "Source: Trading Economics (S&P Global/HSBC); Business Standard, 23 Nov 2026"
+ },
+ {
+  "type": "column",
+  "title": "Factories offset softer services",
+  "subtitle": "HSBC India PMI indices, October vs November 2026 flash",
+  "unit": "",
+  "series": [
+   "October 2026",
+   "November 2026 (flash)"
+  ],
+  "data": [
+   [
+    "Manufacturing PMI",
+    54.7,
+    56.0
+   ],
+   [
+    "Mfg output",
+    57.0,
+    58.3
+   ],
+   [
+    "Services activity",
+    55.8,
+    55.3
+   ],
+   [
+    "Composite",
+    56.2,
+    56.3
+   ]
+  ],
+  "source": "Source: HSBC Flash India PMI via Business Standard, 23 Nov 2026"
+ },
+ {
+  "type": "bar",
+  "title": "Intermediate, capital goods led September",
+  "subtitle": "IIP growth by use-based category, September 2026, year on year",
+  "unit": "%",
+  "data": [
+   [
+    "Intermediate goods",
+    12.2
+   ],
+   [
+    "Capital goods",
+    10.4
+   ],
+   [
+    "Infrastructure & construction",
+    7.2
+   ],
+   [
+    "Consumer durables",
+    6
+   ],
+   [
+    "Primary goods",
+    4
+   ],
+   [
+    "Consumer non-durables",
+    1.4
+   ]
+  ],
+  "highlight": "Capital goods",
+  "source": "Source: Govt IIP quick estimates via DD News, 28 Oct 2026"
+ }
+]
