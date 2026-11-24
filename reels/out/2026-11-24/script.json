@@ -1,0 +1,186 @@
+{
+ "version": 2,
+ "id": "2026-11-24",
+ "brand": "finesolves",
+ "music": "pulse",
+ "scenes": [
+  {
+   "type": "phone",
+   "bg": "navy",
+   "mode": "chat",
+   "contact": "Shift supervisor",
+   "eyebrow": "PLANT OWNERS · DOWNTIME",
+   "headline": "Line 2 stopped\nagain?",
+   "highlight": "again",
+   "items": [
+    {
+     "from": "them",
+     "text": "Sir, Line 2 stopped again"
+    },
+    {
+     "from": "me",
+     "text": "Since when?"
+    },
+    {
+     "from": "them",
+     "text": "Not sure. Will check register"
+    }
+   ],
+   "vo": "Plant owners. Line 2 has stopped. Again. And nobody can say since when.",
+   "dur": 3.8
+  },
+  {
+   "type": "sheet",
+   "bg": "navy",
+   "title": "downtime_register_NOV.xlsx",
+   "headline": "Written down.\nNever read.",
+   "highlight": "Never read",
+   "cols": [
+    "Machine",
+    "Stopped",
+    "Reason"
+   ],
+   "rows": [
+    [
+     "CNC-02",
+     "Morning?",
+     "Belt"
+    ],
+    [
+     "Press-01",
+     "Night shift",
+     "?"
+    ],
+    [
+     "CNC-02",
+     "?",
+     "Not noted"
+    ],
+    [
+     "Lathe-03",
+     "Afternoon",
+     "Power"
+    ],
+    [
+     "CNC-02",
+     "?",
+     "?"
+    ]
+   ],
+   "flags": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     4,
+     2
+    ]
+   ],
+   "note": "Same machine again?",
+   "vo": "The only record is a register on the floor. Times missing. Reasons guessed.",
+   "dur": 3.8
+  },
+  {
+   "type": "calls",
+   "bg": "navy",
+   "headline": "Four people.\nFour answers.",
+   "highlight": "Four answers",
+   "question": "Why did CNC-02 stop?",
+   "names": [
+    "Supervisor",
+    "Maintenance",
+    "Operator",
+    "Stores"
+   ],
+   "vo": "You ask around. Four people, four answers. And the order runs late.",
+   "dur": 3.8
+  },
+  {
+   "type": "statement",
+   "bg": "teal",
+   "trans": "wipe",
+   "headline": "See every stop\nas it happens.",
+   "highlight": "as it happens",
+   "vo": "What if every stop showed up the moment it happened?",
+   "dur": 2.8
+  },
+  {
+   "type": "app",
+   "bg": "cream",
+   "trans": "zoom",
+   "product": "Downtime board",
+   "headline": "Every machine.\nLive.",
+   "highlight": "Live",
+   "nav": [
+    "Machines",
+    "Stops",
+    "Reasons",
+    "Reports"
+   ],
+   "active": 0,
+   "title": "Plant 1 · Machine status",
+   "rows": [
+    {
+     "name": "CNC-02",
+     "sub": "Stop logged by operator",
+     "from": "STOPPED",
+     "to": "ASSIGNED"
+    },
+    {
+     "name": "Press-01",
+     "sub": "Running",
+     "from": "CHECK",
+     "to": "RUNNING"
+    },
+    {
+     "name": "Lathe-03",
+     "sub": "Reason: power",
+     "from": "STOPPED",
+     "to": "RUNNING"
+    },
+    {
+     "name": "Line 2",
+     "sub": "All machines",
+     "from": "CHECK",
+     "to": "RUNNING"
+    }
+   ],
+   "button": "Assign maintenance",
+   "toast": "Maintenance assigned",
+   "vo": "Fine Solves builds a custom downtime board. Operators log a stop in a tap. You see it live.",
+   "dur": 4.8
+  },
+  {
+   "type": "modules",
+   "bg": "cream",
+   "headline": "One view of\nthe plant.",
+   "highlight": "the plant",
+   "title": "Your plant",
+   "modules": [
+    "Machines",
+    "Stops",
+    "Reasons",
+    "Reports"
+   ],
+   "vo": "Every stop and every reason, in one place. So you fix the machine that keeps stopping.",
+   "dur": 3.6
+  },
+  {
+   "type": "end",
+   "bg": "cream",
+   "trans": "zoom",
+   "line": "Custom products,\nlive in weeks.",
+   "tag": "CUSTOM PRODUCTS · AI",
+   "cta": "Talk to us",
+   "vo": "Fine Solves. Custom products, live in weeks. Talk to us at finesolves dot com.",
+   "dur": 3.6
+  }
+ ],
+ "vo_speed": 1.0,
+ "vo_voice": "Sarah"
+}

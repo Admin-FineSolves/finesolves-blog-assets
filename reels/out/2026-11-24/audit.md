@@ -1,0 +1,154 @@
+# Reel audit: PASS (100/100)
+
+## Passed
+- ✅ brand is valid: finesolves or finehr; FineHealth is paused (finesolves)
+- ✅ last scene is the end card
+- ✅ total length 18–40s (39.1s)
+- ✅ 6–10 scenes (7)
+- ✅ at least 3 prop scenes (phone, calendar, calls, app, modules, sheet)
+- ✅ shows the product (an app or modules scene)
+- ✅ uses navy, cream and teal backgrounds (problem → turn → fix)
+- ✅ has one wipe transition into the turn
+- ✅ scene 1 has a headline
+- ✅ scene 1 headline ≤3 lines
+- ✅ scene 1 headline line ≤18 chars: “Line 2 stopped” (14)
+- ✅ scene 1 headline line ≤18 chars: “again?” (6)
+- ✅ scene 1 VO ≤22 words (13)
+- ✅ scene 1 prop text ≤32 chars: “PLANT OWNERS · DOWNTIME”
+- ✅ scene 1 prop text ≤32 chars: “Shift supervisor”
+- ✅ scene 1 prop text ≤32 chars: “Sir, Line 2 stopped again”
+- ✅ scene 1 prop text ≤32 chars: “Since when?”
+- ✅ scene 1 prop text ≤32 chars: “Not sure. Will check register”
+- ✅ scene 2 has a headline
+- ✅ scene 2 headline ≤3 lines
+- ✅ scene 2 headline line ≤18 chars: “Written down.” (13)
+- ✅ scene 2 headline line ≤18 chars: “Never read.” (11)
+- ✅ scene 2 VO ≤22 words (13)
+- ✅ scene 2 prop text ≤32 chars: “downtime_register_NOV.xlsx”
+- ✅ scene 2 prop text ≤32 chars: “Same machine again?”
+- ✅ scene 2 prop text ≤32 chars: “Machine”
+- ✅ scene 2 prop text ≤32 chars: “Stopped”
+- ✅ scene 2 prop text ≤32 chars: “Reason”
+- ✅ scene 2 prop text ≤32 chars: “CNC-02”
+- ✅ scene 2 prop text ≤32 chars: “Morning?”
+- ✅ scene 2 prop text ≤32 chars: “Belt”
+- ✅ scene 2 prop text ≤32 chars: “Press-01”
+- ✅ scene 2 prop text ≤32 chars: “Night shift”
+- ✅ scene 2 prop text ≤32 chars: “?”
+- ✅ scene 2 prop text ≤32 chars: “CNC-02”
+- ✅ scene 2 prop text ≤32 chars: “?”
+- ✅ scene 2 prop text ≤32 chars: “Not noted”
+- ✅ scene 2 prop text ≤32 chars: “Lathe-03”
+- ✅ scene 2 prop text ≤32 chars: “Afternoon”
+- ✅ scene 2 prop text ≤32 chars: “Power”
+- ✅ scene 2 prop text ≤32 chars: “CNC-02”
+- ✅ scene 2 prop text ≤32 chars: “?”
+- ✅ scene 2 prop text ≤32 chars: “?”
+- ✅ scene 3 has a headline
+- ✅ scene 3 headline ≤3 lines
+- ✅ scene 3 headline line ≤18 chars: “Four people.” (12)
+- ✅ scene 3 headline line ≤18 chars: “Four answers.” (13)
+- ✅ scene 3 VO ≤22 words (12)
+- ✅ scene 3 prop text ≤32 chars: “Why did CNC-02 stop?”
+- ✅ scene 3 prop text ≤32 chars: “Supervisor”
+- ✅ scene 3 prop text ≤32 chars: “Maintenance”
+- ✅ scene 3 prop text ≤32 chars: “Operator”
+- ✅ scene 3 prop text ≤32 chars: “Stores”
+- ✅ scene 4 has a headline
+- ✅ scene 4 headline ≤3 lines
+- ✅ scene 4 headline line ≤18 chars: “See every stop” (14)
+- ✅ scene 4 headline line ≤18 chars: “as it happens.” (14)
+- ✅ scene 4 VO ≤22 words (10)
+- ✅ scene 5 has a headline
+- ✅ scene 5 headline ≤3 lines
+- ✅ scene 5 headline line ≤18 chars: “Every machine.” (14)
+- ✅ scene 5 headline line ≤18 chars: “Live.” (5)
+- ✅ scene 5 VO ≤22 words (18)
+- ✅ scene 5 prop text ≤32 chars: “Plant 1 · Machine status”
+- ✅ scene 5 prop text ≤32 chars: “Assign maintenance”
+- ✅ scene 5 prop text ≤32 chars: “Maintenance assigned”
+- ✅ scene 5 prop text ≤32 chars: “Downtime board”
+- ✅ scene 5 prop text ≤32 chars: “Machines”
+- ✅ scene 5 prop text ≤32 chars: “Stops”
+- ✅ scene 5 prop text ≤32 chars: “Reasons”
+- ✅ scene 5 prop text ≤32 chars: “Reports”
+- ✅ scene 5 prop text ≤32 chars: “CNC-02”
+- ✅ scene 5 prop text ≤32 chars: “Stop logged by operator”
+- ✅ scene 5 prop text ≤32 chars: “STOPPED”
+- ✅ scene 5 prop text ≤32 chars: “ASSIGNED”
+- ✅ scene 5 prop text ≤32 chars: “Press-01”
+- ✅ scene 5 prop text ≤32 chars: “Running”
+- ✅ scene 5 prop text ≤32 chars: “CHECK”
+- ✅ scene 5 prop text ≤32 chars: “RUNNING”
+- ✅ scene 5 prop text ≤32 chars: “Lathe-03”
+- ✅ scene 5 prop text ≤32 chars: “Reason: power”
+- ✅ scene 5 prop text ≤32 chars: “STOPPED”
+- ✅ scene 5 prop text ≤32 chars: “RUNNING”
+- ✅ scene 5 prop text ≤32 chars: “Line 2”
+- ✅ scene 5 prop text ≤32 chars: “All machines”
+- ✅ scene 5 prop text ≤32 chars: “CHECK”
+- ✅ scene 5 prop text ≤32 chars: “RUNNING”
+- ✅ scene 6 has a headline
+- ✅ scene 6 headline ≤3 lines
+- ✅ scene 6 headline line ≤18 chars: “One view of” (11)
+- ✅ scene 6 headline line ≤18 chars: “the plant.” (10)
+- ✅ scene 6 VO ≤22 words (16)
+- ✅ scene 6 prop text ≤32 chars: “Your plant”
+- ✅ scene 6 prop text ≤32 chars: “Machines”
+- ✅ scene 6 prop text ≤32 chars: “Stops”
+- ✅ scene 6 prop text ≤32 chars: “Reasons”
+- ✅ scene 6 prop text ≤32 chars: “Reports”
+- ✅ scene 7 headline ≤3 lines
+- ✅ scene 7 headline line ≤18 chars: “” (0)
+- ✅ scene 7 VO ≤22 words (14)
+- ✅ scene 7 prop text ≤32 chars: “Custom products,
+live in weeks.”
+- ✅ scene 7 prop text ≤32 chars: “CUSTOM PRODUCTS · AI”
+- ✅ scene 7 prop text ≤32 chars: “Talk to us”
+- ✅ end card has a CTA button
+- ✅ has an ElevenLabs voiceover (vo/NN.mp3)
+- ✅ one VO clip per scene with a vo line
+- ✅ still-01.png: frame isn't mostly empty (32% plain background)
+- ✅ still-02.png: frame isn't mostly empty (22% plain background)
+- ✅ still-03.png: frame isn't mostly empty (32% plain background)
+- ✅ still-04.png: frame isn't mostly empty (64% plain background)
+- ✅ still-05.png: frame isn't mostly empty (55% plain background)
+- ✅ still-06.png: frame isn't mostly empty (67% plain background)
+- ✅ no banned words 
+- ✅ says 'products', not 'software' (hashtags excepted)
+- ✅ brand names spelled Fine Solves / FineHealth / FineHR 
+- ✅ no [CONFIRM] items
+- ✅ no pricing
+- ✅ no medical / patient-outcome claims
+- ✅ no invented clients or testimonials
+- ✅ instagram: first line contains the keyword “machine downtime tracking”
+- ✅ instagram: asks the reader one question
+- ✅ instagram: has the finesolves.com CTA
+- ✅ instagram: 3–6 hashtags (5)
+- ✅ instagram: no generic hashtags 
+- ✅ linkedin: first line contains the keyword “machine downtime tracking”
+- ✅ linkedin: asks the reader one question
+- ✅ linkedin: has the finesolves.com CTA
+- ✅ linkedin: 3–6 hashtags (5)
+- ✅ linkedin: no generic hashtags 
+- ✅ instagram ≤2,200 chars (799)
+- ✅ linkedin ≤2,800 chars (799)
+- ✅ linkedin: no brackets or parentheses
+- ✅ CTA is “Talk to us → finesolves.com”
+- ✅ youtube title ≤100 chars with #Shorts (92)
+- ✅ youtube title carries the keyword
+- ✅ youtube description present with finesolves.com
+- ✅ youtube text has no < or >
+- ✅ alt text is one descriptive sentence
+- ✅ brand differs from the previous reel (finehr)
+- ✅ primary keyword not used in the last 21 reels
+- ✅ topic not used before
+- ✅ reel.mp4 exists
+- ✅ video is 1080×1920
+- ✅ video is H.264 yuv420p
+- ✅ frame rate 24/30 (30/1)
+- ✅ has an audio track
+- ✅ duration matches script (39.2s)
+- ✅ file under 20 MB (CDN limit)
+- ✅ cover.jpg exists
+- ✅ one review still per scene
