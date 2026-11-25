@@ -1,0 +1,5 @@
+[
+ {"type":"column","title":"India AI funding nearly doubles in 2026","subtitle":"AI equity funding in India, January–September, US$ million","unit":"","data":[["Jan–Sep 2024",616],["Jan–Sep 2025",822],["Jan–Sep 2026",1600]],"highlight":"Jan–Sep 2026","source":"Source: Tracxn India AI 9M 2026 report, via PTI / People Matters, 24 Nov 2026"},
+ {"type":"bar","title":"Compute and model builders took the biggest cheques","subtitle":"Largest India AI rounds, Jan–Sep 2026, US$ million","unit":"","data":[["Neysa (Series B, Feb)",600],["Sarvam (Series B, Jun)",255],["Yotta (Jul)",150],["Sarvam (Aug)",90.4]],"highlight":"Neysa (Series B, Feb)","source":"Source: Tracxn India AI 9M 2026 report, via PTI / People Matters, 24 Nov 2026"},
+ {"type":"bar","title":"AI spending intent outruns data readiness","subtitle":"Share of Indian businesses, Dun & Bradstreet AI Momentum Survey, 2026","unit":"%","data":[["Plan to raise AI spend",69],["Scaling pilots to production",35],["Broad or strong AI ROI",30],["Data fully AI-ready",3]],"highlight":"Data fully AI-ready","source":"Source: Dun & Bradstreet AI Momentum Survey, via MediaNews4U, 3 Nov 2026"}
+]
