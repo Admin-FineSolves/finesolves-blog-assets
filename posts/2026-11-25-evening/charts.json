@@ -1,0 +1,82 @@
+[
+ {
+  "type": "column",
+  "title": "AI share of Indian service work is rising",
+  "subtitle": "Share of customer service cases or interactions handled by AI, India",
+  "unit": "%",
+  "series": [
+   "Today",
+   "Expected by 2027"
+  ],
+  "data": [
+   [
+    "Salesforce (service teams)",
+    30,
+    50
+   ],
+   [
+    "Twilio (business leaders)",
+    55,
+    74
+   ]
+  ],
+  "source": "Source: Salesforce State of Service India, Nov 2025; Twilio via CXOtoday, Sep 2026"
+ },
+ {
+  "type": "column",
+  "title": "Brands lag what customers want",
+  "subtitle": "Indian consumers who want it vs Indian businesses that do it, 2026",
+  "unit": "%",
+  "series": [
+   "Consumers want",
+   "Brands do"
+  ],
+  "data": [
+   [
+    "AI disclosed at the start",
+    71,
+    31
+   ],
+   [
+    "Easy route to a human",
+    59,
+    49
+   ]
+  ],
+  "source": "Source: Twilio 2026 Customer Insights, via CXOtoday, Sep 2026"
+ },
+ {
+  "type": "bar",
+  "title": "Few service leaders are cutting agents",
+  "subtitle": "Workforce moves reported by 275 service and support leaders, Jul–Aug 2026",
+  "unit": "%",
+  "data": [
+   [
+    "Shifting agents to new roles",
+    71
+   ],
+   [
+    "Hiring freeze",
+    45
+   ],
+   [
+    "Moving agents to other units",
+    39
+   ],
+   [
+    "Cut headcount because of AI",
+    21
+   ],
+   [
+    "Forced reductions",
+    20
+   ],
+   [
+    "Rehired after cuts",
+    7
+   ]
+  ],
+  "highlight": "Cut headcount because of AI",
+  "source": "Source: Gartner, 5 Nov 2026"
+ }
+]
