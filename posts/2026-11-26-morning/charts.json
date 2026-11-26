@@ -1,0 +1,8 @@
+[
+ {"type":"bar","title":"Iron ore, coal and power led October","subtitle":"Index of Core Industries, growth by sector, October 2026, year on year","unit":"%",
+  "data":[["Iron ore",26.4],["Coal",23.1],["Electricity",21.6],["Cement",15.4],["Overall index",10.9],["Steel",7.3],["Refinery products",3.4]],
+  "highlight":"Overall index","source":"Source: Office of the Economic Adviser (DPIIT) via DD News, 20 Nov 2026 (provisional)"},
+ {"type":"column","title":"Growth sped up in October","subtitle":"Core sector growth, September vs October 2026, year on year","unit":"%","series":["September 2026","October 2026"],
+  "data":[["Iron ore",18.4,26.4],["Coal",10.7,23.1],["Electricity",12.6,21.6],["Cement",10.1,15.4],["Steel",5.6,7.3],["Refinery",8.7,3.4]],
+  "source":"Source: Business Today; DD News, 20 Nov 2026"}
+]
