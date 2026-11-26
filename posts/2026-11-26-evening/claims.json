@@ -1,0 +1,248 @@
+[
+ {
+  "value": "20%",
+  "claim": "CIOs estimate tech debt at 20 to 40 percent of the value of their technology estate (lower bound)",
+  "source": "McKinsey, Tech debt: Reclaiming tech equity (2020)",
+  "url": "https://www.mckinsey.com/capabilities/operations/our-insights/tech-debt-reclaiming-tech-equity"
+ },
+ {
+  "value": "40%",
+  "claim": "CIOs estimate tech debt at 20 to 40 percent of the value of their technology estate (upper bound); tech debt accounts for about 40 percent of IT balance sheets",
+  "source": "McKinsey, Tech debt: Reclaiming tech equity (2020)",
+  "url": "https://www.mckinsey.com/capabilities/operations/our-insights/tech-debt-reclaiming-tech-equity"
+ },
+ {
+  "value": "10%",
+  "claim": "10 to 20 percent of the technology budget for new products is diverted to tech debt (lower bound)",
+  "source": "McKinsey, Tech debt: Reclaiming tech equity (2020)",
+  "url": "https://www.mckinsey.com/capabilities/operations/our-insights/tech-debt-reclaiming-tech-equity"
+ },
+ {
+  "value": "20%",
+  "claim": "10 to 20 percent of new-product tech budget diverted to tech debt (upper bound)",
+  "source": "McKinsey, Tech debt: Reclaiming tech equity (2020)",
+  "url": "https://www.mckinsey.com/capabilities/operations/our-insights/tech-debt-reclaiming-tech-equity"
+ },
+ {
+  "value": "60%",
+  "claim": "60 percent of CIOs surveyed felt tech debt had risen noticeably over the past three years",
+  "source": "McKinsey, Tech debt: Reclaiming tech equity (2020)",
+  "url": "https://www.mckinsey.com/capabilities/operations/our-insights/tech-debt-reclaiming-tech-equity"
+ },
+ {
+  "value": "50%",
+  "claim": "Engineers can spend up to 50 percent more time on work that supports business goals when tech debt is managed",
+  "source": "McKinsey, Tech debt: Reclaiming tech equity (2020)",
+  "url": "https://www.mckinsey.com/capabilities/operations/our-insights/tech-debt-reclaiming-tech-equity"
+ },
+ {
+  "value": "75%",
+  "claim": "A cloud provider CIO said engineer time spent on the tech debt tax fell from 75 percent ...",
+  "source": "McKinsey, Tech debt: Reclaiming tech equity (2020)",
+  "url": "https://www.mckinsey.com/capabilities/operations/our-insights/tech-debt-reclaiming-tech-equity"
+ },
+ {
+  "value": "25%",
+  "claim": "... to 25 percent",
+  "source": "McKinsey, Tech debt: Reclaiming tech equity (2020)",
+  "url": "https://www.mckinsey.com/capabilities/operations/our-insights/tech-debt-reclaiming-tech-equity"
+ },
+ {
+  "value": "58%",
+  "claim": "Some business units had up to 58 percent additional hidden cost in their IT total cost of ownership",
+  "source": "McKinsey, Tech debt: Reclaiming tech equity (2020)",
+  "url": "https://www.mckinsey.com/capabilities/operations/our-insights/tech-debt-reclaiming-tech-equity"
+ },
+ {
+  "value": "50%",
+  "claim": "A division whose tech debt exceeds 50 percent of its tech asset value should consider a greenfield stack",
+  "source": "McKinsey, Tech debt: Reclaiming tech equity (2020)",
+  "url": "https://www.mckinsey.com/capabilities/operations/our-insights/tech-debt-reclaiming-tech-equity"
+ },
+ {
+  "value": "71%",
+  "claim": "71 percent of the impact of business transformations depends on technology",
+  "source": "McKinsey, Breaking technical debt's vicious cycle to modernize your business (2023)",
+  "url": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/breaking-technical-debts-vicious-cycle-to-modernize-your-business"
+ },
+ {
+  "value": "30%",
+  "claim": "30 percent of CIOs surveyed believe more than 20 percent of their budget for new products is diverted to tech debt",
+  "source": "McKinsey, Breaking technical debt's vicious cycle to modernize your business (2023)",
+  "url": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/breaking-technical-debts-vicious-cycle-to-modernize-your-business"
+ },
+ {
+  "value": "40%",
+  "claim": "Companies in the bottom 20th percentile of tech debt severity are 40 percent more likely to have incomplete or canceled IT modernizations",
+  "source": "McKinsey, Breaking technical debt's vicious cycle to modernize your business (2023)",
+  "url": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/breaking-technical-debts-vicious-cycle-to-modernize-your-business"
+ },
+ {
+  "value": "94%",
+  "claim": "A large financial services group eliminated 94 percent of customizations during a core system upgrade",
+  "source": "McKinsey, Breaking technical debt's vicious cycle to modernize your business (2023)",
+  "url": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/breaking-technical-debts-vicious-cycle-to-modernize-your-business"
+ },
+ {
+  "value": "15%",
+  "claim": "Carving out 15 to 20 percent of IT budget for tech debt alone is considered insufficient (lower bound)",
+  "source": "McKinsey, Breaking technical debt's vicious cycle to modernize your business (2023)",
+  "url": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/breaking-technical-debts-vicious-cycle-to-modernize-your-business"
+ },
+ {
+  "value": "$2.41 trillion",
+  "claim": "In the US alone, tech debt costs $2.41 trillion a year (2022 CISQ report cited by Accenture)",
+  "source": "Accenture, Build your tech and balance your debt (2024)",
+  "url": "https://www.accenture.com/in-en/insights/consulting/build-tech-balance-debt"
+ },
+ {
+  "value": "$1.52 trillion",
+  "claim": "US tech debt would require $1.52 trillion to fix",
+  "source": "Accenture, Build your tech and balance your debt (2024)",
+  "url": "https://www.accenture.com/in-en/insights/consulting/build-tech-balance-debt"
+ },
+ {
+  "value": "41%",
+  "claim": "41% of executives identified AI as the highest contributor to tech debt, level with enterprise applications",
+  "source": "Accenture, Build your tech and balance your debt (2024)",
+  "url": "https://www.accenture.com/in-en/insights/consulting/build-tech-balance-debt"
+ },
+ {
+  "value": "15%",
+  "claim": "Leading companies allocate approximately 15% of the IT budget to tech debt remediation",
+  "source": "Accenture, Build your tech and balance your debt (2024)",
+  "url": "https://www.accenture.com/in-en/insights/consulting/build-tech-balance-debt"
+ },
+ {
+  "value": "5.3%",
+  "claim": "Companies with lower-than-average tech debt expect 5.3% revenue growth 2024-2026 ...",
+  "source": "Accenture, What is tech debt?",
+  "url": "https://www.accenture.com/in-en/insights/what-is-tech-debt"
+ },
+ {
+  "value": "4.4%",
+  "claim": "... vs 4.4% for peers",
+  "source": "Accenture, What is tech debt?",
+  "url": "https://www.accenture.com/in-en/insights/what-is-tech-debt"
+ },
+ {
+  "value": "70%",
+  "claim": "Nearly 70% of organizations view technical debt as having a high level of impact on their ability to innovate",
+  "source": "Protiviti, Global Technology Executive Survey: Technical debt remains a major burden",
+  "url": "https://protiviti.com/us-en/global-technology-executive-survey-tech-debt-major-burden"
+ },
+ {
+  "value": "30%",
+  "claim": "Organizations globally spend an average of 30% of their IT budgets on technical debt",
+  "source": "Protiviti, Global Technology Executive Survey: Technical debt remains a major burden",
+  "url": "https://protiviti.com/us-en/global-technology-executive-survey-tech-debt-major-burden"
+ },
+ {
+  "value": "20%",
+  "claim": "Organizations invest on average 20% of their resources on technical debt management",
+  "source": "Protiviti, Global Technology Executive Survey: Technical debt remains a major burden",
+  "url": "https://protiviti.com/us-en/global-technology-executive-survey-tech-debt-major-burden"
+ },
+ {
+  "value": "39%",
+  "claim": "Transportation and logistics organizations spend 39% of IT budget to service technical debt",
+  "source": "Protiviti, Global Technology Executive Survey: Technical debt remains a major burden",
+  "url": "https://protiviti.com/us-en/global-technology-executive-survey-tech-debt-major-burden"
+ },
+ {
+  "value": "38%",
+  "claim": "UK organizations dedicate 38% of IT budgets to control technical debt",
+  "source": "Protiviti, Global Technology Executive Survey: Technical debt remains a major burden",
+  "url": "https://protiviti.com/us-en/global-technology-executive-survey-tech-debt-major-burden"
+ },
+ {
+  "value": "78%",
+  "claim": "78% of financial services organizations express concern about tech debt's impact on innovation",
+  "source": "Protiviti, Global Technology Executive Survey: Technical debt remains a major burden",
+  "url": "https://protiviti.com/us-en/global-technology-executive-survey-tech-debt-major-burden"
+ },
+ {
+  "value": "66%",
+  "claim": "66% of healthcare provider services respondents say tech debt has a high impact on ability to innovate",
+  "source": "Protiviti, Global Technology Executive Survey: Technical debt remains a major burden",
+  "url": "https://protiviti.com/us-en/global-technology-executive-survey-tech-debt-major-burden"
+ },
+ {
+  "value": "6%",
+  "claim": "Only 6% of technology organizations have a process to track and report technical debt",
+  "source": "Protiviti, Global Technology Executive Survey: Technical debt remains a major burden",
+  "url": "https://protiviti.com/us-en/global-technology-executive-survey-tech-debt-major-burden"
+ },
+ {
+  "value": "46%",
+  "claim": "Nearly half of Indian organisations (46%) say existing architecture makes it impossible to build new applications without extensive modernisation",
+  "source": "IDC study for MongoDB, via CXOtoday (Apr 2026)",
+  "url": "https://cxotoday.com/research/how-clearing-tech-debt-drives-a-3x-revenue-surge-for-indias-ai-leaders/"
+ },
+ {
+  "value": "73%",
+  "claim": "Indian modernisation leaders generate more than three times more digital revenue (73%) ...",
+  "source": "IDC study for MongoDB, via CXOtoday (Apr 2026)",
+  "url": "https://cxotoday.com/research/how-clearing-tech-debt-drives-a-3x-revenue-surge-for-indias-ai-leaders/"
+ },
+ {
+  "value": "20%",
+  "claim": "... than mainstream peers (20%)",
+  "source": "IDC study for MongoDB, via CXOtoday (Apr 2026)",
+  "url": "https://cxotoday.com/research/how-clearing-tech-debt-drives-a-3x-revenue-surge-for-indias-ai-leaders/"
+ },
+ {
+  "value": "3x",
+  "claim": "Leaders generate more than three times (3x) more digital revenue than mainstream peers",
+  "source": "IDC study for MongoDB, via CXOtoday (Apr 2026)",
+  "url": "https://cxotoday.com/research/how-clearing-tech-debt-drives-a-3x-revenue-surge-for-indias-ai-leaders/"
+ },
+ {
+  "value": "50%",
+  "claim": "Support for new AI initiatives was the number one driver for modernising databases and applications in India (50%)",
+  "source": "IDC study for MongoDB, via CXOtoday (Apr 2026)",
+  "url": "https://cxotoday.com/research/how-clearing-tech-debt-drives-a-3x-revenue-surge-for-indias-ai-leaders/"
+ },
+ {
+  "value": "98%",
+  "claim": "Almost all organisations (98%) have experienced failed modernisation initiatives",
+  "source": "IDC study for MongoDB, via CXOtoday (Apr 2026)",
+  "url": "https://cxotoday.com/research/how-clearing-tech-debt-drives-a-3x-revenue-surge-for-indias-ai-leaders/"
+ },
+ {
+  "value": "57%",
+  "claim": "57% of Indian leaders run multiple programmes to continually address legacy constraints",
+  "source": "IDC study for MongoDB, via CXOtoday (Apr 2026)",
+  "url": "https://cxotoday.com/research/how-clearing-tech-debt-drives-a-3x-revenue-surge-for-indias-ai-leaders/"
+ },
+ {
+  "value": "50%",
+  "claim": "IDC predicts organisations that fail to address technical debt will face 50% higher failure rates for AI initiatives by 2027",
+  "source": "IDC study for MongoDB, via CXOtoday (Apr 2026)",
+  "url": "https://cxotoday.com/research/how-clearing-tech-debt-drives-a-3x-revenue-surge-for-indias-ai-leaders/"
+ },
+ {
+  "value": "35%",
+  "claim": "Top India software development challenge: embedding security without impacting speed (35%)",
+  "source": "IDC study for MongoDB, via CXOtoday (Apr 2026)",
+  "url": "https://cxotoday.com/research/how-clearing-tech-debt-drives-a-3x-revenue-surge-for-indias-ai-leaders/"
+ },
+ {
+  "value": "34%",
+  "claim": "Data management and poor quality data (34%)",
+  "source": "IDC study for MongoDB, via CXOtoday (Apr 2026)",
+  "url": "https://cxotoday.com/research/how-clearing-tech-debt-drives-a-3x-revenue-surge-for-indias-ai-leaders/"
+ },
+ {
+  "value": "28%",
+  "claim": "Gaps in engagement between software teams and the business (28%)",
+  "source": "IDC study for MongoDB, via CXOtoday (Apr 2026)",
+  "url": "https://cxotoday.com/research/how-clearing-tech-debt-drives-a-3x-revenue-surge-for-indias-ai-leaders/"
+ },
+ {
+  "value": "29%",
+  "claim": "Accounting for technical debt can boost AI returns by 29%",
+  "source": "IBM Institute for Business Value, The tech debt reckoning (Nov 2025)",
+  "url": "https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/technical-debt-ai-roi"
+ }
+]

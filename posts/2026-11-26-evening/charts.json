@@ -1,0 +1,8 @@
+[
+ {"type":"bar","title":"Logistics firms spend 39% of IT on debt","subtitle":"Share of IT budget spent on technical debt, by segment","unit":"%",
+  "data":[["Transport & logistics",39],["UK organisations",38],["Global average",30],["Leaders' planned target",15]],
+  "highlight":"Transport & logistics","source":"Source: Protiviti Global Technology Executive Survey; Accenture (2024) for leaders' target"},
+ {"type":"bar","title":"98% have seen a modernisation fail","subtitle":"IDC study for MongoDB, India findings, published April 2026","unit":"%",
+  "data":[["Saw a modernisation fail",98],["Leaders running multiple programmes",57],["AI is top modernisation driver",50],["Architecture blocks new apps",46],["Poor data quality a top challenge",34]],
+  "highlight":"Saw a modernisation fail","source":"Source: IDC, Modernising Legacy: Winning in the Age of AI (for MongoDB), via CXOtoday"}
+]
