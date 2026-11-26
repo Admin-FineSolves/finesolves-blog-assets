@@ -1,0 +1,149 @@
+{
+ "version": 2,
+ "id": "2026-11-26",
+ "brand": "finesolves",
+ "music": "pulse",
+ "scenes": [
+  {
+   "type": "phone",
+   "bg": "navy",
+   "mode": "notifs",
+   "clock": "10:12",
+   "eyebrow": "BUSINESS HEADS · KNOW-HOW",
+   "headline": "Ask Ramesh.\nHe knows.",
+   "highlight": "Ramesh",
+   "items": [
+    {
+     "app": "Team chat",
+     "title": "Accounts",
+     "body": "Ramesh, which rate for this one?"
+    },
+    {
+     "app": "Team chat",
+     "title": "Dispatch",
+     "body": "Ramesh, where's the format?"
+    },
+    {
+     "app": "Mail",
+     "title": "Vendor",
+     "body": "Who approves this payment?"
+    },
+    {
+     "app": "Team chat",
+     "title": "Sales",
+     "body": "Ask Ramesh, he knows"
+    }
+   ],
+   "vo": "Business heads. Every question. Same answer. Ask Ramesh.",
+   "dur": 4.0
+  },
+  {
+   "type": "calendar",
+   "bg": "navy",
+   "mode": "fill",
+   "label": "Ask Ramesh",
+   "stamp": "NO TIME LEFT",
+   "headline": "His whole week.\nYour questions.",
+   "highlight": "whole week",
+   "vo": "Every process lives in his head. So his week goes to the same questions.",
+   "dur": 4.0
+  },
+  {
+   "type": "calls",
+   "bg": "navy",
+   "headline": "He's on leave.\nWork waits.",
+   "highlight": "Work waits",
+   "question": "Where's the rate list?",
+   "names": [
+    "Accounts",
+    "Sales",
+    "Dispatch",
+    "Stores"
+   ],
+   "vo": "Then he takes leave. Orders wait. Nobody decides.",
+   "dur": 4.0
+  },
+  {
+   "type": "statement",
+   "bg": "teal",
+   "trans": "wipe",
+   "headline": "Put it in\nthe system.",
+   "highlight": "the system",
+   "vo": "What if the steps lived in the system. Not in one person's head?",
+   "dur": 3.0
+  },
+  {
+   "type": "app",
+   "bg": "cream",
+   "trans": "zoom",
+   "product": "Process hub",
+   "headline": "Every step.\nOn screen.",
+   "highlight": "On screen",
+   "nav": [
+    "Orders",
+    "Approvals",
+    "Rates",
+    "Steps"
+   ],
+   "active": 1,
+   "title": "Today · Who does what",
+   "rows": [
+    {
+     "name": "Order · New dealer",
+     "sub": "Rate picked from list",
+     "from": "WAITING",
+     "to": "PRICED"
+    },
+    {
+     "name": "Vendor payment",
+     "sub": "Sent to the right approver",
+     "from": "STUCK",
+     "to": "APPROVED"
+    },
+    {
+     "name": "Dispatch · Pune",
+     "sub": "Format filled in",
+     "from": "PENDING",
+     "to": "READY"
+    },
+    {
+     "name": "New order",
+     "sub": "Next step shown",
+     "from": "NEW",
+     "to": "IN PROGRESS"
+    }
+   ],
+   "button": "Approve payment",
+   "toast": "Payment approved",
+   "vo": "Fine Solves builds a custom product around how you work. Every step, on screen.",
+   "dur": 5.0
+  },
+  {
+   "type": "modules",
+   "bg": "cream",
+   "headline": "Nobody's the\nbottleneck.",
+   "highlight": "bottleneck",
+   "title": "Your business",
+   "modules": [
+    "Orders",
+    "Approvals",
+    "Rates",
+    "Dispatch"
+   ],
+   "vo": "Now anyone can pick up the work. And Ramesh finally gets his week off.",
+   "dur": 3.6
+  },
+  {
+   "type": "end",
+   "bg": "cream",
+   "trans": "zoom",
+   "line": "Custom products,\nlive in weeks.",
+   "tag": "CUSTOM PRODUCTS · AI",
+   "cta": "Talk to us",
+   "vo": "Fine Solves. Custom products, live in weeks. Talk to us at finesolves dot com.",
+   "dur": 3.6
+  }
+ ],
+ "vo_speed": 1.0,
+ "vo_voice": "Sarah"
+}

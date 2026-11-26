@@ -1,0 +1,144 @@
+# Reel audit: PASS (100/100)
+
+## Passed
+- ✅ brand is valid: finesolves or finehr; FineHealth is paused (finesolves)
+- ✅ last scene is the end card
+- ✅ total length 18–40s (35.5s)
+- ✅ 6–10 scenes (7)
+- ✅ at least 3 prop scenes (phone, calendar, calls, app, modules, sheet)
+- ✅ shows the product (an app or modules scene)
+- ✅ uses navy, cream and teal backgrounds (problem → turn → fix)
+- ✅ has one wipe transition into the turn
+- ✅ scene 1 has a headline
+- ✅ scene 1 headline ≤3 lines
+- ✅ scene 1 headline line ≤18 chars: “Ask Ramesh.” (11)
+- ✅ scene 1 headline line ≤18 chars: “He knows.” (9)
+- ✅ scene 1 VO ≤22 words (8)
+- ✅ scene 1 prop text ≤32 chars: “BUSINESS HEADS · KNOW-HOW”
+- ✅ scene 1 prop text ≤32 chars: “Team chat”
+- ✅ scene 1 prop text ≤32 chars: “Accounts”
+- ✅ scene 1 prop text ≤32 chars: “Ramesh, which rate for this one?”
+- ✅ scene 1 prop text ≤32 chars: “Team chat”
+- ✅ scene 1 prop text ≤32 chars: “Dispatch”
+- ✅ scene 1 prop text ≤32 chars: “Ramesh, where's the format?”
+- ✅ scene 1 prop text ≤32 chars: “Mail”
+- ✅ scene 1 prop text ≤32 chars: “Vendor”
+- ✅ scene 1 prop text ≤32 chars: “Who approves this payment?”
+- ✅ scene 1 prop text ≤32 chars: “Team chat”
+- ✅ scene 1 prop text ≤32 chars: “Sales”
+- ✅ scene 1 prop text ≤32 chars: “Ask Ramesh, he knows”
+- ✅ scene 2 has a headline
+- ✅ scene 2 headline ≤3 lines
+- ✅ scene 2 headline line ≤18 chars: “His whole week.” (15)
+- ✅ scene 2 headline line ≤18 chars: “Your questions.” (15)
+- ✅ scene 2 VO ≤22 words (14)
+- ✅ scene 2 prop text ≤32 chars: “Ask Ramesh”
+- ✅ scene 2 prop text ≤32 chars: “NO TIME LEFT”
+- ✅ scene 3 has a headline
+- ✅ scene 3 headline ≤3 lines
+- ✅ scene 3 headline line ≤18 chars: “He's on leave.” (14)
+- ✅ scene 3 headline line ≤18 chars: “Work waits.” (11)
+- ✅ scene 3 VO ≤22 words (8)
+- ✅ scene 3 prop text ≤32 chars: “Where's the rate list?”
+- ✅ scene 3 prop text ≤32 chars: “Accounts”
+- ✅ scene 3 prop text ≤32 chars: “Sales”
+- ✅ scene 3 prop text ≤32 chars: “Dispatch”
+- ✅ scene 3 prop text ≤32 chars: “Stores”
+- ✅ scene 4 has a headline
+- ✅ scene 4 headline ≤3 lines
+- ✅ scene 4 headline line ≤18 chars: “Put it in” (9)
+- ✅ scene 4 headline line ≤18 chars: “the system.” (11)
+- ✅ scene 4 VO ≤22 words (13)
+- ✅ scene 5 has a headline
+- ✅ scene 5 headline ≤3 lines
+- ✅ scene 5 headline line ≤18 chars: “Every step.” (11)
+- ✅ scene 5 headline line ≤18 chars: “On screen.” (10)
+- ✅ scene 5 VO ≤22 words (14)
+- ✅ scene 5 prop text ≤32 chars: “Today · Who does what”
+- ✅ scene 5 prop text ≤32 chars: “Approve payment”
+- ✅ scene 5 prop text ≤32 chars: “Payment approved”
+- ✅ scene 5 prop text ≤32 chars: “Process hub”
+- ✅ scene 5 prop text ≤32 chars: “Orders”
+- ✅ scene 5 prop text ≤32 chars: “Approvals”
+- ✅ scene 5 prop text ≤32 chars: “Rates”
+- ✅ scene 5 prop text ≤32 chars: “Steps”
+- ✅ scene 5 prop text ≤32 chars: “Order · New dealer”
+- ✅ scene 5 prop text ≤32 chars: “Rate picked from list”
+- ✅ scene 5 prop text ≤32 chars: “WAITING”
+- ✅ scene 5 prop text ≤32 chars: “PRICED”
+- ✅ scene 5 prop text ≤32 chars: “Vendor payment”
+- ✅ scene 5 prop text ≤32 chars: “Sent to the right approver”
+- ✅ scene 5 prop text ≤32 chars: “STUCK”
+- ✅ scene 5 prop text ≤32 chars: “APPROVED”
+- ✅ scene 5 prop text ≤32 chars: “Dispatch · Pune”
+- ✅ scene 5 prop text ≤32 chars: “Format filled in”
+- ✅ scene 5 prop text ≤32 chars: “PENDING”
+- ✅ scene 5 prop text ≤32 chars: “READY”
+- ✅ scene 5 prop text ≤32 chars: “New order”
+- ✅ scene 5 prop text ≤32 chars: “Next step shown”
+- ✅ scene 5 prop text ≤32 chars: “NEW”
+- ✅ scene 5 prop text ≤32 chars: “IN PROGRESS”
+- ✅ scene 6 has a headline
+- ✅ scene 6 headline ≤3 lines
+- ✅ scene 6 headline line ≤18 chars: “Nobody's the” (12)
+- ✅ scene 6 headline line ≤18 chars: “bottleneck.” (11)
+- ✅ scene 6 VO ≤22 words (14)
+- ✅ scene 6 prop text ≤32 chars: “Your business”
+- ✅ scene 6 prop text ≤32 chars: “Orders”
+- ✅ scene 6 prop text ≤32 chars: “Approvals”
+- ✅ scene 6 prop text ≤32 chars: “Rates”
+- ✅ scene 6 prop text ≤32 chars: “Dispatch”
+- ✅ scene 7 headline ≤3 lines
+- ✅ scene 7 headline line ≤18 chars: “” (0)
+- ✅ scene 7 VO ≤22 words (14)
+- ✅ scene 7 prop text ≤32 chars: “Custom products,
+live in weeks.”
+- ✅ scene 7 prop text ≤32 chars: “CUSTOM PRODUCTS · AI”
+- ✅ scene 7 prop text ≤32 chars: “Talk to us”
+- ✅ end card has a CTA button
+- ✅ has an ElevenLabs voiceover (vo/NN.mp3)
+- ✅ one VO clip per scene with a vo line
+- ✅ still-01.png: frame isn't mostly empty (32% plain background)
+- ✅ still-02.png: frame isn't mostly empty (0% plain background)
+- ✅ still-03.png: frame isn't mostly empty (31% plain background)
+- ✅ still-04.png: frame isn't mostly empty (65% plain background)
+- ✅ still-05.png: frame isn't mostly empty (54% plain background)
+- ✅ still-06.png: frame isn't mostly empty (66% plain background)
+- ✅ no banned words 
+- ✅ says 'products', not 'software' (hashtags excepted)
+- ✅ brand names spelled Fine Solves / FineHealth / FineHR 
+- ✅ no [CONFIRM] items
+- ✅ no pricing
+- ✅ no medical / patient-outcome claims
+- ✅ no invented clients or testimonials
+- ✅ instagram: first line contains the keyword “workflow automation”
+- ✅ instagram: asks the reader one question
+- ✅ instagram: has the finesolves.com CTA
+- ✅ instagram: 3–6 hashtags (5)
+- ✅ instagram: no generic hashtags 
+- ✅ linkedin: first line contains the keyword “workflow automation”
+- ✅ linkedin: asks the reader one question
+- ✅ linkedin: has the finesolves.com CTA
+- ✅ linkedin: 3–6 hashtags (5)
+- ✅ linkedin: no generic hashtags 
+- ✅ instagram ≤2,200 chars (747)
+- ✅ linkedin ≤2,800 chars (747)
+- ✅ linkedin: no brackets or parentheses
+- ✅ CTA is “Talk to us → finesolves.com”
+- ✅ youtube title ≤100 chars with #Shorts (93)
+- ✅ youtube title carries the keyword
+- ✅ youtube description present with finesolves.com
+- ✅ youtube text has no < or >
+- ✅ alt text is one descriptive sentence
+- ✅ brand differs from the previous reel (finehr)
+- ✅ primary keyword not used in the last 21 reels
+- ✅ topic not used before
+- ✅ reel.mp4 exists
+- ✅ video is 1080×1920
+- ✅ video is H.264 yuv420p
+- ✅ frame rate 24/30 (30/1)
+- ✅ has an audio track
+- ✅ duration matches script (35.5s)
+- ✅ file under 20 MB (CDN limit)
+- ✅ cover.jpg exists
+- ✅ one review still per scene
