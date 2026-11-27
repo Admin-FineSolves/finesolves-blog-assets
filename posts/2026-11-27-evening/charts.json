@@ -1,0 +1,99 @@
+[
+ {
+  "type": "line",
+  "title": "Market more than triples since 2020",
+  "subtitle": "India cold chain logistics, US$ billion (2030, 2034 projected)",
+  "unit": "",
+  "data": [
+   [
+    "2020",
+    8.3
+   ],
+   [
+    "2025",
+    12.56
+   ],
+   [
+    "2026",
+    14.16
+   ],
+   [
+    "2030",
+    18.99
+   ],
+   [
+    "2034",
+    27.45
+   ]
+  ],
+  "source": "Source: IMARC Group, India Cold Chain Logistics Market 2026–2034 (Nov 2026)"
+ },
+ {
+  "type": "column",
+  "title": "India has 10,000 reefers, needs 62,000",
+  "subtitle": "Refrigerated (reefer) vehicles in India, number of units",
+  "unit": "",
+  "data": [
+   [
+    "2015",
+    9000
+   ],
+   [
+    "Today",
+    10000
+   ],
+   [
+    "2031 projection",
+    33000
+   ],
+   [
+    "Estimated need",
+    62000
+   ]
+  ],
+  "highlight": "Today",
+  "source": "Source: NCCD data via International Institute of Refrigeration (Feb 2026)"
+ },
+ {
+  "type": "bar",
+  "title": "Guava and tomato lose the most",
+  "subtitle": "Average harvest and post-harvest loss, % of output, NABCONS 2022 study",
+  "unit": "%",
+  "data": [
+   [
+    "Guava",
+    15.05
+   ],
+   [
+    "Tomato",
+    11.61
+   ],
+   [
+    "Sapota",
+    9.53
+   ],
+   [
+    "Apple",
+    9.51
+   ],
+   [
+    "Marine fish",
+    8.76
+   ],
+   [
+    "Mango",
+    8.53
+   ],
+   [
+    "Potato",
+    5.96
+   ],
+   [
+    "Milk",
+    0.87
+   ]
+  ],
+  "highlight": "Guava",
+  "source": "Source: Lok Sabha USQ 2306, Ministry of Agriculture (6 Aug 2024)"
+ }
+]
