@@ -1,0 +1,218 @@
+{
+ "version": 2,
+ "id": "2026-11-27",
+ "brand": "finehr",
+ "music": "pulse",
+ "scenes": [
+  {
+   "type": "phone",
+   "bg": "navy",
+   "mode": "notifs",
+   "clock": "9:12",
+   "eyebrow": "HR TEAMS · HIRING DRIVE",
+   "headline": "Hiring drive\nis on.",
+   "highlight": "Hiring",
+   "items": [
+    {
+     "app": "Mail",
+     "title": "Careers inbox",
+     "body": "New application · Sales"
+    },
+    {
+     "app": "Mail",
+     "title": "Careers inbox",
+     "body": "New application · Support"
+    },
+    {
+     "app": "Messages",
+     "title": "Ops head",
+     "body": "Any shortlist yet?"
+    },
+    {
+     "app": "Mail",
+     "title": "Careers inbox",
+     "body": "New application · Accounts"
+    },
+    {
+     "app": "Calendar",
+     "title": "Screening calls",
+     "body": "All day"
+    }
+   ],
+   "vo": "HR teams. The hiring drive is on. And the applications keep coming.",
+   "dur": 3.2
+  },
+  {
+   "type": "sheet",
+   "bg": "navy",
+   "title": "screening_tracker_v4.xlsx",
+   "headline": "Call. Redial.\nCall again.",
+   "highlight": "again.",
+   "cols": [
+    "Candidate",
+    "Role",
+    "Called",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Rohan K.",
+     "Sales",
+     "Twice",
+     "No answer"
+    ],
+    [
+     "Sana P.",
+     "Support",
+     "Once",
+     "Call back"
+    ],
+    [
+     "Vikram T.",
+     "Accounts",
+     "Three",
+     "Busy"
+    ],
+    [
+     "Anjali D.",
+     "Sales",
+     "Once",
+     "Screened"
+    ],
+    [
+     "Farhan M.",
+     "Support",
+     "Twice",
+     "No answer"
+    ]
+   ],
+   "flags": [
+    [
+     0,
+     3
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     4,
+     3
+    ]
+   ],
+   "note": "Who called Vikram last?",
+   "vo": "So the team works the tracker. Call. No answer. Call back. Call again.",
+   "dur": 3.8
+  },
+  {
+   "type": "calls",
+   "bg": "navy",
+   "question": "So, tell me about yourself?",
+   "headline": "Same questions.\nAll day.",
+   "highlight": "All day.",
+   "names": [
+    "Rohan K.",
+    "Sana P.",
+    "Vikram T.",
+    "Anjali D."
+   ],
+   "vo": "Then the same first-round questions, all day. While leave requests and payroll wait.",
+   "dur": 3.6
+  },
+  {
+   "type": "statement",
+   "bg": "teal",
+   "trans": "wipe",
+   "headline": "Let the AI\ninterviewer\ngo first.",
+   "highlight": "AI interviewer",
+   "vo": "With FineHR, the AI interviewer takes the first round.",
+   "dur": 2.6
+  },
+  {
+   "type": "app",
+   "bg": "cream",
+   "trans": "zoom",
+   "product": "FineHR",
+   "headline": "It interviews.\nYou shortlist.",
+   "highlight": "shortlist.",
+   "nav": [
+    "AI interviewer",
+    "Attendance",
+    "Leave",
+    "Payroll"
+   ],
+   "active": 0,
+   "title": "Hiring drive · Round 1",
+   "rows": [
+    {
+     "name": "Rohan K.",
+     "sub": "Sales",
+     "from": "INVITED",
+     "to": "INTERVIEWED"
+    },
+    {
+     "name": "Sana P.",
+     "sub": "Support",
+     "from": "INVITED",
+     "to": "INTERVIEWED"
+    },
+    {
+     "name": "Vikram T.",
+     "sub": "Accounts",
+     "from": "INVITED",
+     "to": "INTERVIEWED"
+    },
+    {
+     "name": "Farhan M.",
+     "sub": "Support",
+     "from": "INVITED",
+     "to": "INTERVIEWED"
+    }
+   ],
+   "button": "Review answers",
+   "toast": "Round 1 complete",
+   "vo": "It runs the first-round interviews. Your team reviews the answers. And shortlists who to meet.",
+   "dur": 4.8
+  },
+  {
+   "type": "calendar",
+   "bg": "cream",
+   "mode": "clear",
+   "label": "Screening call",
+   "stamp": "CLEARED",
+   "headline": "Your team's\nday, back.",
+   "highlight": "back.",
+   "keep": [
+    {
+     "day": 1,
+     "slot": 2,
+     "label": "Final round"
+    },
+    {
+     "day": 2,
+     "slot": 4,
+     "label": "Final round"
+    },
+    {
+     "day": 4,
+     "slot": 1,
+     "label": "Payroll review"
+    }
+   ],
+   "vo": "The screening calls come off the calendar. Only the final rounds stay.",
+   "dur": 3.4
+  },
+  {
+   "type": "end",
+   "bg": "cream",
+   "trans": "zoom",
+   "line": "FineHR by Fine Solves",
+   "tag": "HRMS · AI INTERVIEWER",
+   "cta": "Book a demo",
+   "vo": "FineHR, by Fine Solves. Book a demo at finesolves dot com.",
+   "dur": 3.6
+  }
+ ],
+ "vo_speed": 1.0,
+ "vo_voice": "Sarah"
+}
