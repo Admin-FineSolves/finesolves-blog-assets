@@ -1,0 +1,230 @@
+[
+ {
+  "value": "2.5x",
+  "claim": "IndicShift tokeniser uses up to 2.5 times fewer tokens on Indian text than OpenAI's GPT tokeniser",
+  "source": "PIB, India AI Mission-supported Chariot-1 Foundation Models Launched (26 Nov 2026)",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341725&lang=1&reg=48"
+ },
+ {
+  "value": "5%",
+  "claim": "IndicShift: 5% to 8% improvement in model performance on Indian languages on the same compute (low end)",
+  "source": "PIB, India AI Mission-supported Chariot-1 Foundation Models Launched (26 Nov 2026)",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341725&lang=1&reg=48"
+ },
+ {
+  "value": "8%",
+  "claim": "IndicShift: 5% to 8% improvement in model performance on Indian languages on the same compute (high end)",
+  "source": "PIB, India AI Mission-supported Chariot-1 Foundation Models Launched (26 Nov 2026)",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341725&lang=1&reg=48"
+ },
+ {
+  "value": "62%",
+  "claim": "Nested Training: reported 62% improvement in training speed vs training three sizes separately",
+  "source": "PIB, India AI Mission-supported Chariot-1 Foundation Models Launched (26 Nov 2026)",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341725&lang=1&reg=48"
+ },
+ {
+  "value": "38%",
+  "claim": "Mixture of Vocabularies: 38% improvement in training speed on the same GPUs",
+  "source": "PIB, India AI Mission-supported Chariot-1 Foundation Models Launched (26 Nov 2026)",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341725&lang=1&reg=48"
+ },
+ {
+  "value": "5.7x",
+  "claim": "Mixture of Vocabularies reduces vocabulary entries scored per word by 5.7 times",
+  "source": "PIB, India AI Mission-supported Chariot-1 Foundation Models Launched (26 Nov 2026)",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341725&lang=1&reg=48"
+ },
+ {
+  "value": "4 billion",
+  "claim": "Chariot-1 LLM: 11-billion-parameter mixture-of-experts with 4 billion active parameters per token",
+  "source": "PIB, India AI Mission-supported Chariot-1 Foundation Models Launched (26 Nov 2026)",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341725&lang=1&reg=48"
+ },
+ {
+  "value": "10.7 billion",
+  "claim": "Chariot-1 LLM sizes: 10.7 billion, 1.7 billion and 745 million parameters",
+  "source": "PIB, India AI Mission-supported Chariot-1 Foundation Models Launched (26 Nov 2026)",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341725&lang=1&reg=48"
+ },
+ {
+  "value": "1.7 billion",
+  "claim": "Chariot-1 LLM sizes: 10.7 billion, 1.7 billion and 745 million parameters",
+  "source": "PIB, India AI Mission-supported Chariot-1 Foundation Models Launched (26 Nov 2026)",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341725&lang=1&reg=48"
+ },
+ {
+  "value": "745 million",
+  "claim": "Chariot-1 LLM sizes: 10.7 billion, 1.7 billion and 745 million parameters",
+  "source": "PIB, India AI Mission-supported Chariot-1 Foundation Models Launched (26 Nov 2026)",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341725&lang=1&reg=48"
+ },
+ {
+  "value": "97%",
+  "claim": "Chariot-1 TTS: over 97% verbalisation accuracy on the Async TTS Pronunciation Benchmark",
+  "source": "PIB, India AI Mission-supported Chariot-1 Foundation Models Launched (26 Nov 2026)",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341725&lang=1&reg=48"
+ },
+ {
+  "value": "7.60%",
+  "claim": "Chariot-1 TTS: Hindi character error rate of 7.60%",
+  "source": "PIB, India AI Mission-supported Chariot-1 Foundation Models Launched (26 Nov 2026)",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341725&lang=1&reg=48"
+ },
+ {
+  "value": "6.47%",
+  "claim": "Chariot-1 TTS: average character error rate of 6.47% across nine other Indian languages",
+  "source": "PIB, India AI Mission-supported Chariot-1 Foundation Models Launched (26 Nov 2026)",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341725&lang=1&reg=48"
+ },
+ {
+  "value": "₹1,058 crore",
+  "claim": "Nine foundation-model organisations received Rs 1,058 crore of IndiaAI compute subsidy",
+  "source": "ThePrint, IndiaAI Mission: 9 model builders get Rs 1,058 cr of govt's compute subsidy (20 Oct 2026)",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "₹1,275 crore",
+  "claim": "Total compute subsidy committed by the Centre so far (portal as of 8 Oct 2026)",
+  "source": "ThePrint, IndiaAI Mission: 9 model builders get Rs 1,058 cr of govt's compute subsidy (20 Oct 2026)",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "₹10.14 crore",
+  "claim": "Researchers, students and fellows received Rs 10.14 crore",
+  "source": "ThePrint, IndiaAI Mission: 9 model builders get Rs 1,058 cr of govt's compute subsidy (20 Oct 2026)",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "0.8%",
+  "claim": "Researchers, students and fellows received 0.8 percent of subsidy",
+  "source": "ThePrint, IndiaAI Mission: 9 model builders get Rs 1,058 cr of govt's compute subsidy (20 Oct 2026)",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "₹10,372 crore",
+  "claim": "IndiaAI Mission outlay approved March 2024",
+  "source": "ThePrint, IndiaAI Mission: 9 model builders get Rs 1,058 cr of govt's compute subsidy (20 Oct 2026)",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "40%",
+  "claim": "Most compute portal users get 40 percent of the bill paid",
+  "source": "ThePrint, IndiaAI Mission: 9 model builders get Rs 1,058 cr of govt's compute subsidy (20 Oct 2026)",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "60%",
+  "claim": "Researchers usually pay 60 per cent of the bill to the cloud provider",
+  "source": "ThePrint, IndiaAI Mission: 9 model builders get Rs 1,058 cr of govt's compute subsidy (20 Oct 2026)",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "83%",
+  "claim": "16 foundation-model approvals account for 83 percent of subsidy",
+  "source": "ThePrint, IndiaAI Mission: 9 model builders get Rs 1,058 cr of govt's compute subsidy (20 Oct 2026)",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "98.9%",
+  "claim": "Government has paid 98.9 percent of foundation-model approvals' bills",
+  "source": "ThePrint, IndiaAI Mission: 9 model builders get Rs 1,058 cr of govt's compute subsidy (20 Oct 2026)",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "12.5%",
+  "claim": "123 government department and PSU approvals account for 12.5 percent of subsidy",
+  "source": "ThePrint, IndiaAI Mission: 9 model builders get Rs 1,058 cr of govt's compute subsidy (20 Oct 2026)",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "46.8%",
+  "claim": "Government department and PSU approvals: 46.8 percent of bills paid",
+  "source": "ThePrint, IndiaAI Mission: 9 model builders get Rs 1,058 cr of govt's compute subsidy (20 Oct 2026)",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "39.7%",
+  "claim": "Researcher, student and fellow approvals: 39.7 percent of bills paid",
+  "source": "ThePrint, IndiaAI Mission: 9 model builders get Rs 1,058 cr of govt's compute subsidy (20 Oct 2026)",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "₹140",
+  "claim": "Tender rate of about Rs 140 an hour for an H100",
+  "source": "ThePrint, IndiaAI Mission: 9 model builders get Rs 1,058 cr of govt's compute subsidy (20 Oct 2026)",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "45.6%",
+  "claim": "Yotta handled 45.6 percent of the subsidy",
+  "source": "ThePrint, IndiaAI Mission: 9 model builders get Rs 1,058 cr of govt's compute subsidy (20 Oct 2026)",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "21.4%",
+  "claim": "E2E Networks handled 21.4 percent of the subsidy",
+  "source": "ThePrint, IndiaAI Mission: 9 model builders get Rs 1,058 cr of govt's compute subsidy (20 Oct 2026)",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "₹246.72 crore",
+  "claim": "Sarvam AI's subsidy now equals its full bill of Rs 246.72 crore",
+  "source": "ThePrint, IndiaAI Mission: 9 model builders get Rs 1,058 cr of govt's compute subsidy (20 Oct 2026)",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "85%",
+  "claim": "30 approvals paid in full account for 85 percent of all subsidy",
+  "source": "ThePrint, IndiaAI Mission: 9 model builders get Rs 1,058 cr of govt's compute subsidy (20 Oct 2026)",
+  "url": "https://theprint.in/tech/indiaai-mission-9-model-builders-get-rs-1058-cr-of-govts-compute-subsidy-researchers-only-rs-10-cr/3076401/"
+ },
+ {
+  "value": "₹65",
+  "claim": "38,000+ GPUs available at an average subsidised cost of Rs 65 per hour, about one-third of the global average",
+  "source": "Kashmir Life, IndiaAI Mission: Govt Rolls Out Roadmap for Sovereign AI Models, 38,000 GPUs and $250-Bn Ecosystem Push (15 Mar 2026)",
+  "url": "https://kashmirlife.net/indiaai-mission-govt-rolls-out-roadmap-for-sovereign-ai-models-38000-gpus-and-250-bn-ecosystem-push-428509/"
+ },
+ {
+  "value": "$250 billion",
+  "claim": "Potential investments exceeding $250 billion announced at the IndiaAI Impact Summit 2026",
+  "source": "Kashmir Life, IndiaAI Mission: Govt Rolls Out Roadmap for Sovereign AI Models, 38,000 GPUs and $250-Bn Ecosystem Push (15 Mar 2026)",
+  "url": "https://kashmirlife.net/indiaai-mission-govt-rolls-out-roadmap-for-sovereign-ai-models-38000-gpus-and-250-bn-ecosystem-push-428509/"
+ },
+ {
+  "value": "93.18 lakh",
+  "claim": "IndiaAI allocated 93.18 lakh GPU hours across 237 projects",
+  "source": "Indian Television, IndiaAI Mission backs 20 homegrown AI models, allocates 93 lakh GPU hours (22 Jul 2026)",
+  "url": "https://indiantelevision.com/regulators/indiaai-mission-backs-20-homegrown-ai-models-allocates-93-lakh-gpu-hours/"
+ },
+ {
+  "value": "30 billion",
+  "claim": "Sarvam AI's 30 billion and 105 billion parameter models under development",
+  "source": "Indian Television, IndiaAI Mission backs 20 homegrown AI models, allocates 93 lakh GPU hours (22 Jul 2026)",
+  "url": "https://indiantelevision.com/regulators/indiaai-mission-backs-20-homegrown-ai-models-allocates-93-lakh-gpu-hours/"
+ },
+ {
+  "value": "105 billion",
+  "claim": "Sarvam AI's 30 billion and 105 billion parameter models under development",
+  "source": "Indian Television, IndiaAI Mission backs 20 homegrown AI models, allocates 93 lakh GPU hours (22 Jul 2026)",
+  "url": "https://indiantelevision.com/regulators/indiaai-mission-backs-20-homegrown-ai-models-allocates-93-lakh-gpu-hours/"
+ },
+ {
+  "value": "38,000",
+  "claim": "More than 38,000 GPUs onboarded through the centralised AI compute portal",
+  "source": "TelecomTalk, Over 38,000 GPUs Onboarded on AI Compute Portal Under IndiaAI Mission (30 Mar 2026)",
+  "url": "https://telecomtalk.info/over-38000-gpus-onboarded-under-indiaai-mission/1005751/"
+ },
+ {
+  "value": "$250",
+  "claim": "Headline figure in source title: $250-Bn ecosystem push (potential investments exceeding $250 billion)",
+  "source": "Kashmir Life, IndiaAI Mission: Govt Rolls Out Roadmap for Sovereign AI Models, 38,000 GPUs and $250-Bn Ecosystem Push (15 Mar 2026)",
+  "url": "https://kashmirlife.net/indiaai-mission-govt-rolls-out-roadmap-for-sovereign-ai-models-38000-gpus-and-250-bn-ecosystem-push-428509/"
+ },
+ {
+  "value": "93 lakh",
+  "claim": "Headline figure in source title: 93 lakh GPU hours allocated (93.18 lakh in body)",
+  "source": "Indian Television, IndiaAI Mission backs 20 homegrown AI models, allocates 93 lakh GPU hours (22 Jul 2026)",
+  "url": "https://indiantelevision.com/regulators/indiaai-mission-backs-20-homegrown-ai-models-allocates-93-lakh-gpu-hours/"
+ }
+]

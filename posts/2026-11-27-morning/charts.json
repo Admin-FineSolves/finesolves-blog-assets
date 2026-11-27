@@ -1,0 +1,8 @@
+[
+ {"type":"bar","title":"Chariot-1's three efficiency gains","subtitle":"Reported improvement per research technique, Chariot-1 foundation models, Nov 2026","unit":"%",
+  "data":[["Nested Training: training speed",62],["Vocab mixing: training speed",38],["IndicShift: Indic accuracy (up to)",8]],
+  "highlight":"Nested Training: training speed","source":"Source: PIB / MeitY, 26 Nov 2026 (company-reported results)"},
+ {"type":"column","title":"Model teams took 83%","subtitle":"IndiaAI compute portal approvals by user group, portal as of 8 Oct 2026","unit":"%","series":["Share of total subsidy","Share of bills paid"],
+  "data":[["Foundation models",83,98.9],["Govt depts & PSUs",12.5,46.8],["Researchers & students",0.8,39.7]],
+  "source":"Source: ThePrint analysis of 304 IndiaAI Compute Portal approvals, 20 Oct 2026"}
+]
