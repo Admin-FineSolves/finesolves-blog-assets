@@ -1,0 +1,83 @@
+[
+ {
+  "type": "column",
+  "title": "Occupancy holds as chains add beds",
+  "subtitle": "Bed occupancy, FY26 vs Q1 FY27, large Indian chains",
+  "unit": "%",
+  "series": [
+   "FY26",
+   "Q1 FY27"
+  ],
+  "data": [
+   [
+    "Max Healthcare",
+    76,
+    75
+   ],
+   [
+    "Apollo",
+    67,
+    70
+   ],
+   [
+    "Fortis",
+    68,
+    68.7
+   ],
+   [
+    "Manipal",
+    64.45,
+    65
+   ]
+  ],
+  "source": "Source: Company results via Business Standard, September 2026"
+ },
+ {
+  "type": "bar",
+  "title": "Insurers pay 46% of Apollo inpatient revenue",
+  "subtitle": "Apollo Hospitals inpatient revenue by payor, H1 FY27 (April–September 2026)",
+  "unit": "%",
+  "data": [
+   [
+    "Insurance",
+    46
+   ],
+   [
+    "Self-pay",
+    39
+   ],
+   [
+    "Government schemes",
+    9
+   ],
+   [
+    "Others",
+    6
+   ]
+  ],
+  "highlight": "Insurance",
+  "source": "Source: Apollo Q2 FY27 investor presentation, via Multibagg AI, November 2026"
+ },
+ {
+  "type": "bar",
+  "title": "India is short of the 2-bed target",
+  "subtitle": "Beds per 1,000 people: 2020 estimate vs NHP 2017 target",
+  "unit": " beds",
+  "data": [
+   [
+    "NHP 2017 target",
+    2
+   ],
+   [
+    "All hospitals",
+    1.4
+   ],
+   [
+    "Government hospitals only",
+    0.6
+   ]
+  ],
+  "highlight": "All hospitals",
+  "source": "Source: PRS Legislative Research via Business Standard, September 2026"
+ }
+]
