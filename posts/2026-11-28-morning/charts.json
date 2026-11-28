@@ -1,0 +1,63 @@
+[
+ {
+  "type": "column",
+  "title": "Agents and security: India trails",
+  "subtitle": "YoY enrolment growth by AI skill, India vs global, 2026",
+  "unit": "%",
+  "series": [
+   "India",
+   "Global"
+  ],
+  "data": [
+   [
+    "AI security",
+    296,
+    665
+   ],
+   [
+    "Agentic workflows",
+    238,
+    546
+   ],
+   [
+    "Micro-credentials",
+    181,
+    122
+   ],
+   [
+    "Generative AI",
+    125,
+    132
+   ]
+  ],
+  "source": "Source: Coursera Global Skills Report 2026, via Business Standard and Inside AI, 27 Nov 2026"
+ },
+ {
+  "type": "column",
+  "title": "India lags on human-skill learning",
+  "subtitle": "YoY enrolment growth by human skill, India vs global, 2026",
+  "unit": "%",
+  "series": [
+   "India",
+   "Global"
+  ],
+  "data": [
+   [
+    "Critical thinking",
+    65,
+    107
+   ],
+   [
+    "Complex problem-solving",
+    55,
+    126
+   ],
+   [
+    "Innovation",
+    62,
+    74
+   ]
+  ],
+  "source": "Source: Coursera Global Skills Report 2026, via Business Standard, 27 Nov 2026"
+ }
+]
