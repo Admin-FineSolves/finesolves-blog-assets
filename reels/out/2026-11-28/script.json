@@ -1,0 +1,149 @@
+{
+ "version": 2,
+ "id": "2026-11-28",
+ "brand": "finesolves",
+ "music": "pulse",
+ "scenes": [
+  {
+   "type": "phone",
+   "bg": "navy",
+   "mode": "chat",
+   "contact": "Investor · Seed round",
+   "eyebrow": "FOUNDERS · AI FEATURE",
+   "headline": "Great demo.\nStill not live.",
+   "highlight": "not live",
+   "items": [
+    {
+     "from": "them",
+     "text": "Loved the AI demo!"
+    },
+    {
+     "from": "them",
+     "text": "When can customers use it?"
+    },
+    {
+     "from": "me",
+     "text": "Soon. A few more tweaks"
+    }
+   ],
+   "vo": "Founders. Great AI demo. Months later, it's still not live.",
+   "dur": 3.6
+  },
+  {
+   "type": "calls",
+   "bg": "navy",
+   "headline": "Demo again.\nAnd again.",
+   "highlight": "again",
+   "question": "Can you show the demo again?",
+   "names": [
+    "Investor",
+    "Customer",
+    "Advisor",
+    "Board"
+   ],
+   "vo": "So you show the same demo. To investors. To customers. Again and again.",
+   "dur": 3.8
+  },
+  {
+   "type": "calendar",
+   "bg": "navy",
+   "mode": "fill",
+   "label": "Fix the pilot",
+   "stamp": "STILL A PILOT",
+   "headline": "The pilot\nnever ends.",
+   "highlight": "never ends",
+   "vo": "Meanwhile, the team keeps tweaking the pilot. It never reaches real users.",
+   "dur": 3.8
+  },
+  {
+   "type": "statement",
+   "bg": "teal",
+   "trans": "wipe",
+   "headline": "Demo is easy.\nShipping isn't.",
+   "highlight": "Shipping",
+   "vo": "The demo isn't the hard part. Shipping it inside your product is.",
+   "dur": 3.0
+  },
+  {
+   "type": "app",
+   "bg": "cream",
+   "trans": "zoom",
+   "product": "Your product",
+   "headline": "From demo\nto live.",
+   "highlight": "live",
+   "nav": [
+    "Features",
+    "AI assist",
+    "Users",
+    "Releases"
+   ],
+   "active": 1,
+   "title": "AI assist · Release",
+   "rows": [
+    {
+     "name": "Prompt tested",
+     "sub": "On real examples",
+     "from": "DRAFT",
+     "to": "DONE"
+    },
+    {
+     "name": "Built into the app",
+     "sub": "Inside the user flow",
+     "from": "PILOT",
+     "to": "DONE"
+    },
+    {
+     "name": "Unsure answers",
+     "sub": "Fallback in place",
+     "from": "OPEN",
+     "to": "DONE"
+    },
+    {
+     "name": "Release · All users",
+     "sub": "Ready to ship",
+     "from": "WAITING",
+     "to": "LIVE"
+    }
+   ],
+   "button": "Ship to users",
+   "toast": "AI assist is live",
+   "vo": "Fine Solves builds it into your product. Tested, wired in, shipped to real users.",
+   "dur": 5.0
+  },
+  {
+   "type": "calendar",
+   "bg": "cream",
+   "mode": "clear",
+   "label": "Demo again",
+   "stamp": "SHIPPED",
+   "headline": "Back to\nbuilding.",
+   "highlight": "building",
+   "keep": [
+    {
+     "day": 1,
+     "slot": 2,
+     "label": "Customer call"
+    },
+    {
+     "day": 3,
+     "slot": 1,
+     "label": "Next feature"
+    }
+   ],
+   "vo": "No more re-running the demo. Customers use it. And you get back to building.",
+   "dur": 3.6
+  },
+  {
+   "type": "end",
+   "bg": "cream",
+   "trans": "zoom",
+   "line": "Custom products,\nlive in weeks.",
+   "tag": "CUSTOM PRODUCTS · AI",
+   "cta": "Talk to us",
+   "vo": "Fine Solves. Talk to us at finesolves dot com.",
+   "dur": 3.6
+  }
+ ],
+ "vo_speed": 1.0,
+ "vo_voice": "Sarah"
+}

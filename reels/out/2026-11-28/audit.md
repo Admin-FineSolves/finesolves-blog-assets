@@ -1,0 +1,135 @@
+# Reel audit: PASS (100/100)
+
+## Passed
+- ✅ brand is valid: finesolves or finehr; FineHealth is paused (finesolves)
+- ✅ last scene is the end card
+- ✅ total length 18–40s (38.1s)
+- ✅ 6–10 scenes (7)
+- ✅ at least 3 prop scenes (phone, calendar, calls, app, modules, sheet)
+- ✅ shows the product (an app or modules scene)
+- ✅ uses navy, cream and teal backgrounds (problem → turn → fix)
+- ✅ has one wipe transition into the turn
+- ✅ scene 1 has a headline
+- ✅ scene 1 headline ≤3 lines
+- ✅ scene 1 headline line ≤18 chars: “Great demo.” (11)
+- ✅ scene 1 headline line ≤18 chars: “Still not live.” (15)
+- ✅ scene 1 VO ≤22 words (10)
+- ✅ scene 1 prop text ≤32 chars: “FOUNDERS · AI FEATURE”
+- ✅ scene 1 prop text ≤32 chars: “Investor · Seed round”
+- ✅ scene 1 prop text ≤32 chars: “Loved the AI demo!”
+- ✅ scene 1 prop text ≤32 chars: “When can customers use it?”
+- ✅ scene 1 prop text ≤32 chars: “Soon. A few more tweaks”
+- ✅ scene 2 has a headline
+- ✅ scene 2 headline ≤3 lines
+- ✅ scene 2 headline line ≤18 chars: “Demo again.” (11)
+- ✅ scene 2 headline line ≤18 chars: “And again.” (10)
+- ✅ scene 2 VO ≤22 words (13)
+- ✅ scene 2 prop text ≤32 chars: “Can you show the demo again?”
+- ✅ scene 2 prop text ≤32 chars: “Investor”
+- ✅ scene 2 prop text ≤32 chars: “Customer”
+- ✅ scene 2 prop text ≤32 chars: “Advisor”
+- ✅ scene 2 prop text ≤32 chars: “Board”
+- ✅ scene 3 has a headline
+- ✅ scene 3 headline ≤3 lines
+- ✅ scene 3 headline line ≤18 chars: “The pilot” (9)
+- ✅ scene 3 headline line ≤18 chars: “never ends.” (11)
+- ✅ scene 3 VO ≤22 words (12)
+- ✅ scene 3 prop text ≤32 chars: “Fix the pilot”
+- ✅ scene 3 prop text ≤32 chars: “STILL A PILOT”
+- ✅ scene 4 has a headline
+- ✅ scene 4 headline ≤3 lines
+- ✅ scene 4 headline line ≤18 chars: “Demo is easy.” (13)
+- ✅ scene 4 headline line ≤18 chars: “Shipping isn't.” (15)
+- ✅ scene 4 VO ≤22 words (12)
+- ✅ scene 5 has a headline
+- ✅ scene 5 headline ≤3 lines
+- ✅ scene 5 headline line ≤18 chars: “From demo” (9)
+- ✅ scene 5 headline line ≤18 chars: “to live.” (8)
+- ✅ scene 5 VO ≤22 words (14)
+- ✅ scene 5 prop text ≤32 chars: “AI assist · Release”
+- ✅ scene 5 prop text ≤32 chars: “Ship to users”
+- ✅ scene 5 prop text ≤32 chars: “AI assist is live”
+- ✅ scene 5 prop text ≤32 chars: “Your product”
+- ✅ scene 5 prop text ≤32 chars: “Features”
+- ✅ scene 5 prop text ≤32 chars: “AI assist”
+- ✅ scene 5 prop text ≤32 chars: “Users”
+- ✅ scene 5 prop text ≤32 chars: “Releases”
+- ✅ scene 5 prop text ≤32 chars: “Prompt tested”
+- ✅ scene 5 prop text ≤32 chars: “On real examples”
+- ✅ scene 5 prop text ≤32 chars: “DRAFT”
+- ✅ scene 5 prop text ≤32 chars: “DONE”
+- ✅ scene 5 prop text ≤32 chars: “Built into the app”
+- ✅ scene 5 prop text ≤32 chars: “Inside the user flow”
+- ✅ scene 5 prop text ≤32 chars: “PILOT”
+- ✅ scene 5 prop text ≤32 chars: “DONE”
+- ✅ scene 5 prop text ≤32 chars: “Unsure answers”
+- ✅ scene 5 prop text ≤32 chars: “Fallback in place”
+- ✅ scene 5 prop text ≤32 chars: “OPEN”
+- ✅ scene 5 prop text ≤32 chars: “DONE”
+- ✅ scene 5 prop text ≤32 chars: “Release · All users”
+- ✅ scene 5 prop text ≤32 chars: “Ready to ship”
+- ✅ scene 5 prop text ≤32 chars: “WAITING”
+- ✅ scene 5 prop text ≤32 chars: “LIVE”
+- ✅ scene 6 has a headline
+- ✅ scene 6 headline ≤3 lines
+- ✅ scene 6 headline line ≤18 chars: “Back to” (7)
+- ✅ scene 6 headline line ≤18 chars: “building.” (9)
+- ✅ scene 6 VO ≤22 words (14)
+- ✅ scene 6 prop text ≤32 chars: “Demo again”
+- ✅ scene 6 prop text ≤32 chars: “SHIPPED”
+- ✅ scene 6 prop text ≤32 chars: “Customer call”
+- ✅ scene 6 prop text ≤32 chars: “Next feature”
+- ✅ scene 7 headline ≤3 lines
+- ✅ scene 7 headline line ≤18 chars: “” (0)
+- ✅ scene 7 VO ≤22 words (9)
+- ✅ scene 7 prop text ≤32 chars: “Custom products,
+live in weeks.”
+- ✅ scene 7 prop text ≤32 chars: “CUSTOM PRODUCTS · AI”
+- ✅ scene 7 prop text ≤32 chars: “Talk to us”
+- ✅ end card has a CTA button
+- ✅ has an ElevenLabs voiceover (vo/NN.mp3)
+- ✅ one VO clip per scene with a vo line
+- ✅ still-01.png: frame isn't mostly empty (34% plain background)
+- ✅ still-02.png: frame isn't mostly empty (30% plain background)
+- ✅ still-03.png: frame isn't mostly empty (0% plain background)
+- ✅ still-04.png: frame isn't mostly empty (64% plain background)
+- ✅ still-05.png: frame isn't mostly empty (55% plain background)
+- ✅ still-06.png: frame isn't mostly empty (68% plain background)
+- ✅ no banned words 
+- ✅ says 'products', not 'software' (hashtags excepted)
+- ✅ brand names spelled Fine Solves / FineHealth / FineHR 
+- ✅ no [CONFIRM] items
+- ✅ no pricing
+- ✅ no medical / patient-outcome claims
+- ✅ no invented clients or testimonials
+- ✅ instagram: first line contains the keyword “ai product development”
+- ✅ instagram: asks the reader one question
+- ✅ instagram: has the finesolves.com CTA
+- ✅ instagram: 3–6 hashtags (5)
+- ✅ instagram: no generic hashtags 
+- ✅ linkedin: first line contains the keyword “ai product development”
+- ✅ linkedin: asks the reader one question
+- ✅ linkedin: has the finesolves.com CTA
+- ✅ linkedin: 3–6 hashtags (5)
+- ✅ linkedin: no generic hashtags 
+- ✅ instagram ≤2,200 chars (692)
+- ✅ linkedin ≤2,800 chars (692)
+- ✅ linkedin: no brackets or parentheses
+- ✅ CTA is “Talk to us → finesolves.com”
+- ✅ youtube title ≤100 chars with #Shorts (86)
+- ✅ youtube title carries the keyword
+- ✅ youtube description present with finesolves.com
+- ✅ youtube text has no < or >
+- ✅ alt text is one descriptive sentence
+- ✅ brand differs from the previous reel (finehr)
+- ✅ primary keyword not used in the last 21 reels
+- ✅ topic not used before
+- ✅ reel.mp4 exists
+- ✅ video is 1080×1920
+- ✅ video is H.264 yuv420p
+- ✅ frame rate 24/30 (30/1)
+- ✅ has an audio track
+- ✅ duration matches script (38.1s)
+- ✅ file under 20 MB (CDN limit)
+- ✅ cover.jpg exists
+- ✅ one review still per scene
